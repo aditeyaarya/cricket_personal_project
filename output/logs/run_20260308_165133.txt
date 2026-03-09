@@ -1,0 +1,437 @@
+Output folder  : /Users/nehasharma/personal_project/output
+Log file       : output/logs/run_20260308_165133.txt
+
+Matches loaded : 1169
+Deliveries     : 278205
+
+Weather data   : not found — fetching from Open-Meteo (~5 min)...
+[14/1169] UNKNOWN VENUE: 'Dr DY Patil Sports Academy' — skipping
+[24/1169] UNKNOWN VENUE: 'Dr DY Patil Sports Academy' — skipping
+[27/1169] UNKNOWN VENUE: 'Dr DY Patil Sports Academy' — skipping
+  [50/1169] fetched — sample: {'match_id': '336002', 'date': '2008-05-25', 'venue': 'Rajiv Gandhi International Stadium, Uppal', 'lat': 17.404, 'lon': 78.5508, 'weather_found': 1, 'temp_max_c': 38.0, 'temp_min_c': 26.8, 'precipitation_mm': 0.2, 'wind_speed_max_kmh': 15.3, 'humidity_eve_pct': 41.42857142857143, 'cloud_cover_eve_pct': 95.0, 'dew_point_eve_c': 16.914285714285715}
+[58/1169] UNKNOWN VENUE: 'Dr DY Patil Sports Academy' — skipping
+[59/1169] UNKNOWN VENUE: 'Newlands' — skipping
+[60/1169] UNKNOWN VENUE: 'Newlands' — skipping
+[61/1169] UNKNOWN VENUE: 'Newlands' — skipping
+[62/1169] UNKNOWN VENUE: 'Newlands' — skipping
+[63/1169] UNKNOWN VENUE: 'St George's Park' — skipping
+[64/1169] UNKNOWN VENUE: 'Kingsmead' — skipping
+[65/1169] UNKNOWN VENUE: 'Newlands' — skipping
+[66/1169] UNKNOWN VENUE: 'Newlands' — skipping
+[67/1169] UNKNOWN VENUE: 'Kingsmead' — skipping
+[68/1169] UNKNOWN VENUE: 'Kingsmead' — skipping
+[69/1169] UNKNOWN VENUE: 'Kingsmead' — skipping
+[70/1169] UNKNOWN VENUE: 'St George's Park' — skipping
+[71/1169] UNKNOWN VENUE: 'Newlands' — skipping
+[72/1169] UNKNOWN VENUE: 'St George's Park' — skipping
+[73/1169] UNKNOWN VENUE: 'Kingsmead' — skipping
+[74/1169] UNKNOWN VENUE: 'SuperSport Park' — skipping
+[75/1169] UNKNOWN VENUE: 'Kingsmead' — skipping
+[76/1169] UNKNOWN VENUE: 'Kingsmead' — skipping
+[77/1169] UNKNOWN VENUE: 'SuperSport Park' — skipping
+[78/1169] UNKNOWN VENUE: 'SuperSport Park' — skipping
+[79/1169] UNKNOWN VENUE: 'Kingsmead' — skipping
+[80/1169] UNKNOWN VENUE: 'Buffalo Park' — skipping
+[81/1169] UNKNOWN VENUE: 'New Wanderers Stadium' — skipping
+[82/1169] UNKNOWN VENUE: 'St George's Park' — skipping
+[83/1169] UNKNOWN VENUE: 'St George's Park' — skipping
+[84/1169] UNKNOWN VENUE: 'New Wanderers Stadium' — skipping
+[85/1169] UNKNOWN VENUE: 'Buffalo Park' — skipping
+[86/1169] UNKNOWN VENUE: 'Kingsmead' — skipping
+[87/1169] UNKNOWN VENUE: 'Kingsmead' — skipping
+[88/1169] UNKNOWN VENUE: 'SuperSport Park' — skipping
+[89/1169] UNKNOWN VENUE: 'SuperSport Park' — skipping
+[90/1169] UNKNOWN VENUE: 'SuperSport Park' — skipping
+[91/1169] UNKNOWN VENUE: 'Buffalo Park' — skipping
+[92/1169] UNKNOWN VENUE: 'De Beers Diamond Oval' — skipping
+[93/1169] UNKNOWN VENUE: 'De Beers Diamond Oval' — skipping
+[94/1169] UNKNOWN VENUE: 'New Wanderers Stadium' — skipping
+[95/1169] UNKNOWN VENUE: 'St George's Park' — skipping
+[96/1169] UNKNOWN VENUE: 'De Beers Diamond Oval' — skipping
+[97/1169] UNKNOWN VENUE: 'SuperSport Park' — skipping
+[98/1169] UNKNOWN VENUE: 'SuperSport Park' — skipping
+[99/1169] UNKNOWN VENUE: 'Kingsmead' — skipping
+[100/1169] UNKNOWN VENUE: 'Kingsmead' — skipping
+[101/1169] UNKNOWN VENUE: 'Kingsmead' — skipping
+[102/1169] UNKNOWN VENUE: 'OUTsurance Oval' — skipping
+[103/1169] UNKNOWN VENUE: 'St George's Park' — skipping
+[104/1169] UNKNOWN VENUE: 'New Wanderers Stadium' — skipping
+[105/1169] UNKNOWN VENUE: 'OUTsurance Oval' — skipping
+[106/1169] UNKNOWN VENUE: 'New Wanderers Stadium' — skipping
+[107/1169] UNKNOWN VENUE: 'SuperSport Park' — skipping
+[108/1169] UNKNOWN VENUE: 'New Wanderers Stadium' — skipping
+[109/1169] UNKNOWN VENUE: 'Kingsmead' — skipping
+[110/1169] UNKNOWN VENUE: 'Kingsmead' — skipping
+[111/1169] UNKNOWN VENUE: 'SuperSport Park' — skipping
+[112/1169] UNKNOWN VENUE: 'SuperSport Park' — skipping
+[113/1169] UNKNOWN VENUE: 'SuperSport Park' — skipping
+[114/1169] UNKNOWN VENUE: 'New Wanderers Stadium' — skipping
+[115/1169] UNKNOWN VENUE: 'New Wanderers Stadium' — skipping
+[116/1169] UNKNOWN VENUE: 'Dr DY Patil Sports Academy' — skipping
+[118/1169] UNKNOWN VENUE: 'Brabourne Stadium' — skipping
+[121/1169] UNKNOWN VENUE: 'Sardar Patel Stadium, Motera' — skipping
+[127/1169] UNKNOWN VENUE: 'Barabati Stadium' — skipping
+[128/1169] UNKNOWN VENUE: 'Sardar Patel Stadium, Motera' — skipping
+[129/1169] UNKNOWN VENUE: 'Brabourne Stadium' — skipping
+[131/1169] UNKNOWN VENUE: 'Barabati Stadium' — skipping
+[132/1169] UNKNOWN VENUE: 'Brabourne Stadium' — skipping
+[137/1169] UNKNOWN VENUE: 'Sardar Patel Stadium, Motera' — skipping
+[139/1169] UNKNOWN VENUE: 'Dr DY Patil Sports Academy' — skipping
+[140/1169] UNKNOWN VENUE: 'Sardar Patel Stadium, Motera' — skipping
+[142/1169] UNKNOWN VENUE: 'Brabourne Stadium' — skipping
+[147/1169] UNKNOWN VENUE: 'Brabourne Stadium' — skipping
+  [150/1169] fetched — sample: {'match_id': '419139', 'date': '2010-04-04', 'venue': 'Eden Gardens', 'lat': 22.5645, 'lon': 88.3433, 'weather_found': 1, 'temp_max_c': 36.9, 'temp_min_c': 26.6, 'precipitation_mm': 0.0, 'wind_speed_max_kmh': 19.1, 'humidity_eve_pct': 78.0, 'cloud_cover_eve_pct': 5.571428571428571, 'dew_point_eve_c': 25.228571428571428}
+[151/1169] UNKNOWN VENUE: 'Vidarbha Cricket Association Stadium, Jamtha' — skipping
+[157/1169] UNKNOWN VENUE: 'Vidarbha Cricket Association Stadium, Jamtha' — skipping
+[161/1169] UNKNOWN VENUE: 'Vidarbha Cricket Association Stadium, Jamtha' — skipping
+[162/1169] UNKNOWN VENUE: 'Brabourne Stadium' — skipping
+[172/1169] UNKNOWN VENUE: 'Dr DY Patil Sports Academy' — skipping
+[173/1169] UNKNOWN VENUE: 'Dr DY Patil Sports Academy' — skipping
+[174/1169] UNKNOWN VENUE: 'Dr DY Patil Sports Academy' — skipping
+[175/1169] UNKNOWN VENUE: 'Dr DY Patil Sports Academy' — skipping
+[177/1169] UNKNOWN VENUE: 'Nehru Stadium' — skipping
+[179/1169] UNKNOWN VENUE: 'Dr DY Patil Sports Academy' — skipping
+[185/1169] UNKNOWN VENUE: 'Dr DY Patil Sports Academy' — skipping
+[192/1169] UNKNOWN VENUE: 'Dr DY Patil Sports Academy' — skipping
+[193/1169] UNKNOWN VENUE: 'Nehru Stadium' — skipping
+  [200/1169] fetched — sample: {'match_id': '501223', 'date': '2011-04-23', 'venue': 'Feroz Shah Kotla', 'lat': 28.6366, 'lon': 77.2306, 'weather_found': 1, 'temp_max_c': 36.4, 'temp_min_c': 20.3, 'precipitation_mm': 0.0, 'wind_speed_max_kmh': 10.2, 'humidity_eve_pct': 28.428571428571427, 'cloud_cover_eve_pct': 38.0, 'dew_point_eve_c': 9.114285714285716}
+[205/1169] UNKNOWN VENUE: 'Dr DY Patil Sports Academy' — skipping
+[206/1169] UNKNOWN VENUE: 'Nehru Stadium' — skipping
+[210/1169] UNKNOWN VENUE: 'Nehru Stadium' — skipping
+[217/1169] UNKNOWN VENUE: 'Dr DY Patil Sports Academy' — skipping
+[219/1169] UNKNOWN VENUE: 'Nehru Stadium' — skipping
+[236/1169] UNKNOWN VENUE: 'Dr DY Patil Sports Academy' — skipping
+[239/1169] UNKNOWN VENUE: 'Dr DY Patil Sports Academy' — skipping
+  [250/1169] fetched — sample: {'match_id': '548307', 'date': '2012-04-05', 'venue': 'Eden Gardens', 'lat': 22.5645, 'lon': 88.3433, 'weather_found': 1, 'temp_max_c': 34.7, 'temp_min_c': 25.4, 'precipitation_mm': 1.2, 'wind_speed_max_kmh': 17.3, 'humidity_eve_pct': 74.85714285714286, 'cloud_cover_eve_pct': 32.57142857142857, 'dew_point_eve_c': 23.099999999999998}
+[254/1169] UNKNOWN VENUE: 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium' — skipping
+[255/1169] UNKNOWN VENUE: 'Subrata Roy Sahara Stadium' — skipping
+[257/1169] UNKNOWN VENUE: 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium' — skipping
+[264/1169] UNKNOWN VENUE: 'Subrata Roy Sahara Stadium' — skipping
+[277/1169] UNKNOWN VENUE: 'Barabati Stadium' — skipping
+[279/1169] UNKNOWN VENUE: 'Subrata Roy Sahara Stadium' — skipping
+[281/1169] UNKNOWN VENUE: 'Subrata Roy Sahara Stadium' — skipping
+[288/1169] UNKNOWN VENUE: 'Barabati Stadium' — skipping
+[291/1169] UNKNOWN VENUE: 'Subrata Roy Sahara Stadium' — skipping
+[299/1169] UNKNOWN VENUE: 'Subrata Roy Sahara Stadium' — skipping
+  [300/1169] fetched — sample: {'match_id': '548360', 'date': '2012-05-09', 'venue': 'Wankhede Stadium', 'lat': 19.0445, 'lon': 72.8258, 'weather_found': 1, 'temp_max_c': 30.1, 'temp_min_c': 25.9, 'precipitation_mm': 0.0, 'wind_speed_max_kmh': 20.5, 'humidity_eve_pct': 82.71428571428571, 'cloud_cover_eve_pct': 10.857142857142858, 'dew_point_eve_c': 24.257142857142863}
+[303/1169] UNKNOWN VENUE: 'Subrata Roy Sahara Stadium' — skipping
+[316/1169] UNKNOWN VENUE: 'Subrata Roy Sahara Stadium' — skipping
+[319/1169] UNKNOWN VENUE: 'Subrata Roy Sahara Stadium' — skipping
+[329/1169] UNKNOWN VENUE: 'Subrata Roy Sahara Stadium' — skipping
+[335/1169] UNKNOWN VENUE: 'Subrata Roy Sahara Stadium' — skipping
+  [350/1169] fetched — sample: {'match_id': '598024', 'date': '2013-04-21', 'venue': 'Feroz Shah Kotla', 'lat': 28.6366, 'lon': 77.2306, 'weather_found': 1, 'temp_max_c': 32.6, 'temp_min_c': 21.8, 'precipitation_mm': 1.3, 'wind_speed_max_kmh': 26.8, 'humidity_eve_pct': 55.57142857142857, 'cloud_cover_eve_pct': 57.0, 'dew_point_eve_c': 15.528571428571427}
+[361/1169] UNKNOWN VENUE: 'Shaheed Veer Narayan Singh International Stadium' — skipping
+[364/1169] UNKNOWN VENUE: 'Subrata Roy Sahara Stadium' — skipping
+[365/1169] UNKNOWN VENUE: 'Shaheed Veer Narayan Singh International Stadium' — skipping
+[368/1169] UNKNOWN VENUE: 'Subrata Roy Sahara Stadium' — skipping
+[378/1169] UNKNOWN VENUE: 'Subrata Roy Sahara Stadium' — skipping
+[381/1169] UNKNOWN VENUE: 'Subrata Roy Sahara Stadium' — skipping
+[394/1169] UNKNOWN VENUE: 'Subrata Roy Sahara Stadium' — skipping
+  [400/1169] fetched — sample: {'match_id': '729281', 'date': '2014-04-17', 'venue': 'Sharjah Cricket Stadium', 'lat': 25.3373, 'lon': 55.3893, 'weather_found': 1, 'temp_max_c': 36.6, 'temp_min_c': 22.7, 'precipitation_mm': 0.0, 'wind_speed_max_kmh': 21.3, 'humidity_eve_pct': 43.285714285714285, 'cloud_cover_eve_pct': 37.857142857142854, 'dew_point_eve_c': 17.414285714285715}
+[424/1169] UNKNOWN VENUE: 'Sardar Patel Stadium, Motera' — skipping
+[427/1169] UNKNOWN VENUE: 'Barabati Stadium' — skipping
+[428/1169] UNKNOWN VENUE: 'Sardar Patel Stadium, Motera' — skipping
+[433/1169] UNKNOWN VENUE: 'Barabati Stadium' — skipping
+[438/1169] UNKNOWN VENUE: 'Barabati Stadium' — skipping
+[439/1169] UNKNOWN VENUE: 'Sardar Patel Stadium, Motera' — skipping
+[442/1169] UNKNOWN VENUE: 'Sardar Patel Stadium, Motera' — skipping
+  [450/1169] fetched — sample: {'match_id': '734031', 'date': '2014-05-23', 'venue': 'Wankhede Stadium', 'lat': 19.0445, 'lon': 72.8258, 'weather_found': 1, 'temp_max_c': 31.6, 'temp_min_c': 26.8, 'precipitation_mm': 0.0, 'wind_speed_max_kmh': 18.7, 'humidity_eve_pct': 76.14285714285714, 'cloud_cover_eve_pct': 5.285714285714286, 'dew_point_eve_c': 24.028571428571432}
+[456/1169] UNKNOWN VENUE: 'Brabourne Stadium' — skipping
+[467/1169] UNKNOWN VENUE: 'Sardar Patel Stadium, Motera' — skipping
+[469/1169] UNKNOWN VENUE: 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium' — skipping
+[471/1169] UNKNOWN VENUE: 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium' — skipping
+[473/1169] UNKNOWN VENUE: 'Sardar Patel Stadium, Motera' — skipping
+[476/1169] UNKNOWN VENUE: 'Sardar Patel Stadium, Motera' — skipping
+[478/1169] UNKNOWN VENUE: 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium' — skipping
+[480/1169] UNKNOWN VENUE: 'Sardar Patel Stadium, Motera' — skipping
+[493/1169] UNKNOWN VENUE: 'Brabourne Stadium' — skipping
+[499/1169] UNKNOWN VENUE: 'Brabourne Stadium' — skipping
+  [500/1169] fetched — sample: {'match_id': '829789', 'date': '2015-05-08', 'venue': 'MA Chidambaram Stadium, Chepauk', 'lat': 13.0635, 'lon': 80.279, 'weather_found': 1, 'temp_max_c': 36.3, 'temp_min_c': 27.4, 'precipitation_mm': 0.0, 'wind_speed_max_kmh': 21.5, 'humidity_eve_pct': 77.28571428571429, 'cloud_cover_eve_pct': 43.142857142857146, 'dew_point_eve_c': 25.47142857142857}
+[501/1169] UNKNOWN VENUE: 'Shaheed Veer Narayan Singh International Stadium' — skipping
+[506/1169] UNKNOWN VENUE: 'Shaheed Veer Narayan Singh International Stadium' — skipping
+[510/1169] UNKNOWN VENUE: 'Brabourne Stadium' — skipping
+[523/1169] UNKNOWN VENUE: 'Saurashtra Cricket Association Stadium' — skipping
+[532/1169] UNKNOWN VENUE: 'Saurashtra Cricket Association Stadium' — skipping
+[536/1169] UNKNOWN VENUE: 'Saurashtra Cricket Association Stadium' — skipping
+[545/1169] UNKNOWN VENUE: 'Saurashtra Cricket Association Stadium' — skipping
+[548/1169] UNKNOWN VENUE: 'Saurashtra Cricket Association Stadium' — skipping
+  [550/1169] fetched — sample: {'match_id': '980965', 'date': '2016-05-05', 'venue': 'Feroz Shah Kotla', 'lat': 28.6366, 'lon': 77.2306, 'weather_found': 1, 'temp_max_c': 34.6, 'temp_min_c': 24.8, 'precipitation_mm': 1.6, 'wind_speed_max_kmh': 20.5, 'humidity_eve_pct': 56.142857142857146, 'cloud_cover_eve_pct': 97.71428571428571, 'dew_point_eve_c': 18.014285714285712}
+[554/1169] UNKNOWN VENUE: 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium' — skipping
+[557/1169] UNKNOWN VENUE: 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium' — skipping
+[560/1169] UNKNOWN VENUE: 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium' — skipping
+[564/1169] UNKNOWN VENUE: 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium' — skipping
+[566/1169] UNKNOWN VENUE: 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium' — skipping
+[568/1169] UNKNOWN VENUE: 'Green Park' — skipping
+[569/1169] UNKNOWN VENUE: 'Shaheed Veer Narayan Singh International Stadium' — skipping
+[570/1169] UNKNOWN VENUE: 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium' — skipping
+[571/1169] UNKNOWN VENUE: 'Green Park' — skipping
+[573/1169] UNKNOWN VENUE: 'Shaheed Veer Narayan Singh International Stadium' — skipping
+[580/1169] UNKNOWN VENUE: 'Saurashtra Cricket Association Stadium' — skipping
+[582/1169] UNKNOWN VENUE: 'M.Chinnaswamy Stadium' — skipping
+[589/1169] UNKNOWN VENUE: 'Saurashtra Cricket Association Stadium' — skipping
+[597/1169] UNKNOWN VENUE: 'Saurashtra Cricket Association Stadium' — skipping
+  [600/1169] fetched — sample: {'match_id': '1082613', 'date': '2017-04-21', 'venue': 'Eden Gardens', 'lat': 22.5645, 'lon': 88.3433, 'weather_found': 1, 'temp_max_c': 34.5, 'temp_min_c': 27.8, 'precipitation_mm': 5.7, 'wind_speed_max_kmh': 30.8, 'humidity_eve_pct': 79.57142857142857, 'cloud_cover_eve_pct': 92.42857142857143, 'dew_point_eve_c': 25.17142857142857}
+[603/1169] UNKNOWN VENUE: 'Saurashtra Cricket Association Stadium' — skipping
+[610/1169] UNKNOWN VENUE: 'Saurashtra Cricket Association Stadium' — skipping
+[626/1169] UNKNOWN VENUE: 'Green Park' — skipping
+[630/1169] UNKNOWN VENUE: 'Green Park' — skipping
+[644/1169] UNKNOWN VENUE: 'M.Chinnaswamy Stadium' — skipping
+[648/1169] UNKNOWN VENUE: 'M.Chinnaswamy Stadium' — skipping
+  [650/1169] fetched — sample: {'match_id': '1136574', 'date': '2018-04-17', 'venue': 'Wankhede Stadium', 'lat': 19.0445, 'lon': 72.8258, 'weather_found': 1, 'temp_max_c': 34.6, 'temp_min_c': 26.0, 'precipitation_mm': 0.1, 'wind_speed_max_kmh': 22.2, 'humidity_eve_pct': 83.85714285714286, 'cloud_cover_eve_pct': 17.0, 'dew_point_eve_c': 26.214285714285715}
+[654/1169] UNKNOWN VENUE: 'M.Chinnaswamy Stadium' — skipping
+[660/1169] UNKNOWN VENUE: 'M.Chinnaswamy Stadium' — skipping
+[664/1169] UNKNOWN VENUE: 'M.Chinnaswamy Stadium' — skipping
+[667/1169] UNKNOWN VENUE: 'M.Chinnaswamy Stadium' — skipping
+[687/1169] UNKNOWN VENUE: 'M.Chinnaswamy Stadium' — skipping
+  [700/1169] fetched — sample: {'match_id': '1175359', 'date': '2019-03-25', 'venue': 'Sawai Mansingh Stadium', 'lat': 26.8887, 'lon': 75.8076, 'weather_found': 1, 'temp_max_c': 31.5, 'temp_min_c': 20.1, 'precipitation_mm': 0.3, 'wind_speed_max_kmh': 25.4, 'humidity_eve_pct': 33.42857142857143, 'cloud_cover_eve_pct': 33.42857142857143, 'dew_point_eve_c': 7.257142857142857}
+[703/1169] UNKNOWN VENUE: 'M.Chinnaswamy Stadium' — skipping
+[713/1169] UNKNOWN VENUE: 'M.Chinnaswamy Stadium' — skipping
+[717/1169] UNKNOWN VENUE: 'M.Chinnaswamy Stadium' — skipping
+[735/1169] UNKNOWN VENUE: 'M.Chinnaswamy Stadium' — skipping
+[738/1169] UNKNOWN VENUE: 'M.Chinnaswamy Stadium' — skipping
+[745/1169] UNKNOWN VENUE: 'M.Chinnaswamy Stadium' — skipping
+[749/1169] UNKNOWN VENUE: 'M.Chinnaswamy Stadium' — skipping
+  [750/1169] fetched — sample: {'match_id': '1178428', 'date': '2019-05-04', 'venue': 'Arun Jaitley Stadium', 'lat': 28.6366, 'lon': 77.2306, 'weather_found': 1, 'temp_max_c': 37.8, 'temp_min_c': 23.9, 'precipitation_mm': 0.0, 'wind_speed_max_kmh': 22.3, 'humidity_eve_pct': 15.714285714285714, 'cloud_cover_eve_pct': 0.0, 'dew_point_eve_c': 2.1428571428571432}
+[754/1169] UNKNOWN VENUE: 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium' — skipping
+[755/1169] UNKNOWN VENUE: 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium' — skipping
+  [800/1169] fetched — sample: {'match_id': '1216541', 'date': '2020-10-25', 'venue': 'Sheikh Zayed Stadium', 'lat': 24.4212, 'lon': 54.4771, 'weather_found': 1, 'temp_max_c': 35.2, 'temp_min_c': 23.1, 'precipitation_mm': 0.0, 'wind_speed_max_kmh': 20.7, 'humidity_eve_pct': 47.142857142857146, 'cloud_cover_eve_pct': 0.0, 'dew_point_eve_c': 16.128571428571426}
+[847/1169] UNKNOWN VENUE: 'Zayed Cricket Stadium, Abu Dhabi' — skipping
+[850/1169] UNKNOWN VENUE: 'Zayed Cricket Stadium, Abu Dhabi' — skipping
+[853/1169] UNKNOWN VENUE: 'Zayed Cricket Stadium, Abu Dhabi' — skipping
+[855/1169] UNKNOWN VENUE: 'Zayed Cricket Stadium, Abu Dhabi' — skipping
+[858/1169] UNKNOWN VENUE: 'Zayed Cricket Stadium, Abu Dhabi' — skipping
+[862/1169] UNKNOWN VENUE: 'Zayed Cricket Stadium, Abu Dhabi' — skipping
+[868/1169] UNKNOWN VENUE: 'Zayed Cricket Stadium, Abu Dhabi' — skipping
+[871/1169] UNKNOWN VENUE: 'Zayed Cricket Stadium, Abu Dhabi' — skipping
+  [900/1169] fetched — sample: {'match_id': '1304070', 'date': '2022-04-14', 'venue': 'Dr DY Patil Sports Academy, Mumbai', 'lat': 19.0445, 'lon': 72.8258, 'weather_found': 1, 'temp_max_c': 32.0, 'temp_min_c': 25.2, 'precipitation_mm': 0.0, 'wind_speed_max_kmh': 18.0, 'humidity_eve_pct': 84.14285714285714, 'cloud_cover_eve_pct': 6.714285714285714, 'dew_point_eve_c': 25.014285714285712}
+  [950/1169] fetched — sample: {'match_id': '1312200', 'date': '2022-05-29', 'venue': 'Narendra Modi Stadium, Ahmedabad', 'lat': 23.0916, 'lon': 72.5938, 'weather_found': 1, 'temp_max_c': 40.5, 'temp_min_c': 28.2, 'precipitation_mm': 0.0, 'wind_speed_max_kmh': 22.1, 'humidity_eve_pct': 49.42857142857143, 'cloud_cover_eve_pct': 0.2857142857142857, 'dew_point_eve_c': 20.842857142857145}
+[952/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[958/1169] UNKNOWN VENUE: 'Barsapara Cricket Stadium, Guwahati' — skipping
+[960/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[961/1169] UNKNOWN VENUE: 'Barsapara Cricket Stadium, Guwahati' — skipping
+[971/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[981/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[993/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[995/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+  [1000/1169] fetched — sample: {'match_id': '1359523', 'date': '2023-05-06', 'venue': 'MA Chidambaram Stadium, Chepauk, Chennai', 'lat': 13.0635, 'lon': 80.279, 'weather_found': 1, 'temp_max_c': 30.3, 'temp_min_c': 25.4, 'precipitation_mm': 12.5, 'wind_speed_max_kmh': 10.5, 'humidity_eve_pct': 85.42857142857143, 'cloud_cover_eve_pct': 90.57142857142857, 'dew_point_eve_c': 25.157142857142855}
+[1013/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[1027/1169] UNKNOWN VENUE: 'Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur' — skipping
+[1035/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[1036/1169] UNKNOWN VENUE: 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam' — skipping
+[1040/1169] UNKNOWN VENUE: 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam' — skipping
+[1045/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[1047/1169] UNKNOWN VENUE: 'Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur' — skipping
+[1050/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[1051/1169] UNKNOWN VENUE: 'Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur' — skipping
+[1057/1169] UNKNOWN VENUE: 'Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur' — skipping
+[1058/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[1061/1169] UNKNOWN VENUE: 'Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur' — skipping
+[1068/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[1072/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[1077/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[1088/1169] UNKNOWN VENUE: 'Barsapara Cricket Stadium, Guwahati' — skipping
+[1099/1169] UNKNOWN VENUE: 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam' — skipping
+  [1100/1169] fetched — sample: {'match_id': '1473442', 'date': '2025-03-25', 'venue': 'Narendra Modi Stadium, Ahmedabad', 'lat': 23.0916, 'lon': 72.5938, 'weather_found': 1, 'temp_max_c': 39.0, 'temp_min_c': 24.1, 'precipitation_mm': 0.0, 'wind_speed_max_kmh': 7.8, 'humidity_eve_pct': 19.428571428571427, 'cloud_cover_eve_pct': 0.0, 'dew_point_eve_c': 6.642857142857143}
+[1101/1169] UNKNOWN VENUE: 'Barsapara Cricket Stadium, Guwahati' — skipping
+[1105/1169] UNKNOWN VENUE: 'Barsapara Cricket Stadium, Guwahati' — skipping
+[1106/1169] UNKNOWN VENUE: 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam' — skipping
+[1108/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[1111/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[1112/1169] UNKNOWN VENUE: 'Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur' — skipping
+[1116/1169] UNKNOWN VENUE: 'Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur' — skipping
+[1121/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[1125/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[1126/1169] UNKNOWN VENUE: 'Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur' — skipping
+[1133/1169] UNKNOWN VENUE: 'Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur' — skipping
+[1135/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+  [1150/1169] fetched — sample: {'match_id': '1473492', 'date': '2025-05-05', 'venue': 'Rajiv Gandhi International Stadium, Uppal, Hyderabad', 'lat': 17.404, 'lon': 78.5508, 'weather_found': 1, 'temp_max_c': 38.7, 'temp_min_c': 23.8, 'precipitation_mm': 0.0, 'wind_speed_max_kmh': 9.2, 'humidity_eve_pct': 27.714285714285715, 'cloud_cover_eve_pct': 23.142857142857142, 'dew_point_eve_c': 11.428571428571427}
+[1156/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[1160/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[1165/1169] UNKNOWN VENUE: 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' — skipping
+[1166/1169] UNKNOWN VENUE: 'Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur' — skipping
+[1167/1169] UNKNOWN VENUE: 'Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh' — skipping
+
+Saved 1169 rows to data/weather.csv
+Weather found for 944/1169 matches
+Add these venues to VENUE_COORDS dict:
+  ['Dr DY Patil Sports Academy', 'Newlands', "St George's Park", 'Kingsmead', 'SuperSport Park', 'Buffalo Park', 'New Wanderers Stadium', 'De Beers Diamond Oval', 'OUTsurance Oval', 'Brabourne Stadium', 'Sardar Patel Stadium, Motera', 'Barabati Stadium', 'Vidarbha Cricket Association Stadium, Jamtha', 'Nehru Stadium', 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium', 'Subrata Roy Sahara Stadium', 'Shaheed Veer Narayan Singh International Stadium', 'Saurashtra Cricket Association Stadium', 'Green Park', 'M.Chinnaswamy Stadium', 'Zayed Cricket Stadium, Abu Dhabi', 'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow', 'Barsapara Cricket Stadium, Guwahati', 'Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur', 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam', 'Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh']
+Weather merge  : 944/1169 matches have real weather data
+Weather features used: ['temp_max_c', 'humidity_eve_pct', 'cloud_cover_eve_pct', 'dew_point_eve_c', 'precipitation_mm']
+WARNING: wide_runs / noball_runs not found — all balls treated as legal.
+Fix your YAML parser:
+  extras = delivery.get('extras', {})
+  wide_runs   = extras.get('wides',   0)
+  noball_runs = extras.get('noballs', 0)
+
+Legal ball counts — min:1  max:120  (both should be 0–120)
+INFO: 'start_time' not found — defaulting to evening (19:30).
+
+Venue avg total (global mean=167.0  std=8.5)
+                                            venue  venue_avg_total
+817                      Wankhede Stadium, Mumbai       188.000000
+117                             Brabourne Stadium       180.400000
+134                     Brabourne Stadium, Mumbai       180.000000
+165  Himachal Pradesh Cricket Association Stadium       175.666667
+637  Punjab Cricket Association IS Bindra Stadium       175.600000
+581                         M.Chinnaswamy Stadium       173.933333
+399                       Sharjah Cricket Stadium       171.333333
+522        Saurashtra Cricket Association Stadium       168.900000
+
+State table    : (278205, 41)
+Win rate       : 0.481  (expected ~0.50)
+balls_remaining_before — min:0  max:120
+
+Post-toss model
+  Brier Elo-only  : 0.2594
+  Brier post-toss : 0.2539
+
+Time split — train:<2021-04-11  val:2021-04-11–2022-05-13  test:>2022-05-13
+
+Model T — grid search ...
+  num_leaves= 63  val MAE=17.956
+  num_leaves=127  val MAE=18.325
+  num_leaves=255  val MAE=18.265
+  → Best num_leaves=63
+
+MAE by over (val):
+over_number
+0     25.569558
+1     25.603390
+2     25.621588
+3     25.427980
+4     25.096748
+5     23.878116
+6     22.716117
+7     21.687885
+8     21.262024
+9     19.639535
+10    18.563330
+11    17.116704
+12    15.603948
+13    14.640620
+14    13.475847
+15    12.045297
+16    11.446889
+17    10.216889
+18     9.238311
+19     7.946667
+
+Quantile band — additive margin: ±10.5 runs  coverage=0.755
+
+Final split — train:194,106  val:28,169  test:55,930
+
+LR baseline — Brier:0.1513  LogLoss:0.4661
+
+Model W sizes — tr:194,106  vl:28,169  te:55,930
+WIN_FEATURES (24): ['p_post_toss', 'elo_diff', 'innings', 'runs_so_far', 'balls_remaining_before', 'wickets_lost', 'wickets_remaining', 'runs_last_12', 'wickets_last_12', 'phase', 'current_rr', 'proj_total', 'runs_needed', 'required_rr', 'rr_diff', 'is_day_match', 'dew_likely', 'season_phase', 'venue_avg_total', 'temp_max_c', 'humidity_eve_pct', 'cloud_cover_eve_pct', 'dew_point_eve_c', 'precipitation_mm']
+
+Model W — grid search ...
+  {'learning_rate': 0.02, 'min_child_samples': 20, 'num_leaves': 63}  val Brier=0.2024
+  {'learning_rate': 0.02, 'min_child_samples': 20, 'num_leaves': 127}  val Brier=0.2021
+  {'learning_rate': 0.02, 'min_child_samples': 20, 'num_leaves': 255}  val Brier=0.2059
+  {'learning_rate': 0.02, 'min_child_samples': 50, 'num_leaves': 63}  val Brier=0.2028
+  {'learning_rate': 0.02, 'min_child_samples': 50, 'num_leaves': 127}  val Brier=0.2053
+  {'learning_rate': 0.02, 'min_child_samples': 50, 'num_leaves': 255}  val Brier=0.2039
+  {'learning_rate': 0.05, 'min_child_samples': 20, 'num_leaves': 63}  val Brier=0.1994
+  {'learning_rate': 0.05, 'min_child_samples': 20, 'num_leaves': 127}  val Brier=0.2055
+  {'learning_rate': 0.05, 'min_child_samples': 20, 'num_leaves': 255}  val Brier=0.2094
+  {'learning_rate': 0.05, 'min_child_samples': 50, 'num_leaves': 63}  val Brier=0.2018
+  {'learning_rate': 0.05, 'min_child_samples': 50, 'num_leaves': 127}  val Brier=0.2071
+  {'learning_rate': 0.05, 'min_child_samples': 50, 'num_leaves': 255}  val Brier=0.2098
+  → Best val Brier=0.1994  params={'learning_rate': 0.05, 'min_child_samples': 20, 'num_leaves': 63}
+
+======================================================================
+EVALUATION REPORT  —  TEST SET
+======================================================================
+
+── Overall ──────────────────────────────────────────────────────────
+  Always-predict-50%      Brier : 0.2500  ← baseline to beat
+  LR baseline (inn.2)     Brier : 0.1513
+  LGB uncalibrated        Brier : 0.1966
+  LGB calibrated          Brier : 0.1964
+  LGB calibrated        LogLoss : 0.5748
+  Improvement over 0.25 baseline: 21.4%
+
+── By innings ───────────────────────────────────────────────────────
+  Innings 1: Brier=0.2327  (n=29,118)
+  Innings 2: Brier=0.1570  (n=26,802)
+
+── By phase ─────────────────────────────────────────────────────────
+  Powerplay (ov 1-6) : Brier=0.2248  (n=17,185)
+  Middle   (ov 7-15) : Brier=0.1932  (n=24,786)
+  Death    (ov 16-20): Brier=0.1673  (n=13,959)
+
+── By Required Run Rate bucket (innings 2) ──────────────────────────
+  Easy (<6)             : Brier=0.0670  (n=2,173)
+  Moderate (6-8)        : Brier=0.1017  (n=3,278)
+  Hard (8-10)           : Brier=0.2285  (n=5,994)
+  Very Hard (>10)       : Brier=0.1594  (n=14,219)
+
+── Day vs Night ─────────────────────────────────────────────────────
+  Night: Brier=0.1964  (n=55,930)
+
+── Dew factor (innings 2) ───────────────────────────────────────────
+  Dew unlikely: Brier=0.1729  (n=6,422)
+  Dew likely  : Brier=0.1520  (n=20,380)
+
+── Weather feature breakdown ────────────────────────────────────────
+  temp_max_c                 low tercile=0.1995  high tercile=0.2014
+  humidity_eve_pct           low tercile=0.1949  high tercile=0.2009
+  cloud_cover_eve_pct        low tercile=0.1907  high tercile=0.1908
+  dew_point_eve_c            low tercile=0.1873  high tercile=0.2007
+  precipitation_mm           low tercile=0.1907  high tercile=0.1964
+
+── Feature importances (all features) ───────────────────────────────
+  elo_diff                       ██████████████████████████████
+  p_post_toss                    ████████████████████████
+  temp_max_c                     ████████████████████
+  cloud_cover_eve_pct            ███████████████████
+  venue_avg_total                ██████████████████
+  dew_point_eve_c                ██████████████████
+  proj_total                     █████████████████
+  humidity_eve_pct               ████████████████
+  runs_needed                    ██████████
+  required_rr                    ███████
+  rr_diff                        █████
+  precipitation_mm               █████
+  wickets_lost                   ████
+  season_phase                   ███
+  current_rr                     ██
+  runs_so_far                    █
+  dew_likely                     █
+  innings                        █
+  wickets_remaining              █
+  balls_remaining_before         
+  wickets_last_12                
+  phase                          
+  runs_last_12                   
+  is_day_match                   
+
+── Benchmark context ────────────────────────────────────────────────
+
+  ┌─────────────────────────────────────────────┬───────────┬────────────┐
+  │ Model / Paper                               │   Brier   │  Setting   │
+  ├─────────────────────────────────────────────┼───────────┼────────────┤
+  │ Always predict 50% (dumb baseline)          │   0.2500  │  —         │
+  │ Logistic regression (Bailey & Clarke 2006)  │ ~0.210    │  ODI/T20   │
+  │ Random Forest (Sankaranarayanan et al 2014) │ ~0.195    │  T20       │
+  │ YOUR model (LightGBM, both innings)         │  0.1964  │  IPL T20   │
+  │ State-of-the-art (deep learning, all data)  │ ~0.165    │  T20 intl  │
+  └─────────────────────────────────────────────┴───────────┴────────────┘
+  Innings-1 Brier: 0.2327   Innings-2 Brier: 0.1570
+  Irreducible T20 floor ≈ 0.15   Gap to close: 0.046 (player features)
+
+======================================================================
+Saved: output/plots/reliability_innings2.png
+Saved: output/plots/reliability_both_innings.png
+Saved: output/plots/match_1304106.png
+Saved: output/plots/proj_1304106.png
+Saved: output/plots/match_1304107.png
+Saved: output/plots/proj_1304107.png
+Saved: output/plots/match_1304108.png
+Saved: output/plots/proj_1304108.png
+
+All models saved to output/models/
+All plots  saved to output/plots/
+Run log    saved to output/logs/run_20260308_165133.txt
+Pipeline complete.

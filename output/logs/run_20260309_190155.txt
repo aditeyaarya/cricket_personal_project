@@ -1,0 +1,224 @@
+Output folder  : /Users/nehasharma/personal_project/output
+Log file       : output/logs/run_20260309_190155.txt
+
+Loading Wave 2 enriched balls from data/ipl_balls_wave2.csv
+  Wave 2 columns present: ['batting_strength_remaining', 'bowling_strength_remaining', 'wickets_remaining_weighted']
+Matches loaded : 1169
+Deliveries     : 278205
+
+Weather data   : loading from data/weather.csv
+Weather merge  : 1169/1169 matches have real weather data
+Weather features used: ['temp_max_c', 'humidity_eve_pct', 'cloud_cover_eve_pct', 'dew_point_eve_c', 'precipitation_mm']
+
+Legal ball counts — min:0  max:120  (both should be 0–120)
+
+── Computing partnership features ───────────────────────────────────
+  partnership_runs   mean=21.8  max=229
+  partnership_balls  mean=15.7  max=119
+INFO: 'start_time' not found — defaulting to evening (19:30).
+
+Venue avg total (global mean=167.0  std=8.5)
+                                            venue  venue_avg_total
+817                      Wankhede Stadium, Mumbai       188.000000
+117                             Brabourne Stadium       180.400000
+134                     Brabourne Stadium, Mumbai       180.000000
+165  Himachal Pradesh Cricket Association Stadium       175.666667
+637  Punjab Cricket Association IS Bindra Stadium       175.600000
+581                         M.Chinnaswamy Stadium       173.933333
+399                       Sharjah Cricket Stadium       171.333333
+522        Saurashtra Cricket Association Stadium       168.900000
+
+State table    : (278205, 50)
+Win rate       : 0.481  (expected ~0.50)
+balls_remaining_before — min:0  max:120
+Wave 2 + partnership columns in state: ✓
+
+Post-toss model
+  Brier Elo-only  : 0.2594
+  Brier post-toss : 0.2539
+
+Time split — train:<2021-04-11  val:2021-04-11–2022-05-13  test:>2022-05-13
+
+Model T — Optuna search (50 trials) ...
+  Best val MAE : 16.080
+  Best params  : {'num_leaves': 492, 'min_child_samples': 79, 'learning_rate': 0.01028651475427879, 'subsample': 0.8728055996106636, 'colsample_bytree': 0.9614627062157166, 'n_estimators': 593}
+
+── Wicket-conditional projection (val) ─────────────────────────────
+  Single model MAE  : 16.080
+  Blended model MAE : 16.534  (Δ = +0.454)
+  Using: single (expected)
+
+MAE by over (val):
+over_number
+0     24.514283
+1     24.175825
+2     22.933318
+3     22.474448
+4     21.959888
+5     20.606552
+6     19.845028
+7     19.407163
+8     18.551444
+9     17.863360
+10    16.696921
+11    14.972092
+12    13.841025
+13    13.142180
+14    11.532706
+15    10.662432
+16     9.360856
+17     8.191598
+18     6.685186
+19     4.426748
+
+── Model T feature importances (expected model) ────────────────────
+  cloud_cover_eve_pct                 ██████████████████████████████
+  temp_max_c                          ████████████████████████████
+  dew_point_eve_c                     ██████████████████████████
+  humidity_eve_pct                    ████████████████████████
+  wickets_remaining_weighted          ████████████████
+  venue_avg_total                     ████████████████
+  runs_so_far                         █████████████
+  balls_remaining_before              ███████████
+  batting_strength_remaining          ███████████
+  precipitation_mm                    ████████
+  wickets_lost                        ██████
+  season_phase                        ████
+  bowling_strength_remaining          ███
+  runs_last_12                        █
+  partnership_runs                    █
+  partnership_balls                   █
+  wickets_last_12                     
+  phase                               
+  is_day_match                        
+
+Quantile band — additive margin: ±12.0 runs  coverage=0.751
+
+Final split — train:194,106  val:28,169  test:55,930
+
+LR baseline — Brier:0.1441  LogLoss:0.4418
+
+Model W sizes — tr:194,106  vl:28,169  te:55,930
+WIN_FEATURES (23): ['p_post_toss', 'elo_diff', 'innings', 'runs_so_far', 'balls_remaining_before', 'wickets_lost', 'wickets_remaining', 'wickets_last_12', 'current_rr', 'proj_total', 'runs_needed', 'required_rr', 'rr_diff', 'season_phase', 'venue_avg_total', 'batting_strength_remaining', 'bowling_strength_remaining', 'wickets_remaining_weighted', 'temp_max_c', 'humidity_eve_pct', 'cloud_cover_eve_pct', 'dew_point_eve_c', 'precipitation_mm']
+
+Model W — Optuna search (60 trials) ...
+  Best val Brier : 0.1697
+  Best params    : {'num_leaves': 41, 'min_child_samples': 172, 'learning_rate': 0.010995890162062469, 'subsample': 0.8646606133217127, 'colsample_bytree': 0.623366274159561, 'reg_alpha': 0.05450252015281007, 'reg_lambda': 0.05814613112662504}
+  Top 5 trials:
+    trial # 15  Brier=0.1697  leaves=41  lr=0.0110  min_child=172
+    trial # 55  Brier=0.1702  leaves=49  lr=0.0072  min_child=121
+    trial # 23  Brier=0.1702  leaves=32  lr=0.0050  min_child=119
+    trial # 18  Brier=0.1703  leaves=32  lr=0.0051  min_child=95
+    trial # 46  Brier=0.1705  leaves=56  lr=0.1343  min_child=127
+
+── Temperature scaling calibration ─────────────────────────────────
+  Optimal temperature T = 0.9029
+  Interpretation: model was underconfident → sharpening predictions
+
+  Val Brier — raw:         0.1697
+  Val Brier — Platt:       0.1725
+  Val Brier — temperature: 0.1701
+  Best calibration: raw (Brier=0.1697)
+
+======================================================================
+EVALUATION REPORT  —  TEST SET  (v7 / Wave 3)
+======================================================================
+
+── Overall ──────────────────────────────────────────────────────────
+  Always-predict-50%      Brier : 0.2500  ← baseline to beat
+  LR baseline (inn.2)     Brier : 0.1441
+  LGB uncalibrated        Brier : 0.1720
+  LGB Platt-calibrated    Brier : 0.1739
+  LGB temp-scaled (T=0.903) Brier : 0.1727
+  BEST (raw        )     Brier : 0.1720
+  BEST                  LogLoss : 0.5092
+  Improvement over 0.25 baseline: 31.2%
+  v6 (Wave 2) Brier was         : 0.1744
+  Wave 3 ΔBrier                 : +0.0024
+
+── By innings ───────────────────────────────────────────────────────
+  Innings 1: Brier=0.2297  (n=29,118)
+  Innings 2: Brier=0.1093  (n=26,802)
+
+── By phase ─────────────────────────────────────────────────────────
+  Powerplay (ov 1-6) : Brier=0.1892  (n=17,879)
+  Middle   (ov 7-15) : Brier=0.1697  (n=25,662)
+  Death    (ov 16-20): Brier=0.1520  (n=12,389)
+
+── By Required Run Rate bucket (innings 2) ──────────────────────────
+  Easy (<6)             : Brier=0.0292  (n=2,705)
+  Moderate (6-8)        : Brier=0.0717  (n=3,666)
+  Hard (8-10)           : Brier=0.1406  (n=6,344)
+  Very Hard (>10)       : Brier=0.1228  (n=13,794)
+
+── Day vs Night ─────────────────────────────────────────────────────
+  Night: Brier=0.1720  (n=55,930)
+
+── Dew factor (innings 2) ───────────────────────────────────────────
+  Dew unlikely: Brier=0.1159  (n=6,422)
+  Dew likely  : Brier=0.1072  (n=20,380)
+
+── Weather feature breakdown ────────────────────────────────────────
+  temp_max_c                 low tercile=0.1790  high tercile=0.1777
+  humidity_eve_pct           low tercile=0.1747  high tercile=0.1699
+  cloud_cover_eve_pct        low tercile=0.1559  high tercile=0.1731
+  dew_point_eve_c            low tercile=0.1747  high tercile=0.1825
+  precipitation_mm           low tercile=0.1644  high tercile=0.1720
+
+── Feature importances (all features) ───────────────────────────────
+  elo_diff                            ██████████████████████████████
+  proj_total                          ███████████████████████
+  humidity_eve_pct                    ███████████████████
+  temp_max_c                          ███████████████████
+  cloud_cover_eve_pct                 ██████████████████
+  wickets_remaining_weighted          █████████████████
+  p_post_toss                         ███████████████
+  batting_strength_remaining          ███████████████
+  dew_point_eve_c                     ███████████████
+  required_rr                         ███████████████
+  venue_avg_total                     █████████████
+  wickets_lost                        █████████████
+  rr_diff                             ████████████
+  wickets_remaining                   ███████
+  runs_needed                         ██████
+  precipitation_mm                    █████
+  current_rr                          ███
+  innings                             ██
+  season_phase                        █
+  runs_so_far                         █
+  balls_remaining_before              
+  wickets_last_12                     
+  bowling_strength_remaining          
+
+── Benchmark context ────────────────────────────────────────────────
+
+  ┌─────────────────────────────────────────────┬───────────┬────────────┐
+  │ Model / Paper                               │   Brier   │  Setting   │
+  ├─────────────────────────────────────────────┼───────────┼────────────┤
+  │ Always predict 50% (dumb baseline)          │   0.2500  │  —         │
+  │ Logistic regression (Bailey & Clarke 2006)  │ ~0.210    │  ODI/T20   │
+  │ Random Forest (Sankaranarayanan et al 2014) │ ~0.195    │  T20       │
+  │ YOUR model v5 (pre-Wave 2)                  │   0.1942  │  IPL T20   │
+  │ YOUR model v6 (Wave 2)                      │   0.1744  │  IPL T20   │
+  │ YOUR model v7 (Wave 3)                      │  0.1720  │  IPL T20   │
+  │ State-of-the-art (deep learning, all data)  │ ~0.165    │  T20 intl  │
+  └─────────────────────────────────────────────┴───────────┴────────────┘
+  Innings-1 Brier: 0.2297  (v6 was 0.2321, v5 was 0.2341)
+  Innings-2 Brier: 0.1093  (v6 was 0.1116, v5 was 0.1508)
+  Temperature T = 0.9029  Calibration method: raw
+  Irreducible T20 floor ≈ 0.15   Gap to close: 0.022
+
+======================================================================
+Saved: output/plots/reliability_innings2.png
+Saved: output/plots/reliability_both_innings.png
+Saved: output/plots/match_1304106.png
+Saved: output/plots/proj_1304106.png
+Saved: output/plots/match_1304107.png
+Saved: output/plots/proj_1304107.png
+Saved: output/plots/match_1304108.png
+Saved: output/plots/proj_1304108.png
+
+All models saved to output/models/
+All plots  saved to output/plots/
+Run log    saved to output/logs/run_20260309_190155.txt
+Pipeline complete.

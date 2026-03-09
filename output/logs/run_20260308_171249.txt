@@ -1,0 +1,206 @@
+Output folder  : /Users/nehasharma/personal_project/output
+Log file       : output/logs/run_20260308_171249.txt
+
+Matches loaded : 1169
+Deliveries     : 278205
+
+Weather data   : not found — fetching from Open-Meteo (~5 min)...
+  [50/1169] Rajiv Gandhi International Stadium, Uppal → 38.0°C
+  [100/1169] Kingsmead → 24.5°C
+  [150/1169] Eden Gardens → 36.9°C
+  [200/1169] Feroz Shah Kotla → 36.4°C
+  [250/1169] Eden Gardens → 34.7°C
+  [300/1169] Wankhede Stadium → 30.1°C
+  [350/1169] Feroz Shah Kotla → 32.6°C
+  [400/1169] Sharjah Cricket Stadium → 36.6°C
+  [450/1169] Wankhede Stadium → 31.6°C
+  [500/1169] MA Chidambaram Stadium, Chepauk → 36.3°C
+  [550/1169] Feroz Shah Kotla → 34.6°C
+  [600/1169] Eden Gardens → 34.5°C
+  [650/1169] Wankhede Stadium → 34.6°C
+  [700/1169] Sawai Mansingh Stadium → 31.5°C
+  [750/1169] Arun Jaitley Stadium → 37.8°C
+  [800/1169] Sheikh Zayed Stadium → 35.2°C
+  [850/1169] Zayed Cricket Stadium, Abu Dhabi → 36.5°C
+  [900/1169] Dr DY Patil Sports Academy, Mumbai → 34.0°C
+  [950/1169] Narendra Modi Stadium, Ahmedabad → 40.5°C
+  [1000/1169] MA Chidambaram Stadium, Chepauk, Chennai → 30.3°C
+  [1050/1169] Bharat Ratna Shri Atal Bihari Vajpayee Ekana  → 38.0°C
+  [1100/1169] Narendra Modi Stadium, Ahmedabad → 39.0°C
+  [1150/1169] Rajiv Gandhi International Stadium, Uppal, Hy → 38.7°C
+
+Saved 1169 rows to data/weather.csv
+Weather found for 1169/1169 matches (100.0%)
+Weather merge  : 1169/1169 matches have real weather data
+Weather features used: ['temp_max_c', 'humidity_eve_pct', 'cloud_cover_eve_pct', 'dew_point_eve_c', 'precipitation_mm']
+WARNING: wide_runs / noball_runs not found — all balls treated as legal.
+Fix your YAML parser:
+  extras = delivery.get('extras', {})
+  wide_runs   = extras.get('wides',   0)
+  noball_runs = extras.get('noballs', 0)
+
+Legal ball counts — min:1  max:120  (both should be 0–120)
+INFO: 'start_time' not found — defaulting to evening (19:30).
+
+Venue avg total (global mean=167.0  std=8.5)
+                                            venue  venue_avg_total
+817                      Wankhede Stadium, Mumbai       188.000000
+117                             Brabourne Stadium       180.400000
+134                     Brabourne Stadium, Mumbai       180.000000
+165  Himachal Pradesh Cricket Association Stadium       175.666667
+637  Punjab Cricket Association IS Bindra Stadium       175.600000
+581                         M.Chinnaswamy Stadium       173.933333
+399                       Sharjah Cricket Stadium       171.333333
+522        Saurashtra Cricket Association Stadium       168.900000
+
+State table    : (278205, 41)
+Win rate       : 0.481  (expected ~0.50)
+balls_remaining_before — min:0  max:120
+
+Post-toss model
+  Brier Elo-only  : 0.2594
+  Brier post-toss : 0.2539
+
+Time split — train:<2021-04-11  val:2021-04-11–2022-05-13  test:>2022-05-13
+
+Model T — Optuna search (50 trials) ...
+  Best val MAE : 17.813
+  Best params  : {'num_leaves': 224, 'min_child_samples': 33, 'learning_rate': 0.11230700683192034, 'subsample': 0.9126357338322304, 'colsample_bytree': 0.9796778703088911, 'n_estimators': 999}
+
+MAE by over (val):
+over_number
+0     25.847974
+1     25.984695
+2     25.763535
+3     25.116143
+4     24.385837
+5     23.386260
+6     22.481656
+7     21.533298
+8     21.069674
+9     19.911106
+10    18.773391
+11    17.155684
+12    15.168853
+13    14.088168
+14    13.205743
+15    12.189616
+16    11.562988
+17    10.283456
+18     9.417320
+19     7.142906
+
+Quantile band — additive margin: ±14.0 runs  coverage=0.753
+
+Final split — train:194,106  val:28,169  test:55,930
+
+LR baseline — Brier:0.1513  LogLoss:0.4661
+
+Model W sizes — tr:194,106  vl:28,169  te:55,930
+WIN_FEATURES (24): ['p_post_toss', 'elo_diff', 'innings', 'runs_so_far', 'balls_remaining_before', 'wickets_lost', 'wickets_remaining', 'runs_last_12', 'wickets_last_12', 'phase', 'current_rr', 'proj_total', 'runs_needed', 'required_rr', 'rr_diff', 'is_day_match', 'dew_likely', 'season_phase', 'venue_avg_total', 'temp_max_c', 'humidity_eve_pct', 'cloud_cover_eve_pct', 'dew_point_eve_c', 'precipitation_mm']
+
+Model W — Optuna search (60 trials) ...
+  Best val Brier : 0.1956
+  Best params    : {'num_leaves': 34, 'min_child_samples': 197, 'learning_rate': 0.10794282028398189, 'subsample': 0.6834622847577874, 'colsample_bytree': 0.5579415624168416, 'reg_alpha': 5.52165455379128e-05, 'reg_lambda': 0.00014036429694045148}
+  Top 5 trials:
+    trial # 32  Brier=0.1956  leaves=34  lr=0.1079  min_child=197
+    trial # 52  Brier=0.1961  leaves=50  lr=0.1126  min_child=130
+    trial # 37  Brier=0.1991  leaves=110  lr=0.0732  min_child=171
+    trial # 53  Brier=0.1993  leaves=52  lr=0.1083  min_child=115
+    trial # 22  Brier=0.1997  leaves=72  lr=0.1076  min_child=132
+
+======================================================================
+EVALUATION REPORT  —  TEST SET
+======================================================================
+
+── Overall ──────────────────────────────────────────────────────────
+  Always-predict-50%      Brier : 0.2500  ← baseline to beat
+  LR baseline (inn.2)     Brier : 0.1513
+  LGB uncalibrated        Brier : 0.2028
+  LGB calibrated          Brier : 0.2032
+  LGB calibrated        LogLoss : 0.5892
+  Improvement over 0.25 baseline: 18.7%
+
+── By innings ───────────────────────────────────────────────────────
+  Innings 1: Brier=0.2411  (n=29,118)
+  Innings 2: Brier=0.1619  (n=26,802)
+
+── By phase ─────────────────────────────────────────────────────────
+  Powerplay (ov 1-6) : Brier=0.2333  (n=17,185)
+  Middle   (ov 7-15) : Brier=0.2007  (n=24,786)
+  Death    (ov 16-20): Brier=0.1704  (n=13,959)
+
+── By Required Run Rate bucket (innings 2) ──────────────────────────
+  Easy (<6)             : Brier=0.0659  (n=2,173)
+  Moderate (6-8)        : Brier=0.1043  (n=3,278)
+  Hard (8-10)           : Brier=0.2276  (n=5,994)
+  Very Hard (>10)       : Brier=0.1677  (n=14,219)
+
+── Day vs Night ─────────────────────────────────────────────────────
+  Night: Brier=0.2032  (n=55,930)
+
+── Dew factor (innings 2) ───────────────────────────────────────────
+  Dew unlikely: Brier=0.1798  (n=6,422)
+  Dew likely  : Brier=0.1562  (n=20,380)
+
+── Weather feature breakdown ────────────────────────────────────────
+  temp_max_c                 low tercile=0.1959  high tercile=0.2167
+  humidity_eve_pct           low tercile=0.2127  high tercile=0.1962
+  cloud_cover_eve_pct        low tercile=0.2096  high tercile=0.1892
+  dew_point_eve_c            low tercile=0.2110  high tercile=0.2097
+  precipitation_mm           low tercile=0.1991  high tercile=0.2032
+
+── Feature importances (all features) ───────────────────────────────
+  temp_max_c                     ██████████████████████████████
+  elo_diff                       ███████████████████████████
+  cloud_cover_eve_pct            ███████████████████████████
+  humidity_eve_pct               ███████████████████████████
+  proj_total                     ███████████████████████
+  p_post_toss                    ███████████████████████
+  runs_needed                    ████████████████████
+  venue_avg_total                ██████████████████
+  dew_point_eve_c                ██████████████████
+  rr_diff                        ███████████
+  required_rr                    █████████
+  wickets_lost                   ███████
+  precipitation_mm               ██████
+  current_rr                     ████
+  wickets_remaining              ███
+  runs_so_far                    ██
+  season_phase                   █
+  balls_remaining_before         █
+  innings                        █
+  dew_likely                     
+  wickets_last_12                
+  phase                          
+  runs_last_12                   
+  is_day_match                   
+
+── Benchmark context ────────────────────────────────────────────────
+
+  ┌─────────────────────────────────────────────┬───────────┬────────────┐
+  │ Model / Paper                               │   Brier   │  Setting   │
+  ├─────────────────────────────────────────────┼───────────┼────────────┤
+  │ Always predict 50% (dumb baseline)          │   0.2500  │  —         │
+  │ Logistic regression (Bailey & Clarke 2006)  │ ~0.210    │  ODI/T20   │
+  │ Random Forest (Sankaranarayanan et al 2014) │ ~0.195    │  T20       │
+  │ YOUR model (LightGBM, both innings)         │  0.2032  │  IPL T20   │
+  │ State-of-the-art (deep learning, all data)  │ ~0.165    │  T20 intl  │
+  └─────────────────────────────────────────────┴───────────┴────────────┘
+  Innings-1 Brier: 0.2411   Innings-2 Brier: 0.1619
+  Irreducible T20 floor ≈ 0.15   Gap to close: 0.053 (player features)
+
+======================================================================
+Saved: output/plots/reliability_innings2.png
+Saved: output/plots/reliability_both_innings.png
+Saved: output/plots/match_1304106.png
+Saved: output/plots/proj_1304106.png
+Saved: output/plots/match_1304107.png
+Saved: output/plots/proj_1304107.png
+Saved: output/plots/match_1304108.png
+Saved: output/plots/proj_1304108.png
+
+All models saved to output/models/
+All plots  saved to output/plots/
+Run log    saved to output/logs/run_20260308_171249.txt
+Pipeline complete.
