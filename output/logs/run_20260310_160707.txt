@@ -1,0 +1,4 @@
+Output folder  : /Users/nehasharma/personal_project/output
+Log file       : output/logs/run_20260310_160707.txt
+
+data/ipl_balls_wave4b.csv not found — computing inline...

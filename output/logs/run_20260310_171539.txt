@@ -1,0 +1,166 @@
+Output folder  : /Users/nehasharma/personal_project/output
+Log file       : output/logs/run_20260310_171539.txt
+
+Loading from data/ipl_balls_wave4b.csv
+Matches loaded : 1169
+Deliveries     : 278205
+Weather features: ['temp_max_c', 'humidity_eve_pct', 'cloud_cover_eve_pct', 'dew_point_eve_c', 'precipitation_mm']
+
+Computing partnership features...
+
+Legal balls — min:0 max:120
+INFO: defaulting to evening.
+
+Venue avg total (global mean=167.0)
+
+State table: (278205, 64)  Win rate: 0.481
+
+Post-toss Brier: 0.2539
+Split — train:<2021-04-11  val:2021-04-11–2022-05-13  test:>2022-05-13
+
+Model T — Optuna (50 trials)...
+  Best MAE: 15.372
+  Quantile band margin: ±6.0
+
+Split — tr:194,106  vl:28,169  te:55,930
+
+======================================================================
+MODEL W1 — Direct innings-1 classifier
+======================================================================
+W1_FEATURES (21): ['p_post_toss', 'elo_diff', 'runs_so_far', 'balls_remaining_before', 'wickets_lost', 'wickets_remaining', 'current_rr', 'runs_last_12', 'wickets_last_12', 'batting_strength_remaining', 'wickets_remaining_weighted', 'batsman_sr_2yr', 'bowler_economy_2yr', 'venue_avg_total', 'over_par', 'partnership_runs', 'temp_max_c', 'humidity_eve_pct', 'cloud_cover_eve_pct', 'dew_point_eve_c', 'precipitation_mm']
+  tr:100,438  vl:14,575  te:29,118
+
+Model W1 — Optuna (60 trials)...
+  Best val Brier (inn1): 0.2218
+  Top 5:
+    # 51 Brier=0.2218 leaves=159 lr=0.0736
+    # 40 Brier=0.2222 leaves=193 lr=0.0634
+    # 44 Brier=0.2222 leaves=185 lr=0.0742
+    # 41 Brier=0.2222 leaves=195 lr=0.0636
+    # 46 Brier=0.2227 leaves=181 lr=0.1343
+
+  Val inn-1 Brier (direct W1)   : 0.2218
+
+── Model W1 feature importances ─────────────────────────────────────
+  temp_max_c                          ██████████████████████████████
+  humidity_eve_pct                    ███████████████████████████
+  dew_point_eve_c                     ██████████████████████████
+  elo_diff                            ████████████████████
+  p_post_toss                         ██████████████████
+  cloud_cover_eve_pct                 █████████████████
+  venue_avg_total                     ██████████████
+  wickets_remaining_weighted          ██████
+  precipitation_mm                    ████
+  current_rr                          ███
+  batting_strength_remaining          ███
+  over_par                            ██
+  wickets_lost                        ██
+  batsman_sr_2yr                      ██
+  wickets_remaining                   
+  bowler_economy_2yr                  
+  runs_so_far                         
+  wickets_last_12                     
+  runs_last_12                        
+  partnership_runs                    
+  balls_remaining_before              
+
+======================================================================
+MODEL W2 — Innings-2 classifier (unchanged)
+======================================================================
+W2_FEATURES (18): ['p_post_toss', 'elo_diff', 'wickets_lost', 'wickets_remaining', 'current_rr', 'proj_total', 'runs_needed', 'required_rr', 'rr_diff', 'venue_avg_total', 'batting_strength_remaining', 'wickets_remaining_weighted', 'pressure_index', 'temp_max_c', 'humidity_eve_pct', 'cloud_cover_eve_pct', 'dew_point_eve_c', 'precipitation_mm']
+  tr:93,519  vl:13,582  te:26,802
+  LR baseline Brier: 0.1441
+
+Model W2 — Optuna (60 trials)...
+  Best val Brier (inn2): 0.1092
+  Top 5:
+    # 31 Brier=0.1092 leaves=34 lr=0.0061
+    # 30 Brier=0.1093 leaves=32 lr=0.0054
+    # 32 Brier=0.1096 leaves=34 lr=0.0051
+    # 51 Brier=0.1106 leaves=32 lr=0.0055
+    # 50 Brier=0.1107 leaves=32 lr=0.0057
+
+── Model W2 feature importances ─────────────────────────────────────
+  batting_strength_remaining          ██████████████████████████████
+  elo_diff                            ██████████████████████████
+  wickets_remaining_weighted          ████████████████████████
+  humidity_eve_pct                    █████████████████████
+  p_post_toss                         ████████████████████
+  dew_point_eve_c                     ████████████████████
+  temp_max_c                          ███████████████████
+  wickets_lost                        ██████████████████
+  cloud_cover_eve_pct                 █████████████████
+  proj_total                          █████████████████
+  pressure_index                      █████████████
+  venue_avg_total                     ██████████
+  wickets_remaining                   ██████████
+  rr_diff                             ██████████
+  required_rr                         █████████
+  precipitation_mm                    ██████
+  current_rr                          ████
+  runs_needed                         ██
+
+── Calibration ─────────────────────────────────────────────────────
+  W1 (inn1): raw=0.2218 platt=0.2220 temp=0.2218 T=0.9766 → raw
+  W2 (inn2): raw=0.1092 platt=0.1096 temp=0.1096 T=0.9348 → raw
+
+======================================================================
+EVALUATION REPORT — TEST SET (v10 / Direct Inn-1 Model)
+======================================================================
+
+── Overall ──────────────────────────────────────────────────────────
+  Always-50%       Brier: 0.2500
+  LR baseline      Brier: 0.1441
+  COMBINED         Brier: 0.1739  LogLoss: 0.5127
+  vs 0.25 baseline      : 30.4% better
+  v9 was                : 0.1720
+  v10 ΔBrier            : -0.0019
+
+── By innings ───────────────────────────────────────────────────────
+  Inn 1 (W1 direct): Brier=0.2345 (n=29,118)  v9 was 0.2310
+  Inn 2 (W2 cascade): Brier=0.1082 (n=26,802)  v9 was 0.1078
+
+── By phase ─────────────────────────────────────────────────────────
+  PP (1-6)       : Brier=0.1871 (n=17,869)
+  Mid (7-15)     : Brier=0.1736 (n=25,662)
+  Death (16-20)  : Brier=0.1555 (n=12,389)
+
+── Inn-1 by phase ───────────────────────────────────────────────────
+  PP (1-6)       : Brier=0.2500 (n=9,000)
+  Mid (7-15)     : Brier=0.2335 (n=13,063)
+  Death (16-20)  : Brier=0.2164 (n=7,055)
+
+── RRR buckets (inn 2) ──────────────────────────────────────────────
+  Easy (<6)      : Brier=0.0222 (n=2,705)
+  Mod (6-8)      : Brier=0.0666 (n=3,666)
+  Hard (8-10)    : Brier=0.1405 (n=6,344)
+  VHard (>10)    : Brier=0.1235 (n=13,794)
+
+── Benchmark ────────────────────────────────────────────────────────
+  ┌─────────────────────────────────────────────┬───────────┬────────────┐
+  │ Model                                       │   Brier   │  Setting   │
+  ├─────────────────────────────────────────────┼───────────┼────────────┤
+  │ Always 50%                                  │   0.2500  │  —         │
+  │ LR (Bailey & Clarke 2006)                   │ ~0.210    │  ODI/T20   │
+  │ RF (Sankaranarayanan 2014)                  │ ~0.195    │  T20       │
+  │ v5 (pre-Wave 2)                             │   0.1942  │  IPL T20   │
+  │ v6 (Wave 2)                                 │   0.1744  │  IPL T20   │
+  │ v7 (Wave 3)                                 │   0.1720  │  IPL T20   │
+  │ v9 (Quantile Spread)                        │   0.1720  │  IPL T20   │
+  │ v10 (Direct Inn-1)                          │  0.1739  │  IPL T20   │
+  │ SOTA (deep learning)                        │ ~0.165    │  T20 intl  │
+  └─────────────────────────────────────────────┴───────────┴────────────┘
+  Inn-1: 0.2345  (v9=0.2310, v5=0.2341)
+  Inn-2: 0.1082  (v9=0.1078)
+  W1 cal: raw T=0.9766   W2 cal: raw T=0.9348
+  Gap to SOTA: 0.009
+
+======================================================================
+Saved: output/plots/reliability_innings2.png
+Saved: output/plots/reliability_both_innings.png
+Saved: output/plots/reliability_innings1.png
+
+Models → output/models/
+Plots  → output/plots/
+Log    → output/logs/run_20260310_171539.txt
+Pipeline complete.
