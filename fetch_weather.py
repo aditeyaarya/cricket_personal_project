@@ -155,6 +155,229 @@ VENUE_COORDS = {
     "Abu Dhabi"                                     : (24.4212, 54.4771),
     "Sharjah Cricket Stadium"                       : (25.3373, 55.3893),
     "Sharjah"                                       : (25.3373, 55.3893),
+
+    # ── Nepal ─────────────────────────────────────────────────────────────────
+    "Tribhuvan University International Cricket Ground": (27.6915, 85.3206),
+    "Kirtipur"                                         : (27.6915, 85.3206),
+
+    # ── Oman ──────────────────────────────────────────────────────────────────
+    "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)": (23.6102, 58.5922),
+    "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)": (23.6102, 58.5922),
+    "Oman Cricket Academy Ground"                      : (23.6102, 58.5922),
+
+    # ── Australia ─────────────────────────────────────────────────────────────
+    "Adelaide Oval"                                    : (-34.9155, 138.5960),
+    "Adelaide"                                         : (-34.9155, 138.5960),
+    "Melbourne Cricket Ground"                         : (-37.8200, 144.9836),
+    "Melbourne"                                        : (-37.8200, 144.9836),
+    "Sydney Cricket Ground"                            : (-33.8914, 151.2248),
+    "Sydney"                                           : (-33.8914, 151.2248),
+    "Perth Stadium"                                    : (-31.9505, 115.8890),
+    "Perth"                                            : (-31.9505, 115.8890),
+    "Western Australia Cricket Association Ground"     : (-31.9597, 115.8700),
+    "WACA Ground"                                      : (-31.9597, 115.8700),
+    "Brisbane Cricket Ground, Woolloongabba"           : (-27.4858, 153.0381),
+    "The Gabba"                                        : (-27.4858, 153.0381),
+    "Bellerive Oval"                                   : (-42.8794, 147.3574),
+    "Hobart"                                           : (-42.8794, 147.3574),
+    "Manuka Oval"                                      : (-35.3200, 149.1411),
+    "Canberra"                                         : (-35.3200, 149.1411),
+    "Carrara Oval"                                     : (-28.0027, 153.3808),
+    "Stadium Australia"                                : (-33.8647, 151.2031),
+    "GMHBA Stadium, South Geelong"                     : (-38.1527, 144.3577),
+    "Simonds Stadium, South Geelong"                   : (-38.1527, 144.3577),
+    "Marrara Stadium, Darwin"                          : (-12.3870, 130.8694),
+    "Cazaly's Stadium, Cairns"                         : (-16.9186, 145.7781),
+
+    # ── New Zealand ───────────────────────────────────────────────────────────
+    "Eden Park"                                        : (-36.8760, 174.7436),
+    "Auckland"                                         : (-36.8760, 174.7436),
+    "Hagley Oval"                                      : (-43.5309, 172.6218),
+    "Christchurch"                                     : (-43.5309, 172.6218),
+    "Sky Stadium"                                      : (-41.2765, 174.8042),
+    "Wellington"                                       : (-41.2765, 174.8042),
+    "Westpac Stadium"                                  : (-41.2765, 174.8042),
+    "McLean Park"                                      : (-39.5000, 176.8833),
+    "Napier"                                           : (-39.5000, 176.8833),
+    "Seddon Park"                                      : (-37.7878, 175.2793),
+    "Hamilton"                                         : (-37.7878, 175.2793),
+    "Bay Oval"                                         : (-37.6561, 176.1712),
+    "Mount Maunganui"                                  : (-37.6561, 176.1712),
+    "Saxton Oval"                                      : (-41.2863, 173.2449),
+    "Nelson"                                           : (-41.2863, 173.2449),
+    "University Oval"                                  : (-45.8788, 170.5028),
+    "Dunedin"                                          : (-45.8788, 170.5028),
+    "John Davies Oval, Queenstown"                     : (-45.0312, 168.6626),
+
+    # ── England ───────────────────────────────────────────────────────────────
+    "Edgbaston"                                        : (52.4556, -1.9022),
+    "Birmingham"                                       : (52.4556, -1.9022),
+    "Lord's"                                           : (51.5293, -0.1727),
+    "London"                                           : (51.5293, -0.1727),
+    "Kennington Oval"                                  : (51.4816, -0.1149),
+    "The Oval"                                         : (51.4816, -0.1149),
+    "Old Trafford"                                     : (53.4568, -2.2915),
+    "Manchester"                                       : (53.4568, -2.2915),
+    "Headingley"                                       : (53.8170, -1.5822),
+    "Leeds"                                            : (53.8170, -1.5822),
+    "Trent Bridge"                                     : (52.9363, -1.1325),
+    "Nottingham"                                       : (52.9363, -1.1325),
+    "The Rose Bowl"                                    : (50.9244, -1.3222),
+    "Southampton"                                      : (50.9244, -1.3222),
+    "Sophia Gardens"                                   : (51.4911, -3.1897),
+    "Cardiff"                                          : (51.4911, -3.1897),
+    "Riverside Ground"                                 : (54.8596, -1.5777),
+    "Chester-le-Street"                                : (54.8596, -1.5777),
+    "County Ground, Bristol"                           : (51.4555, -2.6026),
+    "Bristol"                                          : (51.4555, -2.6026),
+
+    # ── Ireland ───────────────────────────────────────────────────────────────
+    "Malahide"                                         : (53.4503, -6.1541),
+    "The Village, Malahide"                            : (53.4503, -6.1541),
+    "Castle Avenue, Dublin"                            : (53.4503, -6.1541),
+    "Civil Service Cricket Club, Stormont"             : (54.5921, -5.8765),
+    "Belfast"                                          : (54.5921, -5.8765),
+
+    # ── Scotland ──────────────────────────────────────────────────────────────
+    "Grange Cricket Club Ground, Raeburn Place"        : (55.9534, -3.2196),
+    "Edinburgh"                                        : (55.9534, -3.2196),
+    "Titwood"                                          : (55.8352, -4.2896),
+    "Glasgow"                                          : (55.8352, -4.2896),
+
+    # ── Northern Ireland / Bready ─────────────────────────────────────────────
+    "Bready Cricket Club, Magheramason"                : (54.9500, -7.4833),
+    "Bready"                                           : (54.9500, -7.4833),
+
+    # ── Netherlands ───────────────────────────────────────────────────────────
+    "Sportpark Westvliet"                              : (52.0480, 4.2945),
+    "The Hague"                                        : (52.0480, 4.2945),
+    "Hazelaarweg"                                      : (51.8979, 4.4923),
+    "VRA Ground"                                       : (52.3566, 4.8469),
+    "Sportpark Het Schootsveld"                        : (52.2292, 6.8964),
+
+    # ── West Indies / Caribbean ───────────────────────────────────────────────
+    "Kensington Oval, Bridgetown"                      : (13.0969, -59.6145),
+    "Bridgetown"                                       : (13.0969, -59.6145),
+    "Barbados"                                         : (13.0969, -59.6145),
+    "Sir Vivian Richards Stadium, North Sound"         : (17.1274, -61.8468),
+    "Antigua"                                          : (17.1274, -61.8468),
+    "Coolidge Cricket Ground, Antigua"                 : (17.1170, -61.7961),
+    "Beausejour Stadium, Gros Islet"                   : (14.0810, -60.9493),
+    "Daren Sammy National Cricket Stadium, Gros Islet" : (14.0810, -60.9493),
+    "Darren Sammy National Cricket Stadium"            : (14.0810, -60.9493),
+    "St Lucia"                                         : (14.0810, -60.9493),
+    "Queen's Park Oval, Port of Spain"                 : (10.6430, -61.5267),
+    "Port of Spain"                                    : (10.6430, -61.5267),
+    "Trinidad"                                         : (10.6430, -61.5267),
+    "Brian Lara Stadium, Tarouba"                      : (10.3250, -61.4524),
+    "Providence Stadium"                               : (6.8013, -58.1551),
+    "Guyana"                                           : (6.8013, -58.1551),
+    "Sabina Park, Kingston"                            : (17.9963, -76.7956),
+    "Kingston"                                         : (17.9963, -76.7956),
+    "Jamaica"                                          : (17.9963, -76.7956),
+    "Warner Park, Basseterre"                          : (17.3026, -62.7177),
+    "St Kitts"                                         : (17.3026, -62.7177),
+    "Arnos Vale Ground, Kingstown"                     : (13.1600, -61.2300),
+    "St Vincent"                                       : (13.1600, -61.2300),
+    "National Cricket Stadium, Grenada"                : (12.1165, -61.6790),
+    "Grenada"                                          : (12.1165, -61.6790),
+    "Windsor Park, Roseau"                             : (15.3017, -61.3883),
+    "Dominica"                                         : (15.3017, -61.3883),
+    "Central Broward Regional Park Stadium Turf Ground": (26.2009, -80.2550),
+    "Lauderhill"                                       : (26.2009, -80.2550),
+    "Nassau County International Cricket Stadium"      : (40.7282, -73.5950),
+    "New York"                                         : (40.7282, -73.5950),
+    "Grand Prairie Stadium, Dallas"                    : (32.6960, -97.0200),
+    "Prairie View Cricket Complex"                     : (30.0910, -95.9870),
+
+    # ── Pakistan ──────────────────────────────────────────────────────────────
+    "Gaddafi Stadium"                                  : (31.5204, 74.3587),
+    "Lahore"                                           : (31.5204, 74.3587),
+    "National Stadium, Karachi"                        : (24.8918, 67.0640),
+    "Karachi"                                          : (24.8918, 67.0640),
+    "Rawalpindi Cricket Stadium"                       : (33.5651, 73.0169),
+    "Rawalpindi"                                       : (33.5651, 73.0169),
+    "Gymkhana Club Ground"                             : (33.7294, 73.0931),
+    "Islamabad"                                        : (33.7294, 73.0931),
+
+    # ── Sri Lanka ─────────────────────────────────────────────────────────────
+    "R Premadasa Stadium"                              : (6.9366, 79.8608),
+    "R.Premadasa Stadium, Khettarama"                  : (6.9366, 79.8608),
+    "Colombo (RPS)"                                    : (6.9366, 79.8608),
+    "Sinhalese Sports Club Ground, Colombo"            : (6.9020, 79.8607),
+    "Colombo (SSC)"                                    : (6.9020, 79.8607),
+    "Pallekele International Cricket Stadium"          : (7.2906, 80.5947),
+    "Kandy"                                            : (7.2906, 80.5947),
+    "Mahinda Rajapaksa International Cricket Stadium"  : (6.0367, 80.9659),
+    "Sooriyawewa"                                      : (6.0367, 80.9659),
+    "Rangiri Dambulla International Stadium"           : (7.8742, 80.6511),
+    "Dambulla"                                         : (7.8742, 80.6511),
+
+    # ── Bangladesh ────────────────────────────────────────────────────────────
+    "Shere Bangla National Stadium"                    : (23.8103, 90.3600),
+    "Mirpur"                                           : (23.8103, 90.3600),
+    "Zahur Ahmed Chowdhury Stadium"                    : (22.3475, 91.8123),
+    "Chattogram"                                       : (22.3475, 91.8123),
+    "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium": (22.3475, 91.8123),
+    "Sylhet International Cricket Stadium"             : (24.9045, 91.8611),
+    "Sylhet Stadium"                                   : (24.9045, 91.8611),
+    "Sheikh Abu Naser Stadium"                         : (22.8230, 89.5403),
+    "Khulna"                                           : (22.8230, 89.5403),
+    "Indian Association Ground"                        : (23.7104, 90.4074),
+
+    # ── Zimbabwe ──────────────────────────────────────────────────────────────
+    "Harare Sports Club"                               : (-17.8157, 31.0467),
+    "Harare"                                           : (-17.8157, 31.0467),
+    "Queens Sports Club, Bulawayo"                     : (-20.1667, 28.5667),
+    "Bulawayo"                                         : (-20.1667, 28.5667),
+
+    # ── Namibia ───────────────────────────────────────────────────────────────
+    "Namibia Cricket Ground, Windhoek"                 : (-22.5597, 17.0832),
+    "United Cricket Club Ground, Windhoek"             : (-22.5597, 17.0832),
+    "Wanderers Cricket Ground, Windhoek"               : (-22.5597, 17.0832),
+    "Windhoek"                                         : (-22.5597, 17.0832),
+
+    # ── India (additional) ────────────────────────────────────────────────────
+    "Greenfield International Stadium"                 : (8.5241, 76.9366),
+    "Thiruvananthapuram"                               : (8.5241, 76.9366),
+    "Shrimant Madhavrao Scindia Cricket Stadium"       : (26.2183, 78.1828),
+    "Gwalior"                                          : (26.2183, 78.1828),
+
+    # ── South Africa (additional) ─────────────────────────────────────────────
+    "Boland Park"                                      : (-33.7249, 18.9543),
+    "Paarl"                                            : (-33.7249, 18.9543),
+    "Mangaung Oval"                                    : (-29.1214, 26.2154),
+    "Bloemfontein (Mangaung)"                          : (-29.1214, 26.2154),
+    "Senwes Park"                                      : (-26.6861, 27.0947),
+    "Potchefstroom"                                    : (-26.6861, 27.0947),
+    "Moses Mabhida Stadium"                            : (-29.8281, 31.0308),
+    "The Wanderers Stadium"                            : (-26.1833, 28.0621),
+
+    # ── Canada ────────────────────────────────────────────────────────────────
+    "Maple Leaf North-West Ground, King City"          : (43.9285, -79.5386),
+    "King City"                                        : (43.9285, -79.5386),
+
+    # ── Papua New Guinea ──────────────────────────────────────────────────────
+    "Amini Park, Port Moresby"                         : (-9.4438, 147.1803),
+    "Port Moresby"                                     : (-9.4438, 147.1803),
+
+    # ── Ghana ─────────────────────────────────────────────────────────────────
+    "Achimota Senior Secondary School"                 : (5.6037, -0.2260),
+    "Accra"                                            : (5.6037, -0.2260),
+
+    # ── AMI Stadium (Christchurch — used before Hagley Oval) ─────────────────
+    "AMI Stadium"                                      : (-43.5254, 172.5768),
+
+    # ── Jade Stadium (Christchurch — old name) ────────────────────────────────
+    "Jade Stadium"                                     : (-43.5254, 172.5768),
+
+    # ── ICC Academy (Dubai) ───────────────────────────────────────────────────
+    "ICC Academy"                                      : (25.0860, 55.1562),
+    "7he Sevens Stadium, Dubai"                        : (25.0860, 55.1562),
+    "Tolerance Oval"                                   : (24.4539, 54.3773),
+
+    # ── Zhejiang (China) ─────────────────────────────────────────────────────
+    "Zhejiang University of Technology Cricket Field"  : (30.3100, 120.0900),
 }
 
 
@@ -225,6 +448,151 @@ STADIUM_ALIASES = {
     "sheikh zayed stadium"                           : "Zayed Cricket Stadium",
     "dubai international cricket stadium dubai"      : "Dubai International Cricket Stadium",
     "sharjah cricket stadium sharjah"                : "Sharjah Cricket Stadium",
+
+    # Australia variants
+    "woolloongabba"                                  : "Brisbane Cricket Ground, Woolloongabba",
+    "the gabba"                                      : "Brisbane Cricket Ground, Woolloongabba",
+    "brisbane cricket ground"                        : "Brisbane Cricket Ground, Woolloongabba",
+    "waca ground"                                    : "Western Australia Cricket Association Ground",
+    "waca"                                           : "Western Australia Cricket Association Ground",
+    "western australia cricket association ground perth" : "Western Australia Cricket Association Ground",
+    "scg"                                            : "Sydney Cricket Ground",
+    "mcg"                                            : "Melbourne Cricket Ground",
+    "adelaide oval adelaide"                         : "Adelaide Oval",
+    "bellerive oval hobart"                          : "Bellerive Oval",
+    "manuka oval canberra"                           : "Manuka Oval",
+    "perth stadium perth"                            : "Perth Stadium",
+    "stadium australia sydney"                       : "Stadium Australia",
+    "gmhba stadium geelong"                          : "GMHBA Stadium, South Geelong",
+    "simonds stadium geelong"                        : "Simonds Stadium, South Geelong",
+    "cazalys stadium cairns"                         : "Cazaly's Stadium, Cairns",
+
+    # New Zealand variants
+    "eden park auckland"                             : "Eden Park",
+    "hagley oval christchurch"                       : "Hagley Oval",
+    "sky stadium wellington"                         : "Sky Stadium",
+    "westpac stadium wellington"                     : "Sky Stadium",
+    "basin reserve"                                  : "Sky Stadium",
+    "mclean park napier"                             : "McLean Park",
+    "seddon park hamilton"                           : "Seddon Park",
+    "bay oval mount maunganui"                       : "Bay Oval",
+    "saxton oval nelson"                             : "Saxton Oval",
+    "university oval dunedin"                        : "University Oval",
+    "auckland"                                       : "Eden Park",
+
+    # England variants
+    "edgbaston birmingham"                           : "Edgbaston",
+    "lords"                                          : "Lord's",
+    "lords cricket ground"                           : "Lord's",
+    "the oval london"                                : "Kennington Oval",
+    "kia oval"                                       : "Kennington Oval",
+    "old trafford manchester"                        : "Old Trafford",
+    "headingley leeds"                               : "Headingley",
+    "headingley carnegie"                            : "Headingley",
+    "trent bridge nottingham"                        : "Trent Bridge",
+    "the rose bowl southampton"                      : "The Rose Bowl",
+    "ageas bowl"                                     : "The Rose Bowl",
+    "sophia gardens cardiff"                         : "Sophia Gardens",
+    "riverside ground chester le street"             : "Riverside Ground",
+    "county ground bristol"                          : "County Ground, Bristol",
+
+    # Ireland variants
+    "the village malahide dublin"                    : "The Village, Malahide",
+    "the village malahide"                           : "The Village, Malahide",
+    "malahide dublin"                                : "Malahide",
+    "castle avenue dublin"                           : "Malahide",
+    "civil service cricket club stormont belfast"    : "Civil Service Cricket Club, Stormont",
+    "stormont belfast"                               : "Civil Service Cricket Club, Stormont",
+
+    # Scotland variants
+    "grange cricket club ground raeburn place edinburgh" : "Grange Cricket Club Ground, Raeburn Place",
+    "raeburn place edinburgh"                        : "Grange Cricket Club Ground, Raeburn Place",
+    "titwood glasgow"                                : "Titwood",
+
+    # Netherlands variants
+    "sportpark westvliet the hague"                  : "Sportpark Westvliet",
+    "sportpark westvliet voorburg"                   : "Sportpark Westvliet",
+    "hazelaarweg rotterdam"                          : "Hazelaarweg",
+    "vra ground amstelveen"                          : "VRA Ground",
+
+    # West Indies / Caribbean variants
+    "kensington oval bridgetown barbados"            : "Kensington Oval, Bridgetown",
+    "kensington oval"                                : "Kensington Oval, Bridgetown",
+    "sir vivian richards stadium north sound antigua": "Sir Vivian Richards Stadium, North Sound",
+    "beausejour stadium gros islet"                  : "Beausejour Stadium, Gros Islet",
+    "daren sammy national cricket stadium gros islet st lucia" : "Daren Sammy National Cricket Stadium, Gros Islet",
+    "darren sammy national cricket stadium st lucia" : "Darren Sammy National Cricket Stadium",
+    "queens park oval port of spain"                 : "Queen's Park Oval, Port of Spain",
+    "queens park oval port of spain trinidad"        : "Queen's Park Oval, Port of Spain",
+    "brian lara stadium tarouba trinidad"            : "Brian Lara Stadium, Tarouba",
+    "providence stadium guyana"                      : "Providence Stadium",
+    "sabina park kingston jamaica"                   : "Sabina Park, Kingston",
+    "warner park basseterre st kitts"                : "Warner Park, Basseterre",
+    "arnos vale ground kingstown st vincent"         : "Arnos Vale Ground, Kingstown",
+    "arnos vale ground kingstown"                    : "Arnos Vale Ground, Kingstown",
+    "national cricket stadium st georges grenada"    : "National Cricket Stadium, Grenada",
+    "windsor park roseau dominica"                   : "Windsor Park, Roseau",
+    "central broward regional park stadium turf ground lauderhill" : "Central Broward Regional Park Stadium Turf Ground",
+    "nassau county international cricket stadium new york" : "Nassau County International Cricket Stadium",
+    "grand prairie stadium"                          : "Grand Prairie Stadium, Dallas",
+
+    # Pakistan variants
+    "gaddafi stadium lahore"                         : "Gaddafi Stadium",
+    "national stadium karachi"                       : "National Stadium, Karachi",
+    "rawalpindi cricket stadium rawalpindi"          : "Rawalpindi Cricket Stadium",
+
+    # Sri Lanka variants
+    "r premadasa stadium colombo"                    : "R Premadasa Stadium",
+    "r premadasa stadium khettarama"                 : "R Premadasa Stadium",
+    "rpremadasa stadium khettarama"                  : "R Premadasa Stadium",
+    "sinhalese sports club ground"                   : "Sinhalese Sports Club Ground, Colombo",
+    "pallekele international cricket stadium kandy"  : "Pallekele International Cricket Stadium",
+    "mahinda rajapaksa international cricket stadium sooriyawewa" : "Mahinda Rajapaksa International Cricket Stadium",
+    "rangiri dambulla international stadium"         : "Rangiri Dambulla International Stadium",
+
+    # Bangladesh variants
+    "shere bangla national stadium mirpur"           : "Shere Bangla National Stadium",
+    "shere bangla national stadium mirpur dhaka"     : "Shere Bangla National Stadium",
+    "zahur ahmed chowdhury stadium chattogram"       : "Zahur Ahmed Chowdhury Stadium",
+    "zac stadium"                                    : "Zahur Ahmed Chowdhury Stadium",
+    "bir sreshtho flight lieutenant matiur rahman stadium chattogram" : "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium",
+    "sylhet international cricket stadium sylhet"    : "Sylhet International Cricket Stadium",
+    "sheikh abu naser stadium khulna"                : "Sheikh Abu Naser Stadium",
+
+    # Zimbabwe variants
+    "harare sports club harare"                      : "Harare Sports Club",
+    "queens sports club bulawayo"                    : "Queens Sports Club, Bulawayo",
+
+    # Namibia variants
+    "namibia cricket ground"                         : "Namibia Cricket Ground, Windhoek",
+    "united cricket club ground"                     : "United Cricket Club Ground, Windhoek",
+    "wanderers cricket ground windhoek"              : "Wanderers Cricket Ground, Windhoek",
+
+    # India additional
+    "greenfield international stadium thiruvananthapuram" : "Greenfield International Stadium",
+    "shrimant madhavrao scindia cricket stadium gwalior"  : "Shrimant Madhavrao Scindia Cricket Stadium",
+
+    # South Africa additional
+    "boland park paarl"                              : "Boland Park",
+    "mangaung oval bloemfontein"                     : "Mangaung Oval",
+    "senwes park potchefstroom"                      : "Senwes Park",
+
+    # Oman variants
+    "al amerat cricket ground ministry turf 1"       : "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)",
+    "al amerat cricket ground ministry turf 2"       : "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)",
+    "oman cricket academy ground"                    : "Oman Cricket Academy Ground",
+
+    # Nepal variants
+    "tribhuvan university international cricket ground kirtipur" : "Tribhuvan University International Cricket Ground",
+
+    # Christchurch old names
+    "ami stadium christchurch"                       : "AMI Stadium",
+    "jade stadium christchurch"                      : "Jade Stadium",
+
+    # ICC / Dubai misc
+    "icc academy dubai"                              : "ICC Academy",
+    "7he sevens stadium dubai"                       : "ICC Academy",
+    "tolerance oval abu dhabi"                       : "Tolerance Oval",
 }
 
 
@@ -318,10 +686,14 @@ def fetch_weather_for_match(date: str, lat: float, lon: float,
     return {}
 
 
-def build_weather_table(matches_csv: str = "data/ipl_matches.csv",
+def build_weather_table(matches_csv: str = "data/all_matches.csv",
                         output_csv:  str = "data/weather.csv",
                         pause_seconds: float = 0.3) -> pd.DataFrame:
-    """Fetch weather for all matches. Resume-safe."""
+    """
+    Fetch weather for all matches in matches_csv. Resume-safe.
+    Defaults to data/all_matches.csv (multi-league) but falls back
+    to data/ipl_matches.csv if the combined file does not exist.
+    """
     matches = pd.read_csv(matches_csv, parse_dates=["date"])
     matches = matches.sort_values("date").reset_index(drop=True)
 

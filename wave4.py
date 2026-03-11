@@ -177,7 +177,8 @@ def compute_rolling_player_stats(balls: pd.DataFrame,
 
 def compute_over_par(balls: pd.DataFrame,
                      match_dates: pd.DataFrame,
-                     train_cutoff_date) -> pd.DataFrame:
+                     train_cutoff_date,
+                     matches_csv: str = "data/ipl_matches.csv") -> pd.DataFrame:
     """
     For each venue × over, compute median cumulative score at that over
     from training-set innings-1 data only.  Returns a lookup DataFrame.
@@ -192,7 +193,7 @@ def compute_over_par(balls: pd.DataFrame,
     # Need venue — merge from matches
     # Actually we need venue on balls. Get it from the match.
     # balls doesn't have venue, so we need to add it
-    matches_venue = pd.read_csv("data/ipl_matches.csv")[["match_id", "venue"]]
+    matches_venue = pd.read_csv(matches_csv)[["match_id", "venue"]]
     matches_venue["match_id"] = matches_venue["match_id"].astype(str)
     df = df.merge(matches_venue, on="match_id", how="left")
 
@@ -234,7 +235,8 @@ def compute_over_par(balls: pd.DataFrame,
 def attach_features(balls: pd.DataFrame,
                     stats_by_match: dict,
                     over_par_data: tuple,
-                    match_dates: pd.DataFrame) -> pd.DataFrame:
+                    match_dates: pd.DataFrame,
+                    matches_csv: str = "data/ipl_matches.csv") -> pd.DataFrame:
     """Attach rolling player stats, momentum index, and over_par to balls."""
 
     df = balls.copy()
@@ -295,7 +297,7 @@ def attach_features(balls: pd.DataFrame,
     venue_over_median, global_over_median = over_par_data
 
     # Need venue on balls
-    matches_venue = pd.read_csv("data/ipl_matches.csv")[["match_id", "venue"]]
+    matches_venue = pd.read_csv(matches_csv)[["match_id", "venue"]]
     matches_venue["match_id"] = matches_venue["match_id"].astype(str)
     df = df.merge(matches_venue, on="match_id", how="left")
 
@@ -376,10 +378,12 @@ def main():
     matches_sorted = matches.sort_values("date").reset_index(drop=True)
     train_cutoff = matches_sorted.iloc[int(len(matches_sorted) * 0.70)]["date"]
     print(f"\nOver-par training cutoff: {train_cutoff.date()}")
-    over_par_data = compute_over_par(balls, match_dates, train_cutoff)
+    over_par_data = compute_over_par(balls, match_dates, train_cutoff,
+                                     matches_csv=args.matches)
 
     # Step 3: attach all features
-    balls = attach_features(balls, stats, over_par_data, match_dates)
+    balls = attach_features(balls, stats, over_par_data, match_dates,
+                            matches_csv=args.matches)
 
     # Sanity checks
     WAVE4_COLS = ["batsman_sr_2yr", "batsman_boundary_pct_2yr", "batsman_dot_pct_2yr",

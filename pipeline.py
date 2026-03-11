@@ -1,32 +1,29 @@
 """
-T20 Cricket Win Probability Pipeline  —  v9 (Quantile Spread)
-==============================================================
-Changes vs v8b
---------------
-  CORE IDEA — Break the innings-1 information bottleneck.
+T20 Cricket Win Probability Pipeline  —  v10 (IPL + T20I Combined)
+===================================================================
+Changes vs v9
+-------------
+  DATA EXPANSION — Train on both IPL and filtered T20I data.
 
-  Previously Model W received a single `proj_total` from Model T.
-  A projected total of 170 at over 8 with 1 wicket down carries
-  very different uncertainty than 170 at over 18 with 7 wickets down,
-  but Model W couldn't distinguish them.
+  Two datasets are loaded and concatenated:
+    IPL   — existing ipl_matches.csv + ipl_balls_wave4b.csv (or wave4)
+    T20I  — t20i_matches_filtered.csv + t20i_balls_wave4b.csv
+            (men's only; filtered to 18-team list + top-9 vs anyone rule)
 
-  Now Model W receives THREE quantile outputs from Model T:
-    proj_total_p25   — pessimistic projection (25th percentile)
-    proj_total_p75   — optimistic projection (75th percentile)
-    proj_total_spread = p75 - p25 (uncertainty width)
+  Each dataset is tagged with a `source` column ("ipl" / "t20i").
 
-  During innings 1 this spread is wide early (~40 runs at over 2)
-  and narrow late (~10 runs at over 18). Model W can now learn:
-    "proj_total=170 with spread=40 → uncertain → closer to 50%"
-    "proj_total=170 with spread=10 → confident → push toward extremes"
+  ELO — computed separately per format (IPL teams vs T20I teams are
+        different competitive contexts). Both elo columns are merged
+        back before the state table is built.
 
-  During innings 2 the total is known, so spread=0 and p25=p75=actual.
+  WAVE FEATURES — rolling player stats (batsman SR, bowler economy etc.)
+        are computed from the combined IPL + T20I ball history so that
+        players who appear in both formats share a single 2yr window.
+        Run wave4_t20i.py once to produce t20i_balls_wave4b.csv before
+        running this pipeline.
 
-  DROPPED from WIN_FEATURES (zero importance in v8b):
-    bowler_is_pace, batsman_sr_vs_pace, batsman_sr_vs_spin, lhb_vs_spin
-
-  ADDED to WIN_FEATURES:
-    proj_total_p25, proj_total_p75, proj_total_spread
+  Everything else (Model T, Model W, calibration, evaluation) is
+  unchanged — they operate on the larger combined dataset.
 """
 
 import os, sys
@@ -77,26 +74,89 @@ print(f"Log file       : {_log_path}")
 
 
 # ════════════════════════════════════════════════════════════════════════════
-# 1.  LOAD DATA
+# 1.  LOAD DATA  (IPL + T20I)
 # ════════════════════════════════════════════════════════════════════════════
 
-WAVE4B_BALLS = Path("data/ipl_balls_wave4b.csv")
-WAVE4_BALLS  = Path("data/ipl_balls_wave4.csv")
+# ── IPL ───────────────────────────────────────────────────────────────────────
+IPL_WAVE4B = Path("data/ipl_balls_wave4b.csv")
+IPL_WAVE4  = Path("data/ipl_balls_wave4.csv")
 
-matches = pd.read_csv("data/ipl_matches.csv", parse_dates=["date"])
-matches = matches.sort_values("date").reset_index(drop=True)
+ipl_matches = pd.read_csv("data/ipl_matches.csv", parse_dates=["date"])
+ipl_matches["source"] = "ipl"
 
-if WAVE4B_BALLS.exists():
-    print(f"\nLoading from {WAVE4B_BALLS}")
-    balls = pd.read_csv(WAVE4B_BALLS)
-elif WAVE4_BALLS.exists():
-    print(f"\nLoading from {WAVE4_BALLS}")
-    balls = pd.read_csv(WAVE4_BALLS)
+if IPL_WAVE4B.exists():
+    print(f"\nIPL balls: loading from {IPL_WAVE4B}")
+    ipl_balls = pd.read_csv(IPL_WAVE4B)
+elif IPL_WAVE4.exists():
+    print(f"\nIPL balls: loading from {IPL_WAVE4}")
+    ipl_balls = pd.read_csv(IPL_WAVE4)
 else:
     raise FileNotFoundError("Need data/ipl_balls_wave4b.csv or data/ipl_balls_wave4.csv")
 
-print(f"Matches loaded : {len(matches)}")
-print(f"Deliveries     : {len(balls)}")
+ipl_balls["source"] = "ipl"
+print(f"IPL  — matches: {len(ipl_matches):,}  balls: {len(ipl_balls):,}")
+
+# ── T20I ──────────────────────────────────────────────────────────────────────
+T20I_MATCHES = Path("data/t20i_matches_filtered.csv")
+T20I_WAVE4B  = Path("data/t20i_balls_wave4b.csv")
+T20I_BALLS   = Path("data/t20i_balls_filtered.csv")
+
+if T20I_MATCHES.exists():
+    t20i_matches = pd.read_csv(T20I_MATCHES, parse_dates=["date"])
+    # Men's only
+    if "gender" in t20i_matches.columns:
+        t20i_matches = t20i_matches[t20i_matches["gender"] == "male"].copy()
+    t20i_matches["source"] = "t20i"
+
+    if T20I_WAVE4B.exists():
+        print(f"T20I balls: loading from {T20I_WAVE4B}")
+        t20i_balls = pd.read_csv(T20I_WAVE4B)
+    elif T20I_BALLS.exists():
+        # wave4b not yet computed — run wave4_t20i.py automatically
+        print(f"\nT20I wave features not found — running wave4_t20i.py now...")
+        print("(This only happens once; output is cached to data/t20i_balls_wave4b.csv)\n")
+        import importlib.util, subprocess
+        _wave4_script = Path(__file__).parent / "wave4_t20i.py"
+        if not _wave4_script.exists():
+            raise FileNotFoundError(
+                "wave4_t20i.py not found alongside pipeline.py. "
+                "Place wave4_t20i.py in the same directory and re-run."
+            )
+        _result = subprocess.run(
+            [sys.executable, str(_wave4_script)],
+            check=True
+        )
+        if not T20I_WAVE4B.exists():
+            raise RuntimeError(
+                "wave4_t20i.py ran but did not produce data/t20i_balls_wave4b.csv. "
+                "Check wave4_t20i.py output above for errors."
+            )
+        print(f"\nT20I wave features computed. Loading from {T20I_WAVE4B}")
+        t20i_balls = pd.read_csv(T20I_WAVE4B)
+    else:
+        raise FileNotFoundError(
+            "Need data/t20i_balls_filtered.csv — run filter_t20i.py first."
+        )
+
+    t20i_balls["source"] = "t20i"
+    # Keep only men's match IDs
+    valid_t20i_ids = set(t20i_matches["match_id"].astype(str))
+    t20i_balls["match_id"] = t20i_balls["match_id"].astype(str)
+    t20i_balls = t20i_balls[t20i_balls["match_id"].isin(valid_t20i_ids)]
+    print(f"T20I — matches: {len(t20i_matches):,}  balls: {len(t20i_balls):,}")
+else:
+    print("WARNING: T20I data not found — running on IPL only")
+    t20i_matches = pd.DataFrame(columns=ipl_matches.columns)
+    t20i_balls   = pd.DataFrame(columns=ipl_balls.columns)
+
+# ── Combine ───────────────────────────────────────────────────────────────────
+matches = pd.concat([ipl_matches, t20i_matches], ignore_index=True)
+matches = matches.sort_values("date").reset_index(drop=True)
+balls   = pd.concat([ipl_balls, t20i_balls],   ignore_index=True)
+
+print(f"\nCombined — matches: {len(matches):,}  balls: {len(balls):,}")
+print(f"  IPL  : {(matches['source']=='ipl').sum():,} matches")
+print(f"  T20I : {(matches['source']=='t20i').sum():,} matches")
 
 
 # ════════════════════════════════════════════════════════════════════════════
@@ -239,7 +299,7 @@ def build_state_table(balls, matches):
     df["match_winner"] = df["match_id"].map(wm)
     df["y"] = (df["batting_team"] == df["match_winner"]).astype(int)
 
-    mc = (["match_id","date","is_day_match","dew_likely","season_phase","venue_avg_total"]
+    mc = (["match_id","date","source","is_day_match","dew_likely","season_phase","venue_avg_total"]
           + WEATHER_FEATURES)
     mc = [c for c in mc if c in matches.columns]
     df = df.merge(matches[mc].drop_duplicates("match_id"), on="match_id", how="left")
@@ -251,24 +311,37 @@ print(f"\nState table: {state.shape}  Win rate: {state['y'].mean():.3f}")
 
 
 # ════════════════════════════════════════════════════════════════════════════
-# 6.  ELO
+# 6.  ELO  (computed separately per format, then merged back)
 # ════════════════════════════════════════════════════════════════════════════
 
-def compute_elo(matches, K=20.0, init=1500.0):
+def compute_elo(matches_df, K=20.0, init=1500.0):
+    """
+    Compute pre-match Elo ratings for each row in matches_df (sorted by date).
+    Returns a DataFrame with match_id, elo_team1_before, elo_team2_before, p_pre_match.
+    """
     elo, rows = {}, []
-    for _, row in matches.iterrows():
+    for _, row in matches_df.sort_values("date").iterrows():
         t1, t2 = row["team1"], row["team2"]
         e1, e2 = elo.get(t1, init), elo.get(t2, init)
-        p1 = 1 / (1 + 10**(-(e1-e2)/400))
+        p1 = 1 / (1 + 10 ** (-(e1 - e2) / 400))
         s1 = 1.0 if row["winner"] == t1 else 0.0
-        elo[t1] = e1 + K*(s1-p1)
-        elo[t2] = e2 + K*((1-s1)-(1-p1))
-        rows.append({"match_id": str(row["match_id"]),
-                      "elo_team1_before": e1, "elo_team2_before": e2,
-                      "p_pre_match": p1})
-    return matches.merge(pd.DataFrame(rows), on="match_id", how="left")
+        elo[t1] = e1 + K * (s1 - p1)
+        elo[t2] = e2 + K * ((1 - s1) - (1 - p1))
+        rows.append({
+            "match_id":          str(row["match_id"]),
+            "elo_team1_before":  e1,
+            "elo_team2_before":  e2,
+            "p_pre_match":       p1,
+        })
+    return pd.DataFrame(rows)
 
-matches = compute_elo(matches)
+# Run Elo independently for each format
+ipl_elo  = compute_elo(matches[matches["source"] == "ipl"].copy())
+t20i_elo = compute_elo(matches[matches["source"] == "t20i"].copy())
+elo_df   = pd.concat([ipl_elo, t20i_elo], ignore_index=True)
+
+matches["match_id"] = matches["match_id"].astype(str)
+matches = matches.merge(elo_df, on="match_id", how="left")
 
 
 # ════════════════════════════════════════════════════════════════════════════
@@ -589,7 +662,7 @@ logloss_cal = log_loss(te["y"], p_cal_test)
 te_i2 = te[te["innings"] == 2].copy()
 
 print("\n" + "=" * 70)
-print("EVALUATION REPORT — TEST SET (v9 / Quantile Spread)")
+print("EVALUATION REPORT — TEST SET (v10 / IPL + T20I Combined)")
 print("=" * 70)
 
 print(f"\n── Overall ──────────────────────────────────────────────────────────")
@@ -598,9 +671,8 @@ print(f"  LR baseline      Brier: {brier_score_loss(test_i2['y'], p_lr_test):.4f
 print(f"  LGB raw          Brier: {brier_score_loss(te['y'], p_raw_test):.4f}")
 print(f"  BEST ({best_cal:11s}) Brier: {brier_overall:.4f}  LogLoss: {logloss_cal:.4f}")
 print(f"  vs 0.25 baseline      : {(0.25-brier_overall)/0.25*100:.1f}% better")
+print(f"  v9 (Quantile Spread)  : update after v9 run")
 print(f"  v8b (Wave 4b) was     : 0.1724")
-print(f"  v7 (Wave 3) was       : 0.1720")
-print(f"  v9 ΔBrier vs v8b      : {0.1724-brier_overall:+.4f}")
 
 print(f"\n── By innings ───────────────────────────────────────────────────────")
 for inn in [1, 2]:
@@ -628,23 +700,33 @@ inn1_b = brier_score_loss(te[te["innings"]==1]["y"], te[te["innings"]==1]["p_cal
 inn2_b = brier_score_loss(te[te["innings"]==2]["y"], te[te["innings"]==2]["p_cal"])
 print(f"""
 ── Benchmark ────────────────────────────────────────────────────────
-  ┌─────────────────────────────────────────────┬───────────┬────────────┐
-  │ Model                                       │   Brier   │  Setting   │
-  ├─────────────────────────────────────────────┼───────────┼────────────┤
-  │ Always 50%                                  │   0.2500  │  —         │
-  │ LR (Bailey & Clarke 2006)                   │ ~0.210    │  ODI/T20   │
-  │ RF (Sankaranarayanan 2014)                  │ ~0.195    │  T20       │
-  │ v5 (pre-Wave 2)                             │   0.1942  │  IPL T20   │
-  │ v6 (Wave 2)                                 │   0.1744  │  IPL T20   │
-  │ v7 (Wave 3)                                 │   0.1720  │  IPL T20   │
-  │ v8b (Wave 4b)                               │   0.1724  │  IPL T20   │
-  │ v9 (Quantile Spread)                        │  {brier_overall:.4f}  │  IPL T20   │
-  │ SOTA (deep learning)                        │ ~0.165    │  T20 intl  │
-  └─────────────────────────────────────────────┴───────────┴────────────┘
+  ┌─────────────────────────────────────────────┬───────────┬────────────────┐
+  │ Model                                       │   Brier   │  Setting       │
+  ├─────────────────────────────────────────────┼───────────┼────────────────┤
+  │ Always 50%                                  │   0.2500  │  —             │
+  │ LR (Bailey & Clarke 2006)                   │ ~0.210    │  ODI/T20       │
+  │ RF (Sankaranarayanan 2014)                  │ ~0.195    │  T20           │
+  │ v5 (pre-Wave 2)                             │   0.1942  │  IPL T20       │
+  │ v6 (Wave 2)                                 │   0.1744  │  IPL T20       │
+  │ v7 (Wave 3)                                 │   0.1720  │  IPL T20       │
+  │ v8b (Wave 4b)                               │   0.1724  │  IPL T20       │
+  │ v9 (Quantile Spread)                        │  update   │  IPL T20       │
+  │ v10 (IPL + T20I)                            │  {brier_overall:.4f}  │  IPL + T20I    │
+  │ SOTA (deep learning)                        │ ~0.165    │  T20 intl      │
+  └─────────────────────────────────────────────┴───────────┴────────────────┘
   Inn-1: {inn1_b:.4f}  (v8b=0.2308, v7=0.2297)
   Inn-2: {inn2_b:.4f}  (v8b=0.1088, v7=0.1093)
   Cal: {best_cal}  T={T_opt:.4f}   Gap: {brier_overall-0.15:.3f}
 """)
+
+# ── Per-source breakdown ──────────────────────────────────────────────────────
+if "source" in te.columns:
+    print("── By source ────────────────────────────────────────────────────────")
+    for src in ["ipl", "t20i"]:
+        s = te[te["source"] == src]
+        if len(s):
+            print(f"  {src.upper():5s}: Brier={brier_score_loss(s['y'], s['p_cal']):.4f} (n={len(s):,})")
+
 print("=" * 70)
 
 
@@ -675,10 +757,10 @@ pri2 = model_W.predict_proba(test_i2[WIN_FEATURES])[:, 1]
 pci2 = apply_cal(model_W, test_i2[WIN_FEATURES])
 plot_reliability(test_i2["y"], [p_lr_test, pri2, pci2],
                  ["LR", "LGB raw", f"LGB {best_cal}"],
-                 "Reliability Inn2 (v9)", "reliability_innings2.png")
+                 "Reliability Inn2 (v10)", "reliability_innings2.png")
 plot_reliability(te["y"], [p_raw_test, p_cal_test],
                  ["raw", best_cal],
-                 "Reliability Both (v9)", "reliability_both_innings.png")
+                 "Reliability Both (v10)", "reliability_both_innings.png")
 
 def plot_match(mid, state, model, wf, matches):
     mdf = state[state["match_id"]==mid].copy()

@@ -1,0 +1,214 @@
+Output folder  : /Users/nehasharma/personal_project/output
+Log file       : output/logs/run_20260311_170803.txt
+
+IPL balls: loading from data/ipl_balls_wave4b.csv
+IPL  — matches: 1,169  balls: 278,205
+T20I balls: loading from data/t20i_balls_wave4b.csv
+T20I — matches: 1,359  balls: 311,519
+
+Combined — matches: 2,528  balls: 589,724
+  IPL  : 1,169 matches
+  T20I : 1,359 matches
+Weather features: ['temp_max_c', 'humidity_eve_pct', 'cloud_cover_eve_pct', 'dew_point_eve_c', 'precipitation_mm']
+
+Computing partnership features...
+
+Legal balls — min:0 max:120
+INFO: defaulting to evening.
+
+Venue avg total (global mean=162.7)
+
+State table: (589724, 66)  Win rate: 0.479
+
+Post-toss Brier: 0.2289
+Split — train:<2022-05-19  val:2022-05-19–2023-10-30  test:>2023-10-30
+
+INN1_FEATURES (30): ['runs_so_far', 'balls_remaining_before', 'wickets_lost', 'runs_last_12', 'wickets_last_12', 'phase', 'venue_avg_total', 'is_day_match', 'season_phase', 'batting_strength_remaining', 'bowling_strength_remaining', 'wickets_remaining_weighted', 'partnership_runs', 'partnership_balls', 'batsman_sr_2yr', 'batsman_boundary_pct_2yr', 'batsman_dot_pct_2yr', 'bowler_economy_2yr', 'bowler_dot_pct_2yr', 'momentum_index', 'over_par', 'bowler_is_pace', 'batsman_sr_vs_pace', 'batsman_sr_vs_spin', 'pace_spin_sr_diff', 'temp_max_c', 'humidity_eve_pct', 'cloud_cover_eve_pct', 'dew_point_eve_c', 'precipitation_mm']
+
+Model T — Optuna (50 trials)...
+  Best MAE: 17.814
+
+MAE by over (val):
+over_number
+0     25.195360
+1     25.154774
+2     24.145866
+3     23.694322
+4     22.973577
+5     22.525467
+6     21.326770
+7     20.745120
+8     19.289152
+9     18.361459
+10    17.338541
+11    16.736038
+12    15.919822
+13    14.982127
+14    14.243585
+15    13.396897
+16    12.044833
+17    10.232091
+18     9.166523
+19     7.840383
+
+── Quantile spread (p75-p25) by over ───────────────────────────────
+over_number
+0     21.962032
+1     21.387441
+2     20.674437
+3     20.025664
+4     19.224575
+5     18.149592
+6     16.984483
+7     15.969380
+8     15.856141
+9     14.931437
+10    14.043190
+11    12.867991
+12    12.042239
+13    11.355707
+14    10.678192
+15     9.471795
+16     8.510501
+17     7.563717
+18     6.802515
+19     5.190309
+
+── Model T feature importances ─────────────────────────────────────
+  venue_avg_total                     ██████████████████████████████
+  humidity_eve_pct                    █████████████████████████████
+  runs_so_far                         █████████████████████████
+  batting_strength_remaining          █████████████████████████
+  wickets_remaining_weighted          ████████████████████████
+  dew_point_eve_c                     ████████████████████████
+  wickets_lost                        ███████████████████████
+  temp_max_c                          ██████████████████████
+  cloud_cover_eve_pct                 ███████████████████
+  balls_remaining_before              █████████████████
+  batsman_boundary_pct_2yr            █████████████
+  over_par                            █████████████
+  precipitation_mm                    ███████████
+  batsman_dot_pct_2yr                 ██████████
+  batsman_sr_2yr                      █████████
+  batsman_sr_vs_spin                  █████████
+  batsman_sr_vs_pace                  ████████
+  pace_spin_sr_diff                   ████████
+  season_phase                        ██████
+  bowler_economy_2yr                  ██████
+  bowler_dot_pct_2yr                  ████
+  runs_last_12                        ██
+  partnership_runs                    ██
+  bowling_strength_remaining          ██
+  wickets_last_12                     ██
+  phase                               ██
+  partnership_balls                   █
+  momentum_index                      
+  is_day_match                        
+  bowler_is_pace                      
+
+Quantile band margin (p05/p95): ±6.5
+
+── Quantile spread stats ───────────────────────────────────────────
+  Innings 1: mean=13.5  std=10.7  min=0.0  max=124.5
+  Innings 2: mean=0.0  std=0.0  min=0.0  max=0.0
+
+Split — tr:414,707  vl:59,174  te:115,843
+
+LR baseline Brier: 0.1350
+
+Model W — tr:414,707  vl:59,174  te:115,843
+WIN_FEATURES (22): ['p_post_toss', 'elo_diff', 'innings', 'wickets_lost', 'wickets_remaining', 'current_rr', 'proj_total', 'runs_needed', 'required_rr', 'rr_diff', 'venue_avg_total', 'batting_strength_remaining', 'wickets_remaining_weighted', 'pressure_index', 'proj_total_p25', 'proj_total_p75', 'proj_total_spread', 'temp_max_c', 'humidity_eve_pct', 'cloud_cover_eve_pct', 'dew_point_eve_c', 'precipitation_mm']
+
+Model W — Optuna (60 trials)...
+  Best val Brier: 0.1551
+  Top 5:
+    # 11 Brier=0.1551 leaves=35 lr=0.0051
+    # 42 Brier=0.1551 leaves=32 lr=0.0139
+    # 54 Brier=0.1553 leaves=32 lr=0.0106
+    # 13 Brier=0.1555 leaves=38 lr=0.0103
+    # 18 Brier=0.1556 leaves=32 lr=0.0051
+
+── Calibration ─────────────────────────────────────────────────────
+  T = 0.9566
+  Val — raw:0.1551  Platt:0.1574  temp:0.1552
+  Best: raw
+
+======================================================================
+EVALUATION REPORT — TEST SET (v10 / IPL + T20I Combined)
+======================================================================
+
+── Overall ──────────────────────────────────────────────────────────
+  Always-50%       Brier: 0.2500
+  LR baseline      Brier: 0.1350
+  LGB raw          Brier: 0.1503
+  BEST (raw        ) Brier: 0.1503  LogLoss: 0.4552
+  vs 0.25 baseline      : 39.9% better
+  v9 (Quantile Spread)  : update after v9 run
+  v8b (Wave 4b) was     : 0.1724
+
+── By innings ───────────────────────────────────────────────────────
+  Inn 1: Brier=0.2067 (n=61,308)
+  Inn 2: Brier=0.0868 (n=54,441)
+
+── By phase ─────────────────────────────────────────────────────────
+  PP (1-6)       : Brier=0.1632 (n=38,268)
+  Mid (7-15)     : Brier=0.1429 (n=53,394)
+  Death (16-20)  : Brier=0.1461 (n=24,181)
+
+── RRR buckets (inn 2) ──────────────────────────────────────────────
+  Easy (<6)      : Brier=0.0554 (n=8,564)
+  Mod (6-8)      : Brier=0.0923 (n=9,196)
+  Hard (8-10)    : Brier=0.1284 (n=13,328)
+  VHard (>10)    : Brier=0.0738 (n=22,847)
+
+── Feature importances (Model W) ────────────────────────────────────
+  elo_diff                            ██████████████████████████████
+  batting_strength_remaining          ████████████████████████
+  proj_total_p75                      █████████████████
+  venue_avg_total                     █████████████████
+  wickets_lost                        ████████████████
+  pressure_index                      ████████████████
+  wickets_remaining_weighted          ███████████████
+  p_post_toss                         ██████████████
+  humidity_eve_pct                    █████████████
+  cloud_cover_eve_pct                 ████████████
+  proj_total_p25                      ████████████
+  rr_diff                             ████████████
+  required_rr                         ███████████
+  temp_max_c                          ███████████
+  dew_point_eve_c                     █████████
+  runs_needed                         █████
+  proj_total                          █████
+  precipitation_mm                    ███
+  wickets_remaining                   ██
+  innings                             █
+  proj_total_spread                   
+  current_rr                          
+
+── Benchmark ────────────────────────────────────────────────────────
+  ┌─────────────────────────────────────────────┬───────────┬────────────────┐
+  │ Model                                       │   Brier   │  Setting       │
+  ├─────────────────────────────────────────────┼───────────┼────────────────┤
+  │ Always 50%                                  │   0.2500  │  —             │
+  │ LR (Bailey & Clarke 2006)                   │ ~0.210    │  ODI/T20       │
+  │ RF (Sankaranarayanan 2014)                  │ ~0.195    │  T20           │
+  │ v5 (pre-Wave 2)                             │   0.1942  │  IPL T20       │
+  │ v6 (Wave 2)                                 │   0.1744  │  IPL T20       │
+  │ v7 (Wave 3)                                 │   0.1720  │  IPL T20       │
+  │ v8b (Wave 4b)                               │   0.1724  │  IPL T20       │
+  │ v9 (Quantile Spread)                        │  update   │  IPL T20       │
+  │ v10 (IPL + T20I)                            │  0.1503  │  IPL + T20I    │
+  │ SOTA (deep learning)                        │ ~0.165    │  T20 intl      │
+  └─────────────────────────────────────────────┴───────────┴────────────────┘
+  Inn-1: 0.2067  (v8b=0.2308, v7=0.2297)
+  Inn-2: 0.0868  (v8b=0.1088, v7=0.1093)
+  Cal: raw  T=0.9566   Gap: 0.000
+
+======================================================================
+Saved: output/plots/reliability_innings2.png
+Saved: output/plots/reliability_both_innings.png
+
+Models → output/models/
+Plots  → output/plots/
+Log    → output/logs/run_20260311_170803.txt
+Pipeline complete.
