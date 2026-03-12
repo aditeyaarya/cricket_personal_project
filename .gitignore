@@ -1,3 +1,9 @@
 # Ignore all YAML files
+data/all_balls.csv
+data/all1_balls.csv
+output/
+*.log
+__pycache__/
+*.pyc
 *.yaml
 *.yml
