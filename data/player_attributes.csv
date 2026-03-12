@@ -1,172 +1,803 @@
 player_name,cricsheet_id,batting_hand,bowling_style_raw,bowling_group,role
+A Aravinddaraj,21d38d47,RHB,right-arm medium,pace,
 A Ashish Reddy,1c2a64cd,RHB,right-arm medium,pace,allrounder
+A Ashok,321be7e3,RHB,legbreak googly,spin,bowler
+A Athanaze,58c2fac4,LHB,right-arm offbreak,spin,batsman
+A Awasthi,fa62a463,RHB,none,none,
+A Ayre,a09eb585,LHB,none,none,
 A Badoni,872b03f7,RHB,right-arm offbreak,spin,batsman
+A Balbirnie,6ef13460,RHB,right-arm offbreak,spin,batsman
+A Bharwad,3cc96a05,RHB,none,none,wk_batsman
+A Bohara,64fb6b15,RHB,right-arm medium,pace,bowler
+A Busing-Volschenk,e9e37173,RHB,right-arm medium,pace,allrounder
 A Chandila,99b202b3,RHB,right-arm offbreak,spin,allrounder
 A Chopra,e249fdaa,RHB,right-arm medium,pace,batsman
 A Choudhary,18e6906e,RHB,left-arm medium,pace,bowler
 A Dananjaya,5b16a806,LHB,right-arm offbreak,spin,allrounder
+A Dutt,803dbf1d,RHB,right-arm offbreak,spin,bowler
 A Flintoff,ddc0828d,RHB,right-arm fast-medium,pace,allrounder
+A G Pradeep,d5eed764,RHB,right-arm offbreak,spin,
+A Gqamane,a83c44b8,RHB,right-arm fast-medium,pace,allrounder
+A Johnson,a28a7fba,RHB,right-arm offbreak,spin,batsman
 A Kamboj,fcc21ace,RHB,right-arm medium,pace,bowler
+A Karn,357f5314,RHB,left-arm medium,pace,bowler
+A Khan,e27cff77,RHB,right-arm fast-medium,pace,bowler
 A Kumble,0c2730df,RHB,legbreak googly,spin,bowler
+A Lyth,70b8fd28,LHB,right-arm offbreak,spin,batsman
 A Manohar,0890552f,RHB,legbreak googly,spin,allrounder
+A Martin,3cacbb57,RHB,legbreak,spin,bowler
 A Mhatre,b2b4f545,RHB,right-arm offbreak,spin,allrounder
 A Mishra,6b19d823,RHB,legbreak,spin,bowler
 A Mithun,66cf56a5,RHB,right-arm medium,pace,bowler
 A Mukund,6165bca6,LHB,legbreak googly,spin,batsman
+A Nagwaswalla,01ada0ed,RHB,left-arm medium,pace,bowler
+A Nao,4d1ec7eb,RHB,right-arm medium,pace,bowler
+A Ndlovu,3abe1ef6,RHB,slow left-arm orthodox,spin,bowler
 A Nehra,96fd40ae,RHB,left-arm medium-fast,pace,bowler
+A Neill,4957b300,RHB,right-arm medium,pace,bowler
 A Nel,2503e881,RHB,right-arm fast-medium,pace,bowler
 A Nortje,acdc62f5,RHB,right-arm fast,pace,bowler
+A Palkar,c4ab5dd8,RHB,right-arm medium,pace,
+A Panwar,3ae26eeb,RHB,right-arm medium-fast,pace,
+A Poulose,b481216d,RHB,right-arm medium,pace,
+A Prateek Reddy,22850fa3,LHB,none,none,
+A Pratyush Kumar,1b5c4924,RHB,right-arm medium,pace,
 A Raghuvanshi,d7017798,RHB,slow left-arm orthodox,spin,batsman
+A Shahzad,a73321d3,RHB,right-arm fast-medium,pace,bowler
+A Sharafu,06cad4f0,RHB,right-arm medium,pace,batsman
+A Sharma,a3ead8da,RHB,right-arm medium-fast,pace,
+A Sheth,4312e8f9,RHB,right-arm medium,pace,allrounder
+A Shukla,a1e80d06,RHB,right-arm medium,pace,bowler
+A Simelane,ebb74564,RHB,right-arm fast,pace,allrounder
 A Singh,5b040b81,RHB,right-arm medium-fast,pace,bowler
+A Singhania,791a65ce,RHB,slow left-arm orthodox,spin,
 A Symonds,bd77eb62,RHB,right-arm medium,pace,allrounder
+A Thapa,b66a5046,LHB,slow left-arm orthodox,spin,
 A Tomar,aa5d8c9e,RHB,right-arm offbreak,spin,batsman
 A Uniyal,fdcb08c2,LHB,left-arm medium,pace,
+A Vala,72e60730,LHB,right-arm offbreak,spin,batsman
 A Zampa,14f96089,RHB,legbreak googly,spin,bowler
+AA Bamal,6a58e069,LHB,slow left-arm orthodox,spin,allrounder
+AA Barot,b690f34a,RHB,right-arm offbreak,spin,
 AA Bilakhia,bff458c6,RHB,right-arm medium,pace,
+AA Chakraborty,44e58b5b,RHB,slow left-arm orthodox,spin,
 AA Chavan,29d72eb2,LHB,slow left-arm orthodox,spin,batsman
+AA Choudhury,b2c38dce,RHB,slow left-arm orthodox,spin,
+AA Herwadkar,4ed49d3d,LHB,right-arm offbreak,spin,batsman
+AA Jangoo,88626ed2,LHB,none,none,wk_batsman
 AA Jhunjhunwala,2815fe50,RHB,right-arm offbreak,spin,batsman
+AA Kargave,d912dd58,LHB,right-arm offbreak,spin,
 AA Kazi,16605a1b,LHB,slow left-arm orthodox,spin,bowler
 AA Kulkarni,2d140b79,RHB,right-arm medium,pace,allrounder
 AA Noffke,b69e69ed,RHB,right-arm fast-medium,pace,allrounder
+AA Obanda,7081491e,RHB,right-arm medium-fast,pace,batsman
+AA Sanklecha,90a5e58a,LHB,right-arm medium-fast,pace,
+AA Sarwate,8996a9a0,RHB,slow left-arm orthodox,spin,allrounder
+AAP Atkinson,70d57519,RHB,right-arm fast-medium,pace,bowler
 AB Agarkar,fa463154,RHB,right-arm fast,pace,bowler
 AB Barath,d3a3e82d,RHB,right-arm offbreak,spin,batsman
+AB Bhadoriya,1760e2c7,RHB,slow left-arm orthodox,spin,
 AB Dinda,66b30f71,RHB,right-arm medium-fast,pace,bowler
 AB McDonald,16043342,RHB,right-arm fast-medium,pace,allrounder
 AB de Villiers,c4487b84,RHB,right-arm medium,pace,wk_batsman
+ABB Sangma,57c81c1f,LHB,right-arm medium-fast,pace,
+AC Agar,a2421394,LHB,slow left-arm orthodox,spin,bowler
 AC Blizzard,1efb8a28,LHB,left-arm medium,pace,batsman
+AC Botha,d8e79af0,LHB,right-arm medium,pace,allrounder
+AC Evans,e9a870ed,RHB,right-arm medium-fast,pace,bowler
 AC Gilchrist,2b6e6dec,LHB,right-arm offbreak,spin,wk_batsman
+AC McDermott,956887b2,RHB,right-arm fast-medium,pace,bowler
 AC Thomas,b552a935,RHB,right-arm fast-medium,pace,bowler
 AC Voges,864c199e,RHB,slow left-arm orthodox,spin,batsman
+ACL Richards,a3d329d7,LHB,right-arm medium,pace,batsman
+AD Chopra,40737b8d,LHB,right-arm offbreak,spin,batsman
 AD Hales,92aeac25,RHB,right-arm medium,pace,batsman
 AD Mascarenhas,3edb58fc,RHB,right-arm fast-medium,pace,allrounder
 AD Mathews,896d78ad,RHB,right-arm medium,pace,allrounder
 AD Nath,f10e94c4,RHB,right-arm medium-fast,pace,batsman
+AD Poynter,b98cdbf0,RHB,right-arm offbreak,spin,batsman
 AD Russell,bbd41817,RHB,right-arm fast,pace,allrounder
+ADS Fletcher,1bae756b,RHB,right-arm medium-fast,pace,batsman
+AF Buurman,03d3dd8e,RHB,none,none,wk_batsman
 AF Milne,350bb1b1,RHB,right-arm fast,pace,bowler
+AG Cremer,9f0270e0,RHB,legbreak googly,spin,bowler
+AG Jungade,1d44cade,RHB,right-arm medium,pace,
 AG Murtaza,ef5da05c,LHB,slow left-arm orthodox,spin,bowler
 AG Paunikar,3a02626a,RHB,none,none,wk_batsman
+AG Prince,035cb925,LHB,right-arm offbreak,spin,batsman
+AG Rao,0420f51f,RHB,right-arm offbreak,spin,
+AG Sehrawat,1bd8d47d,RHB,none,none,
+AGS Gous,d1305df0,RHB,none,none,wk_batsman
+AH Hooda,e4072aa1,RHB,right-arm medium,pace,bowler
+AH Passi,21fde4d1,RHB,none,none,
+AI Ross,fb0d68b4,RHB,right-arm offbreak,spin,batsman
+AJ Crosthwaite,0c8836b6,RHB,legbreak googly,spin,batsman
+AJ Doolan,36eafb02,RHB,none,none,batsman
 AJ Finch,b8d490fd,RHB,slow left-arm orthodox,spin,batsman
+AJ Hall,6b0c3a20,RHB,right-arm fast-medium,pace,allrounder
+AJ Hose,104e88a4,RHB,right-arm medium-fast,pace,batsman
 AJ Hosein,4d7f517e,LHB,slow left-arm orthodox,spin,bowler
+AJ Kaushik,16d029ec,RHB,none,none,
+AJ McKay,de3acffe,RHB,left-arm fast-medium,pace,bowler
+AJ Mosca,19c56e6e,RHB,none,none,batsman
+AJ Nair,4ba2c04d,RHB,right-arm offbreak,spin,bowler
+AJ Redmond,48f177f5,RHB,legbreak,spin,batsman
+AJ Staal,62c713bf,RHB,legbreak googly,spin,batsman
+AJ Strauss,b68d14a9,LHB,left-arm medium,pace,batsman
 AJ Turner,ff1e12a0,RHB,right-arm offbreak,spin,batsman
 AJ Tye,7c7d63a2,RHB,right-arm medium-fast,pace,bowler
+AK Chahal,1501688a,RHB,right-arm medium,pace,
+AK Heal,78ba5d1b,LHB,slow left-arm orthodox,spin,bowler
+AK Kitchen,63a1874a,RHB,slow left-arm orthodox,spin,batsman
+AK Mandal,defd49f6,RHB,none,none,batsman
 AK Markram,6a26221c,RHB,right-arm offbreak,spin,batsman
+AK Perera,c8ad0749,RHB,slow left-arm orthodox,spin,allrounder
+AK Sah,5b1d6583,RHB,right-arm offbreak,spin,wk_batsman
+AK Sarkar,92cadfe2,RHB,right-arm medium,pace,
+AKS Bains,cb932841,RHB,none,none,wk_batsman
+AL Fekete,029c4618,RHB,right-arm fast-medium,pace,bowler
 AL Menaria,8291f939,LHB,slow left-arm orthodox,spin,allrounder
+AL Phehlukwayo,ab6b1c45,LHB,right-arm medium-fast,pace,allrounder
+AM Blignaut,80ec5dfd,LHB,right-arm medium-fast,pace,allrounder
+AM Ellis,f987245c,RHB,right-arm fast-medium,pace,allrounder
+AM Fernando,de3d549a,RHB,right-arm medium-fast,pace,bowler
+AM Hardie,d405c0d5,RHB,right-arm medium-fast,pace,allrounder
+AM Joshi,748b7a38,RHB,none,none,
+AM McCarthy,7f148ce7,RHB,right-arm offbreak,spin,batsman
 AM Nayar,a45a5e8d,LHB,right-arm medium,pace,allrounder
+AM Phangiso,7f8ecc51,RHB,slow left-arm orthodox,spin,bowler
 AM Rahane,29e95537,RHB,right-arm medium,pace,batsman
+AM Reddy,8360c9b9,RHB,right-arm offbreak,spin,
+AM Rossington,7bcde3fe,RHB,none,none,wk_batsman
 AM Salvi,260fd380,RHB,right-arm medium,pace,bowler
+AM Tribe,86f84b37,RHB,right-arm offbreak,spin,batsman
 AN Ahmed,2af1b6d2,RHB,right-arm medium-fast,pace,bowler
+AN Chauhan,b40d4f63,RHB,right-arm medium,pace,
+AN Cook,f41598c1,LHB,right-arm slow,none,batsman
 AN Ghosh,7023d182,RHB,right-arm medium,pace,batsman
+AN Kervezee,dc36a6a5,RHB,right-arm medium,pace,batsman
+AN Longchar,04cd8289,LHB,slow left-arm orthodox,spin,
+AN Petersen,e01aafc1,RHB,right-arm offbreak,spin,batsman
+AO Suji,b15eaf77,RHB,right-arm medium,pace,allrounder
+AP Devcich,ed90abe4,LHB,slow left-arm orthodox,spin,batsman
 AP Dole,dbc50253,RHB,right-arm medium-fast,pace,bowler
 AP Majumdar,f4cb4f53,RHB,legbreak googly,spin,
+AP O'Connor,46804558,RHB,right-arm medium-fast,pace,allrounder
+AP Sharma,12f75dbd,LHB,slow left-arm orthodox,spin,
 AP Tare,855a210c,RHB,none,none,wk_batsman
+AQM Yako,3f4456f5,,none,none,
+AR Adams,525c3f54,RHB,right-arm fast-medium,pace,allrounder
 AR Bawne,afe3355a,RHB,right-arm offbreak,spin,batsman
+AR Beadle,bb1c1950,LHB,slow left-arm orthodox,spin,
+AR Bisht,80fe6790,RHB,right-arm offbreak,spin,batsman
+AR Cusack,568e5a4a,RHB,right-arm medium-fast,pace,bowler
+AR Easwaran,10b58586,RHB,legbreak googly,spin,batsman
+AR Keath,439083c2,RHB,right-arm medium,pace,
+AR Kumar,d1f63ad5,RHB,legbreak googly,spin,
+AR Lamba,e941cd33,RHB,right-arm medium,pace,bowler
+AR McBrine,e957b38f,LHB,right-arm offbreak,spin,allrounder
+AR Mokhade,e2f3201a,RHB,legbreak,spin,batsman
+AR Nurse,4a745f65,RHB,right-arm offbreak,spin,bowler
+AR Odedara,a7a6c1c2,RHB,slow left-arm orthodox,spin,batsman
+AR Pandey,dd73b2ff,LHB,right-arm medium,pace,
 AR Patel,2e171977,LHB,slow left-arm orthodox,spin,allrounder
+AR Ramjani,30d8136b,LHB,slow left-arm orthodox,spin,allrounder
+AR Rohera,1ae701d0,RHB,none,none,wk_batsman
+AR White,f27f89e8,RHB,right-arm offbreak,spin,allrounder
+ARB Singh,4d4e6658,RHB,right-arm medium,pace,
+AS Bedi,51e68a46,RHB,right-arm offbreak,spin,
 AS Joseph,b0946605,RHB,right-arm fast,pace,bowler
+AS Karambelkar,79194080,RHB,right-arm medium,pace,
+AS Kumar,771f3267,RHB,right-arm fast,pace,
 AS Rajpoot,db31895a,RHB,right-arm medium,pace,bowler
 AS Raut,c69a7b5c,RHB,legbreak googly,spin,allrounder
 AS Roy,e4cdf230,LHB,slow left-arm orthodox,spin,allrounder
+AS Surwar,5b4454d8,LHB,slow left-arm orthodox,spin,
+AS Thakare,aa7176ba,RHB,right-arm medium,pace,bowler
+AS Thakur,6366c83b,RHB,right-arm medium-fast,pace,
 AS Yadav,b9be6507,RHB,right-arm offbreak,spin,batsman
 AT Carey,69d03465,LHB,none,none,wk_batsman
+AT Nidamanuru,a319edf8,RHB,right-arm offbreak,spin,allrounder
 AT Rayudu,70d205c9,RHB,right-arm offbreak,spin,batsman
 AU Rashid,249d60c9,RHB,legbreak,spin,bowler
 AUK Pathan,3ae3f034,RHB,right-arm medium,pace,bowler
+AV Jaiswal,297b2240,RHB,right-arm offbreak,spin,
+AV Kolhar,e2b74f6e,RHB,right-arm offbreak,spin,
+AV Lalcheta,b858be20,LHB,slow left-arm orthodox,spin,allrounder
+AV Rajput,c1d3515b,RHB,right-arm medium-fast,pace,
+AV Wankhade,5708d0b6,RHB,right-arm medium,pace,batsman
+AW O'Brien,d29be810,LHB,slow left-arm orthodox,spin,
+AW Robinson,7001dee4,LHB,right-arm medium,pace,
+AW Summers,a35c119e,RHB,right-arm fast,pace,
+AWJ Auguste,4b167ede,LHB,legbreak,spin,batsman
+AY Patel,fbd4f01f,LHB,slow left-arm orthodox,spin,bowler
+Aakarshit Gomel,02f4b99c,RHB,slow left-arm orthodox,spin,
+Aakash Verma,24f5e41a,RHB,none,none,
+Aamer Azmat,935678ee,RHB,right-arm offbreak,spin,batsman
+Aamer Jamal,a8e54ef4,RHB,right-arm medium-fast,pace,allrounder
+Aamer Yamin,907d6e58,RHB,right-arm medium,pace,allrounder
+Aamir Aziz,f49989eb,RHB,slow left-arm orthodox,spin,
+Aamir Gani,2c3afa34,RHB,right-arm offbreak,spin,
+Aamir Kaleem,7ecb9a14,LHB,slow left-arm orthodox,spin,batsman
+Aanshul Gupta,71ee052e,RHB,right-arm offbreak,spin,
+Aaqib Khan,d290c5b5,RHB,right-arm medium,pace,bowler
+Aarif Sheikh,cd4d7695,RHB,right-arm medium,pace,batsman
+Aaron Jones,17aa4f1d,RHB,legbreak googly,spin,batsman
+Aarya Desai,8053c798,LHB,right-arm offbreak,spin,batsman
+Aasif Sheikh,dcbea954,RHB,none,none,wk_batsman
+Aayan Afzal Khan,d2d15439,RHB,slow left-arm orthodox,spin,allrounder
+Abbas Afridi,2cec2a92,RHB,right-arm medium-fast,pace,bowler
+Abdul Bangalzai,0251a22f,RHB,none,none,batsman
 Abdul Basith,cc777ffa,RHB,right-arm offbreak,spin,allrounder
+Abdul Nasir,494a0503,RHB,right-arm offbreak,spin,allrounder
+Abdul Razzaq,390ff45b,RHB,right-arm fast-medium,pace,allrounder
 Abdul Samad,8e514b4c,RHB,legbreak,spin,batsman
+Abdullah Shafique,fc2fffb5,RHB,right-arm offbreak,spin,batsman
 Abdur Razzak,888e32bf,LHB,slow left-arm orthodox,spin,bowler
+Abdur Rehman,d094e7d1,LHB,slow left-arm orthodox,spin,bowler
+Abhay,778062fb,RHB,right-arm offbreak,spin,
+Abhay Negi,481dd6dc,RHB,right-arm medium,pace,allrounder
+Abhijeet Saket,5fd3f9db,RHB,right-arm medium,pace,
+Abhijit Roy,ef131544,LHB,none,none,
+Abhilash Gogoi,ab922bd0,RHB,slow left-arm orthodox,spin,bowler
+Abhilash Mallick,56fd4f68,RHB,slow left-arm orthodox,spin,
+Abhimanyu Chauhan,539d9b74,RHB,right-arm medium-fast,pace,
+Abhimanyu Rana,c224c5ef,LHB,slow left-arm orthodox,spin,
+Abhinav Dixit,f1a7f596,RHB,right-arm offbreak,spin,
+Abhinav Srivastava,2eca546a,RHB,right-arm medium-fast,pace,
+Abhisek Das,f4cd319e,RHB,right-arm offbreak,spin,
+Abhishek Bhandari,18953b31,RHB,none,none,
+Abhishek Goswami,53c5c146,RHB,right-arm offbreak,spin,batsman
+Abhishek Gupta,22a2a635,RHB,none,none,
+Abhishek Mohan,cdc4604c,LHB,right-arm medium,pace,
+Abhishek Pandey,8bf38500,RHB,none,none,
+Abhishek Sakuja,a92a9292,LHB,slow left-arm orthodox,spin,
 Abhishek Sharma,f29185a1,LHB,slow left-arm orthodox,spin,allrounder
+Abhishek Tanwar,c8ded7bc,RHB,right-arm medium,pace,allrounder
+Abhishek Thakuri,ff9c2522,LHB,none,none,
+Abhishek Yadav,bca46fdb,LHB,none,none,
+Abid Mushtaq,f9979b69,RHB,none,none,
 Abishek Porel,ad3b6e95,LHB,none,none,wk_batsman
+Abrar Ahmed,abb7c76c,RHB,legbreak googly,spin,bowler
+Abu Hider,31803fac,RHB,left-arm fast-medium,pace,allrounder
+Abu Jayed,1bb0993e,RHB,right-arm fast-medium,pace,bowler
+Abul Hasan,5c756df3,LHB,right-arm medium-fast,pace,bowler
+Achit Shigwan,95f2b15b,RHB,right-arm medium,pace,
+Adil Amin,87addb93,RHB,right-arm offbreak,spin,
+Adil Reshi,8d4653f3,RHB,right-arm medium,pace,
+Aditya,b6b1155c,,none,none,
+Aditya Garhwal,8e02f42b,RHB,legbreak googly,spin,
+Aditya Jadeja,c0c4b2e9,LHB,left-arm medium,pace,
+Aditya Kaushik,9a2d95ac,RHB,none,none,batsman
+Aditya Rout,56182069,RHB,right-arm medium,pace,
+Aditya Singh,05d9e607,RHB,right-arm medium,pace,
+Aditya Waghmode,eb67df8f,LHB,right-arm offbreak,spin,
+Adnan Ilyas,d376bbaa,RHB,right-arm medium,pace,
+Adnan Rasool,b8a75ca8,RHB,right-arm offbreak,spin,
+Afif Hossain,37138918,LHB,right-arm offbreak,spin,allrounder
+Aftab Ahmed,53bc7b84,RHB,right-arm medium,pace,batsman
+Aftab Ibrahim,8d42cee6,RHB,right-arm medium-fast,pace,
+Agha Salman,89c16049,RHB,right-arm offbreak,spin,allrounder
+Agniv Pan,6359ffe3,LHB,none,none,wk_batsman
+Agrim Tiwari,beb2a972,RHB,left-arm medium,pace,bowler
+Ahitesh Varma,6d97efab,LHB,slow left-arm orthodox,spin,
+Ahmed Banday,2f9a41e7,RHB,right-arm medium,pace,
+Ahmed Daniyal,9656afbf,RHB,right-arm medium-fast,pace,bowler
+Ahmed Faiz,e6313a2b,RHB,right-arm offbreak,spin,
+Ahmed Raza,79b4839e,RHB,slow left-arm orthodox,spin,bowler
+Ahmed Safi Abdullah,fb23118c,LHB,slow left-arm orthodox,spin,allrounder
+Ahmed Shah,63500b26,LHB,slow left-arm orthodox,spin,batsman
+Ahmed Shehzad,f8fd6e3f,RHB,legbreak,spin,batsman
+Ahsan Ali,dc2abe5e,RHB,legbreak,spin,batsman
+Ahsan Hafeez,86229495,LHB,slow left-arm orthodox,spin,allrounder
+Ahsan Malik,96503059,RHB,right-arm medium-fast,pace,bowler
+Aimal Khan,774e65b3,RHB,right-arm medium,pace,
+Ainool Hafizs,1bada9da,RHB,right-arm medium,pace,batsman
+Aishwary Mourya,ea3a41e0,RHB,right-arm medium-fast,pace,
+Aizaz Cheema,5441db8c,RHB,right-arm medium-fast,pace,bowler
+Aizaz Khan,f6c2659d,RHB,right-arm medium-fast,pace,allrounder
+Ajay Dev Goud,9d7ad127,RHB,right-arm medium,pace,
+Ajay Kumar,ea02d56d,RHB,right-arm medium,pace,
+Ajay Mandal,31ee319e,LHB,slow left-arm orthodox,spin,allrounder
+Ajay Pradhan,700edf8d,RHB,slow left-arm orthodox,spin,
+Ajay Sarkar,10636efb,RHB,right-arm medium,pace,bowler
+Ajay Yadav,752e972f,RHB,right-arm medium-fast,pace,
+Akash Bhandari,c2ce55cb,RHB,legbreak,spin,bowler
+Akash Choudhary,0f60513c,RHB,right-arm medium-fast,pace,
 Akash Deep,0a67aec0,RHB,right-arm fast-medium,pace,bowler
+Akash Luitel,8799dc6d,LHB,left-arm medium-fast,pace,
 Akash Madhwal,4bd09374,RHB,right-arm medium-fast,pace,bowler
+Akash Pandey,f691e227,LHB,slow left-arm orthodox,spin,
+Akash Parkar,f992200b,RHB,right-arm medium,pace,
+Akash Raj,f4271f06,RHB,right-arm medium-fast,pace,
+Akash Sengupta,bb3ccb17,RHB,right-arm medium,pace,
 Akash Singh,b483905d,RHB,left-arm medium-fast,pace,bowler
+Akash Sudan,3d930abb,LHB,right-arm medium,pace,
+Akash Vasisht,35ccfdd4,LHB,slow left-arm orthodox,spin,allrounder
+Akbar Khan,ce352f02,,none,none,
+Akbar-ur-Rehman,1a772306,RHB,legbreak googly,spin,allrounder
+Akhil Rajput,0c0eb448,LHB,right-arm offbreak,spin,
+Akhilesh Sahani,d6ac52e8,,none,none,
+Akif Javed,99d7d5b7,RHB,left-arm medium-fast,pace,bowler
+Akif Raja,9d0344f3,,none,none,
+Akoijam Singh,b225693c,RHB,right-arm medium,pace,
+Akshat Raghuwanshi,d8d67045,RHB,right-arm offbreak,spin,batsman
+Akshay Chandran,f0f5b2aa,LHB,slow left-arm orthodox,spin,batsman
+Akshay Jain,cd626284,RHB,slow left-arm orthodox,spin,bowler
+Akshay Karnewar,e1e7f950,LHB,right-arm offbreak,spin,bowler
+Akshay Wadkar,c88c8a7d,RHB,none,none,wk_batsman
+Akshay Wakhare,ec9fc54b,RHB,right-arm offbreak,spin,bowler
+Al Bashid Muhammed,1dc27b6b,RHB,none,none,
+Al-Amin Hossain,3f5f39cd,RHB,right-arm medium-fast,pace,bowler
+Ali Hasan,cae17490,RHB,left-arm medium-fast,pace,bowler
+Ali Khan,b0eaaac6,RHB,right-arm fast-medium,pace,bowler
+Ali Majid,0e9b0f64,RHB,legbreak googly,spin,bowler
+Ali Naseer,f5715b48,LHB,right-arm medium,pace,allrounder
+Ali Raza,db51b9a0,RHB,none,none,
+Ali Shafiq,7873a628,RHB,right-arm medium,pace,bowler
+Alok Kapali,54279e23,RHB,legbreak,spin,allrounder
+Alok Sahoo,47f75983,RHB,right-arm medium,pace,
+Amad Butt,c6a1b1bb,RHB,right-arm fast,pace,allrounder
 Aman Hakim Khan,378daa89,RHB,right-arm medium,pace,allrounder
+Amandeep Khare,6c6cc94c,RHB,right-arm medium,pace,
+Ambikeshwar Mishra,e1e6299a,LHB,none,none,
+Amiangshu Sen,42046ec9,RHB,right-arm medium,pace,
+Aminul Islam,8f82bd30,RHB,right-arm offbreak,spin,batsman
+Aminul Islam Biplob,f8ce577b,RHB,legbreak googly,spin,allrounder
+Amir Ali,3748955d,RHB,right-arm offbreak,spin,batsman
+Amir Hayat,5faa30f7,RHB,right-arm medium,pace,bowler
+Amit Ali,b54d8acf,RHB,legbreak,spin,allrounder
+Amit Chopra,cc36706f,RHB,none,none,
+Amit Kuila,8fd24bce,RHB,right-arm medium,pace,
+Amit Mishra,1d8388eb,RHB,right-arm medium,pace,
+Amit Pachhara,be271641,RHB,right-arm offbreak,spin,
+Amit Parashar,5c9c0aa6,RHB,none,none,batsman
+Amit Sinha,2f48362d,RHB,legbreak,spin,
+Amit Verma,3b30b8c4,LHB,legbreak,spin,allrounder
+Amit Yadav,907cb4c1,RHB,right-arm offbreak,spin,allrounder
+Amjad Javed,18eaf2fa,RHB,right-arm medium,pace,allrounder
+Amlanjyoti Das,8eaa058c,RHB,right-arm offbreak,spin,
+Amod Yadav,65d905ea,RHB,right-arm medium,pace,
+Amogh Desai,017e2f0d,RHB,right-arm offbreak,spin,
+Amos Rai,821403b6,RHB,legbreak googly,spin,bowler
+Amrit Lubana,e90ab434,RHB,right-arm offbreak,spin,
+Amulya Pandrekar,47ccd2bb,LHB,slow left-arm orthodox,spin,
+Anamul Haque,72b245dd,RHB,none,none,wk_batsman
+Anand Bais,e5f99922,RHB,right-arm offbreak,spin,
 Anand Rajan,d2340a43,RHB,right-arm medium,pace,bowler
+Anand Singh,d2550980,RHB,right-arm medium,pace,
+Ananta Saha,d52330c6,RHB,right-arm medium,pace,
+Anas Khan,66a7f213,LHB,slow left-arm orthodox,spin,batsman
+Andrew Vanlalhruaia,a4c50758,RHB,right-arm medium,pace,
 Aniket Verma,a3b0600d,RHB,right-arm medium-fast,pace,batsman
+Anil Subba,941a4359,RHB,right-arm medium,pace,
+Aniruddha Joshi,40c1eeeb,RHB,right-arm offbreak,spin,batsman
+Anirudh Kanwar,6c8e4b0a,RHB,right-arm medium-fast,pace,
 Anirudh Singh,7bb62642,LHB,right-arm medium,pace,
+Anish Charak,62a48252,RHB,slow left-arm orthodox,spin,
+Ankit Chaudhary,c0e59e39,RHB,slow left-arm orthodox,spin,
+Ankit Dabas,cbe8cf26,RHB,right-arm offbreak,spin,
+Ankit Dane,a64c721a,RHB,right-arm medium,pace,
+Ankit Kaushik,084708eb,RHB,legbreak googly,spin,
+Ankit Kumar,9765545f,RHB,right-arm offbreak,spin,batsman
+Ankit Kushwah,d27dafe2,RHB,right-arm medium,pace,
+Ankit Lamba,90a3c0dc,RHB,legbreak googly,spin,batsman
+Ankit Maini,5b9705c4,RHB,none,none,allrounder
+Ankit Manori,9983bb4e,RHB,right-arm medium,pace,
 Ankit Sharma,24d94623,LHB,slow left-arm orthodox,spin,bowler
+Ankit Singh,98c51339,RHB,legbreak googly,spin,
 Ankit Soni,f18ba07f,RHB,legbreak,spin,allrounder
+Ankit Yadav,14f2ce7a,RHB,right-arm medium,pace,
+Ankitkar Jaiswal,818aa622,LHB,slow left-arm orthodox,spin,
+Anmol Malhotra,f59e9ac9,RHB,right-arm offbreak,spin,
 Anmolpreet Singh,1399b39c,RHB,right-arm offbreak,spin,batsman
+Annabathula Akash,77fb55bb,RHB,none,none,
+Ansh Patel,9e76cdb3,RHB,left-arm wrist-spin,spin,bowler
+Ansh Tandon,599ce28e,LHB,legbreak,spin,batsman
+Anshul Tripathi,65ff7036,RHB,legbreak googly,spin,
+Anshuman Gautam,8ea5d605,RHB,slow left-arm orthodox,spin,
+Anshuman Rath,552b228c,LHB,slow left-arm orthodox,spin,batsman
+Antony Dhas,b792bf93,RHB,right-arm medium,pace,allrounder
+Anuj Raj,4d528d92,RHB,left-arm medium-fast,pace,
 Anuj Rawat,c8f5f961,LHB,none,none,wk_batsman
+Anunay Singh,a3350945,RHB,none,none,bowler
+Anurag Sarangi,fb3a1c89,LHB,right-arm medium,pace,
+Anurag Tiwari,7793e24b,RHB,slow left-arm orthodox,spin,allrounder
 Anureet Singh,69be866a,RHB,right-arm medium,pace,bowler
+Anwar Ali,eb2d5fe7,RHB,right-arm medium-fast,pace,bowler
+Anwar Rahman,28adcce9,RHB,slow left-arm orthodox,spin,
+Aqib Ilyas,b3b39bed,RHB,right-arm offbreak,spin,batsman
+Arabind Singh,78d516fd,RHB,right-arm medium,pace,
+Arafat Minhas,f2e8b37c,LHB,slow left-arm orthodox,spin,bowler
+Arafat Sunny,1f7adc8a,LHB,slow left-arm orthodox,spin,bowler
+Arif Yaqoob,6bb9e53b,RHB,legbreak,spin,bowler
+Ariful Haque,ad1730bc,RHB,right-arm medium-fast,pace,allrounder
+Arish Ali,1e9b3b23,RHB,slow left-arm orthodox,spin,bowler
+Arjit Gupta,145903a5,RHB,right-arm medium,pace,
+Arjit Pannu,8281ca53,RHB,legbreak,spin,
 Arjun Tendulkar,44aac2f0,LHB,left-arm medium-fast,pace,bowler
+Arkaprabha Sinha,92673ce8,RHB,none,none,
+Arnab Nandi,cee8a83d,RHB,right-arm offbreak,spin,
+Arpit Gaud,a6a50969,RHB,slow left-arm orthodox,spin,batsman
+Arpit Pannu,76d0ac27,RHB,right-arm offbreak,spin,
+Arpit Vasavada,2bbab579,LHB,slow left-arm orthodox,spin,batsman
+Arshad Iqbal,ed031922,RHB,right-arm medium-fast,pace,bowler
 Arshad Khan,0a4c6dfd,RHB,right-arm offbreak,spin,bowler
 Arshad Khan (2),12314277,LHB,left-arm fast-medium,pace,bowler
 Arshdeep Singh,244048f6,LHB,left-arm medium-fast,pace,bowler
+Arslan Khan,4b6f8814,LHB,right-arm offbreak,spin,
+Arun Chaprana,3bc94fb9,RHB,right-arm medium,pace,
+Arup Das,4f36495c,RHB,right-arm medium,pace,
+Arya Sethi,401e1673,RHB,none,none,
+Aryan Juyal,5f2732f7,RHB,none,none,wk_batsman
+Aryan Lakra,099135ad,LHB,slow left-arm orthodox,spin,batsman
+Aryan Sahani,ed9a84e9,RHB,right-arm medium-fast,pace,
+Asad Ali,f476d2a5,RHB,right-arm medium-fast,pace,bowler
+Asad Shafiq,50250426,RHB,right-arm offbreak,spin,batsman
+Asfan Khan,fc3d382b,RHB,none,none,
+Ashar Zaidi,9bab2b81,LHB,slow left-arm orthodox,spin,allrounder
+Ashfaq Ahmed,9d1f42c6,RHB,right-arm offbreak,spin,batsman
+Ashir Qureshi,ed54033c,RHB,legbreak googly,spin,bowler
+Ashish Rai,d14a9789,RHB,right-arm medium-fast,pace,bowler
+Ashish Thapa,60c6038a,RHB,right-arm medium,pace,
+Ashish Yadav,254c7802,LHB,slow left-arm orthodox,spin,allrounder
+Ashith Rajiv,502056e3,RHB,right-arm medium,pace,
+Ashutosh Aman,4948a916,RHB,slow left-arm orthodox,spin,allrounder
+Ashutosh Das,9fa1b6cf,RHB,right-arm medium,pace,
 Ashutosh Sharma,84d9c311,RHB,none,none,allrounder
+Ashutosh Singh,5c766d24,RHB,right-arm offbreak,spin,
 Ashwani Kumar,d45c29b1,LHB,left-arm medium,pace,bowler
+Ashwin Das,872113ff,RHB,right-arm medium,pace,bowler
+Ashwin Hebbar,b11d8647,RHB,right-arm slow-medium,pace,batsman
+Asif Afridi,9489623e,LHB,slow left-arm orthodox,spin,allrounder
+Asif Ali,0a4736eb,RHB,right-arm offbreak,spin,batsman
+Asif Khan,074acfb4,RHB,right-arm offbreak,spin,batsman
+Aswin Crist,b9671119,RHB,right-arm medium,pace,bowler
+Ateeq Iqbal,29b322c7,RHB,right-arm medium,pace,bowler
+Athar Mahmood,55d3d4e8,RHB,right-arm fast-medium,pace,bowler
+Atharva Ankolekar,d6cd318e,LHB,slow left-arm orthodox,spin,allrounder
 Atharva Taide,1ac746c8,LHB,slow left-arm orthodox,spin,allrounder
+Atif Attarwala,68408472,RHB,left-arm medium-fast,pace,
+Auqib Nabi,7c3c0337,RHB,right-arm medium,pace,bowler
 Avesh Khan,eef2536f,RHB,right-arm fast-medium,pace,bowler
+Avijit Singh,10bbea13,RHB,right-arm offbreak,spin,
+Avinash Yadav,f879ff6b,LHB,slow left-arm orthodox,spin,bowler
+Avishek Sinha,9fc68dcb,RHB,slow left-arm orthodox,spin,
+Avneesh Sudha,126e8cb3,RHB,right-arm offbreak,spin,allrounder
+Awais Zia,5c88fab9,LHB,right-arm offbreak,spin,batsman
+Ayan Bhattacharjee,bae68b09,LHB,right-arm medium,pace,
+Ayan Khan,44d6a8b8,LHB,slow left-arm orthodox,spin,allrounder
+Ayush Jamwal,fcd1dd35,RHB,slow left-arm orthodox,spin,
+Azam Khan,ee8f1a6d,RHB,none,none,wk_batsman
+Azhar Ali,211de69f,RHB,legbreak,spin,batsman
 Azhar Mahmood,9a158001,RHB,right-arm fast-medium,pace,allrounder
+Azim Kazi,ccae927b,LHB,slow left-arm orthodox,spin,allrounder
 Azmatullah Omarzai,8f6dd463,RHB,right-arm medium-fast,pace,allrounder
 B Akhil,af7dadf7,RHB,right-arm medium-fast,pace,bowler
+B Aparajith,5b627626,RHB,right-arm offbreak,spin,allrounder
+B Bhandari,82342b13,RHB,right-arm bowler,none,wk_batsman
 B Chipli,5451a2c1,RHB,right-arm medium,pace,batsman
+B Doggett,898e628d,RHB,right-arm fast-medium,pace,bowler
+B Evans,e7e86505,RHB,right-arm fast,pace,allrounder
+B Fernando,dabbd0ae,RHB,left-arm medium-fast,pace,bowler
 B Geeves,50758325,RHB,right-arm fast-medium,pace,bowler
 B Indrajith,ff1e68fa,RHB,legbreak googly,spin,batsman
 B Kumar,2e81a32d,RHB,right-arm medium,pace,bowler
+B Lalnunfela,64e78590,RHB,right-arm offbreak,spin,
 B Laughlin,b2a79f17,RHB,right-arm fast-medium,pace,bowler
 B Lee,dd09ff8e,RHB,right-arm fast,pace,bowler
+B Masaba,f33cfd25,RHB,right-arm fast-medium,pace,bowler
+B Mavuta,dadb9703,RHB,legbreak,spin,allrounder
+B Muzarabani,449f4e3c,RHB,right-arm fast-medium,pace,bowler
+B Nikitaras,d4e39566,LHB,none,none,batsman
+B Parsons,fc60e81a,LHB,slow left-arm orthodox,spin,allrounder
+B Punnaiah,c58fb16b,RHB,right-arm medium,pace,
+B Rahman,c707b358,LHB,right-arm medium,pace,
+B Regmi,98d05440,LHB,slow left-arm orthodox,spin,bowler
 B Sai Sudharsan,d5130a30,LHB,legbreak,spin,batsman
+B Sharki,fbdc8309,RHB,right-arm offbreak,spin,batsman
+B Shikongo,c26cd57a,RHB,right-arm medium-fast,pace,bowler
+B Shiva,eec98aed,RHB,left-arm medium-fast,pace,
+B Siddharth,80de053e,RHB,right-arm offbreak,spin,bowler
 B Stanlake,6834d1f2,LHB,right-arm fast,pace,bowler
 B Sumanth,f4f0fafd,RHB,right-arm medium-fast,pace,batsman
+B Swanepoel,6e0a2209,LHB,right-arm fast,pace,allrounder
+B White,1a448be0,RHB,legbreak,spin,bowler
+B Yadav,ef07f354,RHB,right-arm medium,pace,allrounder
+B Zuiderent,d953ed6a,RHB,right-arm medium,pace,batsman
 BA Bhatt,dc4686e6,LHB,slow left-arm orthodox,spin,bowler
+BA Carse,cad40f5e,RHB,right-arm fast-medium,pace,allrounder
+BA King,7fca84b7,RHB,none,none,batsman
+BA Parchment,d666d3a8,RHB,right-arm offbreak,spin,bowler
+BA Pathan,870e4cec,RHB,right-arm medium-fast,pace,
+BA Roy,b7ab7aa9,RHB,right-arm offbreak,spin,
 BA Stokes,e087956b,LHB,right-arm fast-medium,pace,allrounder
+BAC Howell,0bec3a6c,RHB,right-arm medium,pace,allrounder
+BAD Manenti,ab21795b,RHB,right-arm offbreak,spin,bowler
 BAW Mendis,ea0cdc12,RHB,right-arm offbreak,spin,bowler
+BB Chari,41fc1ece,RHB,right-arm offbreak,spin,batsman
+BB Debnath,82684381,RHB,right-arm medium-fast,pace,
+BB Dey,427e6670,RHB,right-arm offbreak,spin,
+BB Ghosh,7c8ce592,RHB,right-arm offbreak,spin,
 BB McCullum,b8a55852,RHB,right-arm medium,pace,wk_batsman
+BB Roy,09ea761c,RHB,right-arm medium,pace,
 BB Samantray,53f27a35,RHB,right-arm medium,pace,allrounder
 BB Sran,d8b2f218,LHB,left-arm medium,pace,bowler
+BC Fortuin,9a2fc964,RHB,slow left-arm orthodox,spin,bowler
 BCJ Cutting,2e11c706,RHB,right-arm fast-medium,pace,allrounder
+BD Glover,0dbe27b8,RHB,right-arm fast,pace,bowler
+BD Macdonald,28147cdc,RHB,right-arm medium,pace,batsman
+BE Fletcher,abd82f3b,LHB,left-arm medium,pace,
 BE Hendricks,b56dc5f7,LHB,left-arm fast-medium,pace,bowler
+BE McGain,6d62117a,RHB,legbreak googly,spin,bowler
+BE Young,278fd5ff,RHB,slow left-arm orthodox,spin,bowler
+BF Calitz,24ad97e7,LHB,right-arm slow,none,batsman
+BFW de Leede,fc4375ef,RHB,right-arm fast-medium,pace,allrounder
+BG Drew,751f4b9b,RHB,right-arm fast-medium,pace,bowler
+BG Lister,79f5bc26,RHB,left-arm fast-medium,pace,bowler
+BG McDonald,0a3049c5,LHB,legbreak googly,spin,
+BH Merai,15d20a08,RHB,right-arm medium,pace,
+BJ Bennett,eaa36b2a,RHB,right-arm offbreak,spin,allrounder
+BJ Currie,2ecd844a,RHB,left-arm medium,pace,bowler
+BJ Diamanti,549aefcd,RHB,right-arm medium-fast,pace,batsman
+BJ Dwarshuis,e1b9f3a9,LHB,left-arm fast-medium,pace,bowler
 BJ Haddin,b0c772ee,RHB,none,none,wk_batsman
 BJ Hodge,b57f8a9a,RHB,right-arm offbreak,spin,batsman
+BJ Holt,f05d1564,RHB,none,none,wk_batsman
+BJ Jacobs,972f217b,RHB,right-arm medium,pace,batsman
+BJ McCarthy,3766056b,RHB,right-arm fast-medium,pace,bowler
+BJ McMullen,436c763a,RHB,right-arm medium,pace,allrounder
 BJ Rohrer,27af6414,LHB,none,none,batsman
+BJ Watling,928670cc,RHB,none,none,wk_batsman
+BJ Webster,56b93d46,RHB,right-arm medium,pace,allrounder
 BKG Mendis,5d1e7582,RHB,legbreak,spin,wk_batsman
+BL Couch,be69e09d,LHB,right-arm medium,pace,bowler
+BM Chingakham,90dd5193,RHB,right-arm medium-fast,pace,
+BM Duckett,5f26f677,LHB,right-arm offbreak,spin,batsman
+BM Edmondson,b0b320a0,LHB,right-arm fast-medium,pace,bowler
+BM Scholtz,e85d03d6,RHB,slow left-arm orthodox,spin,bowler
+BM Tickner,48ad3373,RHB,right-arm medium-fast,pace,bowler
+BM Wheeler,397f4d3a,RHB,left-arm medium-fast,pace,bowler
 BMAJ Mendis,9868bc75,LHB,legbreak,spin,allrounder
+BN Cooper,634a7b21,LHB,right-arm medium,pace,batsman
+BOP Fernando,1d048deb,RHB,legbreak,spin,batsman
 BR Dunk,272d796e,LHB,right-arm offbreak,spin,wk_batsman
+BR McDermott,c41043e6,RHB,right-arm medium,pace,wk_batsman
 BR Sharath,c2dd89ea,RHB,none,none,wk_batsman
+BRM Taylor,53597be1,RHB,right-arm offbreak,spin,wk_batsman
+BS Dean,1137b65a,RHB,legbreak,spin,
+BS Makhanya,1b42a100,RHB,right-arm medium,pace,batsman
+BS Sharma,163b7ef5,RHB,none,none,
+BTJ Wheal,3f61a062,RHB,right-arm fast-medium,pace,bowler
+BV Sears,e1891e00,RHB,right-arm medium-fast,pace,bowler
+BV Vitori,37137c8b,LHB,left-arm fast-medium,pace,bowler
 BW Hilfenhaus,f3171936,RHB,right-arm fast-medium,pace,bowler
+Babar Azam,8a75e999,RHB,right-arm offbreak,spin,batsman
+Babar Hayat,fbb657bb,RHB,right-arm medium,pace,batsman
+Babul Kumar,85e6ccde,RHB,none,none,batsman
+Bal Krishna,35dee2d1,RHB,right-arm medium-fast,pace,bowler
+Baltej Singh,0c0ef3fb,RHB,right-arm medium,pace,bowler
+Bandaru Ayyappa,cb4f31e2,RHB,right-arm medium,pace,bowler
+Bandeep Singh,37b0f5f9,RHB,legbreak googly,spin,
+Bappa Das,ddeaa5fa,RHB,right-arm fast-medium,pace,
+Basant Mohanty,ccc4756d,RHB,right-arm medium,pace,
+Basil Hameed,adbf0400,RHB,right-arm offbreak,spin,batsman
 Basil Thampi,871e9faf,RHB,right-arm fast-medium,pace,bowler
+Basir Ahamad,218c7eab,LHB,slow left-arm orthodox,spin,batsman
+Bavanaka Sandeep,bc67cc22,LHB,slow left-arm orthodox,spin,batsman
+Benoy Upreti,44ba3b30,RHB,right-arm medium,pace,
+Bhagmender Lather,44cb17b4,LHB,slow left-arm orthodox,spin,bowler
+Bhanu Pania,af863475,RHB,right-arm medium-fast,pace,
+Bharat Sharma,2314745e,RHB,right-arm offbreak,spin,
+Bhavik Patel,ac50c987,RHB,right-arm medium,pace,
+Bhima Rao,e9d71759,RHB,right-arm offbreak,spin,
+Bhushan Subba,d38a2add,RHB,right-arm medium,pace,
+Bibek Diyali,54d9489d,RHB,none,none,
+Bikas Pati,6b94cc0b,RHB,none,none,
+Bikash K Rout,25284a3c,RHB,legbreak,spin,bowler
+Bikash Singh,2be0cc2f,RHB,left-arm medium,pace,
+Bikramkumar Das,601398c4,LHB,right-arm offbreak,spin,batsman
+Bilal Asif,f3be8d36,RHB,right-arm offbreak,spin,allrounder
+Bilal Khan,dcdb87f2,LHB,left-arm medium-fast,pace,bowler
+Bilawal Bhatti,7662cf7a,RHB,right-arm medium-fast,pace,bowler
+Bipin Saurabh,4cb5e3d1,RHB,right-arm medium-fast,pace,wk_batsman
 Bipul Sharma,c18496e1,LHB,slow left-arm orthodox,spin,allrounder
+Bishworjit Konthoujam,15deff66,RHB,right-arm medium-fast,pace,
+Bismillah Khan,d3cefce5,RHB,none,none,wk_batsman
+Bobby Yadav,a671ad8b,RHB,right-arm medium-fast,pace,
+Bobby Zothansanga,6b4ce914,RHB,right-arm offbreak,spin,
+Bodavarapu Sudhakar,748c4d3b,LHB,slow left-arm orthodox,spin,
+Bonny Chingangbam,ca38de66,LHB,none,none,batsman
+Bravish Shetty,ddeafbfe,RHB,legbreak googly,spin,
 C Bosch,172dff15,RHB,right-arm fast-medium,pace,allrounder
+C Campher,478a63e7,RHB,right-arm medium-fast,pace,allrounder
+C Cassell,2d03c3f8,RHB,right-arm fast,pace,bowler
+C Connolly,fe366f34,LHB,slow left-arm orthodox,spin,allrounder
+C Esterhuizen,ef9acbcc,RHB,none,none,batsman
+C Floyd,527c2dab,RHB,slow left-arm orthodox,spin,bowler
+C Fortuin,f25cebec,RHB,none,none,wk_batsman
 C Ganapathy,798934ea,RHB,right-arm medium,pace,
 C Green,eaa76d3c,RHB,right-arm fast-medium,pace,allrounder
+C Jonker,a81d6706,RHB,right-arm medium-fast,pace,batsman
+C Karunaratne,fb3e0d39,RHB,right-arm medium-fast,pace,allrounder
+C Kellaway,60c28835,LHB,slow left-arm orthodox,spin,batsman
+C Kieswetter,1e960f2a,RHB,right-arm offbreak,spin,batsman
+C Kyewuta,395695ce,RHB,right-arm medium,pace,bowler
 C Madan,2eeb4370,RHB,none,none,wk_batsman
+C Madande,3560a786,RHB,none,none,wk_batsman
 C Munro,af2c687b,LHB,right-arm medium-fast,pace,batsman
 C Nanda,f24ca2ba,RHB,legbreak,spin,
+C Olphert,7afc806f,RHB,right-arm medium,pace,bowler
+C Overton,e9987a94,RHB,right-arm medium-fast,pace,allrounder
+C Rathore,e1b04bfb,RHB,right-arm offbreak,spin,
 C Sakariya,2cdce1be,LHB,left-arm medium-fast,pace,bowler
+C Stow,3f9ec1d2,RHB,left-arm wrist-spin,spin,bowler
+C Tear,7ffe4817,RHB,none,none,wk_batsman
+C Valente,137e7065,RHB,right-arm medium,pace,allrounder
+C Viljoen,f7b2cbe8,RHB,right-arm medium,pace,allrounder
+C Wickramasinghe,a5c48ed1,LHB,right-arm medium-fast,pace,allrounder
+C Zhuwao,3e51db81,LHB,slow left-arm orthodox,spin,batsman
 C de Grandhomme,94d7f855,RHB,right-arm medium-fast,pace,allrounder
 CA Ingram,c995d726,LHB,legbreak,spin,batsman
 CA Lynn,45eda7c8,RHB,slow left-arm orthodox,spin,batsman
+CA Philipson,32866fe7,RHB,right-arm medium,pace,
 CA Pujara,d4f9dbd4,RHB,legbreak,spin,batsman
+CA Rose,7517d134,RHB,slow left-arm orthodox,spin,bowler
+CA Soper,9920dd86,RHB,right-arm medium-fast,pace,bowler
+CA Wakim,c5e415aa,RHB,none,none,batsman
+CA Young,bd0a4a7d,RHB,right-arm fast-medium,pace,bowler
+CAH Stevenson,7239b60d,RHB,right-arm fast-medium,pace,allrounder
+CAK Rajitha,8012d0b8,RHB,right-arm medium-fast,pace,bowler
+CAK Walton,bbff906c,RHB,none,none,batsman
+CB Mpofu,49691d7a,RHB,right-arm fast-medium,pace,bowler
+CB Sole,469ccead,RHB,right-arm fast-medium,pace,bowler
+CBRLS Kumara,4751caa3,LHB,right-arm fast,pace,bowler
+CD Barnwell,0d51e658,RHB,right-arm medium-fast,pace,allrounder
+CD Hartley,9a06679d,LHB,none,none,
+CD Hinchliffe,8891669e,LHB,left-arm wrist-spin,spin,allrounder
+CD McMillan,f5390243,RHB,right-arm medium,pace,batsman
+CD Wallace,7b5c6c0b,RHB,none,none,wk_batsman
+CD de Lange,e6d298e8,RHB,slow left-arm orthodox,spin,allrounder
+CE McConchie,d285acaf,RHB,right-arm offbreak,spin,allrounder
+CG Benjamin,95a15317,RHB,right-arm medium,pace,wk_batsman
+CG Williams,e16e7347,RHB,right-arm medium,pace,batsman
 CH Gayle,db584dad,LHB,right-arm offbreak,spin,allrounder
 CH Morris,fb66ce1f,RHB,right-arm fast-medium,pace,allrounder
+CH Stobo,098229a5,RHB,right-arm medium-fast,pace,allrounder
 CJ Anderson,8abdf100,LHB,left-arm medium-fast,pace,allrounder
+CJ Borgas,d901964b,RHB,right-arm offbreak,spin,
+CJ Bowes,45df0e72,RHB,right-arm medium,pace,batsman
+CJ Boyce,51a60c16,RHB,legbreak,spin,bowler
+CJ Chibhabha,f32dbc84,RHB,right-arm medium,pace,batsman
 CJ Dala,1cb14aa4,RHB,right-arm medium,pace,bowler
 CJ Ferguson,9b4935c8,RHB,right-arm medium,pace,batsman
+CJ Gannon,519c30cb,RHB,right-arm fast-medium,pace,bowler
 CJ Green,19b9f399,RHB,right-arm offbreak,spin,allrounder
 CJ Jordan,ffe699c0,RHB,right-arm fast-medium,pace,bowler
+CJ King,47c9f734,RHB,right-arm medium-fast,pace,bowler
 CJ McKay,94eac556,RHB,right-arm fast-medium,pace,bowler
+CJ Rocchiccioli,aa3c7a7a,RHB,right-arm offbreak,spin,bowler
+CJ Simmons,0095ce38,LHB,left-arm medium,pace,batsman
+CJA Amini,4d84ad05,LHB,legbreak,spin,allrounder
+CJL Rogers,d8360178,LHB,legbreak googly,spin,batsman
+CJM Sabburg,9fc73711,LHB,right-arm offbreak,spin,allrounder
+CJO Smith,c46e9e56,RHB,none,none,wk_batsman
+CJPF Kalugamage,31c04b7b,RHB,legbreak googly,spin,bowler
+CK Coventry,a21ea40c,RHB,legbreak,spin,batsman
 CK Kapugedera,cfad138c,RHB,right-arm medium,pace,batsman
 CK Langeveldt,d1c94b25,RHB,right-arm fast-medium,pace,bowler
+CK Paul,35b67232,LHB,slow left-arm orthodox,spin,
+CK Tshuma,f6571355,RHB,right-arm fast-medium,pace,bowler
+CL Cairns,0b130202,RHB,right-arm fast-medium,pace,allrounder
 CL White,d0513f63,RHB,legbreak googly,spin,batsman
 CM Gautam,30a2649b,RHB,none,none,wk_batsman
+CM McBride,9ec74db8,RHB,right-arm medium,pace,batsman
+CM Wright,008589a4,RHB,right-arm medium,pace,bowler
+CMW Read,be4cefab,RHB,none,none,wk_batsman
+CN Ackermann,e734d090,RHB,right-arm offbreak,spin,allrounder
+CN Greaves,f42064d5,RHB,legbreak,spin,bowler
+CO Obuya,5680f1ad,RHB,legbreak,spin,allrounder
+CP Jewell,806c4e58,LHB,none,none,batsman
+CP Rizwan,e5309baa,RHB,legbreak googly,spin,batsman
+CP Sahani,cb6793af,RHB,right-arm medium,pace,
+CP Schofield,4751827a,LHB,legbreak,spin,allrounder
+CP Simpson,a5c2ef8c,RHB,right-arm offbreak,spin,allrounder
+CP Singh,077da288,RHB,slow left-arm orthodox,spin,
+CP Tremain,96824e68,RHB,right-arm medium-fast,pace,bowler
 CR Brathwaite,e342e5fb,RHB,right-arm fast-medium,pace,allrounder
+CR Ervine,c96311d4,LHB,right-arm offbreak,spin,batsman
+CR Swan,2a236847,RHB,right-arm fast-medium,pace,bowler
 CR Woakes,4c5d73db,RHB,right-arm fast-medium,pace,allrounder
 CRD Fernando,342d8ade,RHB,right-arm fast-medium,pace,bowler
+CS Baugh,151e8077,RHB,legbreak googly,spin,wk_batsman
+CS Delport,afa78c3a,LHB,right-arm medium,pace,batsman
+CS MacLeod,9c376401,RHB,right-arm medium-fast,pace,batsman
+CS Martin,05e0fab5,RHB,right-arm fast-medium,pace,bowler
+CS Sandri,b7ccb3c9,RHB,right-arm offbreak,spin,
+CT Bancroft,399b0b94,RHB,none,none,wk_batsman
+CT Mumba,28496266,RHB,right-arm fast-medium,pace,allrounder
+CT Mutombodzi,26f12506,RHB,legbreak googly,spin,allrounder
+CT Tremlett,a72b14ff,RHB,right-arm medium-fast,pace,bowler
+CU Jayasinghe,575ab3ce,RHB,right-arm medium,pace,allrounder
+CV Milind,7b5b6311,LHB,left-arm medium,pace,bowler
 CV Varun,5b7ab5a9,RHB,legbreak googly,spin,bowler
+Chabungbam Ishworjit,f39013c1,RHB,none,none,
+Chaitanya Bishnoi,e793a8ed,LHB,slow left-arm orthodox,spin,allrounder
+Chandan Ray,f18e00c2,LHB,slow left-arm orthodox,spin,
+Chanderpal Saini,f0c86c2d,RHB,right-arm medium,pace,
+Cheepurapalli Stephen,48bf9d5c,LHB,left-arm medium,pace,
+Chengkam Sangma,cf495041,RHB,right-arm medium,pace,
+Chetan Bist,cf9d3356,RHB,none,none,wk_batsman
+Chinta Gandhi,c5eff91b,LHB,legbreak,spin,
+Chintan Gaja,63bfb5fc,RHB,right-arm medium,pace,bowler
+Chintapalli Kranthi Kumar,cc9c8722,RHB,right-arm offbreak,spin,
+Chirag Gandhi,35eb75af,RHB,right-arm offbreak,spin,batsman
+Chirag Jani,783e6111,RHB,right-arm medium,pace,allrounder
+Chirag Khurana,3d51cc7e,RHB,right-arm offbreak,spin,
+Chirag Parmar,d22c0460,RHB,right-arm medium,pace,
+Chirag Suri,6176f240,RHB,right-arm offbreak,spin,batsman
+Chongtham Mehul,c916b3c2,RHB,right-arm offbreak,spin,
+Chopise Hopongkyu,b3354c63,RHB,right-arm medium,pace,bowler
+Codanda Ajit Karthik,8c6958d9,RHB,right-arm medium,pace,allrounder
+Codi Yusuf,f2397e48,RHB,right-arm medium,pace,allrounder
+D Bishoo,7a80ddf2,LHB,legbreak,spin,bowler
 D Brevis,844e79d1,RHB,legbreak,spin,batsman
+D Chauhan,d74db32e,RHB,slow left-arm orthodox,spin,
+D Cleaver,e3a949be,RHB,legbreak,spin,wk_batsman
+D Dhapola,5dd172a7,RHB,right-arm medium,pace,bowler
+D Fallins,46fca863,RHB,legbreak,spin,
 D Ferreira,f0af99a7,RHB,right-arm offbreak,spin,allrounder
+D Forrester,17bcec2a,RHB,right-arm offbreak,spin,
+D Foxcroft,ed6894af,RHB,right-arm offbreak,spin,allrounder
+D Ganga,d5f3b5e1,RHB,right-arm offbreak,spin,batsman
+D Gough,fcbf5a30,RHB,right-arm fast-medium,pace,bowler
+D Heyliger,f8c72766,RHB,right-arm medium,pace,bowler
+D Jakiel,8b7ce771,RHB,right-arm fast-medium,pace,
 D Jansen,c90346a0,LHB,left-arm medium,pace,
+D Joshi,989006c5,RHB,right-arm medium,pace,
 D Kalyankrishna,94bc776b,RHB,right-arm medium-fast,pace,
+D Khanal,c4bc3b59,RHB,right-arm offbreak,spin,batsman
+D Khatri,6a48fcbd,RHB,right-arm medium,pace,batsman
+D Madushanka,de7d833e,RHB,left-arm fast-medium,pace,bowler
+D Marais,428308fb,RHB,none,none,batsman
+D Mongia,99663fa5,LHB,slow left-arm orthodox,spin,allrounder
+D Myers,d96165b5,RHB,right-arm medium,pace,batsman
 D Padikkal,2c25d4f5,LHB,right-arm offbreak,spin,batsman
+D Parashar,395179e8,RHB,right-arm offbreak,spin,allrounder
+D Paterson,462d7c62,RHB,right-arm fast-medium,pace,bowler
+D Potgieter,60fbf53a,LHB,right-arm medium,pace,batsman
 D Pretorius,11614d87,RHB,right-arm medium-fast,pace,allrounder
+D Rabha,f67fe815,RHB,right-arm medium-fast,pace,
+D Rai,549fdc26,RHB,left-arm medium,pace,
+D Ramdin,d1523761,RHB,none,none,wk_batsman
+D Ravu,053f3ce3,RHB,right-arm medium-fast,pace,bowler
 D Salunkhe,0264c10e,RHB,legbreak,spin,bowler
+D Siva Kumar,06adaa46,RHB,right-arm fast-medium,pace,
+D Smith,071cec83,LHB,right-arm medium,pace,
+D Warren,ef55b38c,LHB,slow left-arm orthodox,spin,bowler
 D Wiese,aa8d28ae,RHB,right-arm medium-fast,pace,allrounder
+D Yadav,9f622b6c,RHB,slow left-arm orthodox,spin,
 D du Preez,d7a57f75,RHB,right-arm fast-medium,pace,
+D la Cock,48301a4b,RHB,legbreak,spin,batsman
 DA Miller,d67d5f00,LHB,right-arm offbreak,spin,batsman
+DA Payne,6c79c098,RHB,left-arm fast-medium,pace,bowler
 DA Warner,dcce6f09,LHB,legbreak,spin,batsman
 DAJ Bracewell,2e9fdf9b,RHB,right-arm fast-medium,pace,bowler
+DAS Gunaratne,770494eb,RHB,right-arm medium-fast,pace,batsman
+DB Bana,224fe44d,RHB,right-arm offbreak,spin,wk_batsman
 DB Das,7050a1e7,RHB,legbreak googly,spin,batsman
 DB Ravi Teja,b720a5d6,RHB,legbreak googly,spin,batsman
+DBL Powell,83904270,RHB,right-arm fast-medium,pace,bowler
+DC Delany,0f9c9d1d,LHB,right-arm fast-medium,pace,bowler
+DC Drakes,34b332d3,LHB,left-arm medium-fast,pace,allrounder
+DC Thomas,08a4f9ad,RHB,right-arm medium,pace,batsman
+DE Bernard,e0557f7f,RHB,right-arm medium-fast,pace,
 DE Bollinger,45c2196c,LHB,left-arm fast-medium,pace,bowler
+DE Budge,0d37dea9,RHB,right-arm medium,pace,allrounder
+DF Watts,ad733e72,RHB,right-arm medium,pace,batsman
+DG Bedingham,a1b69936,RHB,none,none,batsman
+DG Brownlie,22bd731a,RHB,right-arm medium,pace,batsman
+DG Kumar,62788a13,RHB,right-arm offbreak,spin,
 DG Nalkande,cd8d2859,RHB,right-arm fast-medium,pace,bowler
 DH Yagnik,063b3673,LHB,none,none,wk_batsman
 DJ Bravo,87e562a9,RHB,right-arm medium,pace,allrounder
@@ -177,593 +808,2648 @@ DJ Jacobs,a84468fe,RHB,right-arm medium,pace,wk_batsman
 DJ Malan,ad9c32a2,LHB,legbreak,spin,batsman
 DJ Mitchell,eade4650,RHB,right-arm medium,pace,allrounder
 DJ Muthuswami,2c76b512,RHB,right-arm medium,pace,
+DJ Pattinson,3fe2db87,RHB,right-arm fast-medium,pace,bowler
+DJ Reekers,d84a2d8e,RHB,right-arm medium,pace,batsman
 DJ Thornely,7d3937ed,RHB,right-arm medium,pace,batsman
+DJ Vilas,087210b1,RHB,none,none,wk_batsman
 DJ Willey,7f048519,LHB,left-arm fast-medium,pace,allrounder
+DJ Worrall,208f22ea,RHB,right-arm fast-medium,pace,bowler
 DJG Sammy,c03c6200,RHB,right-arm medium,pace,allrounder
+DJM Moody,e1a867df,RHB,right-arm fast-medium,pace,bowler
 DJM Short,1a156c88,LHB,left-arm wrist-spin,spin,batsman
+DK Butler,671398e3,LHB,left-arm fast-medium,pace,bowler
+DK Sharma,cca4633d,RHB,right-arm medium,pace,
 DL Chahar,23eeb873,RHB,right-arm medium,pace,bowler
+DL Maddy,e770b214,RHB,right-arm medium,pace,allrounder
+DL Piedt,537f5ab2,RHB,right-arm offbreak,spin,bowler
 DL Vettori,d7c6af50,LHB,slow left-arm orthodox,spin,allrounder
+DLR Smith,0c5c3a87,RHB,none,none,wk_batsman
+DLS van Bunge,3185266a,RHB,legbreak,spin,allrounder
 DM Bravo,14b14cd8,LHB,right-arm medium,pace,batsman
+DM Dupavillon,7cb2d9d2,RHB,right-arm fast,pace,bowler
+DM Mistry,b0cc704b,RHB,none,none,
+DM Nakrani,46a7ac78,LHB,left-arm medium,pace,allrounder
+DM Parwani,eaf3f338,LHB,left-arm medium-fast,pace,
+DM Richards,9d0e7c58,RHB,right-arm medium,pace,batsman
+DM de Silva,7d608e12,RHB,right-arm offbreak,spin,allrounder
+DMK Grant,5390f178,RHB,right-arm fast-medium,pace,bowler
+DN Wellalage,736123bb,LHB,slow left-arm orthodox,spin,bowler
 DNT Zoysa,e0351c86,LHB,left-arm fast-medium,pace,bowler
+DO Christian,3b1fa4cb,RHB,none,none,wk_batsman
+DO Leicher,e28bb0b9,RHB,right-arm medium,pace,batsman
+DO Obuya,6ed3d5ac,RHB,none,none,batsman
 DP Conway,df5a6881,LHB,right-arm medium,pace,wk_batsman
+DP Hughes,f3982af9,LHB,right-arm medium,pace,batsman
+DP Hyatt,2e2fe3e8,RHB,right-arm medium,pace,allrounder
+DP Michael,9815de17,LHB,right-arm medium-fast,pace,
 DP Nannes,c404f58a,RHB,left-arm fast,pace,bowler
 DP Vijaykumar,acd4f5dc,RHB,right-arm medium,pace,
 DPMD Jayawardene,d18f9182,RHB,right-arm medium,pace,batsman
+DR Briggs,f3abd0c9,RHB,slow left-arm orthodox,spin,bowler
+DR Brown,7c70083d,RHB,right-arm fast-medium,pace,bowler
+DR Deshmukh,ddc7a53d,RHB,right-arm fast-medium,pace,bowler
+DR Drew,88684a42,RHB,right-arm offbreak,spin,batsman
+DR Flynn,9d710afe,LHB,left-arm slow,none,batsman
 DR Martyn,69762509,RHB,right-arm medium,pace,batsman
+DR Mousley,876dbe2d,LHB,right-arm offbreak,spin,allrounder
+DR Salpietro,a6ae5f7f,RHB,right-arm offbreak,spin,
 DR Sams,caf69bf7,RHB,left-arm fast-medium,pace,allrounder
 DR Shorey,faa7365d,RHB,right-arm offbreak,spin,batsman
 DR Smith,35205dfc,RHB,right-arm medium,pace,allrounder
+DR Tuffey,43936951,RHB,right-arm fast-medium,pace,bowler
+DS Airee,1747ea18,RHB,right-arm medium,pace,batsman
+DS Bajwa,e3540b8c,RHB,right-arm offbreak,spin,allrounder
 DS Kulkarni,d2a989fc,RHB,right-arm medium,pace,bowler
 DS Lehmann,53fe6ee4,LHB,slow left-arm orthodox,spin,batsman
 DS Rathi,13fc5c6d,RHB,legbreak,spin,bowler
+DS Smith,85ad2217,LHB,right-arm offbreak,spin,batsman
+DSK Madushanka,248698f4,RHB,right-arm fast-medium,pace,bowler
 DT Christian,2a2e6343,RHB,right-arm fast-medium,pace,allrounder
+DT Doram,3bea1983,LHB,slow left-arm orthodox,spin,bowler
+DT Johnston,e01895bb,RHB,right-arm fast-medium,pace,bowler
 DT Patil,f48cf4da,RHB,none,none,
+DT Tiripano,dbfb8218,RHB,right-arm fast-medium,pace,bowler
+DW Lawrence,4b685e2d,RHB,right-arm offbreak,spin,batsman
 DW Steyn,8fd1a8f5,RHB,right-arm fast,pace,bowler
+Damodaran Rohit,37fec668,RHB,right-arm offbreak,spin,
+Danish Aziz,a4799701,LHB,slow left-arm orthodox,spin,allrounder
+Darremsanga,e770616e,RHB,none,none,
+Darshan Misal,ce2b42ae,LHB,slow left-arm orthodox,spin,allrounder
+Daryl Ferrario,16b5917d,RHB,right-arm offbreak,spin,allrounder
+Dasari Swaroop Kumar,a082d97a,RHB,legbreak googly,spin,
+Dayyaan Galiem,47c449c5,RHB,right-arm medium-fast,pace,allrounder
+Debabrata Pradhan,347fb4e1,RHB,right-arm medium,pace,
+Debasish Samantray,e4332bbf,LHB,right-arm offbreak,spin,
+Deendyal Upadhyay,4e747906,RHB,right-arm medium,pace,
+Deepak Behera,09cb47d4,RHB,right-arm medium,pace,bowler
+Deepak Gohain,5bfcdda5,RHB,slow left-arm orthodox,spin,
+Deepak Punia,5a004050,RHB,right-arm medium,pace,bowler
+Deepraj Gaonkar,d3c1f849,RHB,right-arm medium,pace,batsman
+Denish Das,9cd9e3f4,RHB,legbreak,spin,
+Dev Lakra,e41832f1,RHB,right-arm medium,pace,
+Devender Lohchab,92ac032e,RHB,right-arm offbreak,spin,
+Devender Singh,68e21fb1,RHB,none,none,
+Dharmendrasinh Jadeja,d330f9b9,LHB,slow left-arm orthodox,spin,bowler
+Dhavanath,3d894b46,,none,none,
+Dhiman Ghosh,1494a583,RHB,none,none,wk_batsman
+Dhrumil Matkar,dd506910,LHB,slow left-arm orthodox,spin,bowler
+Dhrushant Soni,13abdc50,RHB,right-arm medium,pace,
 Dhruv Jurel,bcf325d2,RHB,none,none,wk_batsman
+Dhruv Patel,e85f3659,RHB,right-arm medium,pace,
+Dhruv Raval,e635a5dd,LHB,none,none,
+Digvijay Rangi,8be38ec4,RHB,right-arm offbreak,spin,
+Dikshanshu Negi,1f3febed,RHB,legbreak,spin,allrounder
+Dilbar Hussain,a968d8eb,RHB,right-arm fast-medium,pace,bowler
+Dinesh Mor,7f28f186,RHB,none,none,
+Dinesh Rai,597d321a,RHB,right-arm offbreak,spin,
+Dipayan Debbarma,eb5dddc8,RHB,none,none,
+Dippu Sangma,24ea8cf8,RHB,right-arm medium,pace,
+Divyang Hinganekar,cb461421,RHB,left-arm medium,pace,bowler
+Diwesh Pathania,a63563c0,RHB,right-arm medium,pace,
+E Bosch,28d6c44d,RHB,right-arm fast,pace,bowler
+E Chigumbura,d2babdd5,RHB,right-arm fast-medium,pace,allrounder
+E Frosler,333cbc00,RHB,right-arm medium,pace,
+E Jones,971cb321,LHB,left-arm medium,pace,allrounder
+E Leie,a7bc76a0,RHB,legbreak,spin,bowler
 E Lewis,0ebfb1ad,LHB,none,none,batsman
 E Malinga,5750bcb4,LHB,right-arm fast-medium,pace,bowler
+E Sanketh,2b22e709,LHB,left-arm medium,pace,
+E Schiferli,cefe0886,RHB,right-arm medium-fast,pace,bowler
+EC Joyce,a48fc79d,LHB,right-arm medium,pace,batsman
+EC Rainsford,f771a151,RHB,right-arm fast-medium,pace,bowler
+EC Sen,8a0ae9da,RHB,right-arm medium,pace,batsman
 EJG Morgan,d2a6c0e6,LHB,right-arm medium,pace,batsman
+EJM Cowan,fee3c48a,LHB,legbreak,spin,batsman
+EMDY Munaweera,5a22d91c,RHB,right-arm offbreak,spin,batsman
+EP Gulbis,bbce4647,RHB,right-arm medium,pace,allrounder
+EP Thompson,7a653792,LHB,left-arm fast-medium,pace,bowler
 ER Dwivedi,b274dbbd,RHB,none,none,wk_batsman
+ES Szwarczynski,6a7239a7,RHB,right-arm medium,pace,batsman
+Ebadat Hossain,cb5100f1,RHB,right-arm fast-medium,pace,bowler
+Ehsan Adil,210b05cb,RHB,right-arm fast-medium,pace,bowler
+Ehsan Khan,d3851cd8,RHB,right-arm offbreak,spin,bowler
+Ehsan Nawaz,70456281,RHB,right-arm fast-medium,pace,bowler
+Eknath Kerkar,84085032,RHB,none,none,wk_batsman
+Elias Sunny,817c1746,LHB,slow left-arm orthodox,spin,bowler
+Erik Roy,6457fe1b,RHB,none,none,
+Eshaan Ravi,748591cb,RHB,none,none,
+Ethan D'Souza,31ca7a9c,LHB,right-arm offbreak,spin,batsman
+F Achelam,b6b3ee6e,RHB,none,none,wk_batsman
 F Behardien,dce2019b,RHB,right-arm fast-medium,pace,allrounder
+F Hand,e3fe4b49,RHB,right-arm medium,pace,allrounder
+F Lalmuanzuala,054fc648,RHB,legbreak,spin,
+F Mutizwa,d3e83eef,RHB,right-arm offbreak,spin,wk_batsman
+F Nsubuga,87e33d07,RHB,right-arm offbreak,spin,allrounder
+F O'Neill,39d608d4,RHB,right-arm medium-fast,pace,bowler
 F du Plessis,3355b542,RHB,legbreak,spin,batsman
 FA Allen,b52ffbbd,RHB,slow left-arm orthodox,spin,allrounder
+FD Adams,f277f531,RHB,right-arm fast-medium,pace,allrounder
+FDW McCreath,bccead86,RHB,right-arm medium-fast,pace,batsman
+FH Allen,bf74b130,RHB,none,none,batsman
 FH Edwards,a7c226e1,RHB,right-arm fast,pace,bowler
+FJ Klaassen,c042b412,RHB,left-arm fast-medium,pace,bowler
+FL Reifer,17fbaab5,LHB,right-arm medium,pace,batsman
 FY Fazal,c15e2193,LHB,right-arm medium,pace,batsman
+Fabid Ahmed,f705d984,RHB,right-arm offbreak,spin,
+Fahad Tariq,29f0e3c3,RHB,right-arm medium-fast,pace,bowler
+Faheem Ashraf,bd4ea627,LHB,right-arm medium,pace,allrounder
+Faisal Akram,14661bf3,LHB,left-arm wrist-spin,spin,bowler
+Faiz Ahmed,223104d2,LHB,right-arm offbreak,spin,
+Faizan Khan,9e44e6fd,RHB,none,none,
+Fakhar Zaman,1777c020,LHB,slow left-arm orthodox,spin,batsman
+Farhad Reza,4948a447,RHB,right-arm fast-medium,pace,allrounder
+Faruque Hussain,acf22214,RHB,legbreak googly,spin,
+Fawad Ahmed,22ae3041,RHB,legbreak googly,spin,bowler
+Fawad Alam,61f05b05,LHB,slow left-arm orthodox,spin,batsman
+Fawad Ali,b3034790,RHB,right-arm fast,pace,bowler
+Fayyaz Butt,bd9fbd51,RHB,right-arm medium-fast,pace,bowler
 Fazalhaq Farooqi,e9c7f0d0,RHB,left-arm fast-medium,pace,bowler
+Fazil Rashid,514a0408,RHB,none,none,
+Felix Alemao,2d209101,RHB,right-arm medium,pace,bowler
+G Ajitesh,09a341f9,RHB,none,none,batsman
+G Anikethreddy,14d6a8d5,RHB,slow left-arm orthodox,spin,
+G Bakiweyem,5fe3709e,RHB,right-arm medium,pace,
 G Coetzee,3204c99f,RHB,right-arm fast,pace,bowler
 G Gambhir,bb345e0b,LHB,legbreak,spin,batsman
+G Goudie,59f509ed,RHB,right-arm fast-medium,pace,bowler
+G Lalbiakvela,66ea7420,RHB,right-arm medium,pace,
+G Malla,b2e1d224,RHB,none,none,batsman
+G Motie,97bdec3d,LHB,slow left-arm orthodox,spin,bowler
+G Periyaswamy,2e099662,RHB,right-arm medium,pace,bowler
+G Roelofsen,ac688e55,RHB,none,none,wk_batsman
+G Stewart,a77472dc,RHB,right-arm medium-fast,pace,allrounder
+G Van Heerden,d0332cfb,RHB,right-arm medium,pace,
+G Wijekoon,1fbef290,LHB,left-arm medium,pace,allrounder
+GA Lamb,86421172,RHB,right-arm offbreak,spin,allrounder
+GA Manou,f58839ad,RHB,none,none,wk_batsman
+GA Rogers,46050f42,RHB,slow left-arm orthodox,spin,bowler
+GA Singh,7c628737,RHB,right-arm offbreak,spin,
+GA Stuurman,d4d37c31,RHB,right-arm fast-medium,pace,bowler
+GA West,9dfd54a5,RHB,left-arm fast-medium,pace,
+GB Brent,da785bf8,RHB,right-arm medium,pace,bowler
 GB Hogg,f708a0bc,LHB,left-arm wrist-spin,spin,allrounder
 GC Smith,72861603,LHB,right-arm offbreak,spin,batsman
+GC Tonge,7d21eb9b,RHB,right-arm fast-medium,pace,bowler
 GC Viljoen,a316d663,RHB,right-arm fast,pace,bowler
+GC Wilson,05de1a5a,RHB,none,none,wk_batsman
+GD Drummond,5b8fffb4,RHB,right-arm medium-fast,pace,bowler
+GD Elliott,c03449e0,RHB,right-arm medium,pace,allrounder
 GD McGrath,ee7d0c82,RHB,right-arm fast-medium,pace,bowler
 GD Phillips,9a46c4e5,RHB,right-arm offbreak,spin,allrounder
+GD Putland,9f54ae00,RHB,left-arm fast-medium,pace,
+GE Mathurin,b67bfaae,LHB,slow left-arm orthodox,spin,allrounder
+GF Linde,e5437608,LHB,slow left-arm orthodox,spin,allrounder
+GG Peters,360f4e4b,RHB,right-arm fast,pace,bowler
+GH Bodi,f390904d,LHB,left-arm wrist-spin,spin,batsman
+GH Dockrell,99cddc5e,RHB,slow left-arm orthodox,spin,allrounder
 GH Vihari,94253925,RHB,right-arm offbreak,spin,allrounder
+GH Worker,51a36d3e,LHB,slow left-arm orthodox,spin,allrounder
 GHS Garton,be869ccf,LHB,left-arm fast,pace,allrounder
+GI Hume,25550d06,LHB,right-arm fast-medium,pace,bowler
 GJ Bailey,5056011d,RHB,right-arm medium,pace,batsman
+GJ Batty,5ac8f17b,RHB,right-arm offbreak,spin,bowler
+GJ Delany,33b3d2df,RHB,legbreak googly,spin,allrounder
+GJ Hopkins,4d3097d8,RHB,none,none,wk_batsman
 GJ Maxwell,b681e71e,RHB,right-arm offbreak,spin,allrounder
+GJ McCarter,6232e1ed,RHB,right-arm medium,pace,bowler
+GJ Snyman,a3ae63f4,RHB,right-arm offbreak,spin,allrounder
+GJ Thompson,91f0792f,RHB,legbreak,spin,bowler
+GJ van Rensburg,602db3d9,RHB,legbreak,spin,
+GJP Kruger,2957a836,RHB,right-arm medium-fast,pace,bowler
+GK Singh,4ea120aa,RHB,right-arm offbreak,spin,
+GL Cloete,3bf40832,LHB,right-arm offbreak,spin,wk_batsman
+GL Walker,78158fc6,RHB,right-arm medium,pace,
+GM Hamilton,8187519b,LHB,right-arm medium-fast,pace,batsman
+GO Jones,2e929b99,RHB,none,none,wk_batsman
+GP Meade,3957a70a,RHB,right-arm medium-fast,pace,wk_batsman
+GP Swann,221ad9d9,RHB,right-arm offbreak,spin,bowler
+GR Adair,4ec96094,RHB,slow left-arm orthodox,spin,batsman
 GR Napier,611926bc,RHB,right-arm medium,pace,allrounder
+GS Ballance,755a77c6,LHB,legbreak,spin,batsman
+GS Raju,c07799c6,LHB,legbreak googly,spin,batsman
 GS Sandhu,1558d83b,LHB,right-arm fast-medium,pace,bowler
+GSNFG Jayasuriya,b58b7db6,LHB,right-arm offbreak,spin,allrounder
+GT Main,4ebc70ca,RHB,right-arm fast,pace,bowler
+GW Aldridge,42a05795,RHB,right-arm fast-medium,pace,bowler
 Gagandeep Singh,890de8cb,RHB,right-arm medium-fast,pace,
+Gandhar Bhatawadekar,80beeaa1,RHB,right-arm offbreak,spin,batsman
+Ganesh Satish,0ed1a112,RHB,none,none,batsman
+Gauhar Ali,86b6e495,RHB,none,none,
+Gaurav,edb80f24,,none,none,
+Gaurav Chaudhary,b05fe3d9,RHB,right-arm offbreak,spin,
+Gaurav Gambhir,242a9261,RHB,right-arm offbreak,spin,
+Gaurav Kumar,77616b3f,RHB,right-arm medium,pace,
+Gaurav Puri,0834996c,RHB,none,none,
+Gaurav Singh,92eefbc5,RHB,right-arm medium-fast,pace,
+Gaurav Yadav,3e5dc16b,RHB,right-arm medium,pace,
+Gemson Singh,f090ba10,RHB,none,none,
+Ghazi Ghori,28b61a48,RHB,none,none,wk_batsman
+Ghulam Mudassar,667f678b,RHB,left-arm fast-medium,pace,bowler
+Ghulam Shabber,ced0ec25,LHB,none,none,wk_batsman
+Girinath Reddy,5d3d423a,RHB,right-arm medium,pace,
+Girish Rauturi,478bbd5f,RHB,right-arm medium,pace,
+Gitansh Khera,77e32481,RHB,none,none,wk_batsman
+Gokul Sharma,e1fc7125,RHB,right-arm offbreak,spin,
+Gourav Choudhury,f21b0b6a,RHB,right-arm medium-fast,pace,
+Govinda Poddar,145c2a1f,RHB,right-arm offbreak,spin,allrounder
 Gulbadin Naib,9f77963a,RHB,right-arm medium-fast,pace,allrounder
+Gulraiz Sadaf,ebd1ab1f,RHB,none,none,batsman
+Gulsan Jha,9811e35e,LHB,right-arm medium,pace,allrounder
+Gurinder Singh,911d04ad,RHB,slow left-arm orthodox,spin,allrounder
 Gurkeerat Singh,6eb146d2,RHB,right-arm offbreak,spin,batsman
 Gurnoor Brar,99258814,LHB,right-arm fast,pace,bowler
 H Das,0ed0cdbf,RHB,none,none,
+H Davids,9c9f8dbc,RHB,right-arm medium-fast,pace,batsman
+H Desai,9c86350f,RHB,none,none,wk_batsman
+H Hiri,9dc3ea7e,RHB,right-arm offbreak,spin,batsman
+H Kaushik,2bfec670,LHB,slow left-arm orthodox,spin,allrounder
+H Kerr,f422728b,RHB,left-arm fast-medium,pace,allrounder
 H Klaasen,235c2bb6,RHB,right-arm offbreak,spin,wk_batsman
+H Klazinge,e6bf8162,RHB,right-arm fast,pace,bowler
+H Masakadza,31fbf891,RHB,right-arm medium,pace,batsman
+H McKenzie,5222f5fa,LHB,left-arm wrist-spin,spin,bowler
+H Pieterse,fc2ddc2c,LHB,right-arm medium,pace,
 H Sharma,52294a79,RHB,legbreak,spin,bowler
+H Thaker,c01d7726,RHB,right-arm offbreak,spin,allrounder
+HA Varaiya,eeeebf82,RHB,slow left-arm orthodox,spin,bowler
+HB Shipley,5426de63,RHB,right-arm medium-fast,pace,bowler
 HC Brook,4ae1755b,RHB,right-arm medium,pace,batsman
+HD Rutherford,0605de92,LHB,slow left-arm orthodox,spin,batsman
+HD Weibgen,2535b30f,RHB,right-arm offbreak,spin,batsman
+HDRL Thirimanne,c5928dec,LHB,right-arm medium-fast,pace,batsman
 HE van der Dussen,9948e262,RHB,legbreak,spin,batsman
 HF Gurney,e412cb64,RHB,left-arm fast-medium,pace,bowler
+HG Kuhn,ede05b97,RHB,none,none,wk_batsman
+HG Munsey,ff014c34,LHB,right-arm medium-fast,pace,batsman
+HH Dippenaar,98ecf62a,RHB,right-arm offbreak,spin,batsman
 HH Gibbs,e1d1b294,RHB,right-arm bowler,none,batsman
+HH Khadiwale,4a65051a,RHB,right-arm medium-fast,pace,batsman
 HH Pandya,dbe50b21,RHB,right-arm medium-fast,pace,allrounder
+HJ Hunt,62ef4abe,RHB,right-arm medium,pace,batsman
+HJ Manenti,0e56c514,RHB,right-arm medium-fast,pace,allrounder
+HJ Nielsen,0ea1455a,LHB,right-arm offbreak,spin,wk_batsman
+HJH Marshall,70542bef,RHB,right-arm medium,pace,batsman
+HK Bennett,94238673,LHB,right-arm medium-fast,pace,bowler
 HM Amla,e798611a,RHB,right-arm medium,pace,batsman
+HM Chauhan,d05876fd,RHB,right-arm medium,pace,
+HM Nicholls,03521fd3,LHB,right-arm offbreak,spin,batsman
+HMCM Bandara,4fc516bd,RHB,legbreak,spin,bowler
+HMRKB Herath,d2fcce2f,LHB,slow left-arm orthodox,spin,bowler
+HN Ya France,915264c2,RHB,right-arm offbreak,spin,batsman
+HNA Conway,272fc5ad,RHB,right-arm fast-medium,pace,bowler
+HP Gawli,2c693be3,RHB,right-arm bowler,none,batsman
+HP Kingston,c89e4c9f,RHB,right-arm medium,pace,allrounder
+HP Patel,8254ea06,LHB,slow left-arm orthodox,spin,
 HR Shokeen,0c9652b0,RHB,right-arm offbreak,spin,bowler
+HR Walsh,1ac2a995,LHB,legbreak googly,spin,bowler
+HS Desai,05c7a444,LHB,right-arm medium-fast,pace,
+HS Joshi,bd16343f,LHB,right-arm offbreak,spin,
+HT Dixon,ecbad6c6,LHB,right-arm offbreak,spin,allrounder
+HT Tector,59ea70a4,RHB,right-arm offbreak,spin,batsman
+HTRY Thornton,055be93a,RHB,right-arm fast,pace,bowler
 HV Patel,f986ca1a,RHB,right-arm medium,pace,bowler
+HWR Cartwright,ab965cad,RHB,right-arm medium,pace,batsman
+Haider Ali,c13e34f4,RHB,none,none,batsman
+Hamayun Altaf,bc3e60ae,RHB,none,none,
+Hammad Azam,57bd3ecc,RHB,right-arm medium,pace,batsman
+Hammad Mirza,0b7b78c6,RHB,none,none,wk_batsman
+Hamza Tahir,34cb2f69,RHB,slow left-arm orthodox,spin,bowler
 Harbhajan Singh,8b5b6769,RHB,right-arm offbreak,spin,bowler
+Hardeep Singh,2123d0af,RHB,right-arm offbreak,spin,
+Hardik Rathod,c0a642a9,LHB,left-arm medium,pace,bowler
+Hardik Tamore,3082eac3,RHB,none,none,wk_batsman
+Hari Nishaanth,c3f37533,LHB,right-arm offbreak,spin,batsman
+Haris Rauf,24bb1c2f,RHB,right-arm fast,pace,bowler
+Haris Sohail,7cd0a092,LHB,slow left-arm orthodox,spin,batsman
+Harishankar Reddy,791c088d,RHB,right-arm medium,pace,bowler
 Harmeet Singh,2a72fd4f,RHB,right-arm medium,pace,bowler
 Harmeet Singh (2),0bf15e52,LHB,slow left-arm orthodox,spin,allrounder
+Haroon Arshad,be0f9ce9,RHB,right-arm medium,pace,allrounder
 Harpreet Brar,c05edf8e,LHB,slow left-arm orthodox,spin,bowler
 Harpreet Singh,28c78fb3,LHB,right-arm medium,pace,batsman
 Harsh Dubey,25228673,LHB,slow left-arm orthodox,spin,allrounder
+Harsh Tyagi,4a15018a,LHB,slow left-arm orthodox,spin,
+Harsh Vikram Singh,63ab7aeb,RHB,right-arm medium,pace,
+Harshit Bisht,a2101f05,RHB,none,none,
 Harshit Rana,77b1aa15,RHB,right-arm fast,pace,bowler
+Harshit Rathod,4666d699,RHB,slow left-arm orthodox,spin,
+Hasan Ali,2911de16,RHB,right-arm medium-fast,pace,bowler
+Hasan Mahmud,80ad39ac,RHB,right-arm fast-medium,pace,bowler
+Hasan Murad,da9f58aa,RHB,slow left-arm orthodox,spin,bowler
+Haseeb Amjad,fb0abc20,RHB,right-arm medium-fast,pace,bowler
+Haseebullah Khan,5691931a,LHB,none,none,wk_batsman
+Hassan Khan,486065b3,RHB,slow left-arm orthodox,spin,bowler
+Hassan Nawaz,26a8b2fe,RHB,right-arm medium,pace,batsman
+Hassnain Shah,7cb931fc,RHB,right-arm medium-fast,pace,bowler
+Hazratullah,5ea51c25,LHB,slow left-arm orthodox,spin,batsman
+Hem Chetri,d2ac5c4c,LHB,right-arm offbreak,spin,
+Hemang Patel,59c8c5b5,RHB,right-arm medium-fast,pace,
+Henan Nazir,e95951b8,RHB,right-arm medium,pace,
+Henry Renthlei,41f56bbc,RHB,legbreak,spin,
+Heramb Parab,b29f6148,RHB,right-arm medium-fast,pace,
+Het Patel,f543b251,RHB,none,none,batsman
+Himalay Agarwal,8e48d9a3,RHB,right-arm medium-fast,pace,
+Himalaya Barad,411cc6c6,RHB,none,none,
+Himan Phukan,9335178c,RHB,legbreak,spin,
+Himanshu Bisht,24d163d7,RHB,legbreak,spin,
+Himanshu Chawla,fdd6edff,RHB,legbreak googly,spin,
+Himanshu Rana,9d3940b3,RHB,right-arm medium,pace,batsman
+Himanshu Sangwan,531f7ccc,RHB,right-arm medium-fast,pace,
+Himmat Singh,ebcfef83,RHB,right-arm offbreak,spin,batsman
+Hiten Dalal,74bace71,RHB,legbreak,spin,
+Hiten Mehra,2656936a,RHB,right-arm offbreak,spin,batsman
+Hitesh Kadam,83b19fa2,LHB,slow left-arm orthodox,spin,
+Hitesh Yadav,b54a1aad,LHB,slow left-arm orthodox,spin,
+Hmar Zothanchhunga,109d4ad1,RHB,right-arm medium,pace,
+Hokaito Zhimomi,96477053,RHB,slow left-arm orthodox,spin,batsman
+Homendro Kabrambam,1b480a44,RHB,right-arm medium-fast,pace,
+Hrishi Raj,e5fa9ca2,RHB,right-arm medium-fast,pace,
+Hrishikesh Tamuli,70b51feb,RHB,none,none,
+Hrithik Kanojia,af985576,RHB,right-arm medium-fast,pace,
+Hunain Shah,3b8679bf,RHB,right-arm medium,pace,bowler
+Hussain Talat,bb4b445b,LHB,right-arm medium-fast,pace,allrounder
+I Kaia,5ad8c974,RHB,legbreak,spin,batsman
 I Malhotra,943fd425,RHB,right-arm medium-fast,pace,bowler
+I Manack,5ec126fa,RHB,right-arm offbreak,spin,bowler
+I Pandey,ed547c49,LHB,none,none,
 I Sharma,5bb1a1c4,RHB,right-arm fast-medium,pace,bowler
 I Udana,ac5ae4af,RHB,left-arm medium-fast,pace,allrounder
+IA Cockbain,542fd5a6,RHB,right-arm medium,pace,batsman
+IA Moran,5ce5204c,RHB,right-arm fast-medium,pace,
 IC Pandey,e0407c01,RHB,right-arm medium,pace,bowler
 IC Porel,fdf7491e,RHB,right-arm medium,pace,bowler
+IDR Bradshaw,a7489342,LHB,left-arm fast-medium,pace,bowler
+IE O'Brien,78f34e15,RHB,right-arm fast-medium,pace,bowler
+IG Butler,b68a30f0,RHB,right-arm fast,pace,bowler
+IJL Trott,ac7fa28f,RHB,right-arm medium,pace,batsman
 IK Pathan,5fa06777,LHB,left-arm medium-fast,pace,allrounder
+IR Bell,33155d1b,RHB,right-arm medium,pace,batsman
 IR Jaggi,dded65e7,RHB,legbreak googly,spin,batsman
 IS Sodhi,641ac5ff,RHB,legbreak,spin,bowler
+Ian Dev Singh,f732f3e7,RHB,right-arm offbreak,spin,batsman
+Ibtisam Sheikh,a6fc52a9,LHB,legbreak googly,spin,bowler
+Iftikhar Ahmed,29e253dd,RHB,right-arm offbreak,spin,batsman
+Iftikhar Anjum,6adf9347,RHB,right-arm medium,pace,bowler
+Ihsanullah,5aeab54c,RHB,none,none,batsman
+Imad Wasim,9cb8d7a6,LHB,slow left-arm orthodox,spin,allrounder
+Imam-ul-Haq,40c041ea,LHB,none,none,batsman
+Imliwati Lemtur,76a33e00,LHB,slow left-arm orthodox,spin,allrounder
+Imran Farhat,480ed517,LHB,legbreak,spin,batsman
+Imran Haider,0226b73a,RHB,legbreak googly,spin,bowler
+Imran Khalid,b8eddbdb,LHB,slow left-arm orthodox,spin,
+Imran Khan,158066a2,RHB,right-arm fast,pace,allrounder
+Imran Khan (1),195fb6db,RHB,left-arm medium-fast,pace,bowler
+Imran Khan (2),2b0f2af3,RHB,right-arm medium-fast,pace,bowler
+Imran Nazir,3eb7c45d,RHB,legbreak,spin,batsman
 Imran Tahir,acee4cc4,RHB,legbreak googly,spin,bowler
+Imrul Kayes,5fbe14fc,LHB,slow left-arm orthodox,spin,batsman
+Inakato Zhimomi,a19ab702,RHB,right-arm offbreak,spin,
+Indiya Toku,164d760f,RHB,right-arm medium,pace,
+Inzamam-ul-Haq,b9a3d8c6,RHB,slow left-arm orthodox,spin,batsman
 Iqbal Abdulla,85aae393,LHB,slow left-arm orthodox,spin,allrounder
+Iqlas Naha,44cc7766,LHB,right-arm medium-fast,pace,
+Irfan Ahmed,5c124657,RHB,right-arm fast-medium,pace,allrounder
+Irfan Khan,ee95065d,RHB,right-arm medium-fast,pace,batsman
+Irfan-ul-Haq,c9b0f3df,RHB,right-arm medium-fast,pace,
+Ishaan Gadekar,e3751ee2,LHB,legbreak,spin,
 Ishan Kishan,752f7486,LHB,right-arm offbreak,spin,wk_batsman
+Ishwar Chaudhary,fe473dc2,RHB,right-arm fast-medium,pace,
+Izharulhaq Naveed,2cbdd22f,RHB,legbreak,spin,bowler
+J Allenby,7d5e0b78,RHB,right-arm medium,pace,allrounder
+J Anderson,d5bbb6a2,RHB,right-arm offbreak,spin,batsman
+J Andrew,6b0db726,RHB,none,none,wk_batsman
 J Arunkumar,f663ef00,RHB,right-arm offbreak,spin,
+J Avendano,0af4a90b,RHB,none,none,batsman
+J Biakthanpuia,8ddb1519,RHB,right-arm offbreak,spin,
+J Blades,af4a9a0a,RHB,left-arm medium,pace,bowler
 J Botha,7c503806,RHB,right-arm offbreak,spin,allrounder
+J Brown,c122ab7f,,none,none,
+J Butte,88d3fcc5,RHB,right-arm offbreak,spin,
+J Campbell,0e63259d,LHB,legbreak,spin,allrounder
+J Charles,09a9d073,RHB,none,none,wk_batsman
+J Clayton,c56fc66d,LHB,left-arm wrist-spin,spin,batsman
+J Edwards,f787e0eb,RHB,right-arm medium,pace,allrounder
 J Fraser-McGurk,9b6e1b3f,RHB,legbreak googly,spin,batsman
+J Gumbie,c8d74c21,RHB,none,none,wk_batsman
+J Hermann,e87aeca2,LHB,none,none,batsman
+J Jarvis,ab54f9e7,RHB,right-arm medium-fast,pace,bowler
+J Kann,cccea5bc,RHB,right-arm fast,pace,allrounder
+J Kariko,cde067e1,LHB,slow left-arm orthodox,spin,bowler
+J Kousik,398be4ed,RHB,right-arm medium,pace,allrounder
+J Lewis,6c75310b,RHB,right-arm medium,pace,bowler
 J Little,9061a703,RHB,left-arm fast-medium,pace,bowler
+J Liyanage,84212ffb,RHB,right-arm fast-medium,pace,allrounder
+J Louw,9c1ccdea,RHB,right-arm medium-fast,pace,bowler
+J Mallikarjun,2222f8a7,RHB,none,none,batsman
+J Merlo,02ba80a0,RHB,right-arm medium-fast,pace,allrounder
+J Miyaji,414d8a10,RHB,right-arm medium-fast,pace,bowler
+J Morgan,71bbaead,LHB,legbreak,spin,
+J Mosca,8f02f6a8,LHB,none,none,batsman
+J Mubarak,a9520ac2,LHB,right-arm offbreak,spin,allrounder
+J Mulder,6b64e7a3,RHB,legbreak,spin,bowler
+J Nyumbu,024a173d,RHB,right-arm offbreak,spin,bowler
 J Overton,59559bc2,RHB,right-arm fast,pace,allrounder
+J Prodehl,45be80ed,RHB,slow left-arm orthodox,spin,
+J Ramanandi,f7ce2ff9,LHB,left-arm medium,pace,bowler
+J Raubenheimer,3c338b6a,RHB,right-arm medium,pace,
+J Seymour,cb54a1d6,LHB,right-arm offbreak,spin,batsman
+J Smits,7c681ee9,RHB,none,none,wk_batsman
 J Suchith,4125d931,LHB,slow left-arm orthodox,spin,bowler
 J Syed Mohammad,c64c2443,LHB,slow left-arm orthodox,spin,bowler
 J Theron,dec8e038,RHB,right-arm medium-fast,pace,bowler
+J Wadia,6ef38020,LHB,slow left-arm orthodox,spin,allrounder
+J Weatherald,edc7ddb6,LHB,legbreak,spin,batsman
 J Yadav,81049310,RHB,right-arm offbreak,spin,bowler
+JA Burns,7a5f232a,RHB,right-arm medium,pace,batsman
+JA Chohan,58be5e46,RHB,legbreak googly,spin,bowler
+JA Clarkson,bed90114,RHB,right-arm medium,pace,allrounder
+JA Davies,5cdf8304,LHB,slow left-arm orthodox,spin,bowler
+JA Duffy,dadbdb68,RHB,right-arm fast-medium,pace,bowler
+JA Freeman,912f472c,RHB,right-arm offbreak,spin,bowler
 JA Morkel,c3d35165,LHB,right-arm medium-fast,pace,allrounder
+JA Prestwidge,5f317fd4,RHB,right-arm medium-fast,pace,bowler
 JA Richardson,1ee08e9a,RHB,right-arm fast,pace,bowler
+JA Rudolph,42537f07,LHB,legbreak googly,spin,batsman
+JA Thompson,1d2f290a,LHB,right-arm medium-fast,pace,allrounder
+JA Turner,cdd875d9,RHB,right-arm fast-medium,pace,bowler
+JAH Marshall,fdac5295,RHB,right-arm medium,pace,batsman
+JAR Blain,e662b18f,RHB,right-arm fast-medium,pace,bowler
 JC Archer,5574750c,RHB,right-arm fast,pace,bowler
+JC Balt,75be3b2a,LHB,right-arm offbreak,spin,batsman
 JC Buttler,99b75528,RHB,none,none,wk_batsman
+JC Silk,7a6dc294,RHB,none,none,batsman
+JC Tredwell,49b6c09f,LHB,right-arm offbreak,spin,allrounder
+JD Campbell,6fd0c8e1,LHB,right-arm offbreak,spin,batsman
+JD Cook,45f56920,RHB,legbreak,spin,bowler
+JD Nel,7c7303eb,RHB,right-arm medium-fast,pace,bowler
 JD Ryder,91ffa6c6,LHB,right-arm medium,pace,allrounder
+JD Smith,b1d5b43c,RHB,right-arm offbreak,spin,bowler
 JD Unadkat,1e66c162,RHB,left-arm medium,pace,bowler
+JD Wildermuth,f1c61793,RHB,right-arm medium-fast,pace,allrounder
+JDF Vandersay,aceb7654,RHB,legbreak,spin,bowler
 JDP Oram,3eac9d95,LHB,right-arm fast-medium,pace,allrounder
 JDS Neesham,9219eff0,LHB,right-arm medium-fast,pace,allrounder
 JE Root,a343262c,RHB,right-arm offbreak,spin,batsman
 JE Taylor,4180d897,RHB,right-arm fast,pace,bowler
 JEC Franklin,cf73ad76,LHB,left-arm medium,pace,allrounder
+JF Mooney,aae9ce90,LHB,right-arm medium,pace,allrounder
+JF Smith,91cd48e0,RHB,right-arm medium-fast,pace,batsman
 JG Bethell,3c55c703,LHB,slow left-arm orthodox,spin,allrounder
+JH Davey,d3868bd0,RHB,right-arm medium-fast,pace,bowler
 JH Kallis,86dc8f2e,RHB,right-arm fast-medium,pace,allrounder
+JH Saroha,72bf3f11,RHB,none,none,
+JH Stander,4373c57e,RHB,right-arm medium-fast,pace,bowler
+JI de Villiers,3847ec84,RHB,right-arm medium,pace,bowler
+JJ Atkinson,bf2d865c,RHB,none,none,wk_batsman
+JJ Bazley,003d49e6,RHB,right-arm fast-medium,pace,allrounder
 JJ Bumrah,462411b3,RHB,right-arm fast,pace,bowler
+JJ Davidson,068c47d2,RHB,right-arm fast,pace,bowler
+JJ Krejza,047d9032,RHB,right-arm offbreak,spin,bowler
+JJ Lamare,695173af,LHB,right-arm offbreak,spin,batsman
+JJ Peirson,2b55c3b4,RHB,none,none,wk_batsman
 JJ Roy,d1c36f5c,RHB,none,none,batsman
+JJ Smit,bb134e5c,RHB,left-arm medium-fast,pace,allrounder
 JJ van der Wath,6821ac10,RHB,right-arm medium-fast,pace,allrounder
+JJS Sangha,8e3cb0e9,RHB,legbreak,spin,batsman
+JK Fuller,dda5aae5,RHB,right-arm fast-medium,pace,allrounder
+JK Kamande,270b3f8e,RHB,right-arm offbreak,spin,bowler
+JK Lalor,88209c84,RHB,left-arm fast-medium,pace,bowler
+JK Masara,e5542f57,RHB,legbreak,spin,
+JK Mukhiya,f8dcfe4e,RHB,right-arm medium-fast,pace,bowler
+JK Reed,a8ad6e80,LHB,right-arm fast-medium,pace,
+JK Vifah,a1448a10,RHB,right-arm medium,pace,
+JL Curtis,a4349861,RHB,none,none,wk_batsman
 JL Denly,bdadf7da,RHB,legbreak,spin,batsman
+JL Ontong,55f33b32,RHB,right-arm offbreak,spin,allrounder
 JL Pattinson,f752db61,LHB,right-arm fast-medium,pace,bowler
+JL Smith,c834c290,RHB,none,none,wk_batsman
+JL de Mey,c9f851b0,RHB,slow left-arm orthodox,spin,bowler
+JL du Plooy,6e6fb538,LHB,slow left-arm orthodox,spin,batsman
+JM Anderson,d12143bf,LHB,right-arm fast-medium,pace,bowler
 JM Bairstow,abb83e27,RHB,right-arm medium,pace,wk_batsman
+JM Bird,bc773eeb,RHB,right-arm fast-medium,pace,bowler
+JM Carder,782b4a8e,LHB,right-arm medium,pace,batsman
+JM Clarke,2eca67f5,RHB,none,none,batsman
+JM Coles,9c643d7b,RHB,slow left-arm orthodox,spin,allrounder
+JM Cox,ff154ecd,RHB,none,none,wk_batsman
+JM Herrick,44ec8c4a,RHB,right-arm fast-medium,pace,
+JM Holland,70c4f525,RHB,slow left-arm orthodox,spin,bowler
+JM How,fd8f11e9,RHB,right-arm medium,pace,batsman
 JM Kemp,6581d753,RHB,right-arm fast-medium,pace,allrounder
+JM Mennie,f048bb41,RHB,right-arm fast-medium,pace,bowler
+JM Muirhead,52f08be8,RHB,legbreak,spin,bowler
 JM Sharma,800d2d97,RHB,none,none,wk_batsman
+JM Vince,a15618fe,RHB,right-arm medium,pace,batsman
+JN Frylinck,3c87f0c3,LHB,left-arm fast-medium,pace,allrounder
+JN Gillespie,74234d66,RHB,right-arm fast,pace,bowler
+JN Loftie-Eaton,f468293b,LHB,right-arm medium,pace,allrounder
+JN Malan,f76d7466,RHB,legbreak,spin,batsman
+JN Mohammed,773cec26,RHB,right-arm offbreak,spin,batsman
+JN Snape,44321a66,RHB,right-arm offbreak,spin,bowler
+JNK Shannon,6e161a33,RHB,right-arm offbreak,spin,batsman
+JNT Seales,ded9ff1e,LHB,right-arm fast-medium,pace,bowler
 JO Holder,0f721006,RHB,right-arm medium-fast,pace,allrounder
+JOA Gordon,bb9b51f4,RHB,right-arm fast-medium,pace,bowler
 JP Behrendorff,4933f499,RHB,left-arm fast-medium,pace,bowler
+JP Bray,7c63baa7,LHB,none,none,
 JP Duminy,2e8994e7,LHB,right-arm offbreak,spin,allrounder
 JP Faulkner,808f425a,RHB,left-arm fast-medium,pace,allrounder
+JP Greaves,74d12124,RHB,right-arm medium,pace,allrounder
 JP Inglis,989889ff,RHB,none,none,wk_batsman
+JP King,9b384e28,RHB,right-arm offbreak,spin,allrounder
+JP Kotze,9f308dfc,LHB,none,none,batsman
+JP Wood,3c3adfce,RHB,left-arm wrist-spin,spin,bowler
+JP Zope,f3ff99aa,LHB,slow left-arm orthodox,spin,
 JPR Scantlebury-Searles,99ed60f8,RHB,right-arm fast-medium,pace,allrounder
+JR Banik,e87cc53a,RHB,right-arm offbreak,spin,
+JR Coleman,de6efa4a,RHB,left-arm fast-medium,pace,bowler
+JR Dean,97188292,RHB,right-arm offbreak,spin,batsman
+JR Doran,9cebb612,LHB,left-arm medium,pace,wk_batsman
 JR Hazlewood,03806cf8,LHB,right-arm fast-medium,pace,bowler
 JR Hopes,2498e163,RHB,right-arm medium,pace,allrounder
 JR Philippe,39086549,RHB,none,none,wk_batsman
+JRMVB Sanjaya,530b20e3,RHB,right-arm fast-medium,pace,bowler
+JS Buckingham,10735e1d,RHB,right-arm fast-medium,pace,bowler
+JS Floros,79765f6f,LHB,right-arm offbreak,spin,
+JS Foster,e68dd455,RHB,none,none,wk_batsman
+JS Jesani,68be5567,RHB,right-arm offbreak,spin,bowler
+JS Lehmann,c96a215f,LHB,slow left-arm orthodox,spin,batsman
+JS Lenton,8820c9ef,LHB,none,none,wk_batsman
+JS Paris,7c8f533d,LHB,left-arm fast-medium,pace,bowler
+JS Patel,f5821615,RHB,right-arm offbreak,spin,bowler
+JT Ball,3d0ed2f9,RHB,right-arm fast-medium,pace,bowler
+JT Brassell,537021f5,RHB,right-arm medium,pace,bowler
+JT Smuts,42172c3c,RHB,slow left-arm orthodox,spin,allrounder
+JW Dernbach,7be8a0ed,RHB,right-arm fast-medium,pace,bowler
 JW Hastings,012829ff,RHB,right-arm fast-medium,pace,allrounder
+JW Wells,8bdac857,RHB,right-arm medium,pace,batsman
+JW Wilson,91c984a1,RHB,right-arm fast-medium,pace,
+JWM Dalrymple,1afdbdbf,RHB,right-arm offbreak,spin,allrounder
+Jafar Jamal,37940451,RHB,right-arm medium,pace,batsman
+Jagjit Singh,d221c0cf,RHB,right-arm medium,pace,
+Jahan Uddin,28970e5a,RHB,right-arm medium-fast,pace,
+Jahandad Khan,22d73540,LHB,left-arm medium-fast,pace,allrounder
+Jahanzaib Sultan,f4426e58,LHB,right-arm offbreak,spin,batsman
+Jahurul Islam,6752c57b,RHB,right-arm offbreak,spin,batsman
+Jaideep Bhambhu,6e1305eb,RHB,right-arm medium-fast,pace,
+Jaker Ali,cd56a813,RHB,none,none,wk_batsman
 Jalaj S Saxena,249abedf,RHB,right-arm offbreak,spin,allrounder
+Janco Smit,e345cb6b,RHB,right-arm medium,pace,bowler
+Jasdeep Singh,5ec41cd7,RHB,right-arm medium,pace,bowler
 Jaskaran Singh,d7b3a420,RHB,right-arm medium,pace,bowler
+Jaskaranvir Singh Sohi,a030bba8,RHB,none,none,
+Jasmer Dhankhar,a7e1f127,RHB,none,none,
+Jaspreet Singh,d76ab352,RHB,right-arm fast-medium,pace,bowler
+Jatin Saxena,0b960e01,RHB,legbreak,spin,batsman
+Jatin Wadhwan,2cd4271e,RHB,right-arm medium,pace,
+Jatinder Singh,b80dd12c,RHB,right-arm offbreak,spin,batsman
+Jaweed Ali,1ed99f80,RHB,right-arm offbreak,spin,
+Jay Bista,f079e8fe,RHB,right-arm offbreak,spin,
+Jay Chauhan,c2468df1,RHB,slow left-arm orthodox,spin,bowler
+Jay Gohil,efd1a0ef,RHB,right-arm offbreak,spin,
+Jay Odedra,526e006d,RHB,right-arm offbreak,spin,bowler
+Jayanta Behera,f9daec85,LHB,slow left-arm orthodox,spin,
+Jayanta Sagatpam,8e5b6ee3,RHB,right-arm offbreak,spin,batsman
+Jaydev Shah,3c9b7d18,LHB,right-arm offbreak,spin,batsman
+Jayveer Parmar,f9346e2a,RHB,right-arm medium-fast,pace,
+Jitumoni Kalita,14857cf9,RHB,legbreak,spin,
+Jiwanjot Singh,39f9e2bc,RHB,right-arm offbreak,spin,
+Jiyaad Magrey,1b3baedd,LHB,right-arm offbreak,spin,
+Jogeswar Bhumij,d76737ce,RHB,right-arm fast-medium,pace,
 Joginder Sharma,9f961c14,RHB,right-arm fast-medium,pace,allrounder
+Johnson Singh,5355e20a,RHB,none,none,
+Jonty Sidhu,b3309131,LHB,right-arm offbreak,spin,
+Joseph Lalthankhuma,d644b8b2,RHB,right-arm offbreak,spin,
+Josh Brown,647e7d44,RHB,right-arm medium,pace,batsman
+Joshua Ozukum,b13c506b,RHB,right-arm medium,pace,batsman
+Jubair Hossain,902d916b,RHB,legbreak,spin,bowler
+Junaid Khan,086f5984,RHB,left-arm fast,pace,bowler
+Junaid Siddique,62e203d4,LHB,right-arm offbreak,spin,batsman
+Junaid Siddiqui,9025e58f,RHB,legbreak,spin,allrounder
+Jyothi Sai Krishna,eb87663e,RHB,none,none,
+Jyotsnil Singh,b32b1661,RHB,right-arm offbreak,spin,
+K Bhagath Varma,5438ffba,RHB,right-arm offbreak,spin,allrounder
+K Bharath Shankar,6099fd3f,RHB,right-arm offbreak,spin,
+K Bhurtel,e3386c8a,RHB,legbreak googly,spin,batsman
+K Birkenstock,27b8d7b6,LHB,right-arm fast-medium,pace,batsman
+K D Patel,76cc7070,RHB,right-arm medium,pace,
+K Doriga,365229a8,RHB,none,none,wk_batsman
+K Gadhavi,afdcd9c6,RHB,none,none,
 K Goel,a1f1829d,LHB,right-arm offbreak,spin,batsman
+K Gore,a6bab2a9,RHB,slow left-arm orthodox,spin,bowler
 K Gowtham,90de905a,RHB,right-arm offbreak,spin,allrounder
 K Kartikeya,f6d8a7ab,RHB,slow left-arm orthodox,spin,bowler
 K Khejroliya,fa2f1dde,LHB,left-arm medium-fast,pace,bowler
+K Klein,374bb5e7,RHB,right-arm medium,pace,bowler
+K L Shrijith,0372c4c5,LHB,right-arm offbreak,spin,wk_batsman
+K Lalhmingmawia,a7f1ef98,RHB,slow left-arm orthodox,spin,
+K Lion-Cachet,aed9ac31,RHB,none,none,wk_batsman
+K Macheka,9124e5ee,RHB,right-arm fast-medium,pace,
+K Makwana,c59fdb7f,RHB,right-arm offbreak,spin,
+K Mishara,65cebd5d,LHB,right-arm offbreak,spin,batsman
+K Pierre,a61bcb94,LHB,slow left-arm orthodox,spin,allrounder
 K Rabada,e62dd25d,LHB,right-arm fast,pace,bowler
+K Saiteja,16bdb9b7,RHB,right-arm medium,pace,
 K Santokie,531f0278,LHB,left-arm medium,pace,bowler
+K Sinclair,314642ed,RHB,right-arm offbreak,spin,bowler
+K Sonavale,10c158cc,RHB,right-arm offbreak,spin,allrounder
+K Tewatiya,b5e545ad,RHB,right-arm medium-fast,pace,
+K Thagunna,97d86e77,RHB,right-arm fast,pace,
+K Tripathi,cd3dd36e,RHB,right-arm offbreak,spin,
 K Upadhyay,27e71d47,RHB,right-arm medium,pace,
+K V Sasikanth,bf6e03ea,RHB,right-arm medium,pace,bowler
+K Vanlalruata,acb89506,RHB,none,none,
+K Verreynne,bf814547,RHB,right-arm offbreak,spin,wk_batsman
+K Waiswa,a3a275ec,RHB,right-arm medium,pace,allrounder
+K Weeraratne,7e38d2de,LHB,right-arm medium-fast,pace,
 K Yadav,030f3089,LHB,left-arm fast-medium,pace,bowler
 KA Jamieson,68c56d09,RHB,right-arm fast-medium,pace,bowler
 KA Maharaj,0b60eb09,RHB,slow left-arm orthodox,spin,bowler
 KA Pollard,a757b0d8,RHB,right-arm medium,pace,allrounder
+KA Vaz,2b126005,RHB,none,none,
 KAJ Roach,78eb4223,RHB,right-arm fast-medium,pace,bowler
 KB Arun Karthik,7daedf2f,RHB,legbreak googly,spin,wk_batsman
+KB Panchal,eae999f9,LHB,right-arm medium,pace,
+KB Pawan,62dad180,RHB,none,none,
 KC Cariappa,edb3d4f8,RHB,legbreak,spin,bowler
 KC Sangakkara,6b71e6cf,LHB,right-arm offbreak,spin,wk_batsman
 KD Karthik,c03f1114,RHB,right-arm offbreak,spin,wk_batsman
+KD Mills,7fb32e5b,RHB,right-arm fast-medium,pace,bowler
+KD Pandey,cf49b5ed,RHB,right-arm medium-fast,pace,
+KD Shah,d5ae21a2,LHB,right-arm offbreak,spin,batsman
+KDC Clarke,1e1a8922,RHB,right-arm medium,pace,bowler
+KDK Vithanage,f3bde2b3,LHB,legbreak,spin,batsman
+KH Devdhar,62e07f92,RHB,none,none,wk_batsman
 KH Pandya,5b8c830e,LHB,slow left-arm orthodox,spin,allrounder
+KH Prajapati,c4e73ff1,RHB,right-arm offbreak,spin,batsman
+KI Simmonds,3122c016,LHB,slow left-arm orthodox,spin,allrounder
+KIC Asalanka,732c038e,LHB,right-arm offbreak,spin,allrounder
 KJ Abbott,a9da7784,RHB,right-arm fast-medium,pace,bowler
+KJ Coetzer,85d8110a,RHB,right-arm medium-fast,pace,batsman
+KJ Dudgeon,b8828a1b,RHB,right-arm fast-medium,pace,bowler
+KJ O'Brien,243431b5,RHB,right-arm medium-fast,pace,allrounder
+KK Acharjee,d57936b4,RHB,right-arm medium,pace,
 KK Ahmed,a2f46292,RHB,left-arm fast-medium,pace,bowler
 KK Cooper,557153ca,RHB,right-arm medium,pace,allrounder
+KK Jennings,8479a24a,LHB,right-arm medium-fast,pace,batsman
 KK Nair,944533a5,RHB,right-arm offbreak,spin,batsman
 KL Nagarkoti,b4f5c2d9,RHB,right-arm fast,pace,bowler
 KL Rahul,b17e2f24,RHB,none,none,wk_batsman
 KM Asif,798cc28e,RHB,right-arm medium,pace,bowler
+KM Awala,c6c7d01b,RHB,right-arm offbreak,spin,allrounder
+KM Dabengwa,df08c69e,LHB,slow left-arm orthodox,spin,allrounder
 KM Jadhav,99d63244,RHB,right-arm offbreak,spin,allrounder
+KM Jarvis,59792462,RHB,right-arm fast-medium,pace,bowler
 KMA Paul,75224f22,RHB,right-arm fast-medium,pace,allrounder
+KMC Bandara,2c997ad3,LHB,left-arm medium-fast,pace,
 KMDN Kulasekara,469ea22b,RHB,right-arm fast-medium,pace,bowler
+KN Luitel,d6e2a10e,LHB,left-arm medium,pace,
+KNA Bandara,585dda5d,RHB,legbreak,spin,batsman
+KO Meth,9fbc7bc4,RHB,right-arm medium-fast,pace,allrounder
+KOA Powell,e012ad13,LHB,right-arm medium,pace,batsman
+KOK Williams,78cb83f3,RHB,right-arm fast-medium,pace,bowler
 KP Appanna,d92e42f5,RHB,slow left-arm orthodox,spin,bowler
+KP Kakad,1ece10dd,RHB,legbreak,spin,
+KP Meiyappan,b91f2a31,RHB,legbreak,spin,bowler
 KP Pietersen,39f01cdb,RHB,right-arm offbreak,spin,batsman
+KR Kakade,ba86aae4,RHB,right-arm offbreak,spin,
+KR Mahajan,6ee6b491,RHB,right-arm offbreak,spin,
 KR Mayers,73c18486,LHB,right-arm medium,pace,allrounder
+KR Patterson,e3bf8356,LHB,right-arm offbreak,spin,batsman
 KR Sen,2e78f685,RHB,right-arm fast,pace,bowler
+KR Singh,fe608a7e,RHB,right-arm medium,pace,
+KR Smith,b816c2a5,LHB,right-arm offbreak,spin,
+KS Airee,548d4188,RHB,right-arm medium,pace,bowler
+KS Bagabena,1ce4f664,RHB,right-arm medium,pace,
 KS Bharat,44a89551,RHB,none,none,wk_batsman
+KS Lokuarachchi,3b50c63a,RHB,legbreak,spin,allrounder
 KS Rathore,e3851766,LHB,none,none,wk_batsman
 KS Sharma,39ed0d2f,RHB,right-arm offbreak,spin,allrounder
 KS Williamson,d027ba9f,RHB,right-arm offbreak,spin,batsman
 KT Maphaka,107c26fb,LHB,left-arm fast,pace,bowler
+KTGD Prasad,9b79b9de,RHB,right-arm fast-medium,pace,bowler
+KTH Ratnayake,4eb02f2e,LHB,right-arm offbreak,spin,allrounder
+KU Carty,6020a3c6,RHB,right-arm medium,pace,batsman
+KV Morea,270bf7e2,RHB,left-arm medium,pace,bowler
 KV Sharma,119678fd,LHB,legbreak googly,spin,bowler
 KW Richardson,dfc4d8b5,RHB,right-arm fast-medium,pace,bowler
+Kaif Ahmad,7b09e19c,RHB,right-arm medium-fast,pace,
+Kaleem Sana,14810ee7,RHB,left-arm medium-fast,pace,bowler
+Kaleemullah,72253b87,RHB,right-arm medium,pace,bowler
+Kalhan Challu,cc6b0cda,RHB,right-arm offbreak,spin,batsman
+Kamal Das,1d09dda7,LHB,slow left-arm orthodox,spin,
 Kamran Akmal,ff077124,RHB,none,none,wk_batsman
+Kamran Ghulam,35f4cf7e,RHB,slow left-arm orthodox,spin,allrounder
 Kamran Khan,6ef60d3a,LHB,left-arm medium-fast,pace,bowler
+Kamsha Yangfo,451db894,RHB,none,none,
+Kangabam Singh,59da1e8a,RHB,right-arm medium-fast,pace,
+Kanishk Seth,98f27d4b,RHB,left-arm medium,pace,allrounder
+Kant Singh,66af8109,RHB,right-arm medium,pace,bowler
+Kanwar Abhinay,7c2e7c17,RHB,right-arm fast-medium,pace,bowler
+Karan Dagar,155c24d2,RHB,legbreak,spin,
+Karan KC,f53b3e1d,RHB,right-arm fast,pace,allrounder
+Karan Kaila,b19f1fe9,LHB,slow left-arm orthodox,spin,
+Karan Lal,72147266,RHB,right-arm offbreak,spin,
+Karan Patel,a18da10f,RHB,right-arm offbreak,spin,
+Karan Shinde,08a349ac,LHB,legbreak googly,spin,
+Karan Thakur,8050f0f0,LHB,right-arm medium,pace,
+Karanveer Kaushal,9e62632a,RHB,right-arm offbreak,spin,
 Karanveer Singh,1647bd37,RHB,legbreak googly,spin,
 Karim Janat,62175638,RHB,right-arm medium,pace,allrounder
+Karkir Taye,dfbd203a,RHB,right-arm medium-fast,pace,
+Karma Bhutia,299984bc,LHB,none,none,
+Karnajit Yumnam,6f2093a8,RHB,none,none,
+Karthik Raman,c55a5dff,RHB,right-arm medium-fast,pace,
 Kartik Tyagi,5d2eea49,RHB,right-arm fast,pace,bowler
+Kartikeya Kak,6699acb6,RHB,right-arm medium,pace,
+Kashif Bhatti,e93f608d,RHB,slow left-arm orthodox,spin,allrounder
+Kashif Daud,24fcd95d,RHB,right-arm medium-fast,pace,allrounder
+Kashyap Bakhale,aa39eaa3,RHB,legbreak googly,spin,
+Kaushik Maity,93b430e8,LHB,slow left-arm orthodox,spin,
+Kengo Bam,dd55932d,RHB,slow left-arm orthodox,spin,
+Keshav Kumar,722ca1f2,RHB,none,none,
+Khaled Ahmed,5dbdecf1,RHB,right-arm medium-fast,pace,bowler
+Khalid Kail,3ee90b67,RHB,none,none,batsman
+Khalid Latif,5eea345c,RHB,right-arm offbreak,spin,batsman
+Khalid Usman,e9ea5eb5,RHB,slow left-arm orthodox,spin,allrounder
+Khawaja Nafay,3cf54e77,RHB,right-arm offbreak,spin,wk_batsman
+Khawar Ali,934b36a6,RHB,legbreak,spin,batsman
+Khawlhring Lalremruata,bd265857,RHB,none,none,
+Khizer Dafedar,fd2037ce,RHB,legbreak googly,spin,
+Khrievitso Kense,2597e56b,RHB,legbreak,spin,
+Khurram Manzoor,82c78845,RHB,right-arm offbreak,spin,batsman
+Khurram Nawaz,07ff32f5,RHB,none,none,batsman
+Khurram Shahzad,85b0ccd1,RHB,right-arm offbreak,spin,
+Khushdil Shah,fce581b5,LHB,slow left-arm orthodox,spin,allrounder
+Kilco R Marak,4da2f572,RHB,right-arm medium-fast,pace,
+Kiran Reddy,2275cb50,RHB,right-arm medium,pace,
+Kishan Lyngdoh,d11f0758,RHB,right-arm medium-fast,pace,batsman
+Kishan Parmar M,6fa5314b,RHB,right-arm medium,pace,
+Kishan Thokchom,dbc76c59,RHB,right-arm medium,pace,
+Kolla Sumanth,b93a5d0b,RHB,none,none,
+Koripalli Sreekanth,43b01577,RHB,right-arm offbreak,spin,
+Kranthi Kumar,f21b01e1,RHB,right-arm medium,pace,allrounder
+Krishan Alang,339bda40,RHB,right-arm offbreak,spin,
+Krishna Das,2009e01b,RHB,right-arm medium,pace,
+Krishnamoorthy Vignesh,529fbf1b,RHB,right-arm medium,pace,bowler
+Krishnamurthy Siddharth,330bc788,RHB,right-arm medium,pace,batsman
+Kruthik Hanagavadi,32342d85,RHB,right-arm medium-fast,pace,
+Kshitij Patel,9309e81f,RHB,right-arm offbreak,spin,batsman
+Kshitiz Sharma,c910e89d,RHB,right-arm offbreak,spin,batsman
+Kukna Ajay Singh,4738ba32,LHB,slow left-arm orthodox,spin,bowler
+Kuldeep Gehi,f6b0bd10,LHB,none,none,batsman
 Kuldeep Yadav,8d2c70ad,LHB,left-arm wrist-spin,spin,bowler
+Kumar Deobrat,bc6d8229,RHB,right-arm medium,pace,batsman
 Kumar Kushagra,57ca01b3,RHB,none,none,wk_batsman
+Kumar Nyompu,03be7a88,LHB,right-arm offbreak,spin,
+Kumar Rajnish,2057b225,LHB,right-arm offbreak,spin,
+Kumar Suraj,2649de20,LHB,right-arm medium,pace,
+Kunal Chandela,d38c03d4,RHB,right-arm medium,pace,batsman
+Kunal Dabas,90065d86,RHB,right-arm offbreak,spin,
+Kunal Mahajan,b83ef011,RHB,none,none,
+Kunal Saikia,5cb0a343,RHB,none,none,
+Kunwar Bidhuri,9ffe4bfe,LHB,right-arm medium,pace,allrounder
+Kushal Malla,7e9f1cde,LHB,slow left-arm orthodox,spin,allrounder
 L Ablish,8b9704ae,RHB,right-arm medium-fast,pace,bowler
 L Balaji,b2b50355,RHB,right-arm medium-fast,pace,bowler
+L Botha,60285d55,RHB,right-arm medium,pace,
+L Bowe,a5b71472,LHB,left-arm wrist-spin,spin,bowler
+L Gregory,06c2de82,RHB,right-arm medium-fast,pace,allrounder
+L Guthrie,b03303ca,LHB,left-arm fast,pace,bowler
+L Haskett,037429dc,RHB,left-arm fast-medium,pace,bowler
+L Holt,21e1e7bd,RHB,legbreak,spin,bowler
+L Jhon,c16f70b4,RHB,none,none,
+L Kishan Singha,ca82673d,RHB,slow left-arm orthodox,spin,
+L McCarthy,8eb2e2e6,LHB,right-arm medium-fast,pace,bowler
 L Ngidi,f834dcfc,RHB,right-arm fast-medium,pace,bowler
+L Ntanzi,5260d30c,RHB,right-arm fast,pace,
+L Pope,616a8149,RHB,legbreak googly,spin,bowler
 L Ronchi,0fa5042b,RHB,none,none,wk_batsman
+L Scott,0ebb3444,RHB,right-arm fast-medium,pace,allrounder
+L Shaw,b34e4b15,RHB,none,none,batsman
+L Siaka,6b4593ee,RHB,right-arm fast-medium,pace,batsman
+L Sipamla,f892fcf9,RHB,right-arm fast-medium,pace,bowler
+L Steenkamp,8bd9fd13,RHB,right-arm offbreak,spin,batsman
+L Thareja,f38fcf70,RHB,none,none,
+L Tucker,3979b5e0,RHB,none,none,wk_batsman
+L Vincent,2764133a,RHB,right-arm medium,pace,batsman
 L Wood,65b6943c,LHB,left-arm fast-medium,pace,bowler
 LA Carseldine,d872f52a,LHB,left-arm medium,pace,allrounder
+LA Dawson,4a461c24,RHB,slow left-arm orthodox,spin,allrounder
+LA Doran,f201593c,RHB,slow left-arm orthodox,spin,
 LA Pomersbach,b63ab531,LHB,right-arm offbreak,spin,batsman
 LB Williams,a1d95bd8,LHB,right-arm medium-fast,pace,bowler
+LC Hatcher,8f3fde65,RHB,right-arm fast-medium,pace,bowler
+LD Chandimal,8dd02a98,RHB,right-arm offbreak,spin,wk_batsman
+LD Hearne,7f2163a0,LHB,right-arm offbreak,spin,batsman
+LD Madushanka,de063a39,RHB,right-arm fast-medium,pace,allrounder
+LD Pfeffer,dd86ec0b,LHB,none,none,wk_batsman
+LE Bosman,73e749e1,RHB,right-arm medium,pace,batsman
 LE Plunkett,9a963804,RHB,right-arm fast,pace,bowler
+LG Pretorius,60aa2db3,LHB,none,none,wk_batsman
 LH Ferguson,2f9d0389,RHB,right-arm fast,pace,bowler
 LI Meriwala,d3611425,LHB,left-arm fast-medium,pace,bowler
+LJ Evans,1c513d54,RHB,right-arm offbreak,spin,batsman
+LJ Woodcock,9ba59a3c,LHB,slow left-arm orthodox,spin,allrounder
 LJ Wright,cca50cd6,RHB,right-arm medium,pace,batsman
+LL Tsotsobe,12bffe91,RHB,left-arm fast-medium,pace,bowler
+LM Jongwe,b8704508,RHB,right-arm fast-medium,pace,allrounder
+LM Yadav,e0c30d35,RHB,right-arm medium-fast,pace,
 LMP Simmons,89f64c19,RHB,right-arm medium-fast,pace,batsman
+LN O'Connor,5456bd0c,RHB,legbreak,spin,bowler
+LN Onyango,68c3f79d,RHB,right-arm medium,pace,bowler
+LN Rajbanshi,6ad2d5f7,RHB,slow left-arm orthodox,spin,bowler
 LPC Silva,1be70c88,RHB,legbreak,spin,batsman
+LR Butterworth,ff6707cc,LHB,right-arm medium,pace,
+LR Chethan,7ccfdbcb,RHB,none,none,wk_batsman
+LR Morris,b08e58e2,RHB,right-arm fast,pace,bowler
+LR Naylor,1236044e,RHB,right-arm medium,pace,allrounder
 LR Shukla,b1451597,RHB,right-arm medium,pace,allrounder
 LRPL Taylor,b61a3e1a,RHB,right-arm offbreak,spin,batsman
+LS Baker,441b1b20,LHB,right-arm medium-fast,pace,bowler
 LS Livingstone,50c6bc2b,RHB,right-arm offbreak,spin,allrounder
+LUVNITH SISODIA,a689af4b,LHB,left-arm medium,pace,wk_batsman
+LV van Beek,782fb776,RHB,right-arm medium-fast,pace,bowler
+LW Feldman,da13a0fc,RHB,right-arm fast-medium,pace,
+Lagnajit Samal,473041ad,RHB,right-arm medium,pace,
+Lakhan Singh,ad72e8cc,RHB,right-arm medium,pace,
+Lakshay Garg,4af886ed,RHB,right-arm medium,pace,allrounder
+Lalchhuanliana ,2ca0f319,RHB,none,none,batsman
+Lalfakzuala Renthlei,ff57eb02,RHB,left-arm medium-fast,pace,
+Lalhma Chhuana,956c813c,RHB,none,none,
+Lalhmangaiha,15bbe51b,LHB,none,none,
+Lalhriatrenga,21527bc1,RHB,right-arm medium-fast,pace,
+Lalhruai Ralte,c2ed5822,RHB,right-arm medium,pace,
+Lalhruaizela,4cfda770,RHB,none,none,
 Lalit Yadav,ad427b5c,RHB,right-arm offbreak,spin,allrounder
+Lalith Mohan,c206d8dc,RHB,slow left-arm orthodox,spin,
+Lalnunkima Varte,b7d8d5ce,RHB,right-arm medium,pace,
+Lalrempuia,e19c424c,RHB,right-arm offbreak,spin,
+Lamabam Singh,76860ea3,LHB,slow left-arm orthodox,spin,
+Langlonyamba Meitan Keishangbam,61b9410c,RHB,legbreak,spin,
+Larry Sangma,77f6fd61,RHB,right-arm medium-fast,pace,
+Lavin Coster,6822e203,RHB,none,none,
+Lee Yong Lepcha,dd967d0d,RHB,right-arm offbreak,spin,
+Lekhaz Reddy,eb344e07,RHB,none,none,wk_batsman
+Licha Tehi,4b6cc6c2,RHB,right-arm medium,pace,
 Liton Das,0404d43c,RHB,right-arm offbreak,spin,wk_batsman
+Liyan Khan,13d4fba2,RHB,right-arm offbreak,spin,batsman
+Logesh Prabagaran,4a3503dd,RHB,none,none,
+Lokesh Bam,75c8a26b,RHB,none,none,batsman
+Lone Nasir Muzaffar,38b43687,RHB,right-arm medium-fast,pace,
+M Abin Mathew,6dd34184,RHB,right-arm medium-fast,pace,
+M Aboagye,afe8ff08,RHB,legbreak,spin,allrounder
+M Ahmed,7ca476bf,RHB,slow left-arm orthodox,spin,
+M Ansari,681af475,RHB,right-arm fast-medium,pace,bowler
 M Ashwin,e2db2409,RHB,legbreak googly,spin,bowler
+M Bean,d0eb7868,LHB,left-arm medium-fast,pace,bowler
+M Beardman,b5a12740,RHB,right-arm fast-medium,pace,bowler
+M Bhanuka,684d21d7,LHB,none,none,batsman
+M Boast,2f838fa4,LHB,right-arm fast,pace,allrounder
+M Bryant,f32012f4,RHB,right-arm medium,pace,batsman
+M Campopiano,26d80a9d,RHB,right-arm offbreak,spin,batsman
+M De Villiers,e9aaf862,RHB,right-arm medium,pace,batsman
+M Dheeraj Kumar,ca81c65c,RHB,right-arm offbreak,spin,
+M Faraz Akram,38214163,LHB,right-arm medium,pace,allrounder
+M Gilkes,d85b0f8b,LHB,none,none,wk_batsman
+M Heingo,0abb2525,RHB,right-arm medium,pace,bowler
 M Jansen,81c36ee9,RHB,left-arm fast,pace,allrounder
+M Joseph,b18ba97a,,none,none,
 M Kaif,d84378a4,RHB,right-arm offbreak,spin,batsman
 M Kartik,abfeb126,LHB,slow left-arm orthodox,spin,bowler
+M Kelly,68e26ec9,RHB,right-arm fast-medium,pace,bowler
 M Klinger,b970a03f,RHB,none,none,batsman
+M Labuschagne,fa433be6,RHB,right-arm medium-fast,pace,batsman
+M Levitt,6a71ba3a,RHB,right-arm medium,pace,batsman
 M Manhas,c42aaf71,RHB,right-arm offbreak,spin,allrounder
 M Markande,a9fd84fb,RHB,legbreak,spin,bowler
+M Mohammed,1b7c4d69,RHB,right-arm medium,pace,bowler
 M Morkel,5bb5a915,LHB,right-arm fast,pace,bowler
+M Mosehle,8836fcac,RHB,none,none,wk_batsman
 M Muralitharan,4ba44e19,RHB,right-arm offbreak,spin,bowler
 M Ntini,20a941bb,RHB,right-arm fast,pace,bowler
 M Pathirana,64839cb3,RHB,right-arm fast,pace,bowler
+M Perry,442461fa,LHB,right-arm fast-medium,pace,bowler
+M Pranith,12cdca65,LHB,right-arm offbreak,spin,
 M Prasidh Krishna,85e0cf10,RHB,right-arm fast-medium,pace,bowler
+M Pretorius,54c2b697,RHB,right-arm fast-medium,pace,bowler
+M Pushpakumara,af2a0740,LHB,right-arm offbreak,spin,allrounder
 M Rawat,de8d3876,RHB,none,none,wk_batsman
 M Shahrukh Khan,7dcb9bc9,RHB,right-arm offbreak,spin,batsman
+M Shumba,6766ca00,LHB,slow left-arm orthodox,spin,batsman
 M Siddharth,cf0ccafa,RHB,slow left-arm orthodox,spin,bowler
+M Spoors,da4a1e46,RHB,legbreak googly,spin,batsman
 M Theekshana,f24c6701,RHB,right-arm offbreak,spin,bowler
 M Tiwari,fb5f69e4,RHB,right-arm medium-fast,pace,allrounder
+M Van Buuren,46e4a4e0,RHB,legbreak googly,spin,batsman
 M Vijay,4b57e452,RHB,right-arm offbreak,spin,batsman
 M Vohra,c03e2850,RHB,right-arm medium,pace,batsman
+M Wright,bd920a2c,RHB,legbreak,spin,batsman
+M Zondeki,9b75e4f1,RHB,right-arm fast,pace,
 M de Lange,d4eef961,RHB,right-arm fast,pace,bowler
+M van Lingen,7eb36269,LHB,left-arm medium,pace,batsman
 MA Agarwal,00ea847a,RHB,right-arm offbreak,spin,batsman
+MA Aponso,e2ee90d9,RHB,slow left-arm orthodox,spin,bowler
+MA Beer,f60dc2a5,RHB,slow left-arm orthodox,spin,bowler
+MA Carberry,8305580c,LHB,right-arm offbreak,spin,batsman
+MA Jones,05f96194,RHB,right-arm offbreak,spin,batsman
 MA Khote,0d232ffd,RHB,right-arm medium,pace,
+MA Leask,28131839,RHB,right-arm offbreak,spin,allrounder
+MA Ouma,0939c670,RHB,right-arm offbreak,spin,wk_batsman
+MA Parker,4d0055a0,LHB,right-arm medium-fast,pace,bowler
+MA Sharma,72949a3b,RHB,none,none,
 MA Starc,3fb19989,LHB,left-arm fast,pace,bowler
 MA Wood,8d92a2c3,RHB,right-arm fast,pace,bowler
+MADI Hemantha,58431ca0,RHB,legbreak,spin,allrounder
+MB Darshan,85cbf838,RHB,right-arm medium,pace,bowler
+MB Kruger,c51add25,RHB,none,none,batsman
 MB Parmar,86ae8ef2,RHB,right-arm offbreak,spin,
+MB van Schelven,aef2982e,LHB,slow left-arm orthodox,spin,bowler
+MBS Jonkman,74ef405a,RHB,right-arm fast,pace,bowler
+MC Bascombe,f467d746,RHB,none,none,batsman
 MC Henriques,32198ae0,RHB,right-arm fast-medium,pace,allrounder
 MC Juneja,605b7efa,RHB,right-arm offbreak,spin,batsman
+MC Sorensen,3f18724b,RHB,right-arm fast-medium,pace,bowler
+MD Bates,1b3acd33,RHB,left-arm medium-fast,pace,bowler
+MD Gunathilaka,509a7ca1,LHB,right-arm offbreak,spin,allrounder
+MD Ingale,a584021c,RHB,right-arm medium,pace,bowler
 MD Mishra,6afb26d6,RHB,right-arm offbreak,spin,batsman
+MD Nidheesh,96513a65,RHB,right-arm medium,pace,bowler
+MD Patel,25d7f1ac,RHB,none,none,wk_batsman
+MD Rahmatullah,c10a99ec,RHB,none,none,
 MD Shanaka,3ff033bb,RHB,right-arm medium,pace,allrounder
+MDK Perera,5531248e,RHB,right-arm offbreak,spin,allrounder
 MDKJ Perera,f21043a5,LHB,none,none,wk_batsman
+ME Trescothick,ea42ddb9,LHB,right-arm medium,pace,batsman
 MEK Hussey,48fd7349,LHB,right-arm medium,pace,batsman
+MF Hurst,40e4cf47,RHB,none,none,wk_batsman
 MF Maharoof,ab89348d,RHB,right-arm fast-medium,pace,allrounder
 MG Bracewell,e38bce7a,LHB,right-arm offbreak,spin,allrounder
+MG Erasmus,95a5e066,RHB,right-arm offbreak,spin,allrounder
+MG Gale,9ef8ebb9,RHB,right-arm fast-medium,pace,
+MG Hogan,5da34add,RHB,right-arm fast-medium,pace,bowler
 MG Johnson,f5180fe6,LHB,left-arm fast,pace,bowler
 MG Neser,0164b064,RHB,right-arm medium-fast,pace,allrounder
+MG Sirur,a71b0bd3,RHB,right-arm offbreak,spin,allrounder
+MH Cross,8b261d84,RHB,none,none,wk_batsman
+MH Wessels,90f47cf2,RHB,none,none,batsman
+MH Yardy,3812d56b,LHB,slow left-arm orthodox,spin,allrounder
+MJ Ackerman,6287d981,LHB,right-arm offbreak,spin,batsman
+MJ Buchanan,1e0d5c4d,RHB,right-arm offbreak,spin,
 MJ Clarke,f842c2cf,RHB,slow left-arm orthodox,spin,batsman
+MJ Cosgrove,be768595,LHB,right-arm medium,pace,batsman
 MJ Guptill,2be41edb,RHB,right-arm offbreak,spin,batsman
+MJ Hay,732f711b,RHB,none,none,wk_batsman
 MJ Henry,e84ac20c,RHB,right-arm fast-medium,pace,bowler
+MJ Humphreys,2c54c49b,RHB,slow left-arm orthodox,spin,bowler
+MJ Johnston,db2114f1,LHB,right-arm medium,pace,allrounder
 MJ Lumb,11df3dc8,LHB,right-arm medium,pace,batsman
+MJ Mason,aab3e7be,RHB,right-arm fast-medium,pace,bowler
 MJ McClenaghan,51a3c5ef,LHB,left-arm fast-medium,pace,bowler
+MJ North,99464591,LHB,right-arm offbreak,spin,batsman
 MJ Owen,f2c936d7,RHB,right-arm medium,pace,batsman
+MJ Potts,894b2d25,RHB,right-arm fast-medium,pace,bowler
+MJ Prior,1200550f,RHB,none,none,wk_batsman
 MJ Santner,e4a0deae,LHB,slow left-arm orthodox,spin,allrounder
 MJ Suthar,025c4400,LHB,slow left-arm orthodox,spin,allrounder
+MJ Swepson,86b4bf88,RHB,legbreak,spin,bowler
+MJG Rippon,b03db6fa,RHB,left-arm wrist-spin,spin,allrounder
+MJJ Critchley,c5cc48bc,RHB,legbreak,spin,allrounder
 MK Lomror,da934ee8,LHB,slow left-arm orthodox,spin,allrounder
+MK Mahale,cf38d7e2,LHB,right-arm offbreak,spin,
 MK Pandey,93b4fc78,RHB,right-arm medium,pace,batsman
 MK Tiwary,26e5cabf,RHB,legbreak googly,spin,batsman
 ML Hayden,d8699ab7,LHB,right-arm medium,pace,batsman
+ML Lewis,8b8745fd,RHB,right-arm fast-medium,pace,bowler
+ML Udawatte,5f5e0c8c,LHB,right-arm offbreak,spin,batsman
 MM Ali,bb351c23,LHB,right-arm offbreak,spin,allrounder
 MM Patel,f0f628c7,RHB,right-arm medium-fast,pace,bowler
 MM Sharma,759ac88f,RHB,right-arm medium,pace,bowler
 MN Samuels,f846de6a,RHB,right-arm offbreak,spin,batsman
+MN Singh,7ba6ef29,RHB,none,none,
+MN Waller,ec4dada1,RHB,right-arm offbreak,spin,batsman
 MN van Wyk,710dd98c,RHB,slow left-arm orthodox,spin,wk_batsman
+MNK Fernando,ba603555,RHB,right-arm offbreak,spin,batsman
 MP Breetzke,35f173a0,RHB,none,none,batsman
+MP Kuhnemann,7b953689,LHB,slow left-arm orthodox,spin,bowler
+MP O'Dowd,b699df47,RHB,right-arm offbreak,spin,batsman
+MP Siboto,9d50c7e1,LHB,right-arm medium,pace,bowler
 MP Stoinis,d9273ee7,RHB,right-arm medium,pace,allrounder
+MP Vaughan,6e1b1ec0,RHB,right-arm offbreak,spin,batsman
 MP Yadav,b1ad996b,RHB,right-arm fast,pace,bowler
+MR Adair,fc55ec67,RHB,right-arm fast-medium,pace,allrounder
+MR Day,aba0412a,RHB,right-arm fast-medium,pace,
+MR Gillespie,7d7ab238,RHB,right-arm fast-medium,pace,bowler
+MR Kumar,c1c47acd,RHB,none,none,batsman
 MR Marsh,3d8feaf8,RHB,right-arm medium,pace,allrounder
+MR Raut,af7f15f3,RHB,slow left-arm orthodox,spin,
+MR Shylla,a4966c30,RHB,right-arm medium-fast,pace,
+MR Swart,a75a78eb,RHB,right-arm offbreak,spin,batsman
+MRJ Watt,1252f71a,LHB,slow left-arm orthodox,spin,bowler
+MS Akhil,c133943b,RHB,none,none,
+MS Atapattu,8a686d30,RHB,legbreak,spin,batsman
 MS Bhandage,e96801ea,LHB,right-arm medium-fast,pace,allrounder
 MS Bisla,5afd4539,RHB,none,none,wk_batsman
+MS Chapman,7fa12533,LHB,slow left-arm orthodox,spin,allrounder
+MS Crane,f0a0204e,RHB,legbreak googly,spin,bowler
 MS Dhoni,4a8a2e3b,RHB,right-arm medium,pace,wk_batsman
 MS Gony,ae78bc32,RHB,right-arm medium,pace,bowler
+MS Harris,9e85455c,LHB,none,none,batsman
+MS Hooda,d851756a,RHB,right-arm medium,pace,batsman
+MS Kasprowicz,8d0ea930,RHB,right-arm fast-medium,pace,bowler
+MS Panesar,5a37ec26,LHB,slow left-arm orthodox,spin,bowler
+MS Pepper,270e4c23,RHB,none,none,wk_batsman
+MS Redkar,f64c8577,RHB,right-arm offbreak,spin,
+MS Sinclair,1b668884,RHB,right-arm medium,pace,batsman
 MS Wade,afa7e784,LHB,right-arm medium,pace,wk_batsman
+MSR Charan,926cd9e5,RHB,none,none,
+MSS Hussain,9fa93dcd,RHB,none,none,
+MT Renshaw,218d4d78,LHB,right-arm offbreak,spin,batsman
+MT Steketee,903560ed,RHB,right-arm fast-medium,pace,bowler
 MV Boucher,f3cb53a1,RHB,right-arm medium,pace,wk_batsman
+MV Pithiya,1c29d51f,RHB,right-arm offbreak,spin,
+MVT Fernando,5eef2118,RHB,left-arm medium-fast,pace,bowler
+MW Archer,1bcdaf62,RHB,legbreak googly,spin,bowler
+MW Dixon,314ed7e6,RHB,right-arm fast,pace,
+MW Edwards,5f222a64,RHB,right-arm fast-medium,pace,bowler
+MW Forde,83d17bbc,RHB,right-arm medium,pace,bowler
+MW Harvey,47dc9794,LHB,right-arm medium-fast,pace,batsman
+MW Hill,1952e660,LHB,right-arm medium,pace,
+MW Jones,487b8546,RHB,right-arm fast,pace,allrounder
+MW Machan,8c7d6cbe,LHB,right-arm offbreak,spin,batsman
+MW Parkinson,19708692,RHB,legbreak,spin,bowler
 MW Short,a90e53ec,RHB,right-arm offbreak,spin,batsman
+Maaz Khan,73a0e5d8,RHB,legbreak googly,spin,bowler
+Maaz Sadaqat,6d9560f3,LHB,slow left-arm orthodox,spin,allrounder
+Madhav Avsh,dbe4caf2,LHB,slow left-arm orthodox,spin,
+Madhav Kaushik,49110249,RHB,right-arm offbreak,spin,batsman
+Mahedi Hasan,9dad0f2e,RHB,right-arm offbreak,spin,allrounder
+Mahmudul Hasan Joy,4b51bd51,RHB,none,none,batsman
+Mahmudullah,bf1d7d3e,RHB,right-arm offbreak,spin,allrounder
+Malay Raj,8b105ee2,RHB,right-arm medium,pace,
+Manan Sharma,bfcff6cd,LHB,slow left-arm orthodox,spin,allrounder
 Mandeep Singh,c3a96caf,RHB,right-arm medium,pace,allrounder
+Mandup Bhutia,2c06dca9,RHB,right-arm medium,pace,
+Mangal Mahrour,97c06e86,RHB,right-arm medium,pace,
+Manik Beri,b903f842,RHB,left-arm medium,pace,
+Manik Gupta,b0a48a21,LHB,legbreak googly,spin,
+Manisankar Murasingh,52cb36a0,LHB,right-arm medium,pace,allrounder
+Manish Dogra,ac74a1ac,LHB,none,none,wk_batsman
+Manish Golamaru,327c7253,LHB,slow left-arm orthodox,spin,
+Manish Sharma,b4ff4409,RHB,legbreak googly,spin,
+Manjeet Singh,c2c97df0,RHB,right-arm medium,pace,
+Manjinder Singh,783e8d4d,RHB,right-arm medium,pace,
+Manjot Kalra,f047e7ff,LHB,right-arm bowler,none,batsman
+Manogaran Pooviarasan,4bd3f984,RHB,right-arm medium-fast,pace,
+Manoj Barik,4432aa36,LHB,slow left-arm orthodox,spin,
+Manoj Singh,f099a6f6,RHB,none,none,
+Mansoor Amjad,9018bf65,RHB,legbreak googly,spin,allrounder
+Manvan Patel,b6d95d47,RHB,right-arm medium-fast,pace,
+Manzoor Dar,91a260d3,RHB,right-arm offbreak,spin,batsman
+Marimuthu Vikneshwaran,ee2ac9d7,RHB,right-arm medium,pace,
+Mark Ingty,6b394eaa,RHB,right-arm medium,pace,
 Mashrafe Mortaza,e186f49c,RHB,right-arm fast-medium,pace,bowler
+Matiullah Khan,083e01d9,RHB,right-arm medium-fast,pace,bowler
 Mayank Dagar,a457cfb5,RHB,slow left-arm orthodox,spin,bowler
+Mayank Mishra,de00b96c,LHB,slow left-arm orthodox,spin,allrounder
+Mayank Raghav,228bd0b0,RHB,none,none,batsman
+Mayank Rawat,2b801189,RHB,right-arm offbreak,spin,allrounder
+Mayank Sidhana,0bb51ea6,RHB,right-arm offbreak,spin,
+Md Nazim,1471c041,RHB,right-arm medium-fast,pace,
+Md Saptula,febe4bfa,RHB,right-arm offbreak,spin,
+Mehdi Hassan,5876c626,LHB,slow left-arm orthodox,spin,bowler
+Mehedi Hasan Miraz,c58b0108,RHB,right-arm offbreak,spin,allrounder
+Mehrab Hossain jnr,86cd782f,LHB,slow left-arm orthodox,spin,batsman
+Mehran Khan,d7bfcc0b,RHB,right-arm medium-fast,pace,batsman
+Mehran Mumtaz,373838de,LHB,slow left-arm orthodox,spin,bowler
+Merenka Jamir,b28f1115,RHB,right-arm medium-fast,pace,bowler
+Mickil Jaiswal,763abbaf,RHB,legbreak,spin,
+Mihir Hirwani,49bacd0f,RHB,legbreak googly,spin,
+Milind Kumar,b4296080,RHB,right-arm offbreak,spin,allrounder
+Mir Hamza,cb1a782a,LHB,left-arm medium,pace,bowler
+Mirza Baig,cd14fffb,RHB,right-arm fast-medium,pace,
 Misbah-ul-Haq,7eae4418,RHB,legbreak,spin,batsman
+Mitesh Patel,ab636882,RHB,none,none,wk_batsman
+Moakumzuk Tzudir,dcb0fe34,RHB,right-arm medium,pace,
+Mohammad Aadil Alam,70ced7f2,RHB,right-arm medium,pace,bowler
+Mohammad Abbas,a089f93f,RHB,right-arm medium-fast,pace,bowler
+Mohammad Ali,8c0a86ef,,none,none,
+Mohammad Amir,e174dadd,LHB,left-arm fast-medium,pace,bowler
+Mohammad Amir Khan,72f03be4,RHB,right-arm medium,pace,bowler
+Mohammad Asghar,574665e2,RHB,slow left-arm orthodox,spin,bowler
 Mohammad Ashraful,2bb09eb2,RHB,right-arm offbreak,spin,batsman
 Mohammad Asif,e03b66ec,LHB,right-arm fast-medium,pace,bowler
+Mohammad Azab,a81abb8c,LHB,left-arm medium,pace,bowler
+Mohammad Ghazanfar,00321fff,RHB,legbreak,spin,bowler
 Mohammad Hafeez,9ab63e7b,RHB,right-arm offbreak,spin,allrounder
+Mohammad Haris,ff3f6fc1,RHB,right-arm offbreak,spin,wk_batsman
+Mohammad Hasnain,8596fe80,RHB,right-arm fast,pace,bowler
+Mohammad Huraira,9d2d03ef,RHB,none,none,batsman
+Mohammad Ilyas,bbfa0b42,RHB,right-arm medium-fast,pace,bowler
+Mohammad Imran,65a2fff5,RHB,right-arm medium,pace,allrounder
+Mohammad Imran (2),687e20b3,RHB,left-arm medium-fast,pace,bowler
+Mohammad Irfan,a8e3170f,RHB,left-arm fast,pace,bowler
+Mohammad Irfan (4),1bf9a8ef,RHB,right-arm medium,pace,bowler
+Mohammad Irfan (5),32885b08,RHB,legbreak googly,spin,bowler
+Mohammad Kashif,4d05a82e,RHB,right-arm offbreak,spin,bowler
+Mohammad Mithun,77191792,RHB,none,none,batsman
+Mohammad Mohsin,79f8472d,LHB,legbreak googly,spin,allrounder
 Mohammad Nabi,62af8546,RHB,right-arm offbreak,spin,allrounder
+Mohammad Nadeem,c5d7b244,RHB,right-arm medium-fast,pace,allrounder
+Mohammad Naim,7923a51d,LHB,none,none,batsman
+Mohammad Naveed,4861d29b,RHB,right-arm medium,pace,bowler
+Mohammad Nawaz,3086f7a4,LHB,slow left-arm orthodox,spin,allrounder
+Mohammad Nawaz (3),3086f7a4,LHB,slow left-arm orthodox,spin,allrounder
+Mohammad Rizwan,2f26ac1a,RHB,right-arm medium,pace,wk_batsman
+Mohammad Ronak,d0b1a9c1,RHB,left-arm medium-fast,pace,
+Mohammad Saif,2843d331,LHB,slow left-arm orthodox,spin,
+Mohammad Saifuddin,b3a28446,LHB,right-arm medium-fast,pace,allrounder
+Mohammad Salman,9eea360c,RHB,legbreak,spin,wk_batsman
+Mohammad Sami,68ddabdb,RHB,right-arm fast,pace,bowler
+Mohammad Shahid,c285c86e,RHB,right-arm medium-fast,pace,bowler
+Mohammad Shahzad (2),4c7df2c8,RHB,right-arm medium-fast,pace,allrounder
+Mohammad Taha,3207b7d2,LHB,slow left-arm orthodox,spin,allrounder
+Mohammad Umar,feb6180d,,none,none,
+Mohammad Wasim,9e9af5f2,RHB,right-arm fast-medium,pace,bowler
+Mohammad Yousuf,e237b28c,RHB,right-arm offbreak,spin,batsman
+Mohammad Zeeshan,68d11420,RHB,right-arm medium,pace,bowler
+Mohammed Azharuddeen,4ae89f36,RHB,none,none,wk_batsman
+Mohammed Faraazuddin,18ac3318,RHB,right-arm offbreak,spin,allrounder
+Mohammed Mudhasir,7549ecb0,RHB,right-arm medium,pace,
 Mohammed Shami,8cf9814c,RHB,right-arm fast,pace,bowler
 Mohammed Siraj,2f49c897,RHB,right-arm fast,pace,bowler
+Mohammed Taha,9fd83fec,RHB,right-arm offbreak,spin,batsman
+Mohd Israr,97334324,RHB,right-arm medium,pace,
+Mohit Ahlawat,791b8fac,RHB,none,none,
+Mohit Avasthi,7e83cef2,RHB,right-arm medium-fast,pace,bowler
+Mohit Jain,f2598f58,RHB,none,none,
+Mohit Jangra,4052ab5c,LHB,left-arm medium,pace,
+Mohit Kumar,caabc8e4,RHB,right-arm medium-fast,pace,
+Mohit Mittan,deae3c43,RHB,none,none,
+Mohit Mongia,e5b78474,RHB,slow left-arm orthodox,spin,
 Mohit Rathee,9a5f2863,RHB,legbreak,spin,allrounder
 Mohsin Khan,2669d6b7,LHB,left-arm medium-fast,pace,
+Mohsin Khan (2),c33d8116,LHB,left-arm medium-fast,pace,bowler
+Mominul Haque,de0a3209,LHB,slow left-arm orthodox,spin,allrounder
 Monu Kumar,fb24e76c,RHB,right-arm medium,pace,allrounder
+Mosaddek Hossain,8919756f,RHB,right-arm offbreak,spin,allrounder
+Mrinmoy Dutta,64959652,LHB,left-arm medium-fast,pace,
+Mrittunjoy Chowdhury,21b97584,LHB,left-arm medium-fast,pace,allrounder
+Mrunal Devdhar,a1765140,RHB,right-arm medium,pace,
+Mubasir Khan,7264b765,RHB,right-arm offbreak,spin,allrounder
+Mudassar Bukhari,37312a74,RHB,right-arm medium-fast,pace,allrounder
+Mughavi Wotsa,f45e828c,RHB,right-arm medium,pace,batsman
+Muhammad Akhlaq,9739e85c,RHB,right-arm medium-fast,pace,wk_batsman
+Muhammad Amir,60bec5c3,LHB,slow left-arm orthodox,spin,batsman
+Muhammad Arfan,1294ee6d,LHB,right-arm medium,pace,bowler
+Muhammad Faizan,1574f3fe,RHB,right-arm medium-fast,pace,batsman
+Muhammad Farooq,8f3c6b8a,RHB,right-arm medium-fast,pace,
+Muhammad Jawadullah,098a757c,LHB,left-arm fast-medium,pace,bowler
+Muhammad Kaleem,ff86a0e1,RHB,right-arm medium-fast,pace,batsman
+Muhammad Khan,f17ac7d0,RHB,none,none,wk_batsman
+Muhammad Musa,9b8a3c39,RHB,right-arm fast-medium,pace,bowler
+Muhammad Naeem,e2f7d34b,RHB,right-arm offbreak,spin,
+Muhammad Riazullah,0b2f7328,RHB,legbreak,spin,batsman
+Muhammad Rohid,9103ecdb,RHB,left-arm medium-fast,pace,bowler
+Muhammad Shahzad,f59b2121,RHB,right-arm medium-fast,pace,allrounder
+Muhammad Usman,45642393,LHB,none,none,batsman
+Muhammad Zohaib,8f75193e,LHB,right-arm offbreak,spin,batsman
 Mujeeb Ur Rahman,7d92277a,RHB,right-arm offbreak,spin,bowler
+Mujtaba Yousuf,f5c9b42c,LHB,left-arm medium-fast,pace,
 Mukesh Choudhary,765a4731,LHB,left-arm medium,pace,bowler
 Mukesh Kumar,2cffab74,RHB,right-arm medium,pace,bowler
+Mukhtar Ahmed,456f6d99,RHB,legbreak googly,spin,batsman
+Mukhtar Hussain,97114e80,RHB,right-arm medium,pace,
+Muktar Ali,4a491652,RHB,right-arm medium-fast,pace,allrounder
+Munim Shahriar,dd98b22f,RHB,right-arm medium-fast,pace,batsman
+Munir Dar,04029c44,RHB,slow left-arm orthodox,spin,allrounder
 Musheer Khan,d621b427,RHB,slow left-arm orthodox,spin,allrounder
+Mushfiqur Rahim,a94e08ea,RHB,none,none,wk_batsman
 Mustafizur Rahman,0a8fce53,LHB,left-arm fast-medium,pace,bowler
+Muzahir Raza,60606200,RHB,right-arm medium,pace,allrounder
+Myendung Singpho,d2b99c2d,RHB,legbreak googly,spin,
+N A Sharma,5663eaa5,RHB,right-arm medium-fast,pace,
+N Bidaisee,af5b6464,LHB,legbreak,spin,allrounder
+N Boje,6a0537aa,LHB,slow left-arm orthodox,spin,bowler
+N Brand,68790da2,LHB,slow left-arm orthodox,spin,allrounder
 N Burger,465aa633,LHB,left-arm fast-medium,pace,bowler
+N Davin,72e361fe,RHB,legbreak,spin,batsman
+N Deonarine,caf1b14c,LHB,right-arm offbreak,spin,batsman
+N Dickwella,45963d9e,LHB,none,none,wk_batsman
 N Jagadeesan,bd54eef5,RHB,none,none,wk_batsman
+N Joshi,cfece11f,RHB,none,none,
+N Kushwah,87b9786b,LHB,right-arm offbreak,spin,
+N M'shangwe,dd468277,RHB,legbreak,spin,bowler
+N Madziva,4a36c370,RHB,right-arm medium-fast,pace,allrounder
+N McAndrew,38c276e1,RHB,right-arm medium-fast,pace,bowler
+N Mokoena,201facae,RHB,right-arm fast-medium,pace,bowler
+N Peter,212aeedd,RHB,legbreak,spin,bowler
 N Pooran,3241e3fd,LHB,right-arm offbreak,spin,wk_batsman
+N Pradeep,2af838ee,RHB,right-arm fast-medium,pace,bowler
 N Rana,fb2d1dda,LHB,right-arm medium,pace,batsman
 N Saini,addbde6c,RHB,none,none,wk_batsman
+N Sindhu,3cea23da,LHB,slow left-arm orthodox,spin,allrounder
 N Thushara,ee1b6c27,RHB,right-arm medium-fast,pace,bowler
+N Timmers,235e4ed9,LHB,none,none,wk_batsman
+N Vanua,a36915ce,RHB,right-arm medium,pace,bowler
 N Wadhera,d1a60072,LHB,legbreak,spin,batsman
+N van Heerden,ad19dda3,LHB,right-arm fast,pace,bowler
+NA McSweeney,e94d2d50,RHB,right-arm offbreak,spin,batsman
+NA Rathva,8f607eea,LHB,slow left-arm orthodox,spin,
+NA Rock,43f4087c,LHB,none,none,wk_batsman
 NA Saini,21d4e29b,RHB,right-arm fast,pace,bowler
 NB Singh,b822e99c,RHB,right-arm medium,pace,bowler
+NCR Larkin,02bce9a8,RHB,none,none,batsman
+ND Bills,c9078a9a,RHB,right-arm medium,pace,
+ND Buchanan,9a211e08,RHB,right-arm fast-medium,pace,bowler
 ND Doshi,6ec424a9,RHB,slow left-arm orthodox,spin,bowler
+ND McKenzie,a830c083,RHB,right-arm medium,pace,batsman
+NE Bonner,59ddd811,RHB,legbreak,spin,batsman
+NFI McCallum,ef5cbaf6,RHB,none,none,batsman
+NG Jones,c5326dd0,RHB,right-arm medium,pace,allrounder
+NJ Astle,99639abf,RHB,right-arm medium,pace,batsman
 NJ Maddinson,44afbf2d,LHB,slow left-arm orthodox,spin,batsman
+NJ O'Brien,84826f48,LHB,none,none,wk_batsman
+NJ Reardon,c7bdb5b5,LHB,right-arm medium,pace,batsman
 NJ Rimmington,6042bf26,RHB,right-arm fast-medium,pace,bowler
+NK Patel,c6e10e5c,RHB,right-arm medium,pace,allrounder
+NK Singh,78359d28,LHB,right-arm offbreak,spin,
+NK Yadav,737e595d,RHB,right-arm medium,pace,bowler
+NL Bertus,ebaeab6b,LHB,none,none,
 NL McCullum,5673a3fc,RHB,right-arm offbreak,spin,bowler
 NLTC Perera,0f12f9df,LHB,right-arm medium-fast,pace,allrounder
+NM Carter,7805af0f,LHB,left-arm medium-fast,pace,allrounder
 NM Coulter-Nile,56ab442f,RHB,right-arm fast,pace,allrounder
+NM Hauritz,8ea6e670,RHB,right-arm offbreak,spin,bowler
+NM Lyon,96a6a7ad,RHB,right-arm offbreak,spin,bowler
+NN Bhute,5f06c5a8,RHB,right-arm medium,pace,allrounder
+NN Odhiambo,753b5a2d,RHB,right-arm medium-fast,pace,bowler
+NN Sen,497b05f4,RHB,right-arm offbreak,spin,
+NN Sen Chowdhary,08a11820,RHB,right-arm offbreak,spin,
+NO Miller,ea3ffd1b,RHB,slow left-arm orthodox,spin,bowler
+NP Kenjige,f7d267f7,RHB,slow left-arm orthodox,spin,bowler
+NP Winter,6c87f1df,LHB,left-arm medium,pace,bowler
+NR Dhumal,732dbafc,RHB,right-arm medium,pace,
+NR Hobson,4312e0fd,LHB,right-arm medium,pace,batsman
+NR Kirton,6b75c2b1,LHB,none,none,allrounder
+NR Kumar,b3bad3f2,RHB,right-arm offbreak,spin,batsman
+NR Narah,eb7c5965,RHB,right-arm medium-fast,pace,
+NR Welch,74c6c6e0,RHB,legbreak googly,spin,batsman
+NRJ Croes,f427e63e,RHB,none,none,batsman
+NS Chaturved,1e295ba7,RHB,legbreak,spin,batsman
+NS Dhaliwal,cbabd6ad,RHB,right-arm medium-fast,pace,batsman
 NS Naik,aedc3b7c,RHB,none,none,wk_batsman
+NS Poonia,e343abe9,RHB,right-arm medium-fast,pace,batsman
+NS Rathour,0f44384f,LHB,right-arm offbreak,spin,
+NS Sharma,e7024d78,RHB,right-arm medium,pace,
+NT Broom,a354c917,RHB,right-arm medium,pace,batsman
 NT Ellis,9eb1455b,RHB,right-arm fast-medium,pace,bowler
 NV Ojha,890946a0,RHB,none,none,wk_batsman
+NW Bracken,4c61a0f9,RHB,left-arm fast-medium,pace,bowler
+Nabam Tatang,fc494054,RHB,right-arm medium-fast,pace,
+Nabam Tempol,455a7563,RHB,right-arm medium-fast,pace,bowler
+Nabi Gul,bcc154fa,RHB,none,none,
+Nadeem Ahmed,023f6b02,RHB,slow left-arm orthodox,spin,bowler
+Nadeem Khan,a94eb41e,RHB,slow left-arm orthodox,spin,
+Nadif Chowdhury,d6ac6545,RHB,slow left-arm orthodox,spin,batsman
+Naeem Islam,02e83ac5,RHB,right-arm offbreak,spin,allrounder
+Nagaho Chishi,5b4d1d4e,RHB,right-arm medium,pace,
+Nahid Rana,5318ee68,RHB,right-arm fast,pace,bowler
+Najibullah Zadran,1212cbec,LHB,right-arm offbreak,spin,batsman
+Nakul Sharma,f5cf7ae0,RHB,legbreak googly,spin,
+Nakul Verma,38c0d699,RHB,legbreak googly,spin,wk_batsman
+Nalin Mishra,8a336273,RHB,right-arm offbreak,spin,
 Naman Dhir,fffa744b,RHB,right-arm offbreak,spin,allrounder
+Naren Reddy,a7b20d59,RHB,right-arm offbreak,spin,
+Narsingh Yadav,4c450aee,RHB,none,none,
+Naseem Khushi,c63671e9,RHB,none,none,wk_batsman
+Naseem Shah,9c9af282,RHB,right-arm fast,pace,bowler
+Nasir Hossain,6eea0b32,RHB,right-arm offbreak,spin,allrounder
+Nasir Jamshed,4c4a06fb,LHB,none,none,batsman
+Nasir Nawaz,13dd482e,RHB,right-arm medium-fast,pace,
+Nasrulla Rana,9ffb7550,RHB,right-arm medium-fast,pace,allrounder
+Nasum Ahmed,37654b75,LHB,slow left-arm orthodox,spin,allrounder
+Nauman Ali,54c58a5e,LHB,slow left-arm orthodox,spin,bowler
+Nauman Anwar,d0540390,RHB,right-arm medium-fast,pace,batsman
+Naushad Shaikh,9ed95736,RHB,right-arm offbreak,spin,batsman
 Navdeep Saini,21d4e29b,RHB,right-arm fast,pace,bowler
+Naved Yasin,7bc1a2d1,LHB,slow left-arm orthodox,spin,batsman
+Naved-ul-Hasan,33f28243,RHB,right-arm medium-fast,pace,bowler
 Naveen-ul-Haq,c0c411cb,RHB,right-arm medium-fast,pace,bowler
+Navneet Virk,9830f5a5,RHB,right-arm medium,pace,
+Nawazul Munier,9616bea8,RHB,none,none,
+Nazeeb Saiyed,2122c023,RHB,right-arm medium-fast,pace,
+Nazim Siddiqui,88a4a356,RHB,right-arm medium,pace,
+Nazimuddin,4aef496b,RHB,right-arm medium,pace,batsman
+Nazmul Hossain,5e5eab39,RHB,right-arm medium-fast,pace,bowler
+Nazmul Hossain Shanto,1274d7ab,LHB,right-arm offbreak,spin,batsman
+Nazmul Islam,6575e3bc,LHB,slow left-arm orthodox,spin,bowler
+Neelam Obi,047fc26e,RHB,legbreak googly,spin,
+Neelambuj Vats,899bc881,RHB,right-arm medium,pace,
+Neetesh Sharma,aac9e6f1,RHB,right-arm medium-fast,pace,
+Nestor Dhamba,b878fc9a,RHB,right-arm offbreak,spin,bowler
+Ngangom Rajesh Singh,069fbf56,RHB,right-arm medium,pace,
+Niaz Ali,e33a357d,LHB,left-arm medium-fast,pace,batsman
+Nihal Surlaker,1ffad65f,RHB,right-arm medium,pace,
+Nikhil Chaudhary,1f84183a,RHB,legbreak googly,spin,allrounder
+Nikhil Gangta,8812869d,RHB,right-arm medium,pace,allrounder
+Nikhil Kohli,17f03e69,RHB,right-arm medium-fast,pace,
+Nikhilesh Surendran,78ea3a86,RHB,none,none,
+Nilesh Lamichaney,dc501d26,RHB,legbreak googly,spin,
+Ninad Kadam,b8b024c7,RHB,right-arm offbreak,spin,
+Nipan Deka,21e6f277,RHB,right-arm offbreak,spin,
 Niraj Patel,a2870fb7,LHB,none,none,allrounder
+Nishunk Birla,376025f1,RHB,slow left-arm orthodox,spin,
+Nitesh Gupta,a398b8c2,RHB,right-arm fast-medium,pace,
+Nitesh Hooda,d424d06a,RHB,right-arm medium-fast,pace,
+Nitesh Lohchab,d4520718,RHB,right-arm medium,pace,
+Nitesh Sedai,e9cb8d60,RHB,right-arm offbreak,spin,
 Nithish Kumar Reddy,aad0c365,RHB,right-arm medium-fast,pace,allrounder
+Nitin Tanwar,7cc7fe19,RHB,right-arm offbreak,spin,
+Nitin Yadav,ed3fdd1a,RHB,right-arm medium,pace,
+Nitish Rao,62ccc063,LHB,slow left-arm orthodox,spin,
+Niyas Nizar,fb90249c,RHB,right-arm medium,pace,
+Nizakat Khan,e3eb9e46,RHB,legbreak,spin,allrounder
+Nongthombam Denin,1bf2759b,RHB,right-arm medium-fast,pace,
+Nongthombam Sarojkumar,58ed53f3,RHB,right-arm offbreak,spin,
 Noor Ahmad,efc04be7,RHB,left-arm wrist-spin,spin,bowler
+Nurul Hasan,d365d463,RHB,none,none,wk_batsman
+Nzanthung Mozhui,43be3821,LHB,right-arm medium-fast,pace,batsman
+O Davidson,63249474,LHB,slow left-arm orthodox,spin,allrounder
+O Davies,0ea54eca,RHB,right-arm offbreak,spin,batsman
+O Muzondo,ffc308ee,LHB,slow left-arm orthodox,spin,
+O Patterson,069a5170,RHB,left-arm medium,pace,bowler
 O Thomas,c6097d68,LHB,right-arm fast,pace,bowler
 OA Shah,7bf96684,RHB,right-arm offbreak,spin,batsman
 OC McCoy,529eb9e0,LHB,left-arm fast-medium,pace,bowler
+OEG Baartman,6b9eb501,RHB,right-arm medium-fast,pace,bowler
 OF Smith,23cca426,RHB,right-arm fast-medium,pace,allrounder
+OH Agbomadzie,b38a9f73,LHB,left-arm medium,pace,
+OJ Hairs,c8a7b014,LHB,right-arm offbreak,spin,batsman
+OJ Peake,9c8448ba,LHB,right-arm offbreak,spin,allrounder
+OJ Pope,e94bc520,RHB,none,none,batsman
+OP Stone,3f659464,RHB,right-arm fast,pace,bowler
+Omair Yousuf,f8e3c0f8,RHB,none,none,batsman
+Oren Ngullie,68376632,RHB,none,none,
 P Amarnath,6ad3a659,RHB,right-arm medium,pace,
 P Awana,1a0c3177,RHB,right-arm medium,pace,bowler
 P Chopra,8ac93ca2,RHB,legbreak googly,spin,batsman
 P Dogra,2728e7e9,RHB,legbreak,spin,batsman
 P Dubey,ed5a5510,RHB,legbreak googly,spin,bowler
+P Dutta,0fdb1546,LHB,slow left-arm orthodox,spin,
+P Hatzoglou,6f95e5fa,RHB,legbreak googly,spin,bowler
+P Jayawickrama,b7d1eadd,RHB,slow left-arm orthodox,spin,bowler
+P Karia,7878257d,RHB,right-arm offbreak,spin,
+P Khadka,12c3ba4d,RHB,right-arm medium-fast,pace,allrounder
 P Kumar,e938e1bc,RHB,right-arm medium,pace,bowler
+P Mardi,31833a36,RHB,legbreak,spin,
+P Mustard,1b6fef02,LHB,legbreak,spin,wk_batsman
 P Negi,f62772e5,LHB,slow left-arm orthodox,spin,bowler
+P Nissanka,8ee36b18,RHB,none,none,batsman
+P Nitesh Reddy,9ff77e41,RHB,right-arm offbreak,spin,
 P Parameswaran,0c432afb,RHB,left-arm medium,pace,
+P Prafullomani,f9900488,RHB,none,none,
 P Prasanth,ddb00822,LHB,slow left-arm orthodox,spin,allrounder
+P Rathnayake,c1fdfb46,RHB,right-arm offbreak,spin,batsman
 P Ray Barman,441c72ae,RHB,legbreak googly,spin,bowler
+P Rowe,34ba03c3,RHB,none,none,wk_batsman
 P Sahu,9a0146b3,RHB,legbreak googly,spin,allrounder
+P Saravana Kumar,c23938fd,RHB,right-arm medium,pace,bowler
+P Sarraf,82294960,RHB,right-arm offbreak,spin,allrounder
 P Simran Singh,9418198b,RHB,none,none,wk_batsman
+P Subrayen,7ec9711d,RHB,right-arm offbreak,spin,allrounder
 P Suyal,cedc1d9a,RHB,left-arm medium,pace,bowler
+P Thamaraikannan,df72675b,RHB,right-arm medium,pace,
+P Utseya,9de271ef,RHB,right-arm offbreak,spin,bowler
+PA Dahiya,c10c625d,RHB,right-arm medium,pace,
+PA Hitchcock,27d1cc51,RHB,right-arm medium,pace,
+PA Jaques,03252e44,LHB,left-arm medium,pace,batsman
+PA Nixon,f14c62e4,LHB,none,none,batsman
 PA Patel,b5da6c24,LHB,right-arm offbreak,spin,wk_batsman
 PA Reddy,2461eef2,RHB,legbreak,spin,batsman
+PA van Meekeren,4557dc54,RHB,right-arm fast-medium,pace,bowler
+PADLR Sandakan,79aad751,RHB,left-arm wrist-spin,spin,bowler
+PB Mehta,2462f58c,RHB,right-arm medium,pace,
 PBB Rajapaksa,6c882e9a,LHB,right-arm medium,pace,batsman
+PC Connell,5500c675,RHB,right-arm medium-fast,pace,bowler
 PC Valthaty,25eeb281,RHB,right-arm medium,pace,batsman
+PC de Silva,b40ee8a8,LHB,slow left-arm orthodox,spin,allrounder
+PD Blignaut,20ab5aad,RHB,slow left-arm orthodox,spin,bowler
 PD Collingwood,a386e91b,RHB,right-arm medium,pace,allrounder
+PD McGlashan,024fe464,RHB,none,none,wk_batsman
 PD Salt,3d284ca3,RHB,right-arm offbreak,spin,wk_batsman
+PDRL Perera,f6b5d11a,LHB,left-arm medium-fast,pace,bowler
+PE Kruger,39181592,RHB,right-arm medium,pace,allrounder
+PG Dooley,5e3054d0,LHB,left-arm wrist-spin,spin,bowler
+PG Fulton,10a2a1ff,RHB,right-arm medium,pace,batsman
 PH Solanki,c695b423,RHB,legbreak,spin,bowler
 PHKD Mendis,08548b13,LHB,right-arm offbreak,spin,allrounder
+PI Walter,57590dbb,LHB,left-arm medium,pace,allrounder
+PJ Bhati,278989a3,RHB,right-arm offbreak,spin,
 PJ Cummins,ded9240e,RHB,right-arm fast,pace,bowler
+PJ Forrest,56c205b7,RHB,right-arm medium,pace,batsman
+PJ Hughes,004c9e85,LHB,none,none,batsman
+PJ Ingram,5bd3bb5d,RHB,right-arm offbreak,spin,batsman
+PJ Moor,a1d3540a,RHB,right-arm offbreak,spin,wk_batsman
+PJ Ongondo,27cc4361,RHB,right-arm fast-medium,pace,bowler
 PJ Sangwan,9fc0ef64,RHB,left-arm medium,pace,bowler
+PJ van Biljon,4025c262,RHB,right-arm medium,pace,wk_batsman
 PK Garg,bb965e9a,RHB,right-arm medium,pace,batsman
+PKD Chase,8c2aa0f9,RHB,right-arm medium-fast,pace,bowler
+PL Mommsen,a56f4b65,RHB,right-arm offbreak,spin,batsman
+PM Liyanagamage,3ee0050f,RHB,right-arm medium-fast,pace,bowler
+PM Nevill,a22fb7b5,RHB,none,none,wk_batsman
 PM Sarvesh Kumar,4b4d1957,RHB,right-arm medium,pace,
+PM Seelaar,abbdca1a,RHB,slow left-arm orthodox,spin,allrounder
+PM Siddle,bd93fea4,RHB,right-arm fast-medium,pace,bowler
+PM Singh,c5680204,RHB,right-arm medium,pace,
 PN Mankad,663b5e34,RHB,right-arm medium,pace,allrounder
 PP Chawla,98ae73b1,LHB,legbreak,spin,allrounder
 PP Ojha,6c6591ab,LHB,slow left-arm orthodox,spin,bowler
 PP Shaw,8b3e9c7c,RHB,right-arm offbreak,spin,batsman
+PR Brown,1efd12d1,RHB,right-arm fast-medium,pace,bowler
+PR Rekhade,17196bf7,LHB,slow left-arm orthodox,spin,allrounder
 PR Shah,0aadc906,RHB,none,none,wk_batsman
+PR Stirling,cf494ffe,RHB,right-arm offbreak,spin,allrounder
+PR Veer,e148e6bd,LHB,slow left-arm orthodox,spin,allrounder
+PR Yadav,6223636a,RHB,right-arm medium,pace,
+PRP Boissevain,a300e810,RHB,legbreak googly,spin,bowler
+PS Airee,cc18ba92,RHB,right-arm medium,pace,wk_batsman
+PS Athavale,c2f12310,RHB,right-arm offbreak,spin,wk_batsman
+PS Kataria,cf59f9b2,RHB,right-arm medium,pace,
+PS Kumar,9786f2c3,RHB,right-arm offbreak,spin,
+PS Painkra,6cdc3215,RHB,right-arm medium-fast,pace,
+PS Sairam,c08963b0,RHB,right-arm offbreak,spin,
 PSP Handscomb,ada15e88,RHB,none,none,batsman
 PV Tambe,6aed7e79,RHB,legbreak,spin,bowler
 PVD Chameera,327b58d3,RHB,right-arm fast,pace,bowler
 PVSN Raju,c27b5a0e,RHB,right-arm medium-fast,pace,bowler
+PW Borren,91052c96,RHB,right-arm medium,pace,allrounder
 PWA Mulder,c96f6ac5,RHB,right-arm medium,pace,allrounder
 PWH de Silva,a97c8ec2,RHB,legbreak,spin,allrounder
+Padam Limboo,ae9adf77,RHB,right-arm medium,pace,
+Pallav Kumar Das,c2294408,LHB,right-arm medium,pace,batsman
+Palzor Tamang,61a3c20c,RHB,right-arm medium,pace,
+Pankaj Jaswal,3bc10d5b,RHB,right-arm medium,pace,bowler
+Pankaj Kumar,cca2aa1a,RHB,none,none,wk_batsman
+Pankaj Rao,13dd2a4b,RHB,right-arm medium,pace,bowler
+Pankaj Shaw,b7892352,RHB,right-arm offbreak,spin,
 Pankaj Singh,e32d22f6,RHB,right-arm medium-fast,pace,bowler
+Pappu Roy,7b5235a6,LHB,slow left-arm orthodox,spin,
+Parameeswaran Sivaraman,fdb68cc0,RHB,right-arm medium-fast,pace,
+Paras Sehrawat,302a90a6,RHB,none,none,
+Pardeep Yadav,eafd2271,RHB,right-arm offbreak,spin,
+Paresh Patel,8372988e,LHB,slow left-arm orthodox,spin,
+Pargat Singh,d2e67105,RHB,right-arm offbreak,spin,allrounder
+Parikshit Valsangkar,84ba2fbc,RHB,legbreak googly,spin,
+Parivesh Dhar,3759f3c7,RHB,right-arm medium-fast,pace,
+Parmesh Vaidik,cede9920,LHB,left-arm medium-fast,pace,
+Parth Bhut,09a3f653,RHB,slow left-arm orthodox,spin,
+Parth Chauhan,c7375760,RHB,right-arm medium-fast,pace,
+Parth Kohli,8e5a4e1d,RHB,legbreak googly,spin,
+Parth Sahani,239f7526,LHB,slow left-arm orthodox,spin,allrounder
+Parvez Ahmed,54a0e487,RHB,right-arm medium-fast,pace,
+Parvez Aziz,39ddc33b,LHB,slow left-arm orthodox,spin,batsman
+Parvez Hossain Emon,489aaf0a,LHB,none,none,wk_batsman
 Parvez Rasool,9170ff49,RHB,right-arm offbreak,spin,allrounder
+Parvez Sultan,00335246,LHB,slow left-arm orthodox,spin,bowler
+Pavan Deshpande,436b8481,LHB,right-arm offbreak,spin,allrounder
+Pavandeep Singh,78fcc740,RHB,slow left-arm orthodox,spin,bowler
+Pinninit Tapaswi,22a16551,RHB,right-arm medium,pace,
+Piyush Joshi,2123f6e8,RHB,none,none,batsman
+Piyush Singh,afab6988,RHB,right-arm offbreak,spin,batsman
+Piyush Tanwar,9c53babc,RHB,right-arm offbreak,spin,batsman
+Ponnan Rahul,4c633585,LHB,right-arm offbreak,spin,
+Prabesh Gurung,44d9d268,LHB,right-arm medium,pace,
+Prabin Luha,8b891c1d,RHB,none,none,
+Pradeep Chamoli,17c02b38,RHB,right-arm fast,pace,
+Pradeep Dadhe,20081969,RHB,right-arm medium,pace,bowler
+Pradipta Pramanik,24e3f53e,RHB,slow left-arm orthodox,spin,
+Pragnay Reddy,9e29431f,RHB,none,none,
+Prakash Seet,dfeb5a99,RHB,right-arm medium,pace,
+Pramod Chandila,f6f60dca,RHB,right-arm offbreak,spin,
+Pranav Gupta,7ac2985a,RHB,legbreak googly,spin,
+Pranshu Vijayran,f0380005,LHB,right-arm medium,pace,
+Prashant Awasthi,bbbc7d28,RHB,right-arm offbreak,spin,
+Prashant Gupta,ad1e02b4,RHB,legbreak googly,spin,
+Prashant Singh,5b2a1532,RHB,right-arm medium,pace,
+Prashanth Kumar,1f0b8f44,RHB,legbreak googly,spin,batsman
+Pratap Singh,9b7cce15,RHB,right-arm medium,pace,
+Prateek Jain,53f45cb5,LHB,left-arm medium,pace,bowler
+Pratham Singh,f9f21866,LHB,right-arm offbreak,spin,batsman
+Prathamesh Dake,53605830,RHB,right-arm medium,pace,
+Prathamesh Gawas,3d172a03,LHB,none,none,
+Pratik Das,d4d4adcd,RHB,right-arm offbreak,spin,batsman
+Pratik Desai,e3626fb1,RHB,legbreak,spin,
+Pratik Salunke,e9fd2634,LHB,right-arm medium-fast,pace,
+Pratik Sargade,6a1fc8dd,LHB,slow left-arm orthodox,spin,
+Pratis GC,c1077ba3,RHB,left-arm medium,pace,allrounder
+Pratyush Singh,456af189,RHB,legbreak googly,spin,bowler
+Praveen Deshetti,5407500f,RHB,right-arm offbreak,spin,
+Prayas Singh,d8fee704,RHB,right-arm medium,pace,
+Premraj Rajavelu,9e031cfe,RHB,right-arm medium-fast,pace,
 Prince Yadav,80b2fb19,RHB,right-arm fast,pace,bowler
+Pritam Das,e342d310,RHB,right-arm medium-fast,pace,bowler
+Pritam Debnath,1b9a1e10,RHB,none,none,
+Pritam Nirala,4e57144f,RHB,right-arm medium-fast,pace,
+Priyank Panchal,ebf25cf2,RHB,right-arm medium,pace,batsman
 Priyansh Arya,b5797845,LHB,right-arm offbreak,spin,batsman
+Priyesh Patel,93b5bd93,RHB,none,none,
+Pukhraj Mann,4a9a8c3d,LHB,slow left-arm orthodox,spin,
+Pulkit Narang,9dc27cf0,RHB,right-arm offbreak,spin,
+Puneet Datey,389ae08a,RHB,right-arm medium,pace,
+Puneet Kumar,5faa069a,LHB,none,none,
+Puneet Malik,394e31d8,RHB,right-arm medium,pace,
+Punit Bisht,310bddc0,RHB,none,none,wk_batsman
 Q de Kock,372455c4,LHB,none,none,wk_batsman
+Qadeer Ahmed,9ac1dc9f,RHB,right-arm medium-fast,pace,bowler
+Qais Ahmad,8d5d991e,RHB,legbreak,spin,bowler
+Qamran Iqbal,6375ef6a,RHB,legbreak,spin,batsman
+Qasim Akram,b6359668,RHB,right-arm offbreak,spin,allrounder
+R Ahir,a24c3894,RHB,right-arm medium-fast,pace,
 R Ashwin,495d42a5,RHB,right-arm offbreak,spin,allrounder
+R Baaleri,26c9b5be,RHB,right-arm offbreak,spin,
+R Bakum,c74c583b,RHB,right-arm medium,pace,allrounder
 R Bhatia,33a364a6,RHB,right-arm medium-fast,pace,allrounder
 R Bishnoi,4d5a1617,RHB,right-arm medium-fast,pace,batsman
+R Chopra,a71d0f89,RHB,none,none,wk_batsman
+R Dhakal,8399a7af,RHB,left-arm medium,pace,bowler
 R Dhawan,26a85969,RHB,right-arm medium-fast,pace,allrounder
 R Dravid,0184dc35,RHB,right-arm offbreak,spin,batsman
+R Flannigan,c13b2833,RHB,right-arm medium,pace,batsman
+R Frylinck,8b248d88,RHB,right-arm medium,pace,allrounder
 R Goyal,266849c1,LHB,left-arm wrist-spin,spin,bowler
+R Hadley,15b39832,RHB,right-arm medium-fast,pace,bowler
+R Herrmann,a9d595ee,RHB,none,none,wk_batsman
+R Klein,ff1ec94d,RHB,right-arm medium-fast,pace,bowler
 R McLaren,c654af19,LHB,right-arm medium-fast,pace,allrounder
 R Minz,bafd0398,LHB,slow left-arm orthodox,spin,wk_batsman
+R Mondol,492ff0c2,RHB,right-arm medium,pace,bowler
+R Moonsamy,29e676b0,RHB,right-arm offbreak,spin,batsman
+R Mupfudza,f4417987,RHB,legbreak,spin,
+R Mutumbami,5fef85ee,RHB,right-arm offbreak,spin,wk_batsman
+R Ngarava,6e3f5a5c,LHB,left-arm fast-medium,pace,bowler
 R Ninan,ce4cc4d5,RHB,right-arm offbreak,spin,allrounder
+R Obuya,6bc04a3e,RHB,none,none,batsman
 R Parag,04a418e8,RHB,right-arm offbreak,spin,batsman
 R Powell,650d5e49,RHB,right-arm medium-fast,pace,batsman
+R Pratap Singh,7700398a,RHB,right-arm medium-fast,pace,
+R Ralte,63b9e4ad,RHB,legbreak,spin,
 R Rampaul,d68e7f48,LHB,right-arm fast-medium,pace,bowler
 R Ravindra,ba5e1069,LHB,slow left-arm orthodox,spin,allrounder
+R Rohit,7d8feff2,RHB,right-arm medium-fast,pace,allrounder
 R Sai Kishore,c7a995d3,LHB,slow left-arm orthodox,spin,bowler
 R Sanjay Yadav,33ffc3dd,LHB,slow left-arm orthodox,spin,allrounder
 R Sathish,626c5379,RHB,right-arm medium,pace,allrounder
 R Sharma,5d9a1a73,RHB,legbreak googly,spin,bowler
 R Shepherd,c5aef772,RHB,right-arm fast-medium,pace,allrounder
 R Shukla,de4b0555,RHB,right-arm medium,pace,bowler
+R Telemachus,543b4a1f,RHB,right-arm fast-medium,pace,bowler
 R Tewatia,39a2dfa8,LHB,legbreak,spin,allrounder
+R Trumpelmann,ff6a7ab5,RHB,left-arm fast,pace,bowler
 R Vinay Kumar,41eb4a4f,RHB,right-arm medium,pace,bowler
 RA Bawa,ba6b2f91,LHB,right-arm medium-fast,pace,allrounder
+RA Herman,9c821d2e,LHB,none,none,wk_batsman
 RA Jadeja,fe93fd9d,LHB,slow left-arm orthodox,spin,allrounder
+RA Patil,d3da1c8e,LHB,none,none,batsman
+RA Reifer,d7725664,LHB,left-arm medium-fast,pace,allrounder
 RA Shaikh,7c390b03,LHB,left-arm medium,pace,
+RA Sharma,691d15fb,LHB,left-arm medium,pace,
 RA Tripathi,77255a9e,RHB,right-arm medium,pace,batsman
+RA Whiteley,d346d939,LHB,left-arm medium,pace,batsman
+RAJ Smith,6daf5e8c,RHB,right-arm medium,pace,bowler
+RAS Lakmal,2f28dc94,RHB,right-arm fast-medium,pace,bowler
+RB Bishnoi Jr,99fdf8c9,LHB,slow left-arm orthodox,spin,allrounder
+RB Patel,f88dc8de,RHB,slow left-arm orthodox,spin,batsman
+RD Banik,6794586e,RHB,legbreak,spin,
+RD Berrington,e21bc7f3,RHB,right-arm medium-fast,pace,batsman
 RD Chahar,2ed569a0,RHB,legbreak googly,spin,bowler
 RD Gaikwad,45a43fe2,RHB,right-arm offbreak,spin,batsman
+RD Hynniewta,2f41e857,RHB,right-arm medium-fast,pace,
 RD Rickelton,e66732f8,LHB,none,none,wk_batsman
 RE Levi,18c78b11,RHB,right-arm medium,pace,batsman
 RE van der Merwe,05c2ca46,RHB,slow left-arm orthodox,spin,allrounder
+RG Hazarika,ef33e040,LHB,right-arm offbreak,spin,
 RG More,b2b23612,RHB,right-arm medium,pace,bowler
+RG Mukasa,011f6b42,RHB,right-arm offbreak,spin,batsman
 RG Sharma,740742ef,RHB,right-arm offbreak,spin,batsman
+RGL Carters,f54c8804,RHB,none,none,wk_batsman
+RH Bhatt,fc8c6088,LHB,right-arm offbreak,spin,allrounder
+RH McDonald,8bdbb608,RHB,right-arm fast-medium,pace,bowler
+RH Motwani,40fd2e48,LHB,none,none,
+RI Ahmed,fa859d3c,RHB,none,none,wk_batsman
+RI Thakur,12ac8ca5,LHB,right-arm medium,pace,
+RJ Balhara,ca1a621c,RHB,right-arm medium,pace,
+RJ Gibson,50636767,RHB,right-arm medium,pace,batsman
 RJ Gleeson,402f8494,RHB,right-arm fast-medium,pace,bowler
 RJ Harris,12eddf28,RHB,right-arm fast,pace,bowler
+RJ Kirtley,22860288,RHB,right-arm fast-medium,pace,bowler
+RJ Nicol,8d8c24fd,RHB,right-arm medium,pace,batsman
 RJ Peterson,26ff4c29,LHB,slow left-arm orthodox,spin,bowler
 RJ Quiney,23ac69e6,LHB,right-arm medium,pace,batsman
+RJ Sidebottom,9dca07d7,LHB,left-arm fast-medium,pace,bowler
+RJG Lockyear,c8e7c983,RHB,right-arm medium,pace,
+RJMGM Rupasinghe,4c7c6f58,LHB,legbreak,spin,batsman
 RJW Topley,8db7f47f,RHB,left-arm fast-medium,pace,bowler
 RK Bhui,b63e358a,RHB,legbreak googly,spin,batsman
+RK Kleinveldt,7955eb15,RHB,right-arm fast-medium,pace,bowler
+RK Paudel,1a3cc554,RHB,right-arm offbreak,spin,allrounder
 RK Singh,0a509d6b,LHB,right-arm offbreak,spin,batsman
+RL Bhudia,47d00fb5,RHB,right-arm medium,pace,bowler
+RL Chase,3feda4fa,RHB,right-arm offbreak,spin,allrounder
+RL Jangid,fe5f2e48,LHB,slow left-arm orthodox,spin,allrounder
+RLB Rambukwella,5a892f36,LHB,right-arm offbreak,spin,batsman
+RM Dagar,3fbc5cc9,RHB,right-arm offbreak,spin,batsman
+RM Duffield,7da44536,LHB,left-arm fast-medium,pace,bowler
+RM Haq,27159c6a,LHB,right-arm offbreak,spin,bowler
+RM Hira,2e966563,LHB,slow left-arm orthodox,spin,bowler
 RM Patidar,c740ea83,RHB,right-arm offbreak,spin,batsman
+RM West,d1761087,LHB,left-arm fast-medium,pace,bowler
+RML Taylor,7fa2ab1f,LHB,left-arm medium,pace,allrounder
+RMS Eranga,8f7a598f,RHB,right-arm fast-medium,pace,bowler
+RN Gurbani,bcaf7d33,RHB,right-arm medium,pace,bowler
+RN Lewis,69362253,RHB,legbreak googly,spin,allrounder
 RN ten Doeschate,4ec07775,RHB,right-arm medium-fast,pace,allrounder
+RP Arnold,cccdde80,LHB,right-arm offbreak,spin,batsman
+RP Burl,b08252b8,LHB,legbreak,spin,allrounder
+RP Kellepotha,d13d1dd0,RHB,legbreak,spin,bowler
+RP Magar,95bcba19,RHB,legbreak googly,spin,batsman
 RP Meredith,64775749,RHB,right-arm fast,pace,bowler
+RP Sharma,805b89d7,RHB,right-arm fast-medium,pace,wk_batsman
 RP Singh,c3d1402f,RHB,left-arm fast-medium,pace,bowler
 RR Bhatkal,7d3720ba,RHB,right-arm medium,pace,allrounder
+RR Biswa,2df87089,RHB,right-arm offbreak,spin,
 RR Bose,21ac077a,RHB,right-arm fast-medium,pace,
+RR Emrit,e7de4f6b,RHB,right-arm medium-fast,pace,allrounder
+RR Hendricks,b8cc58c9,RHB,right-arm offbreak,spin,batsman
 RR Pant,919a3be2,LHB,none,none,wk_batsman
+RR Pawson,016188b4,RHB,right-arm fast-medium,pace,bowler
 RR Powar,5d096f3d,RHB,right-arm offbreak,spin,bowler
 RR Raje,5f4e9e8f,RHB,right-arm fast-medium,pace,
+RR Rathod,3c79f8af,RHB,none,none,
 RR Rossouw,cad00a4d,LHB,right-arm offbreak,spin,batsman
 RR Sarwan,36d33dd0,RHB,legbreak,spin,batsman
+RR Simmonds,fcf6b0f6,LHB,left-arm fast-medium,pace,bowler
+RR Singh,4fbb35dd,LHB,right-arm medium-fast,pace,allrounder
+RR Taylor,ec65ae8a,RHB,left-arm medium,pace,
+RR Watson,a670d624,RHB,right-arm medium,pace,batsman
 RS Bopara,7ca5e05d,RHB,right-arm medium,pace,allrounder
 RS Gavaskar,9ff100a6,LHB,slow left-arm orthodox,spin,
 RS Hangargekar,c3c92b42,RHB,right-arm fast-medium,pace,allrounder
+RS Jaganath Sinivas,3decbc22,LHB,right-arm medium-fast,pace,bowler
+RS Khaira,baec2e62,RHB,legbreak,spin,
+RS Morton,2f8a9682,RHB,right-arm medium,pace,batsman
 RS Sodhi,a3ecf01f,RHB,right-arm medium,pace,allrounder
+RT Arothe,50455929,LHB,left-arm medium,pace,bowler
+RT Lyons,7d32d965,LHB,slow left-arm orthodox,spin,
 RT Ponting,7d415ea5,RHB,right-arm medium,pace,batsman
+RTM Mendis,1be67d37,RHB,right-arm offbreak,spin,allrounder
 RV Gomez,b2570b38,RHB,right-arm medium,pace,allrounder
 RV Patel,60500956,RHB,right-arm medium-fast,pace,batsman
 RV Uthappa,1c17e270,RHB,right-arm medium,pace,batsman
+RW Chakabva,2f0d7e4a,RHB,right-arm offbreak,spin,wk_batsman
 RW Price,67af6f81,RHB,slow left-arm orthodox,spin,bowler
+RWT Key,bcb01d8c,RHB,right-arm offbreak,spin,batsman
+Rachit Bhatia,e415a5ab,RHB,right-arm medium,pace,
+Rafatullah Mohmand,9211d267,RHB,slow left-arm orthodox,spin,batsman
+Rafiullah,369cc49c,RHB,right-arm medium,pace,bowler
+Raghav Dhawan,ac64c2ef,RHB,right-arm medium,pace,
+Raghu Sharma,5b615e7c,RHB,legbreak,spin,bowler
+Ragupathy Silambarasan,b07cf263,RHB,right-arm medium-fast,pace,bowler
+Rahat Ali,a63775d6,RHB,left-arm fast-medium,pace,bowler
+Rahil Sambyal,69a63311,RHB,none,none,bowler
+Rahil Shah,7c30f4d0,RHB,slow left-arm orthodox,spin,bowler
 Rahmanullah Gurbaz,0bacade8,RHB,right-arm medium,pace,wk_batsman
+Rahul Batham,891b9757,RHB,right-arm medium,pace,
+Rahul Buddhi,70a9b353,LHB,right-arm offbreak,spin,batsman
+Rahul Dalal,802fdccf,RHB,right-arm offbreak,spin,
+Rahul Khajan Singh,0d64d81c,LHB,slow left-arm orthodox,spin,
+Rahul Kumar,d53a4fee,RHB,right-arm medium-fast,pace,
+Rahul Sharma,714cf6e4,RHB,right-arm offbreak,spin,
+Rahul Singh,adf454e9,LHB,right-arm medium,pace,
+Raja Farzan,38d1def2,LHB,legbreak googly,spin,bowler
+Rajan Kumar,cd474693,LHB,left-arm medium-fast,pace,bowler
+Rajashekhar Harikant,b9228ad0,RHB,none,none,
+Rajat Dey,ccc04a61,RHB,right-arm offbreak,spin,batsman
+Rajat Paliwal,2fcb040c,RHB,right-arm offbreak,spin,batsman
+Rajdeep Das,d174f542,RHB,none,none,
+Rajendran Vivek,7509f4bc,RHB,right-arm medium-fast,pace,batsman
+Rajesh Dhuper,0861a8d6,RHB,none,none,
+Rajesh Mohanty,a73f1f24,RHB,right-arm medium-fast,pace,
+Rajesh Singh,985b57b1,LHB,left-arm medium-fast,pace,
+Rajesh Tati,af9abd34,RHB,none,none,wk_batsman
+Rajiv Darjee,b6e96180,RHB,slow left-arm orthodox,spin,
+Rajjakuddin Ahmed,69cbffb8,RHB,right-arm medium,pace,
+Rakesh Kumar,2c47dd7c,RHB,right-arm offbreak,spin,
+Rakesh Thakur,2c5fb7f6,RHB,none,none,
+Rakibul Hasan,b75b7b09,LHB,slow left-arm orthodox,spin,
+Rakshan Readdi,adee5bbd,RHB,none,none,bowler
+Ram Dayal,93fefdfa,RHB,right-arm medium,pace,allrounder
+Ram Gurung,85c80de3,RHB,right-arm medium-fast,pace,
+Ramachandran Ragupathy,bdecece1,RHB,none,none,
 Ramandeep Singh,be24ead0,RHB,right-arm medium,pace,batsman
+Rameez Raja (2),e191bf68,RHB,right-arm offbreak,spin,batsman
+Rameez Shahzad,e045c165,RHB,right-arm offbreak,spin,batsman
+Rana Dutta,6d981899,LHB,right-arm medium,pace,bowler
+Ranjeet Mali,7d4a4371,RHB,right-arm medium,pace,
+Ranjeet Nikam,ca099aeb,RHB,right-arm offbreak,spin,
+Raqibul Hasan,17efdeb8,RHB,legbreak,spin,batsman
 Rashid Khan,5f547c8b,RHB,legbreak googly,spin,allrounder
 Rasikh Salam,b8527c3d,RHB,right-arm medium,pace,bowler
+Raushan Raj,4b2056c7,RHB,right-arm medium,pace,
 Ravi Bishnoi,df064e1a,RHB,legbreak googly,spin,bowler
+Ravi Chauhan,f7ce1f24,RHB,legbreak googly,spin,
+Ravi Kiran,0ff9728b,RHB,right-arm medium,pace,
+Ravi Teja,5f39537c,LHB,right-arm medium,pace,
+Ravikant Singh,824b6ca0,RHB,right-arm medium,pace,
+Ravikumar Samarth,f2dbbff5,RHB,right-arm offbreak,spin,batsman
+Ravikumar Thakur,1ea4fbd5,RHB,left-arm medium,pace,
+Ravinderpal Singh,f80682f8,RHB,right-arm offbreak,spin,batsman
+Raza Hasan,4f7279a4,RHB,slow left-arm orthodox,spin,bowler
+Reagan Pinto,8a9fe913,RHB,legbreak googly,spin,
+Rehan Ahmed,0ecb4de6,RHB,legbreak googly,spin,allrounder
+Remruatdika Ralte,895a0ead,RHB,right-arm medium-fast,pace,bowler
+Reuben Lalhruaizela,857b9be7,RHB,right-arm medium-fast,pace,
+Rex Rajkumar,f3ba1bdc,LHB,left-arm medium-fast,pace,
+Riazat Ali Shah,269cc4ff,RHB,right-arm medium,pace,allrounder
+Rinsangzela Hmamte,63798865,LHB,slow left-arm orthodox,spin,
+Rinzing Bhutia,c4109286,RHB,right-arm medium,pace,
+Rishabh Chouhan,a64608ec,RHB,slow left-arm orthodox,spin,
+Rishabh Tiwari,bd74f1a7,LHB,legbreak googly,spin,
+Rishad Hossain,5935d694,RHB,legbreak googly,spin,allrounder
+Rishav,3e47a8f8,RHB,none,none,batsman
+Rishav Das,8963ee49,RHB,right-arm offbreak,spin,
+Rishikesh Das,8f1a75ae,,legbreak googly,spin,
+Ritesh Negi,9e8bb9d2,RHB,right-arm medium,pace,
+Ritwik Roy Chowdhury,6033d30a,RHB,right-arm medium,pace,
+Rizwan Hussain,3031bf83,LHB,none,none,batsman
+Robin Bist,bc761d00,RHB,right-arm offbreak,spin,batsman
+Robiul Islam,d876610c,RHB,right-arm fast-medium,pace,bowler
+Rohail Nazir,522bea89,RHB,none,none,wk_batsman
+Rohan Kadam,673314ef,LHB,legbreak googly,spin,batsman
+Rohan Kunnummal,a6004ded,RHB,right-arm bowler,none,batsman
+Rohan Mustafa,d1988788,LHB,right-arm offbreak,spin,batsman
+Rohan Prem,92d07362,LHB,right-arm offbreak,spin,batsman
+Rohan Suresh,543611fc,RHB,legbreak,spin,
+Rohit Dahiya,e57ded95,RHB,right-arm medium,pace,bowler
+Rohit Dangwal,00852db7,LHB,slow left-arm orthodox,spin,bowler
+Rohit Dhruw,7f11259b,RHB,right-arm offbreak,spin,
+Rohit Jhanjhariya,0ed9ff58,RHB,none,none,
+Rohit Rayudu,b4587494,LHB,right-arm offbreak,spin,
+Rohit Shah,a6a04501,RHB,none,none,batsman
+Rohit Sharma,94ed3e4b,RHB,right-arm medium,pace,bowler
+Rojith Ganesh,cf77f579,RHB,legbreak,spin,
+Romario Sharma,e15fb6f9,LHB,right-arm offbreak,spin,
+Rongsen Jonathan,d4753890,RHB,right-arm offbreak,spin,allrounder
+Rony Talukdar,8bd614b2,RHB,right-arm slow-medium,pace,batsman
+Roosh Kalaria,779b7f4d,RHB,left-arm medium,pace,bowler
+Rosan Kumar Rao,e1fcde86,RHB,none,none,
+Roshan Alam,7cc093f4,RHB,slow left-arm orthodox,spin,
+Royston Dias,baaae738,LHB,left-arm medium,pace,
+Rubel Hossain,f56cd097,RHB,right-arm fast,pace,bowler
+Rumman Raees,1c790f4f,RHB,left-arm medium-fast,pace,bowler
+Rupesh Singh,30b93df1,RHB,right-arm medium-fast,pace,
+S Akhil,21aa409e,RHB,right-arm medium-fast,pace,
 S Anirudha,95a2ea61,RHB,none,none,batsman
 S Aravind,957532de,LHB,left-arm medium-fast,pace,bowler
+S Arora,7aa74830,LHB,none,none,
+S Ashish,844ea263,RHB,slow left-arm orthodox,spin,
 S Badree,76388dc8,RHB,legbreak,spin,bowler
 S Badrinath,3576e47e,RHB,right-arm offbreak,spin,batsman
+S Baker,78c12883,RHB,right-arm fast,pace,bowler
+S Baliyan,36ca63bf,RHB,right-arm medium-fast,pace,
+S Bau,9a95bebb,LHB,right-arm offbreak,spin,batsman
+S Bhari,28c7d721,LHB,slow left-arm orthodox,spin,bowler
 S Chanderpaul,881a9bdd,LHB,legbreak,spin,batsman
+S Dadswell,0ecf791e,RHB,right-arm medium-fast,pace,batsman
+S Dhakal,8955b928,RHB,slow left-arm orthodox,spin,bowler
 S Dhawan,0a476045,LHB,right-arm offbreak,spin,batsman
 S Dube,a4e37e47,LHB,right-arm medium,pace,allrounder
-S Gopal,7a8bd078,RHB,legbreak,spin,allrounder
+S Fanning,a9d2dab9,LHB,right-arm offbreak,spin,batsman
+S Fouché,89ce57a8,RHB,right-arm medium,pace,batsman
+S Gani,2ada2d82,RHB,right-arm medium-fast,pace,
+S Ghadigaonkar,d2c05733,RHB,none,none,
+S Gopal,7a8bd078,,none,none,
+S Habib Gandhi,ee96e425,LHB,none,none,
+S Hegde,4fc7fc34,LHB,slow left-arm orthodox,spin,allrounder
+S Jora,156378d8,RHB,none,none,batsman
 S Joseph,97290faf,LHB,right-arm fast,pace,bowler
+S Karthik,14c90152,RHB,none,none,batsman
 S Kaul,dcf81436,RHB,right-arm medium,pace,bowler
 S Kaushik,1da489ff,RHB,left-arm wrist-spin,spin,bowler
+S Konstas,3c34c9e1,RHB,right-arm offbreak,spin,batsman
 S Ladda,fb693839,RHB,legbreak,spin,bowler
 S Lamichhane,b410bd3d,RHB,legbreak googly,spin,bowler
+S Mahmood,0f6db197,RHB,right-arm fast-medium,pace,bowler
+S Malla,1daa8927,LHB,right-arm offbreak,spin,bowler
+S Mathur,11378dda,RHB,right-arm medium,pace,batsman
+S Matsikenyeri,e7ba1233,RHB,right-arm offbreak,spin,batsman
+S McGiffin,0dde7f22,RHB,right-arm medium,pace,allrounder
 S Midhun,ade90de7,RHB,legbreak googly,spin,bowler
+S Milenko,479f9b04,RHB,right-arm medium,pace,allrounder
+S Movva,ee229588,RHB,none,none,wk_batsman
+S Muniandy,57fcfd3b,RHB,right-arm medium,pace,bowler
+S Muthusamy,7dfb8890,LHB,slow left-arm orthodox,spin,allrounder
+S Mylliempdah,eb5a659f,RHB,right-arm offbreak,spin,
 S Nadeem,9d80c5e1,RHB,slow left-arm orthodox,spin,bowler
 S Narwal,287686fd,LHB,right-arm medium,pace,allrounder
+S Prasanna,f78e7113,RHB,legbreak,spin,allrounder
 S Rana,90edaaa9,RHB,right-arm medium-fast,pace,bowler
 S Randiv,f5f18a18,RHB,right-arm offbreak,spin,bowler
+S Samarawickrama,9ab2914d,RHB,none,none,wk_batsman
+S Sanandia,4c7543cf,RHB,right-arm medium,pace,
 S Sandeep Warrier,cdc6bdba,RHB,right-arm medium,pace,bowler
+S Santhosh Kumaran,e1d6a861,RHB,right-arm medium,pace,
+S Sesazi,c2c975f9,LHB,right-arm slow,none,wk_batsman
+S Shrivastava,ac166f77,RHB,legbreak,spin,bowler
+S Snater,a790df98,RHB,right-arm fast-medium,pace,bowler
 S Sohal,3fca55af,RHB,legbreak,spin,batsman
+S Solanki,ce2fa609,LHB,slow left-arm orthodox,spin,
 S Sreesanth,6b8eb6e5,RHB,right-arm fast-medium,pace,bowler
 S Sriram,64a4c383,LHB,slow left-arm orthodox,spin,batsman
+S Stolk,407563b0,RHB,none,none,batsman
 S Tyagi,c24a2c5d,RHB,right-arm medium,pace,bowler
+S Vesawkar,3de06845,RHB,right-arm offbreak,spin,batsman
 S Vidyut,756389bd,LHB,slow left-arm orthodox,spin,allrounder
+S Vijay Unni,f737ab44,RHB,right-arm offbreak,spin,bowler
 SA Abbott,1a2676c5,RHB,right-arm fast-medium,pace,allrounder
 SA Asnodkar,ae091d39,RHB,right-arm offbreak,spin,batsman
+SA Edwards,b59db04f,RHB,none,none,wk_batsman
+SA Engelbrecht,81a0e294,RHB,right-arm offbreak,spin,allrounder
 SA Yadav,271f83cd,RHB,right-arm medium,pace,batsman
 SB Bangar,0604ef16,RHB,right-arm medium-fast,pace,
 SB Dubey,6b2ff18f,LHB,right-arm offbreak,spin,batsman
+SB Harper,a756e61a,RHB,none,none,batsman
 SB Jakati,c8179c68,LHB,slow left-arm orthodox,spin,bowler
 SB Joshi,670709ec,LHB,slow left-arm orthodox,spin,allrounder
+SB Kurkalang,d71f1559,RHB,right-arm medium-fast,pace,
 SB Styris,57efa3be,RHB,right-arm medium,pace,allrounder
 SB Wagh,dddca1d6,LHB,left-arm medium-fast,pace,allrounder
+SC Das,d6d52545,RHB,right-arm offbreak,spin,
 SC Ganguly,725529bc,LHB,right-arm medium,pace,batsman
+SC Getkate,c8065f31,RHB,right-arm medium-fast,pace,allrounder
 SC Kuggeleijn,fef92afc,RHB,right-arm fast-medium,pace,allrounder
+SC Meaker,eb9cb105,RHB,right-arm fast-medium,pace,bowler
+SC Williams,afe57f7a,LHB,slow left-arm orthodox,spin,allrounder
+SC van Schalkwyk,97b0e4ff,LHB,right-arm medium,pace,allrounder
+SCG MacGill,60dac349,RHB,legbreak googly,spin,bowler
+SCJ Broad,eba6a852,LHB,right-arm fast-medium,pace,bowler
 SD Chitnis,facb9086,RHB,right-arm offbreak,spin,batsman
+SD Heazlett,e00a9155,LHB,slow left-arm orthodox,spin,batsman
 SD Hope,1fc6ef83,RHB,none,none,wk_batsman
 SD Lad,9601c534,RHB,right-arm offbreak,spin,batsman
+SD Parry,fdb8ed0d,RHB,slow left-arm orthodox,spin,bowler
+SD Patel,6d797d07,RHB,left-arm medium,pace,
 SE Bond,4f629497,RHB,right-arm fast,pace,bowler
+SE Findlay,6df8d190,LHB,right-arm medium,pace,batsman
+SE Gotch,9a0e4ca5,RHB,right-arm medium,pace,wk_batsman
 SE Marsh,508a1ea7,LHB,slow left-arm orthodox,spin,batsman
 SE Rutherford,d014d5ac,LHB,right-arm fast-medium,pace,batsman
+SF Khan,25986786,RHB,right-arm offbreak,spin,
+SF Mire,3300d23c,RHB,right-arm medium-fast,pace,batsman
+SG Borthwick,51e1ed69,LHB,legbreak,spin,allrounder
+SG Rohilla,e5e42c6b,LHB,legbreak googly,spin,
+SG Whittingham,2d4465da,RHB,right-arm fast-medium,pace,bowler
 SH Johnson,83c3e8e3,LHB,left-arm fast,pace,bowler
+SHA Rance,69c994e4,RHB,right-arm medium,pace,bowler
+SHT Kandamby,488b7e1b,LHB,legbreak,spin,batsman
+SI Kamea,0730a707,LHB,left-arm fast,pace,bowler
+SI Mahmood,e97aefe2,RHB,right-arm fast-medium,pace,bowler
+SI Sopariya,d477678c,RHB,right-arm medium,pace,
+SJ Baard,e8511411,RHB,right-arm medium-fast,pace,batsman
+SJ Barman,aef46dfc,LHB,slow left-arm orthodox,spin,
+SJ Benn,364ee2cf,LHB,slow left-arm orthodox,spin,bowler
+SJ Cook,679cd31e,RHB,right-arm medium-fast,pace,bowler
+SJ Coyte (2),36769c31,LHB,right-arm fast-medium,pace,bowler
+SJ Erwee,a3ce3d1d,LHB,right-arm offbreak,spin,batsman
+SJ Harmison,c16d2e28,RHB,right-arm fast-medium,pace,bowler
+SJ Myburgh,18261c22,LHB,right-arm offbreak,spin,batsman
 SJ Srivastava,2049f3a0,RHB,left-arm fast-medium,pace,bowler
+SJC Keen,e3882f9a,LHB,right-arm medium,pace,allrounder
+SJS Smith,c5a864d7,RHB,none,none,wk_batsman
+SK Atai,a64e3b89,LHB,none,none,wk_batsman
+SK Das,fc1deb2b,RHB,right-arm offbreak,spin,
+SK Gharami,f7220198,RHB,right-arm offbreak,spin,
+SK Ismail,a7367f83,RHB,legbreak,spin,bowler
+SK Patel,f93b43dd,RHB,none,none,wk_batsman
 SK Raina,1dc12ab9,LHB,right-arm offbreak,spin,batsman
 SK Rasheed,cbf58a86,RHB,legbreak,spin,batsman
+SK Springer,4175d211,RHB,right-arm fast-medium,pace,allrounder
 SK Trivedi,3d7e087f,RHB,right-arm medium,pace,bowler
 SK Warne,bb18be76,RHB,legbreak googly,spin,bowler
 SL Malinga,a12e1d51,RHB,right-arm fast,pace,bowler
+SL Rainbird,e7dd5eca,RHB,left-arm medium-fast,pace,bowler
+SL Verma,26b6a4e9,RHB,right-arm offbreak,spin,allrounder
 SM Boland,d167edd3,RHB,right-arm fast-medium,pace,bowler
 SM Curran,e94915e6,LHB,left-arm medium-fast,pace,allrounder
+SM Davies,8fc65c2b,LHB,none,none,wk_batsman
+SM Elliott,00cda8e4,RHB,right-arm medium,pace,bowler
+SM Ervine,556302a7,LHB,right-arm medium,pace,allrounder
+SM Fallah,c8f697bd,LHB,left-arm medium,pace,bowler
+SM Gugale,fdf8d681,RHB,right-arm offbreak,spin,
 SM Harwood,63bff7f9,RHB,right-arm fast-medium,pace,bowler
 SM Katich,fdedb37c,LHB,left-arm wrist-spin,spin,batsman
+SM Kazi,868e3639,RHB,right-arm offbreak,spin,
+SM Patidar,7ae8e7a3,RHB,right-arm offbreak,spin,
 SM Pollock,88fccd6c,RHB,right-arm fast-medium,pace,allrounder
+SM Rohilla,43666b9b,RHB,right-arm offbreak,spin,
+SM Sharif,f43dd8c2,RHB,right-arm medium-fast,pace,bowler
+SM Sharma,cec44e08,RHB,right-arm medium,pace,bowler
+SM Singha,7ca04294,RHB,right-arm medium,pace,
+SM Whiteman,f4427cc6,LHB,none,none,wk_batsman
+SMA Priyanjan,fec50c96,RHB,right-arm offbreak,spin,allrounder
 SMSM Senanayake,4c4fa80b,RHB,right-arm offbreak,spin,bowler
 SN Khan,f088b960,RHB,legbreak,spin,batsman
+SN Mandal,fac3af0f,LHB,right-arm offbreak,spin,
+SN Netravalkar,c8a3f688,RHB,left-arm fast-medium,pace,bowler
+SN Patel,f0f0f668,RHB,right-arm medium,pace,
 SN Thakur,1abb78f8,RHB,right-arm medium,pace,bowler
+SNJ O'Keefe,3540beff,RHB,slow left-arm orthodox,spin,allrounder
 SO Hetmyer,48a1d7b7,LHB,none,none,batsman
+SO Tikolo,00d69fa4,RHB,right-arm offbreak,spin,allrounder
 SP Fleming,eea6b7f1,LHB,none,none,batsman
+SP Gauchan,2d8aae2f,RHB,slow left-arm orthodox,spin,bowler
 SP Goswami,541f85c9,LHB,none,none,wk_batsman
 SP Jackson,acc1aeda,RHB,right-arm offbreak,spin,wk_batsman
+SP Khakurel,9a6b71d1,RHB,none,none,wk_batsman
+SP Krishnamurthi,3b8e7647,RHB,slow left-arm orthodox,spin,allrounder
 SP Narine,9d430b40,LHB,right-arm offbreak,spin,allrounder
+SP Patil,f5c198fb,RHB,none,none,wk_batsman
+SP Tari,1f1056c4,RHB,right-arm medium,pace,
+SP Terry,7f87204d,RHB,right-arm offbreak,spin,
 SPD Smith,30a45b23,RHB,legbreak googly,spin,batsman
+SPS Shikongo,4043e3b0,RHB,right-arm medium-fast,pace,bowler
+SR Clark,a3bfec5d,RHB,right-arm fast-medium,pace,bowler
+SR Hain,67b9536c,RHB,right-arm offbreak,spin,batsman
+SR Harmer,23638956,RHB,right-arm offbreak,spin,bowler
+SR Mukkamalla,156d0ea2,RHB,right-arm offbreak,spin,batsman
+SR Patel,18fac429,RHB,slow left-arm orthodox,spin,allrounder
+SR Swain,17f7177e,LHB,right-arm offbreak,spin,
+SR Taylor,92cf79a8,RHB,right-arm offbreak,spin,allrounder
 SR Tendulkar,d2c2b2d5,RHB,right-arm offbreak,spin,batsman
+SR Thompson,7f3ad1ed,LHB,right-arm medium-fast,pace,bowler
 SR Watson,4329fbb5,RHB,right-arm fast-medium,pace,allrounder
 SS Agarwal,b51f72a5,RHB,legbreak googly,spin,
+SS Bandekar,031b389c,RHB,right-arm medium-fast,pace,allrounder
+SS Bandiwar,8b91afb4,RHB,right-arm medium,pace,
 SS Cottrell,a1d053dd,RHB,left-arm fast-medium,pace,bowler
+SS Dobal,0b40a82a,RHB,right-arm offbreak,spin,
+SS Dubhashi,6d96ee66,RHB,none,none,
+SS Eskinazi,75cbed9b,RHB,none,none,batsman
+SS Ghosh,02b25ee4,RHB,right-arm offbreak,spin,
 SS Iyer,85ec8e33,RHB,right-arm offbreak,spin,batsman
+SS Kang,797ee165,LHB,slow left-arm orthodox,spin,bowler
+SS Majumder,76307fc7,RHB,right-arm medium,pace,
+SS McKechnie,e6dd77bb,RHB,none,none,wk_batsman
 SS Mundhe,0af3426f,RHB,right-arm medium,pace,allrounder
+SS Pathirana,753c95b9,LHB,slow left-arm orthodox,spin,allrounder
 SS Prabhudessai,9385de2e,RHB,right-arm medium,pace,allrounder
 SS Sarkar,caa89a48,RHB,right-arm medium,pace,bowler
 SS Shaikh,5f5d3ad4,RHB,right-arm medium,pace,
+SS Sharma,0ebaa16a,LHB,legbreak googly,spin,batsman
+SS Shinde,7cf7139e,RHB,right-arm medium,pace,
 SS Tiwary,709b0bac,LHB,none,none,batsman
 SSB Magala,8361e524,RHB,right-arm fast-medium,pace,bowler
+SSJ Brooks,977b841a,RHB,legbreak,spin,batsman
+SSK Bal,4bec0a86,RHB,right-arm offbreak,spin,
+SSK Chaudhary,cb61ddd6,LHB,right-arm medium-fast,pace,
+ST Doheny,4992d6f6,RHB,none,none,batsman
+ST Finn,ccdd8308,RHB,right-arm fast-medium,pace,bowler
+ST Gabriel,d9609443,RHB,right-arm fast,pace,bowler
 ST Jayasuriya,f233bbb4,LHB,slow left-arm orthodox,spin,allrounder
+ST Suwalka,ac787bb9,RHB,none,none,
+ST de Silva,54ef649e,LHB,right-arm fast-medium,pace,allrounder
 STR Binny,bd17b45f,RHB,right-arm medium,pace,allrounder
+SU Shrivastava,a392328e,RHB,right-arm medium-fast,pace,batsman
+SU Yadav,199b02e4,RHB,right-arm offbreak,spin,
 SV Samson,a4cc73aa,RHB,none,none,wk_batsman
 SW Billings,c16d4035,RHB,none,none,wk_batsman
+SW Masakadza,2182013e,RHB,right-arm fast-medium,pace,bowler
+SW Poynter,cdf59953,RHB,none,none,wk_batsman
 SW Tait,addfb70e,RHB,right-arm fast,pace,bowler
 SZ Mulani,9d704f6f,LHB,slow left-arm orthodox,spin,allrounder
+Saad Ali,4cbf2e06,LHB,right-arm medium,pace,batsman
+Saad Baig,eb75d76c,LHB,none,none,wk_batsman
+Saad Bin Zafar,f28a60e0,LHB,slow left-arm orthodox,spin,allrounder
+Saad Masood,b2498b5d,RHB,legbreak googly,spin,allrounder
+Saad Nasim,3fbb43a9,RHB,legbreak,spin,allrounder
+Saahil Jain,a454fa21,RHB,right-arm offbreak,spin,
+Sabbir Rahman,7147f314,RHB,legbreak,spin,allrounder
+Sabin Chettri,d95b219a,RHB,right-arm medium,pace,
+Sabir Ali,2a04400b,RHB,left-arm fast-medium,pace,bowler
+Sachidanand Pandey,f8c7484e,RHB,right-arm medium,pace,
 Sachin Baby,dc9dd038,LHB,right-arm offbreak,spin,batsman
+Sachin Kumar,b76b2d25,RHB,right-arm offbreak,spin,
+Saeed Ajmal,05d74535,RHB,right-arm offbreak,spin,bowler
+Sagar Pun,3c4007d3,RHB,right-arm offbreak,spin,batsman
+Sagar Trivedi,8da6dbf1,LHB,right-arm medium,pace,
+Sagar Udeshi,8db0c0e1,LHB,slow left-arm orthodox,spin,
+Saghir Khan,730d2283,RHB,right-arm medium-fast,pace,bowler
+Sagun Kamat,8a58cc2a,LHB,legbreak,spin,batsman
+Sahban Khan,69f45977,RHB,right-arm offbreak,spin,
+Sahibzada Farhan,1aba45cd,RHB,none,none,batsman
+Sahil Gupta,72b1cfa7,RHB,right-arm offbreak,spin,
+Sahil Lotra,2c3643f8,RHB,right-arm offbreak,spin,allrounder
+Saidingliana Sailo,9dc85417,RHB,none,none,
+Saif Badar,e5d452d7,RHB,legbreak googly,spin,batsman
+Saif Hassan,bb95564b,RHB,right-arm offbreak,spin,allrounder
+Saifullah Bangash,feb9238a,RHB,none,none,wk_batsman
+Saim Ayub,33609a8c,LHB,right-arm offbreak,spin,allrounder
+Sairaj Patil,79b35258,RHB,right-arm medium,pace,
+Sajedul Islam,0443414a,LHB,left-arm medium,pace,allrounder
+Sajjad Ali,3050a1fe,RHB,none,none,
+Sakib Hussain,280fff14,RHB,right-arm medium,pace,bowler
+Salman Baig,75253312,RHB,right-arm medium,pace,
 Salman Butt,4d6d6280,LHB,right-arm offbreak,spin,batsman
+Salman Fayyaz,73cbe848,LHB,legbreak googly,spin,bowler
+Salman Irshad,30afc92b,RHB,right-arm fast-medium,pace,bowler
+Salman Mirza,7ab1eab7,RHB,left-arm fast,pace,bowler
+Salman Nizar,47ff3985,LHB,right-arm offbreak,spin,batsman
+Samar Quadri,258fa633,RHB,legbreak googly,spin,
+Samarpit Joshi,ad5cdffc,RHB,none,none,
+Samarth Seth,9fe56f2b,LHB,slow left-arm orthodox,spin,
+Samarth Singh,9889da93,RHB,right-arm offbreak,spin,batsman
+Samarth Vyas,34819e70,RHB,legbreak googly,spin,allrounder
+Sameen Gul,3be224b0,RHB,right-arm medium,pace,bowler
+Sameer Choudhary,9e67cfd0,RHB,right-arm offbreak,spin,
 Sameer Rizvi,f89d3b11,RHB,right-arm offbreak,spin,batsman
+Samit Gohel,b507ce5d,RHB,slow left-arm orthodox,spin,
+Sammar Gajjar,ba19f1be,LHB,slow left-arm orthodox,spin,
+Sams Alam,b8d80b40,LHB,left-arm medium,pace,
+Sanatombaroy Laiphangbam,a207d093,RHB,none,none,
+Sandeep Goud,4e1c9f6e,RHB,right-arm medium,pace,allrounder
+Sandeep Pattnaik,7db2113f,RHB,right-arm offbreak,spin,
 Sandeep Sharma,ce820073,RHB,right-arm medium,pace,bowler
+Sanidhya Hurkat,083c2d59,RHB,right-arm offbreak,spin,
+Sanjay Budhwar,f54bcda9,RHB,left-arm medium-fast,pace,
+Sanjay Raghunath,a717c88e,RHB,legbreak googly,spin,
+Sanjeet Desai,9b0d5e52,RHB,legbreak googly,spin,batsman
+Sankar Paul,34cbc9d2,RHB,right-arm offbreak,spin,bowler
+Santha Moorthy,fa778d1b,RHB,right-arm medium,pace,
 Sanvir Singh,b0f2baf4,RHB,right-arm medium,pace,allrounder
+Saqib Zulfiqar,5d38476c,RHB,legbreak,spin,allrounder
+Saqlain Haider,c020cef5,LHB,none,none,batsman
+Saqlain Sajib,f3c150bb,LHB,slow left-arm orthodox,spin,bowler
+Sarang Rawat,8dcae4c9,RHB,right-arm medium,pace,
+Saransh Jain,de33074a,LHB,right-arm offbreak,spin,allrounder
+Sarbeswar Mohanty,bc0c1f0d,RHB,right-arm medium,pace,
+Sarfaraz Ashraf,8be36d3e,LHB,slow left-arm orthodox,spin,
+Sarfraz Ahmed,2254ab79,RHB,right-arm offbreak,spin,wk_batsman
+Sarthak Ranjan,d7cdefa9,RHB,legbreak,spin,batsman
+Saruk Hossain,fd7fd0a0,LHB,left-arm medium-fast,pace,
+Sarul Kanwar,10d64f7c,RHB,right-arm medium-fast,pace,batsman
+Satender Thakran,e733ce4d,RHB,right-arm medium,pace,
+Satish Jangir,fcc9954f,RHB,right-arm offbreak,spin,
+Satyajeet Bachhav,09a71776,LHB,slow left-arm orthodox,spin,bowler
+Saud Shakeel,d07c1b2f,LHB,slow left-arm orthodox,spin,batsman
+Saurabh Das,38f548aa,RHB,right-arm offbreak,spin,
+Saurabh Dubey,66317b81,RHB,right-arm offbreak,spin,
+Saurabh Kumar,2a6afc6f,LHB,slow left-arm orthodox,spin,allrounder
+Saurabh Rawat,839b6d2e,RHB,none,none,wk_batsman
+Saurabh Wakaskar,dd8439ed,LHB,legbreak googly,spin,
 Saurav Chauhan,9e7225b0,LHB,right-arm offbreak,spin,batsman
+Sayan Ghosh,d4b8ea98,RHB,right-arm medium,pace,bowler
+Sayan Mondal,c14721ab,LHB,right-arm medium,pace,
+Sedezhalie Rupero,e49574d6,RHB,right-arm offbreak,spin,
 Sediqullah Atal,3c28853f,LHB,none,none,batsman
+Shadab Khan,9de62878,RHB,legbreak,spin,allrounder
+Shafiq Jan,11cebda3,RHB,right-arm medium-fast,pace,bowler
+Shafiul Islam,1a8eebbe,RHB,right-arm fast-medium,pace,bowler
+Shah Faisal,4fe6be0c,LHB,left-arm medium-fast,pace,bowler
+Shahab Alam,cdd9fa95,RHB,slow left-arm orthodox,spin,bowler
+Shahadat Hossain,090f9211,RHB,right-arm medium-fast,pace,bowler
 Shahbaz Ahmed,f9e6e7ef,LHB,slow left-arm orthodox,spin,allrounder
+Shaheen Shah Afridi,45a7e761,LHB,left-arm fast,pace,bowler
 Shahid Afridi,0dc00542,RHB,legbreak googly,spin,allrounder
+Shahid Aziz,8d964ae6,RHB,right-arm medium,pace,allrounder
+Shahid Yousuf,7298fa49,RHB,right-arm medium-fast,pace,batsman
+Shahnawaz Dhani,7ccbb09f,RHB,right-arm fast-medium,pace,bowler
+Shahzaib Hasan,fd201eb4,RHB,right-arm offbreak,spin,batsman
+Shaiman Anwar,e9630504,RHB,legbreak googly,spin,batsman
+Shakeeb Ahmed,21b9e62b,LHB,right-arm medium,pace,
+Shakeel Ahmed,74d27e26,LHB,slow left-arm orthodox,spin,
+Shakeel Ansar,21d6eb6a,RHB,none,none,wk_batsman
 Shakib Al Hasan,7dc35884,LHB,slow left-arm orthodox,spin,allrounder
+Shamim Hossain,711249d1,LHB,right-arm offbreak,spin,allrounder
+Shamsur Rahman,02789d88,RHB,none,none,batsman
+Shan Masood,6843a783,LHB,right-arm medium-fast,pace,batsman
+Shantanu Mishra,c562ac6d,RHB,right-arm offbreak,spin,
+Shanu Saini,61d1a3d3,LHB,slow left-arm orthodox,spin,
+Sharad Lumba,03c29939,RHB,right-arm offbreak,spin,batsman
+Sharafuddeen,518d090c,RHB,right-arm medium,pace,
+Shariz Ahmad,7595b47f,LHB,legbreak googly,spin,bowler
+Sharjeel Khan,193ef196,LHB,legbreak,spin,batsman
+Sharukh Dar,74de56cf,RHB,right-arm medium-fast,pace,
+Shashank Chandrakar,9c20688d,RHB,right-arm medium,pace,
 Shashank Singh,26989d80,RHB,right-arm medium,pace,allrounder
+Shasheem Rathour,c478e8e7,RHB,right-arm offbreak,spin,
+Shashi Anand,519c8bdc,LHB,slow left-arm orthodox,spin,
+Shashi Shekhar,c166ca1c,RHB,right-arm medium,pace,
+Shashidhar Reddy,3f9a18ad,LHB,right-arm offbreak,spin,
+Shashwat Kohli,f782103d,RHB,legbreak,spin,
+Shashwat Rawat,7e435410,LHB,right-arm medium-fast,pace,
+Shawaiz Irfan,019ca34a,RHB,none,none,
+Shayan Jahangir,571e1d2a,RHB,right-arm medium-fast,pace,batsman
+Shekhar Kumar Singh,42d098a9,RHB,right-arm offbreak,spin,
+Shiva Chauhan,7cba973f,RHB,right-arm medium,pace,
+Shiva Singh,3b63b5cc,RHB,slow left-arm orthodox,spin,bowler
+Shivam Bhambri,e4bfcaad,RHB,legbreak,spin,
+Shivam Chaudhary,e53af640,RHB,right-arm offbreak,spin,
+Shivam Chauhan,c6272773,RHB,right-arm medium,pace,
+Shivam Khurana,e23960c5,RHB,none,none,wk_batsman
+Shivam Kumar,f81005c4,RHB,legbreak googly,spin,
 Shivam Mavi,c38d3503,RHB,right-arm fast-medium,pace,allrounder
 Shivam Sharma,6f49cc6e,RHB,right-arm offbreak,spin,
+Shivam Shukla,4de4c0e9,RHB,legbreak,spin,
 Shivam Singh,e1d9ae9c,RHB,right-arm offbreak,spin,allrounder
+Shivank Vashisth,3a922344,LHB,slow left-arm orthodox,spin,bowler
+Shivendra Singh,61e93009,RHB,right-arm offbreak,spin,
 Shoaib Ahmed,8a668774,RHB,right-arm fast-medium,pace,
 Shoaib Akhtar,10a91f35,RHB,right-arm fast,pace,bowler
+Shoaib Khan,21afb939,RHB,right-arm medium,pace,batsman
+Shoaib Khan jnr,08fda2e1,LHB,right-arm medium-fast,pace,batsman
 Shoaib Malik,64c34cd0,RHB,right-arm offbreak,spin,allrounder
+Shoaib Mohammed Khan,8dfc706f,RHB,right-arm offbreak,spin,
+Shohidul Islam,607ed7c2,RHB,right-arm medium,pace,allrounder
+Shoriful Islam,bb34fd31,LHB,left-arm fast-medium,pace,bowler
+Shourabh Kharwar,6fdbf272,RHB,right-arm medium,pace,
+Shreshth Nirmohi,e7e1eeb2,LHB,right-arm medium,pace,
+Shubham Arora,263f1761,LHB,none,none,
+Shubham Chaubey,58588e5a,RHB,right-arm offbreak,spin,
+Shubham Kamal Sharma,3b892965,LHB,slow left-arm orthodox,spin,allrounder
+Shubham Khajuria,d8a90827,RHB,right-arm offbreak,spin,batsman
+Shubham Kumar Singh,65654ac9,RHB,right-arm medium-fast,pace,
+Shubham Pundir,86a98b15,LHB,legbreak googly,spin,batsman
+Shubham Ranjane,6c7a68d0,RHB,right-arm medium,pace,allrounder
+Shubham Sharma,d1f8b722,RHB,right-arm offbreak,spin,allrounder
+Shubham Singh,dd6f4040,RHB,legbreak googly,spin,
 Shubman Gill,b4b99816,RHB,right-arm offbreak,spin,batsman
+Shuvagata Hom,bb01f9e0,RHB,right-arm offbreak,spin,allrounder
+Sibsankar Roy,3d8348d0,LHB,right-arm offbreak,spin,batsman
+Siddhant Sharma,ae85a996,LHB,left-arm medium-fast,pace,
+Siddhesh Neral,5b181080,RHB,right-arm medium,pace,
+Siddhesh Wath,5786f224,RHB,none,none,
+Sidharth Sharma,dbb2528e,RHB,right-arm medium,pace,bowler
+Sijomon Joseph,537d02f3,LHB,slow left-arm orthodox,spin,
 Sikandar Raza,26d041c4,RHB,right-arm offbreak,spin,allrounder
+Sikander Zulfiqar,3b572f28,RHB,right-arm medium,pace,batsman
 Simarjeet Singh,30df8c66,RHB,right-arm medium-fast,pace,bowler
+Simi Singh,c9945bdf,RHB,right-arm offbreak,spin,allrounder
+Sinan Khadir,9a09c4b2,RHB,legbreak googly,spin,
+Sirla Srinivas,2712898a,RHB,right-arm offbreak,spin,
+Skalzang Kalyan,5663de87,RHB,none,none,
+Snehal Kauthankar,3a0dc16e,RHB,right-arm offbreak,spin,batsman
+Soaeb Tai,c915ee65,RHB,right-arm offbreak,spin,
+Sohag Gazi,5a4c12ab,RHB,right-arm offbreak,spin,allrounder
+Sohaib Maqsood,b98b5e1c,RHB,right-arm offbreak,spin,batsman
+Sohaibullah,6a633d13,LHB,left-arm medium,pace,bowler
+Sohail Akhtar,1ff2f550,RHB,right-arm medium,pace,allrounder
+Sohail Khan,5af743d0,RHB,right-arm fast-medium,pace,bowler
 Sohail Tanvir,64d43928,LHB,left-arm medium-fast,pace,bowler
+Sohraab Dhaliwal,564714f5,RHB,slow left-arm orthodox,spin,
+Somnath Soni,713ff696,RHB,right-arm medium,pace,bowler
+Somorjit Salam,2b38fa6d,RHB,right-arm medium-fast,pace,
+Sompal Kami,1adb8ee8,RHB,right-arm fast-medium,pace,allrounder
+Song Tacho,128d1861,RHB,right-arm medium,pace,
+Sonu Singh,8a98675d,LHB,slow left-arm orthodox,spin,
+Sonu Yadav,6ab96cc2,RHB,right-arm medium-fast,pace,allrounder
+Sooraj Rai,bb222ac9,LHB,left-arm medium,pace,
+Soumya Sarkar,4d9f9686,LHB,right-arm medium-fast,pace,allrounder
+Sourabh Majumdar,30225730,RHB,right-arm medium-fast,pace,
+Sourav Dey,9bc4faa8,RHB,right-arm medium,pace,
+Srinivas Fadte,4af69c7c,RHB,right-arm medium,pace,
+Subham Nayak,0c13675e,RHB,right-arm offbreak,spin,
+Subhash Sharma,86da2170,RHB,right-arm medium,pace,
+Subhransu Senapati,0edcb652,RHB,right-arm medium,pace,batsman
+Suboth Bhati,bee290b6,RHB,right-arm medium,pace,bowler
+Subramanian Anand,8b470bea,RHB,legbreak googly,spin,
+Sudip Chatterjee,0cb8626f,LHB,legbreak googly,spin,batsman
+Sufiyan Alam,58471746,RHB,right-arm offbreak,spin,
+Sufiyan Muqeem,4277234d,LHB,left-arm wrist-spin,spin,bowler
+Sufyan Mehmood,bf172ae6,LHB,right-arm medium,pace,bowler
+Suheh Hussain,6fdff976,RHB,right-arm medium-fast,pace,
+Suhrawadi Shuvo,8fb49ef8,LHB,slow left-arm orthodox,spin,bowler
+Sujit Nayak,e06f7116,LHB,slow left-arm orthodox,spin,
+Sujit Yadav,d0920019,LHB,slow left-arm orthodox,spin,
+Sukesh Heera,b00320c3,LHB,right-arm medium-fast,pace,
+Sultan Ahmed,3bf7c034,RHB,none,none,wk_batsman
+Sultan Karim,7ef0c030,RHB,right-arm medium-fast,pace,
+Sumanta Gupta,b81344e4,RHB,legbreak googly,spin,
 Sumit Kumar,8998a68f,RHB,right-arm medium-fast,pace,allrounder
+Sumit Lama,301762cd,RHB,right-arm medium-fast,pace,
+Sumit Ruikar,f4ef0fd7,LHB,slow left-arm orthodox,spin,
+Sumit Singh,9ad3a550,RHB,right-arm medium,pace,
+Sumon Khan,a84ccd7d,LHB,right-arm medium,pace,bowler
+Sunil Roul,ed79b839,RHB,right-arm medium-fast,pace,
+Sunil Salam,4046c8ea,RHB,right-arm medium,pace,
+Sunil Yadav,76b0c2ac,RHB,legbreak googly,spin,bowler
 Sunny Gupta,ee3dfa89,RHB,right-arm offbreak,spin,
+Sunny Kashyap,73d49fe6,RHB,slow left-arm orthodox,spin,bowler
+Sunny Rana,798c67e5,RHB,right-arm medium,pace,
 Sunny Singh,30e37810,RHB,right-arm medium-fast,pace,batsman
+Supriyo Chakraborty,0e567e38,RHB,right-arm medium,pace,
+Suraj Ahuja,a0d05c98,RHB,none,none,wk_batsman
+Suraj Kashyap,5f119c74,RHB,right-arm offbreak,spin,
+Suraj Kumar,bb9d73d8,RHB,none,none,wk_batsman
+Suraj Tayam,6827210b,RHB,none,none,
+Surendra Malviya,2e0c09bb,RHB,right-arm medium,pace,
+Suresh Kumar,177eb92d,RHB,right-arm offbreak,spin,
+Suresh Vishweshwar,8b1137f7,RHB,right-arm medium-fast,pace,
+Suryakant Pradhan,a81e957f,RHB,right-arm medium,pace,bowler
+Suryansh Raina,d162e895,LHB,none,none,
 Suryansh Shedge,970ddd24,RHB,right-arm medium-fast,pace,allrounder
+Susheel Kumar,18956346,LHB,left-arm medium-fast,pace,
 Suyash Sharma,9440ef41,RHB,legbreak googly,spin,bowler
 Swapnil Singh,983f2f61,RHB,slow left-arm orthodox,spin,bowler
+Swarajeet Das,324a6e1e,RHB,right-arm medium,pace,
+Swarupam Purkayastha,dfc887dc,RHB,right-arm offbreak,spin,
+Swastik Samal,48cc6100,RHB,legbreak googly,spin,
+Syazrul Idrus,6dba59e0,RHB,right-arm medium,pace,bowler
+Syed Aqeel Israr,4286e899,RHB,right-arm medium,pace,
+Syed Aziz,6667067e,LHB,right-arm medium,pace,allrounder
+Syed Faridoun,43d9353a,RHB,left-arm wrist-spin,spin,bowler
+Syed Haider,ab23a6a1,RHB,none,none,wk_batsman
+Syed Naqvi,c520c3b9,RHB,right-arm medium-fast,pace,batsman
+Syed Rasel,b743f01b,LHB,left-arm medium-fast,pace,bowler
+Syed Sagar,ec6d3617,RHB,right-arm medium,pace,bowler
 T Banton,25f7b7d6,RHB,none,none,wk_batsman
+T Bavuma,9ffd1ac1,RHB,right-arm medium,pace,batsman
+T Gwandu,d1d83db3,RHB,right-arm medium,pace,bowler
 T Henderson,0a4ebc61,RHB,right-arm fast-medium,pace,bowler
+T Hinds,45a62071,RHB,right-arm medium-fast,pace,bowler
+T Kamungozi,1fe81cc9,RHB,legbreak,spin,allrounder
+T Kelly,6ceb94d0,RHB,none,none,batsman
 T Kohler-Cadmore,f836b33d,RHB,right-arm offbreak,spin,wk_batsman
 T Kohli,40caa465,RHB,right-arm medium,pace,batsman
+T Lungameni,1688f2dc,RHB,left-arm medium,pace,bowler
+T Luus,a0b76243,RHB,right-arm fast-medium,pace,bowler
+T Maruma,f55c526f,RHB,legbreak googly,spin,batsman
+T Marumani,3d5d51a5,LHB,right-arm offbreak,spin,batsman
+T Mishra,c9cac448,RHB,right-arm fast-medium,pace,batsman
+T Munyonga,fbcfa528,RHB,right-arm offbreak,spin,allrounder
+T Mupariwa,21bf71ab,RHB,right-arm fast-medium,pace,bowler
+T Murphy,ac2e7ec0,LHB,right-arm offbreak,spin,bowler
+T Musekiwa,06fc82b8,RHB,right-arm medium,pace,allrounder
+T Muzarabani,a945bb28,RHB,right-arm fast-medium,pace,bowler
 T Natarajan,ce794613,LHB,left-arm medium,pace,bowler
+T Panyangara,3b417422,RHB,right-arm fast-medium,pace,bowler
+T Pradeep,a0d66374,RHB,right-arm medium-fast,pace,bowler
+T R Dhillon,225412c5,RHB,right-arm offbreak,spin,
+T Sangha,52c952d9,RHB,legbreak,spin,bowler
 T Shamsi,a03bba42,RHB,left-arm wrist-spin,spin,bowler
 T Stubbs,85b3fab2,RHB,right-arm offbreak,spin,batsman
 T Taibu,75de770f,RHB,right-arm medium,pace,wk_batsman
+T Tatar,9cb60c15,RHB,none,none,
+T Teti,757efa0f,RHB,right-arm medium-fast,pace,
 T Thushara,b2ae53f5,LHB,left-arm fast-medium,pace,bowler
+T Vijay,51ec3919,RHB,right-arm offbreak,spin,bowler
+T Whitney,97af3515,RHB,right-arm fast-medium,pace,bowler
+T de Zorzi,d3a1c63d,LHB,right-arm offbreak,spin,batsman
+T van Vuuren,20afc7e7,RHB,left-arm medium-fast,pace,allrounder
+T van der Gugten,d99cc23a,RHB,right-arm fast-medium,pace,bowler
+TA Blundell,21e5f325,RHB,right-arm offbreak,spin,wk_batsman
 TA Boult,a818c1be,RHB,left-arm fast-medium,pace,bowler
+TA Copeland,2c7ac4b9,RHB,right-arm fast-medium,pace,bowler
+TA Lammonby,73f1f6b0,LHB,left-arm medium-fast,pace,allrounder
+TAM Siriwardana,bf7842c9,LHB,slow left-arm orthodox,spin,allrounder
+TB Abell,ba9258a7,RHB,right-arm medium,pace,batsman
+TB Robinson,5d664346,RHB,right-arm medium,pace,batsman
+TB Sole,98e908bd,RHB,right-arm offbreak,spin,allrounder
+TB de Bruyn,90d6cdea,RHB,right-arm medium-fast,pace,batsman
+TC Bruce,f92c9151,RHB,right-arm offbreak,spin,batsman
+TC Vanlalremruata,e37053c4,RHB,slow left-arm orthodox,spin,
+TD Andrews,a0f612b6,LHB,slow left-arm orthodox,spin,allrounder
+TD Astle,383dd431,RHB,legbreak,spin,bowler
+TD Cruickshank,c8d0314b,RHB,none,none,
 TD Paine,5748e866,RHB,right-arm medium,pace,wk_batsman
+TE Kane,af28816c,RHB,right-arm medium-fast,pace,bowler
+TF Rogers,7f232d46,LHB,right-arm medium,pace,batsman
+TF van Woerkom,70f2f922,RHB,slow left-arm orthodox,spin,allrounder
 TG Southee,13c35c9e,RHB,right-arm medium-fast,pace,bowler
+TGJ Gruijters,20f4a109,RHB,right-arm medium,pace,batsman
 TH David,f1f99156,RHB,right-arm offbreak,spin,batsman
+TH Tector,0348f9a5,RHB,right-arm offbreak,spin,batsman
+TIF Triffitt,593513d5,RHB,none,none,
+TJ Armstrong,30811a4b,RHB,right-arm fast-medium,pace,allrounder
+TJ Dean,666936de,RHB,none,none,batsman
+TJ Draca,88fac705,RHB,right-arm medium,pace,bowler
+TJ Moores,85dcb721,LHB,none,none,wk_batsman
+TJ Murtagh,c89474d1,LHB,right-arm fast-medium,pace,bowler
+TJG Pringle,8ce2080b,RHB,slow left-arm orthodox,spin,allrounder
 TK Curran,e86754b2,RHB,right-arm fast-medium,pace,allrounder
+TK Joseph,4fafd79a,RHB,none,none,wk_batsman
+TK Musakanda,9f9b903e,RHB,right-arm medium,pace,batsman
+TL Best,db767b89,RHB,right-arm fast,pace,bowler
+TL Chatara,5bbabe59,RHB,right-arm fast-medium,pace,bowler
+TL Chivanga,61fb296e,RHB,right-arm fast,pace,bowler
+TL Lawford,e01b6c44,RHB,right-arm fast-medium,pace,
+TL O'Connell,859d95bb,LHB,legbreak,spin,bowler
 TL Seifert,4663bd23,RHB,none,none,wk_batsman
 TL Suman,aaa1b522,RHB,right-arm offbreak,spin,batsman
+TLW Cooper,2318ba22,RHB,right-arm offbreak,spin,batsman
+TM Beaton,f0ec8597,RHB,right-arm medium,pace,
 TM Dilshan,5bdcdb72,RHB,right-arm offbreak,spin,allrounder
+TM Dowlin,24ecc358,RHB,right-arm offbreak,spin,batsman
 TM Head,12b610c2,LHB,right-arm offbreak,spin,batsman
+TM Odoyo,2c13defe,RHB,right-arm medium-fast,pace,allrounder
 TM Srivastava,a76d10ba,LHB,right-arm medium,pace,batsman
+TN de Grooth,52980a48,RHB,right-arm offbreak,spin,batsman
+TP Alsop,961b8ff1,LHB,none,none,wk_batsman
+TP Doropoulos,d87404b4,RHB,right-arm fast-medium,pace,
+TP Kaber,0773c16a,RHB,left-arm wrist-spin,spin,allrounder
+TP Ludeman,c3f7898b,RHB,none,none,wk_batsman
 TP Sudhindra,2f3817ce,LHB,right-arm fast,pace,
+TP Ura,a82eb3fb,RHB,none,none,batsman
+TP Visee,881b3f8e,RHB,none,none,batsman
+TP Ward,fdd837ba,LHB,none,none,batsman
 TR Birt,d2d4bb0a,LHB,right-arm medium,pace,batsman
+TS Braat,95d3c4a6,RHB,right-arm medium-fast,pace,bowler
+TS Chisoro,4b2d6789,LHB,left-arm fast-medium,pace,bowler
+TS Kamunhukamwe,4e1b4323,RHB,right-arm offbreak,spin,batsman
 TS Mills,245c97cb,RHB,left-arm fast,pace,bowler
+TS Muyeye,10b79140,RHB,right-arm offbreak,spin,batsman
+TS Rogers,1b04e02b,LHB,right-arm medium-fast,pace,allrounder
+TS Saha,eb46e18d,LHB,slow left-arm orthodox,spin,
+TT Bresnan,58043739,RHB,right-arm medium-fast,pace,allrounder
+TT Maposa,5feead83,RHB,right-arm medium,pace,bowler
+TT Sawkar,276b64d4,RHB,right-arm medium-fast,pace,
 TU Deshpande,46a9bea1,LHB,right-arm medium,pace,bowler
+TW Gray,5e365152,RHB,legbreak,spin,bowler
+TWM Latham,e824e6ee,LHB,right-arm medium,pace,wk_batsman
+TZ Chataira,2e4d5f94,RHB,right-arm medium,pace,
+Tahmeed Rahman,13903f13,RHB,right-arm offbreak,spin,bowler
+Taijul Islam,9d1d34bd,LHB,slow left-arm orthodox,spin,allrounder
+Tajinder Singh,f9d99806,RHB,right-arm offbreak,spin,allrounder
+Takam Tallum,79a18661,LHB,none,none,
+Tamim Iqbal,3b041a12,LHB,none,none,batsman
+Tana Davit,c3604d71,RHB,none,none,
+Tanay Thyagarajan,f1809c03,LHB,slow left-arm orthodox,spin,bowler
+Tanmay Agarwal,e6e9b619,LHB,legbreak googly,spin,batsman
+Tanush Gusain,e2290574,RHB,none,none,
 Tanush Kotian,5724e517,RHB,right-arm offbreak,spin,allrounder
+Tanveer Ul-Haq,2795b0f6,RHB,left-arm medium,pace,
+Tanvir Ahmed (1),93f104b4,RHB,right-arm fast-medium,pace,bowler
+Tanvir Islam,aa467af0,LHB,slow left-arm orthodox,spin,bowler
+Tanwir Afzal,5f5ca1a7,RHB,right-arm fast-medium,pace,allrounder
+Tanzid Hasan,80fe764d,LHB,none,none,batsman
+Tanzim Hasan Sakib,0b0cc297,RHB,right-arm fast-medium,pace,allrounder
+Tarang Gohel,3b16788a,RHB,right-arm medium,pace,wk_batsman
+Tarani Sa,4c263f1c,RHB,none,none,
+Tashi Bhalla,3c703eee,RHB,right-arm medium,pace,
+Taskin Ahmed,ef18b66e,LHB,right-arm fast,pace,bowler
+Tayyab Abbas,6b972db7,LHB,left-arm medium-fast,pace,bowler
+Tayyab Tahir,431f8af4,RHB,legbreak googly,spin,batsman
+Techi Doria,dde809f3,RHB,right-arm medium,pace,
+Techi Neri,d3885f28,RHB,right-arm offbreak,spin,
+Techi Sonam,4494e8b7,RHB,none,none,
 Tejas Baroka,c28e9f12,RHB,legbreak googly,spin,bowler
+Tejas Patel,76ed445f,RHB,right-arm medium-fast,pace,
+Tejosel Yiethun,f5349934,LHB,right-arm medium-fast,pace,
+Temjentoshi Jamir,d60afd18,RHB,none,none,
+Thivagar Gopal,e257c9a1,RHB,right-arm medium-fast,pace,
+Thomas Balkin,61c4f340,RHB,right-arm medium,pace,bowler
+Thomas Moirangthem,db15d0f8,RHB,right-arm medium,pace,
 Tilak Varma,b0482a1d,LHB,right-arm offbreak,spin,allrounder
+Toni Chishi,dabf96a5,RHB,right-arm medium-fast,pace,batsman
+Towhid Hridoy,9e52a414,RHB,right-arm offbreak,spin,batsman
+Treyaksh Bali,3ad2a6d1,RHB,legbreak googly,spin,batsman
+Tripuresh Singh,3c29632a,RHB,right-arm medium,pace,
+Trishank Gupta,9805eb7e,RHB,legbreak,spin,
+Tukuna Sahoo,83787fde,RHB,legbreak googly,spin,
+Tushar Gill,a1af722a,RHB,legbreak,spin,
 U Kaul,622cc511,LHB,none,none,wk_batsman
+U U Bose,d28a7a2a,RHB,right-arm offbreak,spin,batsman
 UA Birla,91b9300b,RHB,right-arm medium,pace,
 UBT Chand,0c94f480,RHB,right-arm offbreak,spin,wk_batsman
+UR Kumar,2fda74a2,RHB,right-arm offbreak,spin,
+UR Patel,64677a10,RHB,none,none,
 UT Khawaja,331ea488,LHB,right-arm medium,pace,batsman
 UT Yadav,cc1e8c68,RHB,right-arm fast,pace,bowler
+UWMBCA Welegedara,dd37da14,RHB,left-arm fast-medium,pace,bowler
+Ubaid Shah,cc535250,RHB,right-arm fast-medium,pace,bowler
+Umaid Asif,f69f1d8a,RHB,right-arm medium-fast,pace,allrounder
+Umair Masood,aa8b4568,RHB,none,none,
+Umang Sharma,6f0f39fb,RHB,right-arm offbreak,spin,batsman
+Umar Akmal,fd2bf2a0,RHB,right-arm offbreak,spin,batsman
+Umar Alam,f55016e8,RHB,right-arm medium,pace,
+Umar Amin,3029e282,LHB,right-arm medium,pace,batsman
 Umar Gul,16dfcc19,RHB,right-arm fast-medium,pace,bowler
+Umar Nazir,734062e6,RHB,right-arm medium,pace,
+Umar Siddiq,8efab8ed,LHB,right-arm offbreak,spin,batsman
+Umer Khan,db3643f3,LHB,slow left-arm orthodox,spin,bowler
 Umran Malik,81c08fa3,RHB,right-arm fast,pace,bowler
+Unnikrishnan Manukrishnan,39dd4d6d,LHB,left-arm medium,pace,
+Upendra Yadav,80ffea17,RHB,right-arm offbreak,spin,wk_batsman
 Urvil Patel,cf59b3f0,RHB,none,none,wk_batsman
+Usama Mir,6dd8b88c,RHB,legbreak,spin,bowler
+Usman Khan,e8a552ef,RHB,right-arm medium,pace,
+Usman Khan (2),bafb9238,RHB,right-arm offbreak,spin,wk_batsman
+Usman Mushtaq,0e5ccbb4,RHB,right-arm medium-fast,pace,batsman
+Usman Qadir,33742f04,LHB,legbreak,spin,bowler
+Usman Shinwari,f0e722e0,RHB,left-arm medium-fast,pace,bowler
+Usman Tariq,e94d1dcd,RHB,right-arm offbreak,spin,bowler
+Utkarsh Singh,b2a55ac1,LHB,right-arm offbreak,spin,allrounder
+Uvais Ahmad,c9d6f9f2,RHB,none,none,
+V Aravind,cddafe26,RHB,none,none,wk_batsman
+V Athisayaraj Davidson,70eb694b,RHB,right-arm medium-fast,pace,bowler
+V Cheluvaraj,ce1926ef,RHB,none,none,
+V Dhaka,69a3140d,RHB,none,none,
 V Kaverappa,d4d929b0,RHB,right-arm fast-medium,pace,bowler
 V Kohli,ba607b88,RHB,right-arm medium,pace,batsman
+V M Jivrajani,d9079bf7,RHB,right-arm offbreak,spin,bowler
+V Nayanar,ea3652ba,RHB,none,none,batsman
 V Nigam,5ffc0565,RHB,legbreak,spin,bowler
+V Panwar,c86b2f09,RHB,right-arm medium,pace,
+V Permaul,78dfe704,RHB,slow left-arm orthodox,spin,bowler
 V Pratap Singh,d718440b,RHB,right-arm medium,pace,
 V Puthur,1e030637,RHB,left-arm wrist-spin,spin,bowler
 V Sehwag,8ba8195d,RHB,right-arm offbreak,spin,batsman
 V Shankar,0994d0ae,RHB,right-arm medium,pace,allrounder
+V Shukla,101b1180,RHB,none,none,wk_batsman
+V Sibanda,0fdabe05,RHB,right-arm medium,pace,batsman
 V Suryavanshi,470f446b,LHB,slow left-arm orthodox,spin,batsman
+V Tokas,cce2bcb2,RHB,right-arm medium,pace,bowler
+V Vishal,332609c2,LHB,none,none,
 V Viyaskanth,03a83c50,RHB,legbreak,spin,bowler
+VA Jagadeesh,8d83e97a,RHB,right-arm medium,pace,
+VA Naik,f483c966,RHB,right-arm offbreak,spin,
+VB van Jaarsveld,890b877d,LHB,right-arm medium,pace,batsman
+VD Philander,cfe70281,RHB,right-arm fast-medium,pace,allrounder
 VG Arora,7c3b3b78,RHB,right-arm fast-medium,pace,bowler
 VH Zol,6dbcf855,LHB,right-arm offbreak,spin,
+VJ Kingma,3a7ea906,RHB,right-arm medium-fast,pace,bowler
+VK Saha,8c5b0ce7,RHB,right-arm offbreak,spin,
+VK Singh,0fe0cb24,LHB,right-arm offbreak,spin,
+VM Nyauchi,1bd16445,RHB,right-arm fast-medium,pace,bowler
 VR Aaron,0a3d54b9,RHB,right-arm fast,pace,bowler
 VR Iyer,a24be938,LHB,right-arm medium,pace,allrounder
 VRV Singh,034b4b7d,RHB,right-arm medium-fast,pace,
+VS Halambage,9531d48f,RHB,legbreak,spin,allrounder
+VS Kahlon,d5719eec,RHB,right-arm offbreak,spin,
 VS Malik,5f26df4f,RHB,right-arm medium,pace,bowler
+VS Solanki,7ee2ce62,RHB,right-arm offbreak,spin,batsman
 VS Yeligati,38f2c66c,RHB,right-arm offbreak,spin,
+VV Gite,c15706c8,RHB,right-arm medium,pace,
+VV More,77a5e823,RHB,none,none,
 VVS Laxman,de8cce37,RHB,right-arm offbreak,spin,batsman
 VY Mahesh,93a17209,RHB,right-arm medium-fast,pace,allrounder
+Vaibhav Bhatt,fb104762,RHB,none,none,
+Vaibhav Govekar,b5c62bdc,LHB,right-arm offbreak,spin,
+Vaibhav Singh Panwar,8685f676,LHB,slow left-arm orthodox,spin,
+Vaisakh Chandran,c5215e7c,RHB,right-arm offbreak,spin,
+Varun Choudhary,134bead2,RHB,right-arm medium-fast,pace,
+Varun Sood,23639793,LHB,slow left-arm orthodox,spin,
+Vasuki Koushik,f6cb1703,RHB,right-arm medium,pace,bowler
+Vidyadhar Patil,30fc60b5,RHB,right-arm medium,pace,bowler
+Vignesh Kannan,42c5b326,LHB,slow left-arm orthodox,spin,
+Vijay Bharti,522bb42d,RHB,none,none,
+Vijay Jethi,f45d6e23,RHB,none,none,
+Vijay Rao,6971a468,RHB,slow left-arm orthodox,spin,
+Vijay Sharma,6e8d1234,RHB,none,none,
 Vijaykumar Vyshak,54e52590,RHB,right-arm medium,pace,bowler
+Vijesh Prabhudessai,773bf733,RHB,right-arm medium,pace,
+Vikas Hathwala,904585d1,LHB,left-arm medium,pace,
+Vikas Mishra,da6368c2,RHB,slow left-arm orthodox,spin,bowler
+Vikas Yadav,fa73f373,RHB,slow left-arm orthodox,spin,
+Vikash Kumar,fd25e20c,RHB,none,none,batsman
+Vikash Singh,8b018008,LHB,left-arm medium,pace,bowler
+Vikash Yadav,a53292e3,RHB,none,none,
+Vikramjit Singh,2a9eee66,LHB,right-arm medium,pace,batsman
+Vikrant Rajput,b5f7bae6,LHB,slow left-arm orthodox,spin,
+Vinod Kumar,8f77af6b,RHB,right-arm medium,pace,
+Vinoop Manoharan,a0d832c0,RHB,right-arm offbreak,spin,
+Vipin Dhaka,f9da1515,RHB,right-arm medium,pace,
+Vipin Kumar,003fe1d7,RHB,right-arm medium,pace,
+Vipul Krishna,cb127a5b,RHB,left-arm medium,pace,
+Virandeep Singh,415d30b6,RHB,slow left-arm orthodox,spin,allrounder
 Virat Singh,26d76ad9,LHB,legbreak googly,spin,batsman
+Vishal Das,e5eb5edf,RHB,right-arm medium,pace,
+Vishal Jayswal,4765ad1e,LHB,slow left-arm orthodox,spin,
+Vishal Kushwah,cc8531c2,RHB,right-arm medium,pace,
+Vishal Sharma,f555bcf4,RHB,right-arm offbreak,spin,
+Vishnu Solanki,2e802011,RHB,right-arm offbreak,spin,batsman
 Vishnu Vinod,0494fa6e,RHB,none,none,wk_batsman
+Vishvaraj Jadeja,d30c6f81,RHB,right-arm medium,pace,
+Vivek Kumar,a97c96bf,RHB,right-arm medium,pace,
+Vivek Singh,a446c7be,LHB,right-arm medium,pace,batsman
+Vivekanand Tiwari,15745dbe,RHB,right-arm medium,pace,
 Vivrant Sharma,1b7b0fa7,LHB,legbreak googly,spin,allrounder
+W Barresi,0d677597,RHB,right-arm offbreak,spin,batsman
 W Jaffer,619aa81f,RHB,right-arm offbreak,spin,batsman
+W Madhevere,a879b92c,RHB,right-arm offbreak,spin,allrounder
+W McClintock,b16ddb79,RHB,right-arm medium,pace,batsman
+W Nongkhlaw,6d4d9944,LHB,left-arm medium,pace,
 W O'Rourke,cb9b8664,RHB,right-arm fast,pace,bowler
+W Parker,607c846c,RHB,legbreak googly,spin,bowler
+W Prestwidge,bdf7a718,LHB,right-arm fast,pace,bowler
+W Sanders,068fe71c,RHB,right-arm fast,pace,
+W Sutherland,bc2d4f2e,RHB,right-arm medium-fast,pace,allrounder
+WA Agar,15de1f5d,RHB,right-arm fast,pace,bowler
 WA Mota,3dba85c2,RHB,right-arm medium,pace,
+WA Young,8afe73e2,RHB,right-arm offbreak,spin,batsman
+WB Marshall,2d7f2ba0,RHB,right-arm medium,pace,batsman
+WB Rankin,29b89ae8,LHB,right-arm fast-medium,pace,bowler
+WCF Smeed,4e18e961,RHB,right-arm offbreak,spin,batsman
 WD Parnell,3a60e0b5,LHB,left-arm medium-fast,pace,bowler
+WD Sheridan,25d12bb4,RHB,left-arm fast-medium,pace,
+WER Somerville,74a1c1e3,RHB,right-arm offbreak,spin,bowler
+WG Bosisto,04ef663a,RHB,right-arm offbreak,spin,
 WG Jacks,9caf69a1,RHB,right-arm offbreak,spin,allrounder
+WIA Fernando,9550470d,RHB,right-arm medium-fast,pace,batsman
+WJ Lubbe,10f42013,LHB,right-arm offbreak,spin,batsman
+WK McCallan,c942a53b,RHB,right-arm offbreak,spin,allrounder
+WKD Perkins,1920c721,RHB,none,none,wk_batsman
+WL Madsen,86e0f3f0,RHB,right-arm offbreak,spin,batsman
+WP Masakadza,4bc0a378,LHB,slow left-arm orthodox,spin,bowler
+WP Myburgh,f1a042e5,RHB,legbreak,spin,allrounder
 WP Saha,fe11caa6,RHB,none,none,wk_batsman
 WPUJC Vaas,bcce309e,LHB,left-arm fast-medium,pace,bowler
+WT Mashinge,ade3660b,RHB,right-arm fast-medium,pace,
+WT Mubayiwa,2343b4bf,LHB,slow left-arm orthodox,spin,
+WTS Porterfield,ec02b798,LHB,right-arm offbreak,spin,batsman
+WU Tharanga,7ed9fd56,LHB,none,none,batsman
+WW Hinds,60beb01b,LHB,right-arm medium,pace,batsman
+Wahab Riaz,b3118300,RHB,left-arm fast,pace,bowler
+Walter Toppo,f6332130,RHB,right-arm offbreak,spin,
+Waqar Salamkheil,3f1066d0,RHB,left-arm wrist-spin,spin,bowler
+Waqas Barkat,a2eac9df,RHB,legbreak,spin,wk_batsman
+Waqas Maqsood,f59b3bd1,LHB,left-arm fast-medium,pace,bowler
+Waseem Muhammad,6f02fe2a,RHB,right-arm medium,pace,batsman
+Waseem Raza,c32087fc,RHB,slow left-arm orthodox,spin,
 Washington Sundar,f19ccfad,LHB,right-arm offbreak,spin,allrounder
+Wasim Ali,ea59139a,LHB,slow left-arm orthodox,spin,allrounder
+Wasiqur Rahman,645eaa96,RHB,none,none,
+Writtick Chatterjee,a00e1842,RHB,right-arm offbreak,spin,allrounder
 X Thalaivan Sargunam,1763bc6c,RHB,right-arm offbreak,spin,
+XA Crone,e5ee7c83,RHB,right-arm fast-medium,pace,bowler
 XC Bartlett,3b53243a,RHB,right-arm fast-medium,pace,bowler
+XJ Doherty,502b2c81,LHB,slow left-arm orthodox,spin,bowler
+XM Marshall,ffb504b1,RHB,right-arm offbreak,spin,batsman
+Y Avinash Jadhav,6c0f82e6,RHB,none,none,
+Y Cariah,78bb68d4,LHB,legbreak,spin,bowler
 Y Gnaneswara Rao,bae11797,RHB,right-arm medium,pace,allrounder
 Y Nagar,662c47a6,RHB,right-arm offbreak,spin,allrounder
 Y Prithvi Raj,cfa4bd2b,LHB,left-arm medium,pace,bowler
+Y Sandeep,91dedbbe,RHB,right-arm offbreak,spin,
+Y Sera,4fcaa008,LHB,none,none,
 Y Venugopal Rao,fe763256,RHB,right-arm offbreak,spin,batsman
 YA Abdulla,4353bba5,LHB,left-arm fast-medium,pace,bowler
+YB Kothari,c2aaa4be,RHB,legbreak googly,spin,
 YBK Jaiswal,6c19c6e5,LHB,legbreak,spin,batsman
+YD Gardharia,99697092,RHB,right-arm offbreak,spin,
 YK Pathan,3c6ffae8,RHB,right-arm offbreak,spin,allrounder
+YR Sharma,717b424d,LHB,right-arm offbreak,spin,
 YS Chahal,57ee1fde,RHB,legbreak googly,spin,bowler
+YS Samra,d02c40ab,LHB,right-arm medium,pace,batsman
 YV Dhull,dd7e9b3b,RHB,right-arm offbreak,spin,batsman
+YV Rathod,5e941faa,LHB,slow left-arm orthodox,spin,batsman
 YV Takawale,4e04666c,RHB,none,none,
+YY Singh,f0a99c08,RHB,right-arm offbreak,spin,batsman
+Yab Niya,8d6505d3,RHB,right-arm medium-fast,pace,
 Yash Dayal,7210d461,RHB,left-arm medium-fast,pace,bowler
+Yash Nahar,487f5721,RHB,right-arm offbreak,spin,
 Yash Thakur,4b31f3a3,RHB,right-arm fast-medium,pace,bowler
+Yashaswi Rishav,5b8cf03a,RHB,legbreak googly,spin,
 Yashpal Singh,297b26da,RHB,right-arm medium,pace,batsman
+Yasim Murtaza,c9d05f1a,LHB,slow left-arm orthodox,spin,allrounder
+Yasir Ali Chowdhury,5791b840,RHB,right-arm offbreak,spin,batsman
+Yasir Arafat,3cf5ae43,RHB,right-arm fast-medium,pace,allrounder
+Yasir Khan,4f1bb625,RHB,none,none,batsman
+Yasir Shah,f2800ef3,RHB,legbreak googly,spin,bowler
+Yogesh Sharma,34f27721,LHB,slow left-arm orthodox,spin,
+Yogesh Tiwari,144fdfd4,RHB,right-arm offbreak,spin,
 Younis Khan,33cb3411,RHB,right-arm medium,pace,batsman
 Yudhvir Singh,4885bbe6,RHB,right-arm medium-fast,pace,bowler
+Yuvraj Chaudhary,1730e08e,LHB,slow left-arm orthodox,spin,allrounder
+Yuvraj Chudasama,20666746,LHB,legbreak,spin,bowler
 Yuvraj Singh,1c914163,LHB,slow left-arm orthodox,spin,batsman
+Z Crawley,922e1b19,RHB,right-arm offbreak,spin,batsman
+Z Evans,8528effb,RHB,right-arm medium-fast,pace,bowler
+Z Groenewald,017faef2,LHB,slow left-arm orthodox,spin,allrounder
 Z Khan,91a4a398,RHB,left-arm fast-medium,pace,bowler
+Z Motara,e796c63a,RHB,legbreak,spin,bowler
+ZB Lion-Cachet,d99de998,RHB,right-arm offbreak,spin,allrounder
+ZE Green,8716233e,LHB,none,none,wk_batsman
+ZGF Foulkes,30f92334,RHB,right-arm medium,pace,allrounder
+Zafar Ali,87b455da,RHB,none,none,
+Zafar Gohar,9fd3a210,LHB,slow left-arm orthodox,spin,bowler
+Zahid Mahmood,ba158afd,RHB,legbreak,spin,bowler
+Zahir Khan,786b7fe8,LHB,left-arm wrist-spin,spin,bowler
+Zahoor Khan,f0e293b0,RHB,right-arm medium-fast,pace,bowler
+Zahoor Sofi,a9272860,RHB,right-arm medium-fast,pace,bowler
+Zakir Hasan,e3e09091,LHB,none,none,wk_batsman
+Zaman Khan,28392e11,RHB,right-arm fast,pace,bowler
+Zawar Farid,d07dbc28,RHB,right-arm medium,pace,bowler
+Zeeshan Ali,a005b384,RHB,right-arm medium,pace,
 Zeeshan Ansari,36619795,RHB,legbreak googly,spin,bowler
+Zeeshan Ashraf,4b345629,LHB,right-arm offbreak,spin,wk_batsman
+Zeeshan Maqsood,34464143,LHB,slow left-arm orthodox,spin,batsman
+Zeeshan Zameer,aad2830e,RHB,right-arm fast-medium,pace,allrounder
+Zia-ul-Haq,99c81226,RHB,left-arm fast-medium,pace,bowler
+Ziaur Rahman,c27518d2,RHB,right-arm fast-medium,pace,allrounder
+Zikria Islam,a6de4c41,RHB,right-arm offbreak,spin,bowler
+Zohaib Khan,a3a1c7ef,RHB,slow left-arm orthodox,spin,allrounder
+Zubaidi Zulkifle,dca8273d,RHB,right-arm medium,pace,batsman
+Zuhaib Zubair,9124aa4c,RHB,legbreak googly,spin,bowler
+Zulfiqar Babar,3a0f6df2,RHB,slow left-arm orthodox,spin,bowler
+Zulqarnain Haider,ee9bdbc8,RHB,none,none,wk_batsman
