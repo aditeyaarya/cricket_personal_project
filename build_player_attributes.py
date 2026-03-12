@@ -10,7 +10,7 @@ from pathlib import Path
 # CONFIG
 # -------------------------------------------------------
 
-BALLS_PATH = "data/ipl_balls_wave4.csv"
+BALLS_PATH = "data/all1_balls.csv"
 PEOPLE_PATH = "data/cricsheet_register/people.csv"
 OUTPUT_PATH = "data/player_attributes.csv"
 
@@ -125,7 +125,7 @@ def fetch_player_attributes(player_name, cricinfo_id):
 
     logging.info(f"Fetching attributes for {player_name} (Cricinfo ID: {cricinfo_id})")
 
-    for attempt in range(3):
+    for attempt in range(5):
 
         try:
 
