@@ -1,29 +1,41 @@
 """
-T20 Cricket Win Probability Pipeline  —  v10 (IPL + T20I Combined)
-===================================================================
-Changes vs v9
--------------
-  DATA EXPANSION — Train on both IPL and filtered T20I data.
+T20 Cricket Win Probability Pipeline  —  v11 (Multi-League + Format Flags)
+==========================================================================
+Changes vs v10
+--------------
+  MULTI-LEAGUE DATA — Extends beyond IPL + T20I to include BBL, CPL,
+        PSL, SA20, and SMAT (from 2018). Data is assembled by
+        build_dataset.py into data/all_matches.csv + data/all_balls.csv.
+        Wave enrichment for new leagues is auto-run via wave4_leagues.py
+        on first pipeline execution (cached thereafter).
 
-  Two datasets are loaded and concatenated:
-    IPL   — existing ipl_matches.csv + ipl_balls_wave4b.csv (or wave4)
-    T20I  — t20i_matches_filtered.csv + t20i_balls_wave4b.csv
-            (men's only; filtered to 18-team list + top-9 vs anyone rule)
+  FORMAT FLAGS — Three new features added to both Model T and Model W:
+        is_ipl    (1 for IPL, 0 otherwise)
+        is_t20i   (1 for international, 0 for domestic)
+        league_id (integer encoding of competition)
+        These directly fix the weather-as-format-proxy problem observed
+        in v10: weather features were proxying for format rather than
+        capturing genuine conditions.
 
-  Each dataset is tagged with a `source` column ("ipl" / "t20i").
+  DEAD FEATURE PRUNING — Removed features confirmed zero-importance:
+        phase, bowler_is_pace, proj_total_spread, wickets_remaining
 
-  ELO — computed separately per format (IPL teams vs T20I teams are
-        different competitive contexts). Both elo columns are merged
-        back before the state table is built.
+  REINSTATED FEATURES — Re-evaluated with clean multi-league data:
+        is_day_match  (BBL has genuine day/night scoring differences)
+        momentum_index (re-testing with proper T20I wave features)
+        current_rr     (wider RR variance in international cricket)
 
-  WAVE FEATURES — rolling player stats (batsman SR, bowler economy etc.)
-        are computed from the combined IPL + T20I ball history so that
-        players who appear in both formats share a single 2yr window.
-        Run wave4_t20i.py once to produce t20i_balls_wave4b.csv before
-        running this pipeline.
+  WAVE 5 — Short-window rolling form (see wave5.py):
+        batsman_sr_last10, batsman_sr_last20
+        bowler_econ_last10, bowler_econ_last20
+        Three tiers of signal: ability (2yr), recent form (last20),
+        current form / tournament entry (last10)
 
-  Everything else (Model T, Model W, calibration, evaluation) is
-  unchanged — they operate on the larger combined dataset.
+  ELO — Now computed independently per league (IPL, T20I, BBL, CPL,
+        PSL, SA20, SMAT each get their own rating pool).
+
+  FALLBACK — If data/all_matches.csv is not found (new leagues not yet
+        parsed), the pipeline runs in IPL+T20I mode automatically.
 """
 
 import os, sys
@@ -74,92 +86,86 @@ print(f"Log file       : {_log_path}")
 
 
 # ════════════════════════════════════════════════════════════════════════════
-# 1.  LOAD DATA  (IPL + T20I)
+# 1.  LOAD DATA  (all leagues via build_dataset.py output)
 # ════════════════════════════════════════════════════════════════════════════
+#
+# File priority per league (highest to lowest):
+#   data/<league>_balls_wave5.csv   <- wave4b + short-window form (preferred)
+#   data/<league>_balls_wave4b.csv  <- full wave features
+#   data/<league>_balls.csv         <- raw (wave scripts auto-run if needed)
+#
+# Auto-run order on first execution:
+#   1. wave4_leagues.py --all  (if any league missing wave4b)
+#   2. build_dataset.py
+#   3. wave5.py --all          (if any league missing wave5)
+#   4. build_dataset.py        (rebuild with wave5 files)
 
-# ── IPL ───────────────────────────────────────────────────────────────────────
-IPL_WAVE4B = Path("data/ipl_balls_wave4b.csv")
-IPL_WAVE4  = Path("data/ipl_balls_wave4.csv")
+ALL_MATCHES = Path("data/all_matches.csv")
+ALL_BALLS   = Path("data/all_balls.csv")
 
-ipl_matches = pd.read_csv("data/ipl_matches.csv", parse_dates=["date"])
-ipl_matches["source"] = "ipl"
+ALL_LEAGUES_LIST   = ["ipl", "t20i", "bbl", "cpl", "psl", "sa20", "smat"]
+ENRICHABLE_LEAGUES = ["t20i", "bbl", "cpl", "psl", "sa20", "smat"]
 
-if IPL_WAVE4B.exists():
-    print(f"\nIPL balls: loading from {IPL_WAVE4B}")
-    ipl_balls = pd.read_csv(IPL_WAVE4B)
-elif IPL_WAVE4.exists():
-    print(f"\nIPL balls: loading from {IPL_WAVE4}")
-    ipl_balls = pd.read_csv(IPL_WAVE4)
+
+def _auto_enrich_missing_leagues():
+    """Run wave4_leagues.py and wave5.py for any league missing enrichment."""
+    import subprocess
+    wave4_script = Path(__file__).parent / "wave4_leagues.py"
+    wave5_script = Path(__file__).parent / "wave5.py"
+    build_script = Path(__file__).parent / "build_dataset.py"
+    ran = False
+
+    # Wave 4b
+    missing_w4 = [lg for lg in ENRICHABLE_LEAGUES
+                  if Path(f"data/{lg}_balls.csv").exists()
+                  and not Path(f"data/{lg}_balls_wave4b.csv").exists()]
+    if missing_w4 and wave4_script.exists():
+        print(f"\nMissing wave4b: {', '.join(l.upper() for l in missing_w4)}")
+        print("Running wave4_leagues.py --all  (cached after first run)...\n")
+        subprocess.run([sys.executable, str(wave4_script), "--all"], check=True)
+        if build_script.exists():
+            subprocess.run([sys.executable, str(build_script)], check=True)
+        ran = True
+
+    # Wave 5
+    missing_w5 = [lg for lg in ALL_LEAGUES_LIST
+                  if Path(f"data/{lg}_balls_wave4b.csv").exists()
+                  and not Path(f"data/{lg}_balls_wave5.csv").exists()]
+    if missing_w5 and wave5_script.exists():
+        print(f"\nMissing wave5: {', '.join(l.upper() for l in missing_w5)}")
+        print("Running wave5.py --all  (cached after first run)...\n")
+        subprocess.run([sys.executable, str(wave5_script), "--all"], check=True)
+        if build_script.exists():
+            subprocess.run([sys.executable, str(build_script)], check=True)
+        ran = True
+    elif missing_w5:
+        print(f"WARNING: wave5.py not found — wave5 features missing for "
+              f"{', '.join(l.upper() for l in missing_w5)}")
+    return ran
+
+
+if ALL_MATCHES.exists() and ALL_BALLS.exists():
+    _auto_enrich_missing_leagues()
+    matches = pd.read_csv(ALL_MATCHES, parse_dates=["date"])
+    balls   = pd.read_csv(ALL_BALLS)
+    matches = matches.sort_values("date").reset_index(drop=True)
+    print(f"\nCombined dataset loaded:")
+    for src, grp in matches.groupby("source"):
+        print(f"  {src.upper():6s}: {len(grp):,} matches")
+    print(f"\n  Total — matches: {len(matches):,}  balls: {len(balls):,}")
+
 else:
-    raise FileNotFoundError("Need data/ipl_balls_wave4b.csv or data/ipl_balls_wave4.csv")
+    # Fallback: IPL + T20I only
+    print("INFO: data/all_matches.csv not found — running in IPL+T20I mode.")
+    print("      Run build_dataset.py to enable multi-league mode.\n")
 
-ipl_balls["source"] = "ipl"
-print(f"IPL  — matches: {len(ipl_matches):,}  balls: {len(ipl_balls):,}")
+    IPL_WAVE4B = Path("data/ipl_balls_wave4b.csv")
+    IPL_WAVE4  = Path("data/ipl_balls_wave4.csv")
 
-# ── T20I ──────────────────────────────────────────────────────────────────────
-T20I_MATCHES = Path("data/t20i_matches_filtered.csv")
-T20I_WAVE4B  = Path("data/t20i_balls_wave4b.csv")
-T20I_BALLS   = Path("data/t20i_balls_filtered.csv")
+    ipl_matches = pd.read_csv("data/ipl_matches.csv", parse_dates=["date"])
+    ipl_matches["source"] = "ipl"
+    ipl_matches["league_id"] = 0
 
-if T20I_MATCHES.exists():
-    t20i_matches = pd.read_csv(T20I_MATCHES, parse_dates=["date"])
-    # Men's only
-    if "gender" in t20i_matches.columns:
-        t20i_matches = t20i_matches[t20i_matches["gender"] == "male"].copy()
-    t20i_matches["source"] = "t20i"
-
-    if T20I_WAVE4B.exists():
-        print(f"T20I balls: loading from {T20I_WAVE4B}")
-        t20i_balls = pd.read_csv(T20I_WAVE4B)
-    elif T20I_BALLS.exists():
-        # wave4b not yet computed — run wave4_t20i.py automatically
-        print(f"\nT20I wave features not found — running wave4_t20i.py now...")
-        print("(This only happens once; output is cached to data/t20i_balls_wave4b.csv)\n")
-        import importlib.util, subprocess
-        _wave4_script = Path(__file__).parent / "wave4_t20i.py"
-        if not _wave4_script.exists():
-            raise FileNotFoundError(
-                "wave4_t20i.py not found alongside pipeline.py. "
-                "Place wave4_t20i.py in the same directory and re-run."
-            )
-        _result = subprocess.run(
-            [sys.executable, str(_wave4_script)],
-            check=True
-        )
-        if not T20I_WAVE4B.exists():
-            raise RuntimeError(
-                "wave4_t20i.py ran but did not produce data/t20i_balls_wave4b.csv. "
-                "Check wave4_t20i.py output above for errors."
-            )
-        print(f"\nT20I wave features computed. Loading from {T20I_WAVE4B}")
-        t20i_balls = pd.read_csv(T20I_WAVE4B)
-    else:
-        raise FileNotFoundError(
-            "Need data/t20i_balls_filtered.csv — run filter_t20i.py first."
-        )
-
-    t20i_balls["source"] = "t20i"
-    # Keep only men's match IDs
-    valid_t20i_ids = set(t20i_matches["match_id"].astype(str))
-    t20i_balls["match_id"] = t20i_balls["match_id"].astype(str)
-    t20i_balls = t20i_balls[t20i_balls["match_id"].isin(valid_t20i_ids)]
-    print(f"T20I — matches: {len(t20i_matches):,}  balls: {len(t20i_balls):,}")
-else:
-    print("WARNING: T20I data not found — running on IPL only")
-    t20i_matches = pd.DataFrame(columns=ipl_matches.columns)
-    t20i_balls   = pd.DataFrame(columns=ipl_balls.columns)
-
-# ── Combine ───────────────────────────────────────────────────────────────────
-matches = pd.concat([ipl_matches, t20i_matches], ignore_index=True)
-matches = matches.sort_values("date").reset_index(drop=True)
-balls   = pd.concat([ipl_balls, t20i_balls],   ignore_index=True)
-
-print(f"\nCombined — matches: {len(matches):,}  balls: {len(balls):,}")
-print(f"  IPL  : {(matches['source']=='ipl').sum():,} matches")
-print(f"  T20I : {(matches['source']=='t20i').sum():,} matches")
-
-
-# ════════════════════════════════════════════════════════════════════════════
 # 2.  WEATHER
 # ════════════════════════════════════════════════════════════════════════════
 
@@ -169,7 +175,9 @@ if WEATHER_CSV.exists():
 else:
     sys.path.insert(0, str(Path(__file__).parent))
     from fetch_weather import build_weather_table
-    weather_df = build_weather_table(matches_csv="data/ipl_matches.csv",
+    # Use all_matches.csv if available, else fall back to ipl_matches.csv
+    _weather_src = "data/all_matches.csv" if ALL_MATCHES.exists() else "data/ipl_matches.csv"
+    weather_df = build_weather_table(matches_csv=_weather_src,
                                      output_csv=str(WEATHER_CSV))
 
 WEATHER_FEATURES = ["temp_max_c", "humidity_eve_pct", "cloud_cover_eve_pct",
@@ -243,6 +251,17 @@ matches["dew_likely"] = matches.apply(dew_flag, axis=1)
 matches["season_phase"] = matches["date"].dt.month.apply(
     lambda m: 0 if m <= 4 else (1 if m <= 5 else 2))
 
+# ── Format flags ──────────────────────────────────────────────────────────────
+# These give Model T and Model W an explicit signal for competition context,
+# fixing the weather-as-format-proxy problem identified in v10 analysis.
+matches["is_ipl"]   = (matches["source"] == "ipl").astype(int)
+matches["is_t20i"]  = (matches["source"] == "t20i").astype(int)
+# league_id is already set by build_dataset.py; ensure it exists as fallback
+if "league_id" not in matches.columns:
+    league_id_map = {"ipl": 0, "t20i": 1, "bbl": 2, "cpl": 3,
+                     "psl": 4, "sa20": 5, "smat": 6}
+    matches["league_id"] = matches["source"].map(league_id_map).fillna(99).astype(int)
+
 inn1_tm = (balls[balls["innings"] == 1]
            .groupby("match_id")["total_runs"].sum()
            .rename("innings1_total_match").reset_index())
@@ -299,7 +318,8 @@ def build_state_table(balls, matches):
     df["match_winner"] = df["match_id"].map(wm)
     df["y"] = (df["batting_team"] == df["match_winner"]).astype(int)
 
-    mc = (["match_id","date","source","is_day_match","dew_likely","season_phase","venue_avg_total"]
+    mc = (["match_id","date","source","is_ipl","is_t20i","league_id",
+           "is_day_match","dew_likely","season_phase","venue_avg_total"]
           + WEATHER_FEATURES)
     mc = [c for c in mc if c in matches.columns]
     df = df.merge(matches[mc].drop_duplicates("match_id"), on="match_id", how="left")
@@ -338,7 +358,11 @@ def compute_elo(matches_df, K=20.0, init=1500.0):
 # Run Elo independently for each format
 ipl_elo  = compute_elo(matches[matches["source"] == "ipl"].copy())
 t20i_elo = compute_elo(matches[matches["source"] == "t20i"].copy())
-elo_df   = pd.concat([ipl_elo, t20i_elo], ignore_index=True)
+# All other domestic leagues get their own Elo pool
+other_sources = [s for s in matches["source"].unique() if s not in ("ipl","t20i")]
+other_elos = [compute_elo(matches[matches["source"]==s].copy()) for s in other_sources]
+
+elo_df = pd.concat([ipl_elo, t20i_elo] + other_elos, ignore_index=True)
 
 matches["match_id"] = matches["match_id"].astype(str)
 matches = matches.merge(elo_df, on="match_id", how="left")
@@ -391,18 +415,25 @@ val_i1   = inn1_all[(inn1_all["date"] >= val_date) & (inn1_all["date"] < test_da
 
 INN1_FEATURES = [
     "runs_so_far", "balls_remaining_before", "wickets_lost",
-    "runs_last_12", "wickets_last_12", "phase",
-    "venue_avg_total", "is_day_match", "season_phase",
+    "runs_last_12", "wickets_last_12",
+    "venue_avg_total", "season_phase",
+    # Format context
+    "is_ipl", "is_t20i", "league_id",
+    # Reinstated (re-evaluating with clean multi-league data)
+    "is_day_match", "momentum_index",
     # Wave 2
     "batting_strength_remaining", "bowling_strength_remaining",
     "wickets_remaining_weighted",
     # Wave 3
-    "partnership_runs", "partnership_balls",
+    "partnership_runs",
     # Wave 4
     "batsman_sr_2yr", "batsman_boundary_pct_2yr", "batsman_dot_pct_2yr",
-    "bowler_economy_2yr", "bowler_dot_pct_2yr", "momentum_index", "over_par",
+    "bowler_economy_2yr", "bowler_dot_pct_2yr", "over_par",
     # Wave 4b
-    "bowler_is_pace", "batsman_sr_vs_pace", "batsman_sr_vs_spin", "pace_spin_sr_diff",
+    "batsman_sr_vs_pace", "batsman_sr_vs_spin", "pace_spin_sr_diff",
+    # Wave 5 — short-window form (tournament entry form)
+    "batsman_sr_last10", "batsman_sr_last20",
+    "bowler_econ_last10", "bowler_econ_last20",
 ] + WEATHER_FEATURES
 
 # Filter to features that actually exist in the data
@@ -561,16 +592,26 @@ print(f"\nLR baseline Brier: {brier_score_loss(test_i2['y'], p_lr_test):.4f}")
 
 WIN_FEATURES = [
     "p_post_toss", "elo_diff", "innings",
-    "wickets_lost", "wickets_remaining",
+    "wickets_lost",
     "current_rr", "proj_total",
     "runs_needed", "required_rr", "rr_diff",
     "venue_avg_total",
     "batting_strength_remaining", "wickets_remaining_weighted",
-    # Wave 4 (kept)
     "pressure_index",
-    # v9: quantile spread from Model T
-    "proj_total_p25", "proj_total_p75", "proj_total_spread",
+    # Format context
+    "is_ipl", "is_t20i", "league_id",
+    # Reinstated
+    "is_day_match", "momentum_index",
+    # v9: quantile projections from Model T
+    "proj_total_p25", "proj_total_p75",
+    # Wave 5 — short-window form
+    "batsman_sr_last10", "batsman_sr_last20",
+    "bowler_econ_last10", "bowler_econ_last20",
 ] + WEATHER_FEATURES
+# Note: INN1_FEATURES and WIN_FEATURES both use [f for f in ... if f in state.columns]
+# so any wave5 features missing from older ball files will be silently skipped.
+
+WIN_FEATURES = [f for f in WIN_FEATURES if f in state.columns]
 
 def prep(df):
     return df.dropna(subset=["y","p_post_toss","proj_total","elo_diff"]).copy()
@@ -662,7 +703,7 @@ logloss_cal = log_loss(te["y"], p_cal_test)
 te_i2 = te[te["innings"] == 2].copy()
 
 print("\n" + "=" * 70)
-print("EVALUATION REPORT — TEST SET (v10 / IPL + T20I Combined)")
+print("EVALUATION REPORT — TEST SET (v11 / Multi-League + Format Flags)")
 print("=" * 70)
 
 print(f"\n── Overall ──────────────────────────────────────────────────────────")
@@ -711,21 +752,23 @@ print(f"""
   │ v7 (Wave 3)                                 │   0.1720  │  IPL T20       │
   │ v8b (Wave 4b)                               │   0.1724  │  IPL T20       │
   │ v9 (Quantile Spread)                        │  update   │  IPL T20       │
-  │ v10 (IPL + T20I)                            │  {brier_overall:.4f}  │  IPL + T20I    │
+  │ v10 (IPL + T20I)                            │  0.1503   │  IPL + T20I    │
+  │ v11 (Multi-League + Format Flags)           │  {brier_overall:.4f}  │  All leagues   │
   │ SOTA (deep learning)                        │ ~0.165    │  T20 intl      │
   └─────────────────────────────────────────────┴───────────┴────────────────┘
-  Inn-1: {inn1_b:.4f}  (v8b=0.2308, v7=0.2297)
-  Inn-2: {inn2_b:.4f}  (v8b=0.1088, v7=0.1093)
+  Inn-1: {inn1_b:.4f}  (v10=0.2067, v8b=0.2308)
+  Inn-2: {inn2_b:.4f}  (v10=0.0868, v8b=0.1088)
   Cal: {best_cal}  T={T_opt:.4f}   Gap: {brier_overall-0.15:.3f}
 """)
 
-# ── Per-source breakdown ──────────────────────────────────────────────────────
+# ── Per-source breakdown (all leagues) ───────────────────────────────────────
 if "source" in te.columns:
     print("── By source ────────────────────────────────────────────────────────")
-    for src in ["ipl", "t20i"]:
+    for src in sorted(te["source"].unique()):
         s = te[te["source"] == src]
         if len(s):
-            print(f"  {src.upper():5s}: Brier={brier_score_loss(s['y'], s['p_cal']):.4f} (n={len(s):,})")
+            print(f"  {src.upper():6s}: Brier={brier_score_loss(s['y'], s['p_cal']):.4f} "
+                  f"(n={len(s):,})")
 
 print("=" * 70)
 

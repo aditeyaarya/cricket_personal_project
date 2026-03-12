@@ -1,0 +1,696 @@
+match_id,team1,team2,winner,toss_winner,toss_decision,venue,city,date,gender
+1130661,Baroda,Mumbai,Baroda,Baroda,bat,Saurashtra Cricket Association Stadium,,2018-01-07,male
+1130662,Gujarat,Maharashtra,Maharashtra,Maharashtra,field,Saurashtra Cricket Association Stadium,,2018-01-07,male
+1130663,Rajasthan,Madhya Pradesh,Rajasthan,Madhya Pradesh,field,Shaheed Veer Narayan Singh International Stadium,,2018-01-08,male
+1130664,Himachal,Haryana,,Haryana,field,Arun Jaitley Stadium,,2018-01-08,male
+1130665,Karnataka,Goa,Karnataka,Goa,field,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2018-01-08,male
+1130666,Tripura,Assam,Tripura,Assam,field,JSCA International Stadium Complex,,2018-01-08,male
+1130667,Saurashtra,Maharashtra,Saurashtra,Saurashtra,bat,Saurashtra Cricket Association Stadium,,2018-01-08,male
+1130668,Vidarbha,Chhattisgarh,Vidarbha,Vidarbha,bat,Shaheed Veer Narayan Singh International Stadium,,2018-01-08,male
+1130669,Jammu & Kashmir,Services,Services,Jammu & Kashmir,bat,Arun Jaitley Stadium,,2018-01-08,male
+1130670,Hyderabad (India),Kerala,Hyderabad (India),Kerala,field,Dr P.V.G. Raju ACA Sports Complex,,2018-01-08,male
+1130671,Andhra,Tamil Nadu,Tamil Nadu,Andhra,bat,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2018-01-08,male
+1130672,Odisha,Bengal,Bengal,Odisha,bat,JSCA International Stadium Complex,,2018-01-08,male
+1130673,Gujarat,Mumbai,Mumbai,Mumbai,field,Saurashtra Cricket Association Stadium,,2018-01-08,male
+1130674,Uttar Pradesh,Rajasthan,Rajasthan,Rajasthan,field,Shaheed Veer Narayan Singh International Stadium,,2018-01-09,male
+1130675,Punjab,Delhi,Punjab,Delhi,field,Arun Jaitley Stadium,,2018-01-09,male
+1130676,Tamil Nadu,Kerala,Tamil Nadu,Kerala,field,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2018-01-09,male
+1130677,Vidarbha,Railways,Vidarbha,Vidarbha,bat,Shaheed Veer Narayan Singh International Stadium,,2018-01-09,male
+1130678,Himachal,Jammu & Kashmir,Himachal,Himachal,bat,Arun Jaitley Stadium,,2018-01-09,male
+1130679,Hyderabad (India),Goa,Hyderabad (India),Hyderabad (India),bat,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2018-01-09,male
+1130680,Karnataka,Andhra,Andhra,Andhra,field,Dr P.V.G. Raju ACA Sports Complex,,2018-01-09,male
+1130681,Uttar Pradesh,Madhya Pradesh,Madhya Pradesh,Madhya Pradesh,field,Shaheed Veer Narayan Singh International Stadium,,2018-01-10,male
+1130683,Baroda,Gujarat,Baroda,Baroda,bat,Saurashtra Cricket Association Stadium,,2018-01-10,male
+1130684,Odisha,Jharkhand,Jharkhand,Odisha,bat,JSCA International Stadium Complex,,2018-01-16,male
+1130685,Chhattisgarh,Railways,Chhattisgarh,Chhattisgarh,bat,Shaheed Veer Narayan Singh International Stadium,,2018-01-10,male
+1130686,Services,Punjab,Punjab,Services,bat,Arun Jaitley Stadium,,2018-01-10,male
+1130687,Mumbai,Saurashtra,Saurashtra,Mumbai,bat,Saurashtra Cricket Association Stadium,,2018-01-10,male
+1130688,Tripura,Bengal,Bengal,Tripura,bat,JSCA International Stadium Complex,,2018-01-14,male
+1130689,Karnataka,Hyderabad (India),Karnataka,Hyderabad (India),field,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2018-01-11,male
+1130690,Maharashtra,Mumbai,Mumbai,Mumbai,field,Saurashtra Cricket Association Stadium,,2018-01-11,male
+1130691,Kerala,Andhra,Andhra,Andhra,field,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2018-01-11,male
+1130692,Tamil Nadu,Goa,Tamil Nadu,Tamil Nadu,bat,Dr P.V.G. Raju ACA Sports Complex,,2018-01-11,male
+1130693,Saurashtra,Baroda,Baroda,Saurashtra,bat,Saurashtra Cricket Association Stadium,,2018-01-11,male
+1130694,Vidarbha,Madhya Pradesh,Vidarbha,Madhya Pradesh,field,Shaheed Veer Narayan Singh International Stadium,,2018-01-12,male
+1130695,Jammu & Kashmir,Delhi,Delhi,Delhi,field,Arun Jaitley Stadium,,2018-01-12,male
+1130696,Goa,Kerala,Kerala,Kerala,field,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2018-01-12,male
+1130697,Assam,Bengal,Bengal,Bengal,field,JSCA International Stadium Complex,,2018-01-16,male
+1130698,Chhattisgarh,Rajasthan,Rajasthan,Chhattisgarh,bat,Shaheed Veer Narayan Singh International Stadium,,2018-01-12,male
+1130699,Punjab,Haryana,Haryana,Punjab,bat,Arun Jaitley Stadium,,2018-01-12,male
+1130700,Jharkhand,Tripura,Jharkhand,Tripura,field,JSCA International Stadium Complex,,2018-01-10,male
+1130701,Hyderabad (India),Andhra,Andhra,Hyderabad (India),bat,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2018-01-12,male
+1130702,Karnataka,Tamil Nadu,Karnataka,Tamil Nadu,field,Dr P.V.G. Raju ACA Sports Complex,,2018-01-12,male
+1130703,Railways,Uttar Pradesh,Uttar Pradesh,Uttar Pradesh,field,Shaheed Veer Narayan Singh International Stadium,,2018-01-13,male
+1130704,Himachal,Services,Services,Services,field,Arun Jaitley Stadium,,2018-01-13,male
+1130705,Saurashtra,Gujarat,Gujarat,Gujarat,field,Saurashtra Cricket Association Stadium,,2018-01-13,male
+1130706,Vidarbha,Rajasthan,Rajasthan,Vidarbha,bat,Shaheed Veer Narayan Singh International Stadium,,2018-01-13,male
+1130708,Maharashtra,Baroda,Baroda,Maharashtra,bat,Saurashtra Cricket Association Stadium,,2018-01-13,male
+1130709,Chhattisgarh,Madhya Pradesh,Madhya Pradesh,Madhya Pradesh,field,Shaheed Veer Narayan Singh International Stadium,,2018-01-14,male
+1130710,Himachal,Delhi,Delhi,Delhi,field,Arun Jaitley Stadium,,2018-01-14,male
+1130711,Jharkhand,Bengal,Bengal,Jharkhand,bat,JSCA International Stadium Complex,,2018-01-12,male
+1130712,Tamil Nadu,Hyderabad (India),Tamil Nadu,Hyderabad (India),field,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2018-01-14,male
+1130713,Jammu & Kashmir,Punjab,Jammu & Kashmir,Punjab,field,Arun Jaitley Stadium,,2018-01-14,male
+1130714,Odisha,Assam,Odisha,Assam,field,JSCA International Stadium Complex,,2018-01-10,male
+1130715,Andhra,Goa,Andhra,Goa,field,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2018-01-14,male
+1130716,Karnataka,Kerala,Karnataka,Karnataka,bat,Dr P.V.G. Raju ACA Sports Complex,,2018-01-14,male
+1130717,Madhya Pradesh,Railways,Madhya Pradesh,Railways,field,Shaheed Veer Narayan Singh International Stadium,,2018-01-15,male
+1130718,Services,Haryana,Haryana,Haryana,field,Arun Jaitley Stadium,,2018-01-15,male
+1130719,Uttar Pradesh,Vidarbha,Uttar Pradesh,Uttar Pradesh,bat,Shaheed Veer Narayan Singh International Stadium,,2018-01-15,male
+1130720,Punjab,Himachal,Punjab,Punjab,bat,Arun Jaitley Stadium,,2018-01-15,male
+1130722,Delhi,Services,Delhi,Services,field,Arun Jaitley Stadium,,2018-01-16,male
+1130723,Odisha,Tripura,Odisha,Odisha,bat,JSCA International Stadium Complex,,2018-01-12,male
+1130724,Chhattisgarh,Uttar Pradesh,Uttar Pradesh,Chhattisgarh,bat,Shaheed Veer Narayan Singh International Stadium,,2018-01-16,male
+1130725,Assam,Jharkhand,Jharkhand,Assam,bat,JSCA International Stadium Complex,,2018-01-14,male
+1133401,Karnataka,Punjab,,Punjab,field,"JU Second Campus, Salt Lake",,2018-01-21,male
+1133402,Mumbai,Jharkhand,Mumbai,Jharkhand,field,"JU Second Campus, Salt Lake",,2018-01-21,male
+1133403,Tamil Nadu,Delhi,Delhi,Delhi,field,Eden Gardens,,2018-01-21,male
+1133404,Baroda,Bengal,Baroda,Baroda,bat,Eden Gardens,,2018-01-21,male
+1133405,Jharkhand,Rajasthan,Rajasthan,Rajasthan,field,"JU Second Campus, Salt Lake",,2018-01-22,male
+1133406,Mumbai,Punjab,Punjab,Punjab,field,"JU Second Campus, Salt Lake",,2018-01-22,male
+1133407,Uttar Pradesh,Bengal,Uttar Pradesh,Uttar Pradesh,bat,Eden Gardens,,2018-01-22,male
+1133409,Rajasthan,Karnataka,Rajasthan,Karnataka,field,"JU Second Campus, Salt Lake",,2018-01-23,male
+1133411,Uttar Pradesh,Tamil Nadu,Tamil Nadu,Uttar Pradesh,bat,Eden Gardens,,2018-01-23,male
+1133413,Rajasthan,Mumbai,Rajasthan,Rajasthan,bat,Eden Gardens,,2018-01-24,male
+1133414,Karnataka,Jharkhand,Karnataka,Jharkhand,field,Eden Gardens,,2018-01-24,male
+1133415,Baroda,Uttar Pradesh,Uttar Pradesh,Uttar Pradesh,field,"JU Second Campus, Salt Lake",,2018-01-24,male
+1133416,Tamil Nadu,Bengal,Bengal,Tamil Nadu,bat,"JU Second Campus, Salt Lake",,2018-01-24,male
+1133417,Punjab,Rajasthan,Punjab,Rajasthan,field,Eden Gardens,,2018-01-25,male
+1133418,Mumbai,Karnataka,Karnataka,Mumbai,bat,Eden Gardens,,2018-01-25,male
+1133419,Delhi,Uttar Pradesh,Delhi,Uttar Pradesh,field,"JU Second Campus, Salt Lake",,2018-01-25,male
+1133420,Tamil Nadu,Baroda,Baroda,Tamil Nadu,bat,"JU Second Campus, Salt Lake",,2018-01-25,male
+1157091,Jharkhand,Delhi,Jharkhand,Delhi,field,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",,2019-02-21,male
+1157092,Kerala,Manipur,Kerala,Kerala,bat,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",,2019-02-21,male
+1157093,Nagaland,Jammu & Kashmir,Jammu & Kashmir,Jammu & Kashmir,field,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -CP Ground,Mulapadu",,2019-02-21,male
+1157094,Gujarat,Meghalaya,Gujarat,Meghalaya,field,Lalbhai Contractor Stadium,,2019-02-21,male
+1157095,Rajasthan,Tamil Nadu,Rajasthan,Tamil Nadu,field,C B Patel Ground,,2019-02-21,male
+1157098,Saurashtra,Railways,Railways,Railways,field,Holkar Stadium,,2019-02-21,male
+1157099,Mumbai,Sikkim,Mumbai,Mumbai,bat, Emerald Heights International School Ground,,2019-02-21,male
+1157101,Odisha,Chhattisgarh,Chhattisgarh,Chhattisgarh,field,Barabati Stadium,,2019-02-21,male
+1157102,Arunachal Pradesh,Haryana,Haryana,Haryana,field,DRIEMS Ground,,2019-02-21,male
+1157103,Bengal,Mizoram,Bengal,Mizoram,field,Barabati Stadium,,2019-02-21,male
+1157104,Tripura,Baroda,Baroda,Tripura,bat,"Airforce Complex ground, Palam",,2019-02-21,male
+1157105,Puducherry,Hyderabad (India),Puducherry,Hyderabad (India),field,"Airforce Complex ground, Palam II",,2019-02-21,male
+1157106,Maharashtra,Uttar Pradesh,Maharashtra,Uttar Pradesh,field,"Airforce Complex ground, Palam",,2019-02-21,male
+1157107,Services,Uttarakhand,Uttarakhand,Services,bat,"Airforce Complex ground, Palam II",,2019-02-21,male
+1157108,Manipur,Delhi,Delhi,Delhi,field,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",,2019-02-22,male
+1157109,Jammu & Kashmir,Jharkhand,Jharkhand,Jharkhand,field,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -CP Ground,Mulapadu",,2019-02-22,male
+1157110,Andhra,Nagaland,Andhra,Andhra,bat,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",,2019-02-22,male
+1157112,Himachal,Meghalaya,Himachal,Meghalaya,field,C B Patel Ground,,2019-02-22,male
+1157113,Bihar,Vidarbha,Vidarbha,Vidarbha,field,Lalbhai Contractor Stadium,,2019-02-22,male
+1157114,Madhya Pradesh,Saurashtra,Saurashtra,Saurashtra,field,Holkar Stadium,,2019-02-22,male
+1157115,Mumbai,Punjab,Mumbai,Punjab,field, Emerald Heights International School Ground,,2019-02-22,male
+1157116,Sikkim,Goa,Goa,Sikkim,bat,Holkar Stadium,,2019-02-22,male
+1157117,Assam,Mizoram,Assam,Mizoram,field,Barabati Stadium,,2019-02-22,male
+1157119,Haryana,Odisha,Haryana,Odisha,field,Barabati Stadium,,2019-02-22,male
+1157120,Bengal,Karnataka,Karnataka,Bengal,bat,DRIEMS Ground,,2019-02-22,male
+1157121,Baroda,Uttarakhand,Uttarakhand,Baroda,bat,"Airforce Complex ground, Palam",,2019-02-22,male
+1157122,Hyderabad (India),Uttar Pradesh,Uttar Pradesh,Hyderabad (India),bat,"Airforce Complex ground, Palam II",,2019-02-22,male
+1157123,Puducherry,Maharashtra,Maharashtra,Puducherry,bat,"Airforce Complex ground, Palam",,2019-02-22,male
+1157124,Tripura,Services,Services,Services,field,"Airforce Complex ground, Palam II",,2019-02-22,male
+1157125,Jammu & Kashmir,Delhi,Delhi,Delhi,field,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -CP Ground,Mulapadu",,2019-02-24,male
+1157126,Jharkhand,Manipur,Jharkhand,Manipur,field,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",,2019-02-24,male
+1157127,Kerala,Andhra,Kerala,Kerala,bat,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",,2019-02-24,male
+1157128,Gujarat,Himachal,Gujarat,Himachal,field,Lalbhai Contractor Stadium,,2019-02-24,male
+1157129,Rajasthan,Meghalaya,Rajasthan,Rajasthan,bat,Lalbhai Contractor Stadium,,2019-02-24,male
+1157130,Bihar,Tamil Nadu,Tamil Nadu,Bihar,bat,C B Patel Ground,,2019-02-24,male
+1157131,Madhya Pradesh,Mumbai,Mumbai,Madhya Pradesh,bat,Holkar Stadium,,2019-02-24,male
+1157132,Punjab,Saurashtra,Saurashtra,Saurashtra,field, Emerald Heights International School Ground,,2019-02-24,male
+1157133,Goa,Railways,Railways,Railways,field,Holkar Stadium,,2019-02-24,male
+1157134,Chhattisgarh,Assam,Assam,Assam,field,DRIEMS Ground,,2019-02-24,male
+1157135,Haryana,Bengal,Bengal,Bengal,field,Barabati Stadium,,2019-02-24,male
+1157136,Mizoram,Odisha,Odisha,Mizoram,bat,DRIEMS Ground,,2019-02-24,male
+1157137,Karnataka,Arunachal Pradesh,Karnataka,Karnataka,bat,Barabati Stadium,,2019-02-24,male
+1157138,Hyderabad (India),Baroda,Baroda,Baroda,field,"Airforce Complex ground, Palam II",,2019-02-24,male
+1157139,Maharashtra,Services,Services,Services,field,"Airforce Complex ground, Palam",,2019-02-24,male
+1157140,Uttarakhand,Puducherry,Uttarakhand,Uttarakhand,bat,"Airforce Complex ground, Palam",,2019-02-24,male
+1157141,Uttar Pradesh,Tripura,Uttar Pradesh,Uttar Pradesh,bat,"Airforce Complex ground, Palam II",,2019-02-24,male
+1157142,Kerala,Delhi,Delhi,Kerala,bat,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",,2019-02-25,male
+1157143,Andhra,Jammu & Kashmir,Jammu & Kashmir,Jammu & Kashmir,field,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",,2019-02-25,male
+1157144,Nagaland,Manipur,Manipur,Nagaland,bat,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -CP Ground,Mulapadu",,2019-02-25,male
+1157145,Tamil Nadu,Gujarat,Tamil Nadu,Gujarat,field,Lalbhai Contractor Stadium,,2019-02-25,male
+1157146,Bihar,Himachal,Himachal,Bihar,bat,Lalbhai Contractor Stadium,,2019-02-25,male
+1157147,Vidarbha,Rajasthan,Vidarbha,Vidarbha,bat,C B Patel Ground,,2019-02-25,male
+1157148,Madhya Pradesh,Railways,Railways,Railways,field,Holkar Stadium,,2019-02-25,male
+1157149,Goa,Mumbai,Mumbai,Goa,bat, Emerald Heights International School Ground,,2019-02-25,male
+1157150,Sikkim,Saurashtra,Saurashtra,Sikkim,bat,Holkar Stadium,,2019-02-25,male
+1157151,Assam,Bengal,Assam,Bengal,field,Barabati Stadium,,2019-02-25,male
+1157152,Haryana,Chhattisgarh,Chhattisgarh,Haryana,bat,DRIEMS Ground,,2019-02-25,male
+1157153,Arunachal Pradesh,Odisha,Odisha,Arunachal Pradesh,bat,Barabati Stadium,,2019-02-25,male
+1157154,Karnataka,Mizoram,Karnataka,Karnataka,bat,DRIEMS Ground,,2019-02-25,male
+1157155,Baroda,Services,Services,Services,field,"Airforce Complex ground, Palam",,2019-02-25,male
+1157156,Hyderabad (India),Maharashtra,Maharashtra,Hyderabad (India),bat,"Airforce Complex ground, Palam II",,2019-02-25,male
+1157157,Uttar Pradesh,Puducherry,Uttar Pradesh,Uttar Pradesh,bat,"Airforce Complex ground, Palam II",,2019-02-25,male
+1157158,Uttarakhand,Tripura,Uttarakhand,Tripura,field,"Airforce Complex ground, Palam",,2019-02-25,male
+1157159,Delhi,Andhra,Delhi,Delhi,bat,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",,2019-02-27,male
+1157160,Jharkhand,Nagaland,Jharkhand,Jharkhand,bat,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -CP Ground,Mulapadu",,2019-02-27,male
+1157161,Kerala,Jammu & Kashmir,Kerala,Jammu & Kashmir,field,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",,2019-02-27,male
+1157162,Gujarat,Bihar,Gujarat,Gujarat,bat,Lalbhai Contractor Stadium,,2019-02-27,male
+1157163,Vidarbha,Meghalaya,Vidarbha,Meghalaya,field,Lalbhai Contractor Stadium,,2019-02-27,male
+1157164,Tamil Nadu,Himachal,Himachal,Tamil Nadu,bat,C B Patel Ground,,2019-02-27,male
+1157165,Goa,Madhya Pradesh,Madhya Pradesh,Goa,bat, Emerald Heights International School Ground,,2019-02-27,male
+1157166,Sikkim,Punjab,Punjab,Sikkim,bat,Holkar Stadium,,2019-02-27,male
+1157167,Railways,Mumbai,Railways,Mumbai,field, Emerald Heights International School Ground,,2019-02-27,male
+1157168,Assam,Odisha,Odisha,Odisha,field,DRIEMS Ground,,2019-02-27,male
+1157169,Chhattisgarh,Karnataka,Karnataka,Chhattisgarh,bat,Barabati Stadium,,2019-02-27,male
+1157170,Haryana,Mizoram,Haryana,Haryana,bat,DRIEMS Ground,,2019-02-27,male
+1157171,Bengal,Arunachal Pradesh,Bengal,Bengal,bat,Barabati Stadium,,2019-02-27,male
+1157172,Puducherry,Baroda,Baroda,Puducherry,bat,"Airforce Complex ground, Palam II",,2019-02-27,male
+1157174,Uttarakhand,Maharashtra,Maharashtra,Maharashtra,field,"Airforce Complex ground, Palam II",,2019-02-27,male
+1157175,Uttar Pradesh,Services,Uttar Pradesh,Uttar Pradesh,bat,"Airforce Complex ground, Palam",,2019-02-27,male
+1157176,Andhra,Jharkhand,Andhra,Andhra,bat,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",,2019-02-28,male
+1157177,Nagaland,Kerala,Kerala,Kerala,field,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",,2019-02-28,male
+1157178,Manipur,Jammu & Kashmir,Jammu & Kashmir,Jammu & Kashmir,field,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -CP Ground,Mulapadu",,2019-02-28,male
+1157179,Meghalaya,Bihar,Bihar,Meghalaya,bat,C B Patel Ground,,2019-02-28,male
+1157180,Vidarbha,Tamil Nadu,Tamil Nadu,Tamil Nadu,field,Lalbhai Contractor Stadium,,2019-02-28,male
+1157181,Himachal,Rajasthan,Himachal,Himachal,bat,Lalbhai Contractor Stadium,,2019-02-28,male
+1157182,Punjab,Goa,Punjab,Punjab,bat, Emerald Heights International School Ground,,2019-02-28,male
+1157183,Sikkim,Railways,Railways,Railways,field, Emerald Heights International School Ground,,2019-02-28,male
+1157185,Assam,Haryana,Haryana,Haryana,field,Barabati Stadium,,2019-02-28,male
+1157186,Bengal,Chhattisgarh,Bengal,Chhattisgarh,field,DRIEMS Ground,,2019-02-28,male
+1157187,Karnataka,Odisha,Karnataka,Odisha,field,Barabati Stadium,,2019-02-28,male
+1157188,Mizoram,Arunachal Pradesh,Arunachal Pradesh,Mizoram,bat,DRIEMS Ground,,2019-02-28,male
+1157189,Baroda,Maharashtra,Maharashtra,Baroda,bat,"Airforce Complex ground, Palam II",,2019-02-28,male
+1157190,Hyderabad (India),Services,Services,Services,field,"Airforce Complex ground, Palam",,2019-02-28,male
+1157191,Puducherry,Tripura,Tripura,Tripura,field,"Airforce Complex ground, Palam",,2019-02-28,male
+1157192,Uttar Pradesh,Uttarakhand,Uttar Pradesh,Uttarakhand,field,"Airforce Complex ground, Palam II",,2019-02-28,male
+1157193,Nagaland,Delhi,Delhi,Nagaland,bat,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -CP Ground,Mulapadu",,2019-03-02,male
+1157194,Kerala,Jharkhand,Jharkhand,Kerala,bat,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",,2019-03-02,male
+1157195,Andhra,Manipur,Andhra,Andhra,bat,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu",,2019-03-02,male
+1157196,Gujarat,Vidarbha,Vidarbha,Gujarat,bat,C B Patel Ground,,2019-03-02,male
+1157197,Tamil Nadu,Meghalaya,Tamil Nadu,Tamil Nadu,bat,Lalbhai Contractor Stadium,,2019-03-02,male
+1157199,Madhya Pradesh,Sikkim,Madhya Pradesh,Madhya Pradesh,bat, Emerald Heights International School Ground,,2019-03-02,male
+1157200,Railways,Punjab,Punjab,Railways,bat,Holkar Stadium,,2019-03-02,male
+1157201,Goa,Saurashtra,Saurashtra,Goa,bat, Emerald Heights International School Ground,,2019-03-02,male
+1157202,Arunachal Pradesh,Assam,Assam,Arunachal Pradesh,bat,DRIEMS Ground,,2019-03-02,male
+1157203,Chhattisgarh,Mizoram,Chhattisgarh,Mizoram,field,Barabati Stadium,,2019-03-02,male
+1157204,Karnataka,Haryana,Karnataka,Haryana,field,DRIEMS Ground,,2019-03-02,male
+1157205,Odisha,Bengal,Bengal,Odisha,bat,Barabati Stadium,,2019-03-02,male
+1157206,Baroda,Uttar Pradesh,,Baroda,bat,"Airforce Complex ground, Palam",,2019-03-02,male
+1157207,Hyderabad (India),Uttarakhand,,Uttarakhand,field,"Airforce Complex ground, Palam",,2019-03-02,male
+1157208,Maharashtra,Tripura,,Tripura,field,"Airforce Complex ground, Palam II",,2019-03-02,male
+1157209,Services,Puducherry,,Puducherry,field,"Airforce Complex ground, Palam II",,2019-03-02,male
+1175025,Jharkhand,Gujarat,Jharkhand,Gujarat,field, Emerald Heights International School Ground,,2019-03-08,male
+1175026,Delhi,Vidarbha,Vidarbha,Vidarbha,field,Holkar Stadium,,2019-03-08,male
+1175027,Railways,Bengal,Bengal,Railways,bat, Emerald Heights International School Ground,,2019-03-08,male
+1175028,Mumbai,Karnataka,Karnataka,Mumbai,bat,Holkar Stadium,,2019-03-08,male
+1175029,Bengal,Maharashtra,Maharashtra,Maharashtra,field, Emerald Heights International School Ground,,2019-03-09,male
+1175030,Delhi,Mumbai,Mumbai,Mumbai,field, Emerald Heights International School Ground,,2019-03-09,male
+1175031,Railways,Jharkhand,Jharkhand,Jharkhand,field,Holkar Stadium,,2019-03-09,male
+1175032,Karnataka,Uttar Pradesh,Karnataka,Uttar Pradesh,field,Holkar Stadium,,2019-03-09,male
+1175033,Delhi,Karnataka,Karnataka,Karnataka,field, Emerald Heights International School Ground,,2019-03-10,male
+1175034,Vidarbha,Uttar Pradesh,Vidarbha,Uttar Pradesh,field, Emerald Heights International School Ground,,2019-03-10,male
+1175035,Jharkhand,Bengal,Bengal,Bengal,field,Holkar Stadium,,2019-03-10,male
+1175036,Gujarat,Maharashtra,Maharashtra,Gujarat,bat,Holkar Stadium,,2019-03-10,male
+1175037,Railways,Gujarat,Gujarat,Railways,bat, Emerald Heights International School Ground,,2019-03-11,male
+1175038,Vidarbha,Mumbai,Mumbai,Mumbai,field,Holkar Stadium,,2019-03-11,male
+1175040,Uttar Pradesh,Delhi,Delhi,Uttar Pradesh,bat,Holkar Stadium,,2019-03-11,male
+1175042,Mumbai,Uttar Pradesh,Mumbai,Uttar Pradesh,field, Emerald Heights International School Ground,,2019-03-12,male
+1175043,Gujarat,Bengal,Bengal,Gujarat,bat,Holkar Stadium,,2019-03-12,male
+1175044,Vidarbha,Karnataka,Karnataka,Karnataka,field, Emerald Heights International School Ground,,2019-03-12,male
+1175045,Maharashtra,Karnataka,Karnataka,Karnataka,field,Holkar Stadium,,2019-03-14,male
+1205714,Uttarakhand,Karnataka,Karnataka,Uttarakhand,bat,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2019-11-08,male
+1205715,Bihar,Andhra,Andhra,Andhra,field,Dr P.V.G. Raju ACA Sports Complex,,2019-11-08,male
+1205716,Tamil Nadu,Kerala,Tamil Nadu,Kerala,field,St'Xavier's KCA Cricket Ground,,2019-11-08,male
+1205717,Tripura,Vidarbha,Vidarbha,Vidarbha,field,Greenfield Stadium,,2019-11-08,male
+1205718,Arunachal Pradesh,Chhattisgarh,Chhattisgarh,Chhattisgarh,field,"Cricket Stadium, Sector-16",,2019-11-08,male
+1205719,Hyderabad (India),Punjab,Hyderabad (India),Punjab,field,"GSSS, Sector 26",,2019-11-08,male
+1205720,Haryana,Meghalaya,Haryana,Meghalaya,field,BKC Ground,,2019-11-18,male
+1205721,Mizoram,Mumbai,Mumbai,Mumbai,field,Wankhede Stadium,,2019-11-08,male
+1205724,Baroda,Goa,Goa,Baroda,bat,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2019-11-08,male
+1205725,Rajasthan,Manipur,Rajasthan,Rajasthan,bat,Greenfield Stadium,,2019-11-08,male
+1205727,Maharashtra,Railways,Maharashtra,Railways,field,"GSSS, Sector 26",,2019-11-08,male
+1205728,Madhya Pradesh,Puducherry,Madhya Pradesh,Puducherry,field,Wankhede Stadium,,2019-11-18,male
+1205729,Assam,Bengal,Bengal,Assam,bat,Wankhede Stadium,,2019-11-18,male
+1205731,Nagaland,Saurashtra,Saurashtra,Saurashtra,field,Lalbhai Contractor Stadium,,2019-11-08,male
+1205732,Baroda,Karnataka,Baroda,Karnataka,field,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2019-11-09,male
+1205733,Goa,Bihar,Goa,Bihar,field,Dr P.V.G. Raju ACA Sports Complex,,2019-11-09,male
+1205734,Manipur,Tripura,Tripura,Manipur,bat,Greenfield Stadium,,2019-11-09,male
+1205735,Tamil Nadu,Rajasthan,Tamil Nadu,Rajasthan,field,St'Xavier's KCA Cricket Ground,,2019-11-09,male
+1205736,Arunachal Pradesh,Punjab,Punjab,Punjab,field,"Cricket Stadium, Sector-16",,2019-11-09,male
+1205737,Himachal,Chhattisgarh,Chhattisgarh,Chhattisgarh,field,"GSSS, Sector 26",,2019-11-09,male
+1205739,Puducherry,Meghalaya,Puducherry,Meghalaya,field,Wankhede Stadium,,2019-11-09,male
+1205741,Jammu & Kashmir,Gujarat,Gujarat,Gujarat,field,Lalbhai Contractor Stadium,,2019-11-18,male
+1205742,Uttarakhand,Services,Services,Services,field,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2019-11-09,male
+1205743,Uttar Pradesh,Vidarbha,Vidarbha,Uttar Pradesh,bat,Greenfield Stadium,,2019-11-09,male
+1205745,Hyderabad (India),Railways,Railways,Railways,field,"GSSS, Sector 26",,2019-11-09,male
+1205746,Mizoram,Bengal,Bengal,Bengal,field,BKC Ground,,2019-11-09,male
+1205747,Haryana,Mumbai,Mumbai,Mumbai,field,Wankhede Stadium,,2019-11-09,male
+1205748,Saurashtra,Jharkhand,Jharkhand,Jharkhand,field,Lalbhai Contractor Stadium,,2019-11-09,male
+1205749,Sikkim,Nagaland,Nagaland,Sikkim,bat,Lalbhai Contractor Stadium,,2019-11-09,male
+1205750,Baroda,Uttarakhand,Baroda,Uttarakhand,field,Dr P.V.G. Raju ACA Sports Complex,,2019-11-11,male
+1205751,Services,Bihar,Services,Bihar,field,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2019-11-11,male
+1205752,Vidarbha,Manipur,Vidarbha,Vidarbha,bat,St'Xavier's KCA Cricket Ground,,2019-11-11,male
+1205753,Tamil Nadu,Uttar Pradesh,Uttar Pradesh,Uttar Pradesh,field,Greenfield Stadium,,2019-11-11,male
+1205754,Chhattisgarh,Railways,Chhattisgarh,Railways,field,"GSSS, Sector 26",,2019-11-11,male
+1205755,Himachal,Hyderabad (India),Himachal,Hyderabad (India),field,"Cricket Stadium, Sector-16",,2019-11-11,male
+1205756,Bengal,Meghalaya,Bengal,Meghalaya,field,Wankhede Stadium,,2019-11-11,male
+1205757,Puducherry,Mizoram,Puducherry,Mizoram,field,BKC Ground,,2019-11-11,male
+1205758,Nagaland,Delhi,Delhi,Delhi,field,C B Patel Ground,,2019-11-11,male
+1205759,Saurashtra,Gujarat,Saurashtra,Gujarat,field,Lalbhai Contractor Stadium,,2019-11-11,male
+1205761,Kerala,Tripura,Kerala,Tripura,field,Greenfield Stadium,,2019-11-11,male
+1205762,Arunachal Pradesh,Maharashtra,Maharashtra,Maharashtra,field,"GSSS, Sector 26",,2019-11-11,male
+1205763,Chandigarh,Punjab,Punjab,Chandigarh,bat,"Cricket Stadium, Sector-16",,2019-11-11,male
+1205764,Madhya Pradesh,Mumbai,Mumbai,Madhya Pradesh,bat,Wankhede Stadium,,2019-11-11,male
+1205765,Assam,Haryana,Haryana,Haryana,field,BKC Ground,,2019-11-11,male
+1205767,Sikkim,Odisha,Odisha,Sikkim,bat,Lalbhai Contractor Stadium,,2019-11-11,male
+1205768,Andhra,Baroda,Baroda,Baroda,field,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2019-11-12,male
+1205769,Karnataka,Services,Karnataka,Services,field,Dr P.V.G. Raju ACA Sports Complex,,2019-11-12,male
+1205770,Kerala,Manipur,Kerala,Manipur,field,Greenfield Stadium,,2019-11-12,male
+1205771,Tripura,Uttar Pradesh,Uttar Pradesh,Uttar Pradesh,field,St'Xavier's KCA Cricket Ground,,2019-11-12,male
+1205772,Arunachal Pradesh,Railways,Railways,Arunachal Pradesh,bat,"Cricket Stadium, Sector-16",,2019-11-12,male
+1205773,Chhattisgarh,Maharashtra,Chhattisgarh,Maharashtra,field,"GSSS, Sector 26",,2019-11-12,male
+1205774,Assam,Meghalaya,Meghalaya,Meghalaya,field,Wankhede Stadium,,2019-11-12,male
+1205775,Madhya Pradesh,Mizoram,Madhya Pradesh,Mizoram,field,BKC Ground,,2019-11-12,male
+1205776,Saurashtra,Delhi,Delhi,Delhi,field,C B Patel Ground,,2019-11-12,male
+1205778,Goa,Uttarakhand,Uttarakhand,Uttarakhand,field,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2019-11-12,male
+1205779,Vidarbha,Rajasthan,Vidarbha,Vidarbha,bat,Greenfield Stadium,,2019-11-12,male
+1205780,Himachal,Punjab,Punjab,Himachal,bat,"Cricket Stadium, Sector-16",,2019-11-12,male
+1205781,Chandigarh,Hyderabad (India),Hyderabad (India),Chandigarh,bat,"GSSS, Sector 26",,2019-11-12,male
+1205782,Bengal,Haryana,Haryana,Bengal,bat,BKC Ground,,2019-11-12,male
+1205783,Mumbai,Puducherry,Mumbai,Puducherry,field,Wankhede Stadium,,2019-11-12,male
+1205784,Jammu & Kashmir,Odisha,Jammu & Kashmir,Jammu & Kashmir,bat,Lalbhai Contractor Stadium,,2019-11-12,male
+1205785,Sikkim,Jharkhand,Jharkhand,Sikkim,bat,C B Patel Ground,,2019-11-12,male
+1205786,Services,Goa,Services,Goa,field,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2019-11-14,male
+1205787,Uttarakhand,Andhra,Andhra,Andhra,field,Dr P.V.G. Raju ACA Sports Complex,,2019-11-14,male
+1205788,Kerala,Vidarbha,Kerala,Vidarbha,field,St'Xavier's KCA Cricket Ground,,2019-11-14,male
+1205790,Chhattisgarh,Chandigarh,Chandigarh,Chandigarh,field,"Cricket Stadium, Sector-16",,2019-11-14,male
+1205791,Railways,Punjab,Railways,Punjab,field,"GSSS, Sector 26",,2019-11-14,male
+1205792,Bengal,Mumbai,Mumbai,Mumbai,field,Wankhede Stadium,,2019-11-14,male
+1205793,Puducherry,Haryana,Haryana,Haryana,field,BKC Ground,,2019-11-14,male
+1205795,Sikkim,Gujarat,Gujarat,Sikkim,bat,Lalbhai Contractor Stadium,,2019-11-14,male
+1205796,Bihar,Baroda,Baroda,Bihar,bat,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2019-11-14,male
+1205797,Manipur,Tamil Nadu,Tamil Nadu,Tamil Nadu,field,Greenfield Stadium,,2019-11-14,male
+1205798,Arunachal Pradesh,Himachal,Himachal,Arunachal Pradesh,bat,"Cricket Stadium, Sector-16",,2019-11-14,male
+1205799,Hyderabad (India),Maharashtra,Maharashtra,Maharashtra,field,"GSSS, Sector 26",,2019-11-14,male
+1205800,Mizoram,Assam,Assam,Assam,field,BKC Ground,,2019-11-14,male
+1205801,Madhya Pradesh,Meghalaya,Madhya Pradesh,Madhya Pradesh,bat,Wankhede Stadium,,2019-11-14,male
+1205802,Nagaland,Jharkhand,Jharkhand,Nagaland,bat,C B Patel Ground,,2019-11-14,male
+1205804,Goa,Andhra,Andhra,Andhra,field,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2019-11-15,male
+1205805,Baroda,Services,Baroda,Services,field,Dr P.V.G. Raju ACA Sports Complex,,2019-11-15,male
+1205806,Kerala,Rajasthan,Rajasthan,Rajasthan,field,Greenfield Stadium,,2019-11-15,male
+1205807,Manipur,Uttar Pradesh,Uttar Pradesh,Manipur,bat,St'Xavier's KCA Cricket Ground,,2019-11-15,male
+1205808,Arunachal Pradesh,Hyderabad (India),Hyderabad (India),Hyderabad (India),field,"Cricket Stadium, Sector-16",,2019-11-15,male
+1205809,Punjab,Chhattisgarh,Punjab,Chhattisgarh,field,"GSSS, Sector 26",,2019-11-15,male
+1205810,Mizoram,Haryana,Haryana,Haryana,field,Wankhede Stadium,,2019-11-15,male
+1205811,Madhya Pradesh,Bengal,Bengal,Bengal,field,BKC Ground,,2019-11-15,male
+1205812,Delhi,Jharkhand,Delhi,Jharkhand,field,C B Patel Ground,,2019-11-15,male
+1205813,Odisha,Gujarat,Gujarat,Odisha,bat,C B Patel Ground,,2019-11-15,male
+1205814,Bihar,Karnataka,Karnataka,Bihar,bat,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2019-11-15,male
+1205815,Tripura,Tamil Nadu,Tamil Nadu,Tripura,bat,Greenfield Stadium,,2019-11-15,male
+1205816,Himachal,Maharashtra,Maharashtra,Himachal,bat,"Cricket Stadium, Sector-16",,2019-11-15,male
+1205817,Railways,Chandigarh,Railways,Chandigarh,field,"GSSS, Sector 26",,2019-11-15,male
+1205818,Mumbai,Meghalaya,Meghalaya,Mumbai,bat,Wankhede Stadium,,2019-11-15,male
+1205819,Assam,Puducherry,Puducherry,Puducherry,field,BKC Ground,,2019-11-15,male
+1205820,Nagaland,Jammu & Kashmir,Jammu & Kashmir,Nagaland,bat,Lalbhai Contractor Stadium,,2019-11-15,male
+1205821,Sikkim,Saurashtra,Saurashtra,Sikkim,bat,Lalbhai Contractor Stadium,,2019-11-15,male
+1205822,Bihar,Uttarakhand,Uttarakhand,Uttarakhand,field,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2019-11-17,male
+1205823,Karnataka,Goa,Karnataka,Goa,field,Dr P.V.G. Raju ACA Sports Complex,,2019-11-17,male
+1205824,Kerala,Uttar Pradesh,Kerala,Kerala,bat,Greenfield Stadium,,2019-11-17,male
+1205825,Tripura,Rajasthan,Rajasthan,Rajasthan,field,St'Xavier's KCA Cricket Ground,,2019-11-17,male
+1205826,Arunachal Pradesh,Chandigarh,Chandigarh,Arunachal Pradesh,bat,"Cricket Stadium, Sector-16",,2019-11-17,male
+1205827,Maharashtra,Punjab,Maharashtra,Punjab,field,"Cricket Stadium, Sector-16",,2019-11-18,male
+1205828,Mumbai,Assam,Mumbai,Assam,field,Wankhede Stadium,,2019-11-17,male
+1205829,Bengal,Puducherry,Puducherry,Puducherry,field,BKC Ground,,2019-11-17,male
+1205830,Sikkim,Delhi,Delhi,Sikkim,bat,C B Patel Ground,,2019-11-17,male
+1205831,Saurashtra,Jammu & Kashmir,Jammu & Kashmir,Saurashtra,bat,C B Patel Ground,,2019-11-17,male
+1205832,Andhra,Services,Services,Andhra,bat,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium,,2019-11-17,male
+1205833,Tamil Nadu,Vidarbha,Tamil Nadu,Vidarbha,field,Greenfield Stadium,,2019-11-17,male
+1205835,Himachal,Railways,Himachal,Himachal,bat,"Cricket Stadium, Sector-16",,2019-11-18,male
+1205836,Meghalaya,Mizoram,Meghalaya,Mizoram,field,Wankhede Stadium,,2019-11-17,male
+1205837,Madhya Pradesh,Haryana,Haryana,Madhya Pradesh,bat,BKC Ground,,2019-11-17,male
+1205839,Odisha,Nagaland,Odisha,Nagaland,field,Lalbhai Contractor Stadium,,2019-11-17,male
+1205841,Delhi,Maharashtra,Delhi,Maharashtra,field,C B Patel Ground,,2019-11-21,male
+1205842,Tamil Nadu,Karnataka,Karnataka,Karnataka,field,Lalbhai Contractor Stadium,,2019-11-21,male
+1205844,Baroda,Delhi,Baroda,Delhi,field,Lalbhai Contractor Stadium,,2019-11-22,male
+1205845,Rajasthan,Haryana,Haryana,Rajasthan,bat,C B Patel Ground,,2019-11-22,male
+1205846,Karnataka,Jharkhand,Karnataka,Jharkhand,field,Lalbhai Contractor Stadium,,2019-11-22,male
+1205847,Mumbai,Tamil Nadu,Tamil Nadu,Tamil Nadu,field,C B Patel Ground,,2019-11-22,male
+1205848,Maharashtra,Baroda,Maharashtra,Maharashtra,bat,C B Patel Ground,,2019-11-24,male
+1205849,Haryana,Delhi,Haryana,Delhi,field,Lalbhai Contractor Stadium,,2019-11-24,male
+1205850,Punjab,Karnataka,Karnataka,Karnataka,field,C B Patel Ground,,2019-11-24,male
+1205851,Jharkhand,Mumbai,Mumbai,Mumbai,field,Lalbhai Contractor Stadium,,2019-11-24,male
+1205852,Baroda,Haryana,Haryana,Haryana,field,C B Patel Ground,,2019-11-25,male
+1205853,Maharashtra,Rajasthan,Rajasthan,Rajasthan,field,Lalbhai Contractor Stadium,,2019-11-25,male
+1205854,Karnataka,Mumbai,Mumbai,Mumbai,field,C B Patel Ground,,2019-11-25,male
+1205855,Punjab,Tamil Nadu,Tamil Nadu,Tamil Nadu,field,Lalbhai Contractor Stadium,,2019-11-25,male
+1205856,Rajasthan,Delhi,Rajasthan,Rajasthan,bat,C B Patel Ground,,2019-11-27,male
+1205857,Maharashtra,Haryana,Maharashtra,Maharashtra,bat,Lalbhai Contractor Stadium,,2019-11-27,male
+1205858,Jharkhand,Tamil Nadu,Tamil Nadu,Jharkhand,bat,C B Patel Ground,,2019-11-27,male
+1205859,Mumbai,Punjab,Mumbai,Punjab,field,Lalbhai Contractor Stadium,,2019-11-27,male
+1205861,Haryana,Karnataka,Karnataka,Karnataka,field,Lalbhai Contractor Stadium,,2019-11-29,male
+1205862,Karnataka,Tamil Nadu,Karnataka,Tamil Nadu,field,Lalbhai Contractor Stadium,,2019-12-01,male
+1244306,Karnataka,Jammu & Kashmir,Karnataka,Jammu & Kashmir,field,Alur Cricket Stadium,,2021-01-10,male
+1244307,Punjab,Uttar Pradesh,Punjab,Punjab,bat,Alur Cricket Stadium II,,2021-01-10,male
+1244308,Tripura,Railways,Railways,Railways,field,Alur Cricket Stadium III,,2021-01-10,male
+1244309,Odisha,Bengal,Bengal,Bengal,field,Jadavpur University Campus,,2021-01-10,male
+1244310,Tamil Nadu,Jharkhand,Tamil Nadu,Jharkhand,field,Eden Gardens,,2021-01-10,male
+1244311,Assam,Hyderabad (India),Assam,Hyderabad (India),field,Eden Gardens,,2021-01-10,male
+1244312,Gujarat,Maharashtra,Gujarat,Maharashtra,field,Motibaug Cricket Ground,,2021-01-10,male
+1244313,Himachal,Chhattisgarh,Himachal,Chhattisgarh,field,F B Colony Ground,,2021-01-10,male
+1244314,Baroda,Uttarakhand,Baroda,Uttarakhand,field,Reliance Cricket Stadium,,2021-01-10,male
+1244315,Services,Saurashtra,Saurashtra,Saurashtra,field,Holkar Stadium,,2021-01-11,male
+1244316,Vidarbha,Rajasthan,Rajasthan,Rajasthan,field, Emerald Heights International School Ground,,2021-01-11,male
+1244317,Madhya Pradesh,Goa,Madhya Pradesh,Goa,field,Holkar Stadium,,2021-01-11,male
+1244318,Andhra,Haryana,Haryana,Haryana,field,Sharad Pawar Cricket Academy BKC,,2021-01-11,male
+1244319,Delhi,Mumbai,Delhi,Mumbai,field,Wankhede Stadium,,2021-01-11,male
+1244320,Puducherry,Kerala,Kerala,Puducherry,bat,Wankhede Stadium,,2021-01-11,male
+1244322,Meghalaya,Manipur,Manipur,Manipur,field,SSN College Ground,,2021-01-11,male
+1244323,Bihar,Arunachal Pradesh,Bihar,Bihar,bat,T I Murugappa Ground,,2021-01-11,male
+1244324,Mizoram,Sikkim,Sikkim,Sikkim,field,Sri Ramachandra Medical College,,2021-01-11,male
+1244325,Karnataka,Punjab,Punjab,Punjab,field,Alur Cricket Stadium,,2021-01-12,male
+1244326,Tripura,Jammu & Kashmir,Jammu & Kashmir,Jammu & Kashmir,field,Alur Cricket Stadium II,,2021-01-12,male
+1244327,Uttar Pradesh,Railways,Railways,Railways,field,Alur Cricket Stadium III,,2021-01-12,male
+1244330,Assam,Tamil Nadu,Tamil Nadu,Tamil Nadu,field,Eden Gardens,,2021-01-12,male
+1244331,Chhattisgarh,Maharashtra,Maharashtra,Chhattisgarh,bat,F B Colony Ground,,2021-01-12,male
+1244332,Gujarat,Uttarakhand,Gujarat,Uttarakhand,field,Motibaug Cricket Ground,,2021-01-12,male
+1244333,Himachal,Baroda,Baroda,Baroda,field,Reliance Cricket Stadium,,2021-01-12,male
+1244334,Saurashtra,Vidarbha,Saurashtra,Vidarbha,field,Holkar Stadium,,2021-01-13,male
+1244335,Services,Goa,Goa,Goa,field, Emerald Heights International School Ground,,2021-01-13,male
+1244336,Rajasthan,Madhya Pradesh,Rajasthan,Madhya Pradesh,field,Holkar Stadium,,2021-01-13,male
+1244337,Andhra,Delhi,Delhi,Delhi,field,Wankhede Stadium,,2021-01-13,male
+1244338,Puducherry,Haryana,Haryana,Haryana,field,Sharad Pawar Cricket Academy BKC,,2021-01-13,male
+1244340,Meghalaya,Mizoram,Meghalaya,Mizoram,field,IC-Gurunanak College Ground,,2021-01-13,male
+1244341,Chandigarh,Manipur,Chandigarh,Chandigarh,bat,T I Murugappa Ground,,2021-01-13,male
+1244342,Sikkim,Bihar,Bihar,Sikkim,bat,SSN College Ground,,2021-01-13,male
+1244343,Arunachal Pradesh,Nagaland,Nagaland,Arunachal Pradesh,bat,Sri Ramachandra Medical College,,2021-01-13,male
+1244344,Punjab,Railways,Punjab,Railways,field,Alur Cricket Stadium II,,2021-01-14,male
+1244346,Karnataka,Tripura,Karnataka,Tripura,field,Alur Cricket Stadium III,,2021-01-14,male
+1244347,Jharkhand,Assam,Jharkhand,Jharkhand,bat,Jadavpur University Campus,,2021-01-14,male
+1244348,Odisha,Tamil Nadu,Tamil Nadu,Odisha,bat,Eden Gardens,,2021-01-14,male
+1244349,Hyderabad (India),Bengal,Bengal,Bengal,field,Eden Gardens,,2021-01-14,male
+1244350,Chhattisgarh,Baroda,Baroda,Baroda,field,F B Colony Ground,,2021-01-14,male
+1244351,Himachal,Gujarat,Himachal,Gujarat,field,Motibaug Cricket Ground,,2021-01-14,male
+1244352,Maharashtra,Uttarakhand,Uttarakhand,Maharashtra,bat,Reliance Cricket Stadium,,2021-01-14,male
+1244353,Madhya Pradesh,Vidarbha,Madhya Pradesh,Vidarbha,field,Holkar Stadium,,2021-01-15,male
+1244355,Saurashtra,Goa,Saurashtra,Goa,field,Holkar Stadium,,2021-01-15,male
+1244356,Delhi,Kerala,Kerala,Kerala,field,Wankhede Stadium,,2021-01-15,male
+1244357,Mumbai,Haryana,Haryana,Mumbai,bat,Sharad Pawar Cricket Academy BKC,,2021-01-15,male
+1244358,Andhra,Puducherry,Puducherry,Puducherry,field,Wankhede Stadium,,2021-01-15,male
+1244359,Meghalaya,Bihar,Bihar,Bihar,field,SSN College Ground,,2021-01-15,male
+1244360,Chandigarh,Mizoram,Chandigarh,Chandigarh,bat,Sri Ramachandra Medical College,,2021-01-15,male
+1244361,Nagaland,Sikkim,Nagaland,Sikkim,field,IC-Gurunanak College Ground,,2021-01-15,male
+1244362,Manipur,Arunachal Pradesh,Manipur,Manipur,bat,T I Murugappa Ground,,2021-01-15,male
+1244363,Tripura,Uttar Pradesh,Uttar Pradesh,Uttar Pradesh,field,Alur Cricket Stadium,,2021-01-16,male
+1244364,Railways,Karnataka,Karnataka,Railways,bat,Alur Cricket Stadium II,,2021-01-16,male
+1244365,Jammu & Kashmir,Punjab,Punjab,Punjab,field,Alur Cricket Stadium III,,2021-01-16,male
+1244366,Hyderabad (India),Tamil Nadu,Tamil Nadu,Hyderabad (India),bat,Jadavpur University Campus,,2021-01-16,male
+1244367,Assam,Bengal,Assam,Bengal,field,Eden Gardens,,2021-01-16,male
+1244368,Jharkhand,Odisha,Jharkhand,Jharkhand,bat,Eden Gardens,,2021-01-16,male
+1244369,Uttarakhand,Himachal,Himachal,Himachal,field,Reliance Cricket Stadium,,2021-01-16,male
+1244370,Baroda,Maharashtra,Baroda,Maharashtra,field,Motibaug Cricket Ground,,2021-01-16,male
+1244371,Chhattisgarh,Gujarat,Gujarat,Gujarat,field,F B Colony Ground,,2021-01-16,male
+1244372,Goa,Rajasthan,Goa,Goa,bat,Holkar Stadium,,2021-01-17,male
+1244373,Saurashtra,Madhya Pradesh,Madhya Pradesh,Saurashtra,bat, Emerald Heights International School Ground,,2021-01-17,male
+1244374,Vidarbha,Services,Services,Vidarbha,bat,Holkar Stadium,,2021-01-17,male
+1244375,Mumbai,Puducherry,Puducherry,Puducherry,field,Wankhede Stadium,,2021-01-17,male
+1244376,Kerala,Andhra,Andhra,Andhra,field,Sharad Pawar Cricket Academy BKC,,2021-01-17,male
+1244377,Delhi,Haryana,Haryana,Haryana,field,Wankhede Stadium,,2021-01-17,male
+1244378,Manipur,Bihar,Bihar,Bihar,field,Sri Ramachandra Medical College,,2021-01-17,male
+1244379,Arunachal Pradesh,Meghalaya,Meghalaya,Arunachal Pradesh,bat,T I Murugappa Ground,,2021-01-17,male
+1244380,Chandigarh,Sikkim,Chandigarh,Chandigarh,bat,IC-Gurunanak College Ground,,2021-01-17,male
+1244381,Nagaland,Mizoram,Nagaland,Nagaland,bat,SSN College Ground,,2021-01-17,male
+1244382,Railways,Jammu & Kashmir,Jammu & Kashmir,Jammu & Kashmir,field,Alur Cricket Stadium,,2021-01-18,male
+1244383,Punjab,Tripura,Punjab,Tripura,field,Alur Cricket Stadium III,,2021-01-18,male
+1244385,Assam,Odisha,Odisha,Assam,bat,Jadavpur University Campus,,2021-01-18,male
+1244386,Hyderabad (India),Jharkhand,,Jharkhand,field,Eden Gardens,,2021-01-18,male
+1244387,Bengal,Tamil Nadu,Tamil Nadu,Tamil Nadu,field,Eden Gardens,,2021-01-18,male
+1244388,Baroda,Gujarat,Baroda,Gujarat,field,F B Colony Ground,,2021-01-18,male
+1244389,Uttarakhand,Chhattisgarh,,Chhattisgarh,field,Reliance Cricket Stadium,,2021-01-18,male
+1244390,Maharashtra,Himachal,Himachal,Maharashtra,bat,Motibaug Cricket Ground,,2021-01-18,male
+1244391,Madhya Pradesh,Services,Madhya Pradesh,Madhya Pradesh,bat,Holkar Stadium,,2021-01-19,male
+1244393,Rajasthan,Saurashtra,Rajasthan,Rajasthan,bat,Holkar Stadium,,2021-01-19,male
+1244394,Haryana,Kerala,Haryana,Kerala,field,Wankhede Stadium,,2021-01-19,male
+1244395,Delhi,Puducherry,Delhi,Puducherry,field,Sharad Pawar Cricket Academy BKC,,2021-01-19,male
+1244396,Andhra,Mumbai,Mumbai,Andhra,bat,Wankhede Stadium,,2021-01-19,male
+1244398,Sikkim,Meghalaya,Meghalaya,Meghalaya,field,Sri Ramachandra Medical College,,2021-01-19,male
+1244399,Mizoram,Bihar,Bihar,Bihar,field,SSN College Ground,,2021-01-19,male
+1244400,Manipur,Nagaland,Nagaland,Manipur,bat,T I Murugappa Ground,,2021-01-19,male
+1244401,Karnataka,Punjab,Punjab,Punjab,field,"Narendra Modi Stadium Ground 'A', Motera",,2021-01-26,male
+1244402,Himachal,Tamil Nadu,Tamil Nadu,Tamil Nadu,field,"Narendra Modi Stadium Ground 'A', Motera",,2021-01-26,male
+1244403,Haryana,Baroda,Baroda,Baroda,field,"Narendra Modi Stadium Ground 'A', Motera",,2021-01-27,male
+1244405,Rajasthan,Tamil Nadu,Tamil Nadu,Rajasthan,bat,"Narendra Modi Stadium Ground 'A', Motera",,2021-01-29,male
+1244406,Baroda,Punjab,Baroda,Punjab,field,"Narendra Modi Stadium Ground 'A', Motera",,2021-01-29,male
+1244407,Baroda,Tamil Nadu,Tamil Nadu,Tamil Nadu,field,"Narendra Modi Stadium Ground 'A', Motera",,2021-01-31,male
+1280198,Tamil Nadu,Maharashtra,Tamil Nadu,Maharashtra,field,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,,2021-11-04,male
+1280200,Goa,Odisha,Odisha,Odisha,field,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium B,,2021-11-04,male
+1280201,Chhattisgarh,Bengal,Bengal,Bengal,field,"ACA Stadium, Barsapara",,2021-11-04,male
+1280202,Karnataka,Mumbai,Karnataka,Mumbai,field,"ACA Stadium, Barsapara",,2021-11-04,male
+1280203,Baroda,Services,Services,Services,field,Nehru Stadium,,2021-11-04,male
+1280204,Himachal,Haryana,Haryana,Haryana,field,Reliance Cricket Stadium,,2021-11-04,male
+1280207,Assam,Madhya Pradesh,Madhya Pradesh,Madhya Pradesh,field,Arun Jaitley Stadium,,2021-11-04,male
+1280208,Bihar,Railways,Bihar,Railways,field,Arun Jaitley Stadium,,2021-11-04,male
+1280209,Kerala,Gujarat,Gujarat,Gujarat,field,"Airforce Complex ground, Palam",,2021-11-04,male
+1280210,Saurashtra,Hyderabad (India),Hyderabad (India),Hyderabad (India),field,Gurugram Cricket Ground (SRNCC),,2021-11-04,male
+1280211,Uttar Pradesh,Chandigarh,Uttar Pradesh,Uttar Pradesh,bat,Gurugram Cricket Ground (SRNCC),,2021-11-04,male
+1280212,Delhi,Uttarakhand,Delhi,Uttarakhand,field,Chaudhry Bansi Lal Cricket Stadium,,2021-11-04,male
+1280213,Vidarbha,Arunachal Pradesh,Vidarbha,Arunachal Pradesh,field,Gokaraju Liala Gangaaraju ACA Cricket Ground,,2021-11-04,male
+1280214,Tripura,Sikkim,Tripura,Sikkim,field,Gokaraju Liala Gangaaraju ACA Cricket Ground,,2021-11-04,male
+1280216,Mizoram,Meghalaya,Meghalaya,Mizoram,bat,"ACA Stadium,Mangalagiri",,2021-11-04,male
+1280217,Punjab,Maharashtra,Maharashtra,Maharashtra,field,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,,2021-11-05,male
+1280219,Goa,Puducherry,Goa,Goa,bat,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium B,,2021-11-05,male
+1280220,Chhattisgarh,Karnataka,Karnataka,Karnataka,field,"ACA Stadium, Barsapara",,2021-11-05,male
+1280221,Bengal,Baroda,Bengal,Bengal,bat,"ACA Stadium, Barsapara",,2021-11-05,male
+1280223,Jammu & Kashmir,Rajasthan,Rajasthan,Rajasthan,field,Reliance Cricket Stadium,,2021-11-05,male
+1280224,Himachal,Jharkhand,Himachal,Himachal,bat,Reliance Cricket Stadium,,2021-11-05,male
+1280225,Andhra,Haryana,Haryana,Haryana,field,Alembic 2  Cricket Ground,,2021-11-05,male
+1280226,Railways,Madhya Pradesh,Madhya Pradesh,Madhya Pradesh,field,Arun Jaitley Stadium,,2021-11-05,male
+1280227,Gujarat,Assam,Assam,Gujarat,bat,Arun Jaitley Stadium,,2021-11-05,male
+1280228,Bihar,Kerala,Kerala,Bihar,bat,"Airforce Complex ground, Palam",,2021-11-05,male
+1280229,Saurashtra,Uttar Pradesh,Saurashtra,Uttar Pradesh,field,Gurugram Cricket Ground (SRNCC),,2021-11-05,male
+1280230,Hyderabad (India),Uttarakhand,Hyderabad (India),Hyderabad (India),bat,Gurugram Cricket Ground (SRNCC),,2021-11-05,male
+1280231,Chandigarh,Delhi,Delhi,Delhi,field,Chaudhry Bansi Lal Cricket Stadium,,2021-11-05,male
+1280232,Sikkim,Meghalaya,Meghalaya,Meghalaya,field,Gokaraju Liala Gangaaraju ACA Cricket Ground,,2021-11-05,male
+1280233,Nagaland,Vidarbha,Vidarbha,Nagaland,bat,Gokaraju Liala Gangaaraju ACA Cricket Ground,,2021-11-05,male
+1280234,Arunachal Pradesh,Manipur,Manipur,Arunachal Pradesh,bat,"ACA Stadium,Mangalagiri",,2021-11-05,male
+1280235,Tripura,Mizoram,Tripura,Tripura,bat,"ACA Stadium,Mangalagiri",,2021-11-05,male
+1280236,Punjab,Goa,Punjab,Goa,field,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,,2021-11-06,male
+1280237,Puducherry,Tamil Nadu,Tamil Nadu,Tamil Nadu,field,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,,2021-11-06,male
+1280238,Maharashtra,Odisha,Maharashtra,Maharashtra,bat,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium B,,2021-11-06,male
+1280239,Karnataka,Services,Karnataka,Services,field,"ACA Stadium, Barsapara",,2021-11-06,male
+1280240,Mumbai,Bengal,Mumbai,Mumbai,bat,"ACA Stadium, Barsapara",,2021-11-06,male
+1280241,Chhattisgarh,Baroda,Baroda,Chhattisgarh,bat,Nehru Stadium,,2021-11-06,male
+1280242,Haryana,Jammu & Kashmir,Jammu & Kashmir,Jammu & Kashmir,field,Alembic 2  Cricket Ground,,2021-11-06,male
+1280243,Andhra,Jharkhand,Andhra,Jharkhand,field,Alembic 2  Cricket Ground,,2021-11-06,male
+1280245,Railways,Kerala,Railways,Kerala,field,Arun Jaitley Stadium,,2021-11-06,male
+1280246,Bihar,Assam,Assam,Bihar,bat,Arun Jaitley Stadium,,2021-11-06,male
+1280247,Gujarat,Madhya Pradesh,Gujarat,Madhya Pradesh,field,"Airforce Complex ground, Palam",,2021-11-06,male
+1280249,Chandigarh,Hyderabad (India),Hyderabad (India),Hyderabad (India),field,Gurugram Cricket Ground (SRNCC),,2021-11-06,male
+1280250,Saurashtra,Uttarakhand,Saurashtra,Saurashtra,bat,Gurugram Cricket Ground (SRNCC),,2021-11-06,male
+1280251,Tripura,Manipur,Tripura,Tripura,bat,Gokaraju Liala Gangaaraju ACA Cricket Ground,,2021-11-06,male
+1280252,Meghalaya,Vidarbha,Vidarbha,Meghalaya,bat,Gokaraju Liala Gangaaraju ACA Cricket Ground,,2021-11-06,male
+1280255,Tamil Nadu,Goa,Goa,Goa,field,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,,2021-11-08,male
+1280257,Maharashtra,Puducherry,Maharashtra,Maharashtra,bat,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium B,,2021-11-08,male
+1280258,Services,Bengal,Bengal,Bengal,field,"ACA Stadium, Barsapara",,2021-11-08,male
+1280259,Baroda,Karnataka,Karnataka,Baroda,bat,"ACA Stadium, Barsapara",,2021-11-08,male
+1280260,Chhattisgarh,Mumbai,Chhattisgarh,Chhattisgarh,bat,Nehru Stadium,,2021-11-08,male
+1280263,Rajasthan,Andhra,Rajasthan,Rajasthan,bat,Alembic 2  Cricket Ground,,2021-11-08,male
+1280264,Assam,Kerala,Kerala,Kerala,field,Arun Jaitley Stadium,,2021-11-08,male
+1280266,Bihar,Madhya Pradesh,Madhya Pradesh,Bihar,bat,"Airforce Complex ground, Palam",,2021-11-08,male
+1280269,Saurashtra,Chandigarh,Saurashtra,Saurashtra,bat,Chaudhry Bansi Lal Cricket Stadium,,2021-11-08,male
+1280270,Mizoram,Sikkim,Sikkim,Mizoram,bat,Gokaraju Liala Gangaaraju ACA Cricket Ground,,2021-11-08,male
+1280271,Nagaland,Arunachal Pradesh,Nagaland,Nagaland,bat,Gokaraju Liala Gangaaraju ACA Cricket Ground,,2021-11-08,male
+1280272,Tripura,Meghalaya,Meghalaya,Tripura,bat,"ACA Stadium,Mangalagiri",,2021-11-08,male
+1280273,Vidarbha,Manipur,Vidarbha,Vidarbha,bat,"ACA Stadium,Mangalagiri",,2021-11-08,male
+1280274,Odisha,Puducherry,Puducherry,Puducherry,field,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,,2021-11-09,male
+1280275,Maharashtra,Goa,Maharashtra,Maharashtra,bat,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,,2021-11-09,male
+1280276,Punjab,Tamil Nadu,Tamil Nadu,Punjab,bat,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium B,,2021-11-09,male
+1280277,Mumbai,Baroda,Mumbai,Baroda,field,"ACA Stadium, Barsapara",,2021-11-09,male
+1280278,Chhattisgarh,Services,Chhattisgarh,Chhattisgarh,bat,"ACA Stadium, Barsapara",,2021-11-09,male
+1280279,Karnataka,Bengal,Bengal,Karnataka,bat,Nehru Stadium,,2021-11-09,male
+1280280,Himachal,Andhra,Himachal,Andhra,field,Alembic 2  Cricket Ground,,2021-11-09,male
+1280281,Rajasthan,Haryana,Rajasthan,Haryana,field,Alembic 2  Cricket Ground,,2021-11-09,male
+1280282,Jammu & Kashmir,Jharkhand,Jharkhand,Jammu & Kashmir,bat,Reliance Cricket Stadium,,2021-11-09,male
+1280283,Bihar,Gujarat,Gujarat,Gujarat,field,Arun Jaitley Stadium,,2021-11-09,male
+1280284,Madhya Pradesh,Kerala,Kerala,Kerala,field,Arun Jaitley Stadium,,2021-11-09,male
+1280285,Railways,Assam,Railways,Railways,bat,"Airforce Complex ground, Palam",,2021-11-09,male
+1280286,Uttarakhand,Chandigarh,Chandigarh,Chandigarh,field,Gurugram Cricket Ground (SRNCC),,2021-11-09,male
+1280287,Saurashtra,Delhi,Saurashtra,Saurashtra,bat,Chaudhry Bansi Lal Cricket Stadium,,2021-11-09,male
+1280288,Hyderabad (India),Uttar Pradesh,Hyderabad (India),Hyderabad (India),bat,Gurugram Cricket Ground (SRNCC),,2021-11-09,male
+1280289,Nagaland,Tripura,Tripura,Tripura,field,Gokaraju Liala Gangaaraju ACA Cricket Ground,,2021-11-09,male
+1280290,Manipur,Mizoram,Mizoram,Manipur,bat,Gokaraju Liala Gangaaraju ACA Cricket Ground,,2021-11-09,male
+1280291,Vidarbha,Sikkim,Vidarbha,Vidarbha,bat,"ACA Stadium,Mangalagiri",,2021-11-09,male
+1280292,Meghalaya,Arunachal Pradesh,Meghalaya,Arunachal Pradesh,field,"ACA Stadium,Mangalagiri",,2021-11-09,male
+1280293,Maharashtra,Vidarbha,Vidarbha,Vidarbha,field,Arun Jaitley Stadium,,2021-11-16,male
+1280294,Saurashtra,Karnataka,Karnataka,Saurashtra,bat,Arun Jaitley Stadium,,2021-11-16,male
+1280295,Himachal,Kerala,Kerala,Kerala,field,"Airforce Complex ground, Palam",,2021-11-16,male
+1280296,Kerala,Tamil Nadu,Tamil Nadu,Tamil Nadu,field,Arun Jaitley Stadium,,2021-11-18,male
+1280297,Karnataka,Bengal,,Bengal,field,Arun Jaitley Stadium,,2021-11-18,male
+1280298,Rajasthan,Vidarbha,Vidarbha,Vidarbha,field,"Airforce Complex ground, Palam",,2021-11-18,male
+1280299,Hyderabad (India),Gujarat,Hyderabad (India),Gujarat,field,"Airforce Complex ground, Palam",,2021-11-18,male
+1280300,Hyderabad (India),Tamil Nadu,Tamil Nadu,Tamil Nadu,field,Arun Jaitley Stadium,,2021-11-20,male
+1280301,Karnataka,Vidarbha,Karnataka,Vidarbha,field,Arun Jaitley Stadium,,2021-11-20,male
+1280302,Karnataka,Tamil Nadu,Tamil Nadu,Tamil Nadu,field,Arun Jaitley Stadium,,2021-11-22,male
+1332920,Punjab,Hyderabad (India),Punjab,Hyderabad (India),field,"Sawai Mansingh Stadium, Jaipur",Jaipur,2022-10-11,male
+1332927,Railways,Uttarakhand,Uttarakhand,Uttarakhand,field,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,2022-10-11,male
+1332934,Nagaland,Baroda,Baroda,Nagaland,bat,"Holkar Cricket Stadium, Indore",Indore,2022-10-11,male
+1332938,Hyderabad (India),Puducherry,Hyderabad (India),Puducherry,field,"Sawai Mansingh Stadium, Jaipur",Jaipur,2022-10-12,male
+1332939,Delhi,Punjab,Delhi,Delhi,bat,"Sawai Mansingh Stadium, Jaipur",Jaipur,2022-10-12,male
+1332943,Madhya Pradesh,Mumbai,Mumbai,Madhya Pradesh,bat,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,2022-10-12,male
+1332950,Baroda,Saurashtra,Saurashtra,Saurashtra,field,"Holkar Cricket Stadium, Indore",Indore,2022-10-12,male
+1332952,Nagaland,Bihar,Bihar,Nagaland,bat,"Holkar Cricket Stadium, Indore",Indore,2022-10-12,male
+1332956,Hyderabad (India),Goa,Hyderabad (India),Goa,field,"Sawai Mansingh Stadium, Jaipur",Jaipur,2022-10-14,male
+1332958,Delhi,Uttar Pradesh,Uttar Pradesh,Delhi,bat,"Sawai Mansingh Stadium, Jaipur",Jaipur,2022-10-14,male
+1332960,Rajasthan,Railways,Rajasthan,Rajasthan,bat,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,2022-10-14,male
+1332962,Mumbai,Assam,Mumbai,Assam,field,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,2022-10-14,male
+1332968,Baroda,Gujarat,Gujarat,Baroda,bat,"Holkar Cricket Stadium, Indore",Indore,2022-10-14,male
+1332978,Rajasthan,Uttarakhand,Uttarakhand,Uttarakhand,field,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,2022-10-16,male
+1332981,Mizoram,Assam,Assam,Assam,field,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,2022-10-16,male
+1332986,Gujarat,Saurashtra,Saurashtra,Saurashtra,field,"Holkar Cricket Stadium, Indore",Indore,2022-10-16,male
+1332987,Nagaland,Andhra,Andhra,Nagaland,bat,"Holkar Cricket Stadium, Indore",Indore,2022-10-16,male
+1332993,Manipur,Punjab,Punjab,Manipur,bat,"Sawai Mansingh Stadium, Jaipur",Jaipur,2022-10-18,male
+1332995,Tripura,Puducherry,Tripura,Puducherry,field,"Sawai Mansingh Stadium, Jaipur",Jaipur,2022-10-18,male
+1332997,Mizoram,Madhya Pradesh,Madhya Pradesh,Mizoram,bat,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,2022-10-18,male
+1332999,Vidarbha,Uttarakhand,Vidarbha,Uttarakhand,field,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,2022-10-18,male
+1333005,Himachal Pradesh,Saurashtra,Himachal Pradesh,Saurashtra,field,"Holkar Cricket Stadium, Indore",Indore,2022-10-18,male
+1333006,Bihar,Andhra,Andhra,Bihar,bat,"Holkar Cricket Stadium, Indore",Indore,2022-10-18,male
+1333012,Goa,Delhi,Delhi,Delhi,field,"Sawai Mansingh Stadium, Jaipur",Jaipur,2022-10-20,male
+1333013,Manipur,Tripura,Tripura,Manipur,bat,"Sawai Mansingh Stadium, Jaipur",Jaipur,2022-10-20,male
+1333016,Mumbai,Railways,Railways,Railways,field,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,2022-10-20,male
+1333017,Uttarakhand,Mizoram,Uttarakhand,Mizoram,field,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,2022-10-20,male
+1333022,Andhra,Gujarat,Gujarat,Gujarat,field,"Holkar Cricket Stadium, Indore",Indore,2022-10-20,male
+1333024,Baroda,Himachal Pradesh,Himachal Pradesh,Himachal Pradesh,field,"Holkar Cricket Stadium, Indore",Indore,2022-10-20,male
+1333029,Uttar Pradesh,Punjab,Punjab,Uttar Pradesh,bat,"Sawai Mansingh Stadium, Jaipur",Jaipur,2022-10-22,male
+1333031,Puducherry,Goa,Goa,Goa,field,"Sawai Mansingh Stadium, Jaipur",Jaipur,2022-10-22,male
+1333033,Madhya Pradesh,Assam,Assam,Madhya Pradesh,bat,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,2022-10-22,male
+1333035,Railways,Vidarbha,Vidarbha,Vidarbha,field,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,2022-10-22,male
+1333040,Bihar,Gujarat,Gujarat,Gujarat,field,"Holkar Cricket Stadium, Indore",Indore,2022-10-22,male
+1333041,Nagaland,Himachal Pradesh,Himachal Pradesh,Nagaland,bat,"Holkar Cricket Stadium, Indore",Indore,2022-10-22,male
+1333046,Punjab,Haryana,Punjab,Haryana,field,"Eden Gardens, Kolkata",Kolkata,2022-10-30,male
+1333047,Chhattisgarh,Vidarbha,Vidarbha,Vidarbha,field,"Jadavpur University Campus 2nd Ground, Kolkata",Kolkata,2022-10-30,male
+1333048,Saurashtra,Kerala,Saurashtra,Saurashtra,bat,"Eden Gardens, Kolkata",Kolkata,2022-10-30,male
+1333049,Punjab,Karnataka,Punjab,Karnataka,field,"Eden Gardens, Kolkata",Kolkata,2022-11-01,male
+1333050,Vidarbha,Delhi,Vidarbha,Delhi,field,"Jadavpur University Campus 2nd Ground, Kolkata",Kolkata,2022-11-01,male
+1333052,Saurashtra,Mumbai,Mumbai,Saurashtra,bat,"Eden Gardens, Kolkata",Kolkata,2022-11-01,male
+1333053,Himachal Pradesh,Punjab,Himachal Pradesh,Punjab,field,"Eden Gardens, Kolkata",Kolkata,2022-11-03,male
+1333054,Vidarbha,Mumbai,Mumbai,Vidarbha,bat,"Eden Gardens, Kolkata",Kolkata,2022-11-03,male
+1333055,Himachal Pradesh,Mumbai,Mumbai,Mumbai,field,"Eden Gardens, Kolkata",Kolkata,2022-11-05,male
+1383434,Haryana,Mumbai,Mumbai,Haryana,bat,"Sawai Mansingh Stadium, Jaipur",Jaipur,2023-10-16,male
+1383437,Baroda,Jammu & Kashmir,Baroda,Jammu & Kashmir,field,"Sawai Mansingh Stadium, Jaipur",Jaipur,2023-10-16,male
+1383442,Saurashtra,Punjab,Saurashtra,Punjab,field,"JSCA International Stadium Complex, Ranchi",Ranchi,2023-10-16,male
+1383445,Manipur,Railways,Railways,Railways,field,"JSCA International Stadium Complex, Ranchi",Ranchi,2023-10-16,male
+1383452,Meghalaya,Mumbai,Mumbai,Mumbai,field,"Sawai Mansingh Stadium, Jaipur",Jaipur,2023-10-17,male
+1383453,Haryana,Chhattisgarh,Chhattisgarh,Chhattisgarh,field,"Sawai Mansingh Stadium, Jaipur",Jaipur,2023-10-17,male
+1383460,Punjab,Andhra,Punjab,Punjab,bat,"JSCA International Stadium Complex, Ranchi",Ranchi,2023-10-17,male
+1383461,Saurashtra,Gujarat,Gujarat,Saurashtra,bat,"JSCA International Stadium Complex, Ranchi",Ranchi,2023-10-17,male
+1383467,Madhya Pradesh,Delhi,Delhi,Madhya Pradesh,bat,"Abhimanyu Cricket Academy, Dehradun",Dehra Dun,2023-10-17,male
+1383469,Nagaland,Tripura,Tripura,Nagaland,bat,"Abhimanyu Cricket Academy, Dehradun",Dehra Dun,2023-10-17,male
+1383472,Chhattisgarh,Hyderabad (India),Hyderabad (India),Hyderabad (India),field,"Sawai Mansingh Stadium, Jaipur",Jaipur,2023-10-19,male
+1383478,Punjab,Railways,Punjab,Punjab,bat,"JSCA International Stadium Complex, Ranchi",Ranchi,2023-10-19,male
+1383480,Gujarat,Goa,Gujarat,Gujarat,bat,"JSCA International Stadium Complex, Ranchi",Ranchi,2023-10-19,male
+1383485,Madhya Pradesh,Karnataka,Karnataka,Karnataka,field,"Abhimanyu Cricket Academy, Dehradun",Dehra Dun,2023-10-19,male
+1383487,Tripura,Tamil Nadu,Tamil Nadu,Tripura,bat,"Abhimanyu Cricket Academy, Dehradun",Dehra Dun,2023-10-19,male
+1383488,Mumbai,Jammu & Kashmir,Mumbai,Jammu & Kashmir,field,"Sawai Mansingh Stadium, Jaipur",Jaipur,2023-10-21,male
+1383491,Mizoram,Hyderabad (India),Hyderabad (India),Hyderabad (India),field,"Sawai Mansingh Stadium, Jaipur",Jaipur,2023-10-21,male
+1383496,Manipur,Punjab,Punjab,Manipur,bat,"JSCA International Stadium Complex, Ranchi",Ranchi,2023-10-21,male
+1383499,Arunachal Pradesh,Goa,Goa,Arunachal Pradesh,bat,"JSCA International Stadium Complex, Ranchi",Ranchi,2023-10-21,male
+1383503,Karnataka,Delhi,Delhi,Delhi,field,"Abhimanyu Cricket Academy, Dehradun",Dehra Dun,2023-10-21,male
+1383504,Uttar Pradesh,Nagaland,Uttar Pradesh,Nagaland,field,"Abhimanyu Cricket Academy, Dehradun",Dehra Dun,2023-10-21,male
+1383507,Haryana,Mizoram,Haryana,Mizoram,field,"Sawai Mansingh Stadium, Jaipur",Jaipur,2023-10-23,male
+1383509,Meghalaya,Jammu & Kashmir,Jammu & Kashmir,Meghalaya,bat,"Sawai Mansingh Stadium, Jaipur",Jaipur,2023-10-23,male
+1383515,Arunachal Pradesh,Saurashtra,Saurashtra,Saurashtra,field,"JSCA International Stadium Complex, Ranchi",Ranchi,2023-10-23,male
+1383517,Andhra,Manipur,Andhra,Andhra,bat,"JSCA International Stadium Complex, Ranchi",Ranchi,2023-10-23,male
+1383522,Delhi,Tamil Nadu,Delhi,Tamil Nadu,field,"Abhimanyu Cricket Academy, Dehradun",Dehra Dun,2023-10-23,male
+1383523,Uttar Pradesh,Tripura,Uttar Pradesh,Tripura,field,"Abhimanyu Cricket Academy, Dehradun",Dehra Dun,2023-10-23,male
+1383526,Chhattisgarh,Baroda,Baroda,Baroda,field,"Sawai Mansingh Stadium, Jaipur",Jaipur,2023-10-25,male
+1383527,Jammu & Kashmir,Mizoram,Jammu & Kashmir,Jammu & Kashmir,bat,"Sawai Mansingh Stadium, Jaipur",Jaipur,2023-10-25,male
+1383534,Railways,Gujarat,Gujarat,Gujarat,field,"JSCA International Stadium Complex, Ranchi",Ranchi,2023-10-25,male
+1383539,Uttar Pradesh,Karnataka,Uttar Pradesh,Karnataka,field,"Abhimanyu Cricket Academy, Dehradun",Dehra Dun,2023-10-25,male
+1383541,Tamil Nadu,Madhya Pradesh,Madhya Pradesh,Tamil Nadu,bat,"Abhimanyu Cricket Academy, Dehradun",Dehra Dun,2023-10-25,male
+1383560,Gujarat,Uttar Pradesh,Uttar Pradesh,Uttar Pradesh,field,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,2023-10-31,male
+1383561,Bengal,Assam,Assam,Assam,field,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,2023-10-31,male
+1383562,Uttar Pradesh,Punjab,Punjab,Punjab,field,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,2023-11-02,male
+1383563,Kerala,Assam,Assam,Assam,field,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,2023-11-02,male
+1383566,Delhi,Punjab,Punjab,Punjab,field,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,2023-11-04,male
+1383567,Assam,Baroda,Baroda,Baroda,field,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,2023-11-04,male
+1383568,Punjab,Baroda,Punjab,Baroda,field,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,2023-11-06,male
+1446099,Bengal,Chandigarh,Bengal,Chandigarh,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2024-12-09,male
+1446101,Baroda,Bengal,Baroda,Bengal,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2024-12-11,male
+1446102,Delhi,Uttar Pradesh,Delhi,Uttar Pradesh,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2024-12-11,male
+1446103,Saurashtra,Madhya Pradesh,Madhya Pradesh,Madhya Pradesh,field,"KSCA Cricket Ground, Alur",Bengaluru,2024-12-11,male
+1446104,Vidarbha,Mumbai,Mumbai,Mumbai,field,"KSCA Cricket Ground, Alur",Bengaluru,2024-12-11,male
+1446105,Baroda,Mumbai,Mumbai,Mumbai,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2024-12-13,male
+1446106,Delhi,Madhya Pradesh,Madhya Pradesh,Madhya Pradesh,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2024-12-13,male
+1446107,Madhya Pradesh,Mumbai,Mumbai,Mumbai,field,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2024-12-15,male
+902087,Gujarat,Himachal,Himachal,Himachal,field,"Vidarbha Cricket Association Stadium, Jamtha",,2016-01-02,male
+902089,Bengal,Hyderabad (India),Bengal,Bengal,bat,VCA Ground,,2016-01-02,male
+902091,Haryana,Tamil Nadu,Tamil Nadu,Haryana,bat,VCA Ground,,2016-01-02,male
+902093,Punjab,Rajasthan,Rajasthan,Rajasthan,field,Jawaharlal Nehru Stadium,,2016-01-02,male
+902095,Jammu & Kashmir,Kerala,Kerala,Kerala,field,St  Pauls college ground  Kalamassery,,2016-01-02,male
+902097,Saurashtra,Tripura,Saurashtra,Saurashtra,bat,Jawaharlal Nehru Stadium,,2016-01-02,male
+902099,Andhra,Madhya Pradesh,Madhya Pradesh,Madhya Pradesh,field,Reliance Cricket Stadium,,2016-01-02,male
+902101,Railways,Delhi,Delhi,Delhi,field,Alembic 1 Cricket Ground,,2016-01-02,male
+902105,Odisha,Mumbai,Mumbai,Mumbai,field,Barabati Stadium,,2016-01-02,male
+902107,Karnataka,Services,Services,Services,field,Barabati Stadium,,2016-01-02,male
+902109,Maharashtra,Uttar Pradesh,Uttar Pradesh,Uttar Pradesh,field,DRIEMS Ground,,2016-01-02,male
+902111,Gujarat,Vidarbha,Gujarat,Vidarbha,field,"Vidarbha Cricket Association Stadium, Jamtha",,2016-01-03,male
+902113,Hyderabad (India),Himachal,Hyderabad (India),Himachal,field,"Vidarbha Cricket Association Stadium, Jamtha",,2016-01-03,male
+902115,Tamil Nadu,Bengal,Tamil Nadu,Bengal,field,VCA Ground,,2016-01-03,male
+902117,Jammu & Kashmir,Punjab,Punjab,Punjab,field,Jawaharlal Nehru Stadium,,2016-01-03,male
+902119,Kerala,Rajasthan,Kerala,Rajasthan,field,St  Pauls college ground  Kalamassery,,2016-01-03,male
+902121,Tripura,Jharkhand,Jharkhand,Jharkhand,field,Jawaharlal Nehru Stadium,,2016-01-03,male
+902123,Goa,Madhya Pradesh,Madhya Pradesh,Madhya Pradesh,field,Motibaug Cricket Ground,,2016-01-03,male
+902125,Delhi,Andhra,Delhi,Andhra,field,Alembic 1 Cricket Ground,,2016-01-03,male
+902127,Baroda,Railways,Baroda,Baroda,bat,Motibaug Cricket Ground,,2016-01-03,male
+902129,Uttar Pradesh,Odisha,Uttar Pradesh,Odisha,field,Barabati Stadium,,2016-01-03,male
+902131,Karnataka,Mumbai,Karnataka,Mumbai,field,DRIEMS Ground,,2016-01-03,male
+902133,Maharashtra,Services,Maharashtra,Services,field,Barabati Stadium,,2016-01-03,male
+902135,Haryana,Vidarbha,Vidarbha,Haryana,bat,"Vidarbha Cricket Association Stadium, Jamtha",,2016-01-04,male
+902137,Hyderabad (India),Gujarat,Gujarat,Hyderabad (India),bat,VCA Ground,,2016-01-04,male
+902139,Bengal,Himachal,Bengal,Bengal,bat,VCA Ground,,2016-01-04,male
+902141,Saurashtra,Jammu & Kashmir,Saurashtra,Jammu & Kashmir,field,Jawaharlal Nehru Stadium,,2016-01-04,male
+902143,Tripura,Kerala,Kerala,Kerala,field,St  Pauls college ground  Kalamassery,,2016-01-04,male
+902147,Goa,Assam,Assam,Assam,field,Reliance Cricket Stadium,,2016-01-04,male
+902149,Madhya Pradesh,Delhi,Delhi,Delhi,field,Reliance Cricket Stadium,,2016-01-04,male
+902151,Railways,Andhra,Railways,Andhra,field,Motibaug Cricket Ground,,2016-01-04,male
+902153,Karnataka,Uttar Pradesh,Uttar Pradesh,Karnataka,bat,DRIEMS Ground,,2016-01-04,male
+902155,Services,Mumbai,Mumbai,Mumbai,field,Barabati Stadium,,2016-01-04,male
+902157,Odisha,Maharashtra,Maharashtra,Odisha,bat,Barabati Stadium,,2016-01-04,male
+902161,Bengal,Gujarat,Gujarat,Bengal,bat,"Vidarbha Cricket Association Stadium, Jamtha",,2016-01-06,male
+902165,Kerala,Saurashtra,Kerala,Saurashtra,field,St  Pauls college ground  Kalamassery,,2016-01-06,male
+902167,Jharkhand,Punjab,Punjab,Punjab,field,Jawaharlal Nehru Stadium,,2016-01-06,male
+902169,Jammu & Kashmir,Tripura,Tripura,Jammu & Kashmir,bat,Jawaharlal Nehru Stadium,,2016-01-06,male
+902171,Assam,Delhi,Delhi,Delhi,field,Motibaug Cricket Ground,,2016-01-06,male
+902173,Railways,Madhya Pradesh,Madhya Pradesh,Madhya Pradesh,field,Reliance Cricket Stadium,,2016-01-06,male
+902175,Baroda,Goa,Baroda,Goa,field,Motibaug Cricket Ground,,2016-01-06,male
+902177,Odisha,Karnataka,Karnataka,Karnataka,field,Barabati Stadium,,2016-01-08,male
+902179,Uttar Pradesh,Services,Uttar Pradesh,Services,field,Barabati Stadium,,2016-01-08,male
+902181,Maharashtra,Mumbai,Mumbai,Mumbai,field,DRIEMS Ground,,2016-01-08,male
+902183,Bengal,Vidarbha,Vidarbha,Bengal,bat,"Vidarbha Cricket Association Stadium, Jamtha",,2016-01-07,male
+902185,Gujarat,Tamil Nadu,Tamil Nadu,Gujarat,bat,VCA Ground,,2016-01-07,male
+902189,Jharkhand,Jammu & Kashmir,Jharkhand,Jammu & Kashmir,field,Jawaharlal Nehru Stadium,,2016-01-07,male
+902191,Tripura,Punjab,Punjab,Tripura,bat,Jawaharlal Nehru Stadium,,2016-01-07,male
+902193,Saurashtra,Rajasthan,Saurashtra,Saurashtra,bat,St  Pauls college ground  Kalamassery,,2016-01-07,male
+902195,Railways,Goa,Railways,Goa,field,Reliance Cricket Stadium,,2016-01-07,male
+902197,Baroda,Madhya Pradesh,Baroda,Madhya Pradesh,field,Reliance Cricket Stadium,,2016-01-07,male
+902199,Andhra,Assam,Andhra,Assam,field,Motibaug Cricket Ground,,2016-01-07,male
+902201,Odisha,Services,Services,Services,field,DRIEMS Ground,,2016-01-07,male
+902203,Mumbai,Uttar Pradesh,Uttar Pradesh,Uttar Pradesh,field,Barabati Stadium,,2016-01-07,male
+902205,Maharashtra,Karnataka,Maharashtra,Karnataka,field,Barabati Stadium,,2016-01-07,male
+902207,Hyderabad (India),Vidarbha,Vidarbha,Vidarbha,field,"Vidarbha Cricket Association Stadium, Jamtha",,2016-01-09,male
+902209,Haryana,Bengal,Haryana,Haryana,bat,"Vidarbha Cricket Association Stadium, Jamtha",,2016-01-09,male
+902213,Punjab,Kerala,Kerala,Kerala,field,St  Pauls college ground  Kalamassery,,2016-01-09,male
+902215,Saurashtra,Jharkhand,Jharkhand,Jharkhand,field,Jawaharlal Nehru Stadium,,2016-01-09,male
+902217,Rajasthan,Tripura,Tripura,Tripura,field,Jawaharlal Nehru Stadium,,2016-01-09,male
+902219,Delhi,Goa,Delhi,Goa,field,Motibaug Cricket Ground,,2016-01-09,male
+902221,Railways,Assam,Assam,Assam,field,Reliance Cricket Stadium,,2016-01-09,male
+902223,Andhra,Baroda,Baroda,Andhra,bat,Motibaug Cricket Ground,,2016-01-09,male
+902225,Haryana,Gujarat,Gujarat,Gujarat,field,VCA Ground,,2016-01-10,male
+902229,Hyderabad (India),Tamil Nadu,Tamil Nadu,Tamil Nadu,field,"Vidarbha Cricket Association Stadium, Jamtha",,2016-01-10,male
+902231,Saurashtra,Punjab,Saurashtra,Saurashtra,bat,Jawaharlal Nehru Stadium,,2016-01-10,male
+902233,Rajasthan,Jammu & Kashmir,Rajasthan,Jammu & Kashmir,field,Jawaharlal Nehru Stadium,,2016-01-10,male
+902235,Kerala,Jharkhand,Jharkhand,Jharkhand,field,St  Pauls college ground  Kalamassery,,2016-01-10,male
+902237,Assam,Madhya Pradesh,Madhya Pradesh,Madhya Pradesh,field,Reliance Cricket Stadium,,2016-01-10,male
+902239,Andhra,Goa,Goa,Goa,field,Alembic 1 Cricket Ground,,2016-01-10,male
+902241,Baroda,Delhi,Delhi,Delhi,field,Reliance Cricket Stadium,,2016-01-10,male
+955045,Vidarbha,Baroda,Baroda,Baroda,field,Wankhede Stadium,,2016-01-15,male
+955047,Delhi,Gujarat,Gujarat,Gujarat,field,Sharad Pawar Cricket Academy BKC,,2016-01-15,male
+955049,Kerala,Mumbai,Mumbai,Mumbai,field,Wankhede Stadium,,2016-01-15,male
+955053,Baroda,Kerala,Kerala,Kerala,field,Wankhede Stadium,,2016-01-16,male
+955055,Jharkhand,Delhi,Delhi,Delhi,field,Sharad Pawar Cricket Academy BKC,,2016-01-16,male
+955057,Vidarbha,Mumbai,Mumbai,Mumbai,field,Wankhede Stadium,,2016-01-16,male
+955059,Gujarat,Uttar Pradesh,Uttar Pradesh,Uttar Pradesh,field,Sharad Pawar Cricket Academy BKC,,2016-01-16,male
+955061,Vidarbha,Kerala,Kerala,Kerala,field,Wankhede Stadium,,2016-01-18,male
+955063,Jharkhand,Gujarat,Gujarat,Gujarat,field,Sharad Pawar Cricket Academy BKC,,2016-01-18,male
+955065,Mumbai,Baroda,Baroda,Baroda,field,Wankhede Stadium,,2016-01-18,male
+955067,Delhi,Uttar Pradesh,Uttar Pradesh,Uttar Pradesh,field,Sharad Pawar Cricket Academy BKC,,2016-01-18,male
+955069,Uttar Pradesh,Baroda,Uttar Pradesh,Baroda,field,Wankhede Stadium,,2016-01-20,male

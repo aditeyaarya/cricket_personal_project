@@ -378,6 +378,62 @@ VENUE_COORDS = {
 
     # ── Zhejiang (China) ─────────────────────────────────────────────────────
     "Zhejiang University of Technology Cricket Field"  : (30.3100, 120.0900),
+
+    # ── BBL (additional Australian venues) ───────────────────────────────────
+    "Aurora Stadium"                                   : (-41.4419, 147.1450),
+    "University of Tasmania Stadium, Launceston"       : (-41.4332, 147.1441),
+    "Docklands Stadium"                                : (-37.8167, 144.9475),
+    "Marvel Stadium"                                   : (-37.8167, 144.9475),
+    "Geelong Cricket Ground"                           : (-38.1500, 144.3616),
+    "International Sports Stadium, Coffs Harbour"      : (-30.2963, 153.1185),
+    "Lavington Sports Oval, Albury"                    : (-36.0737, 146.9385),
+    "Ted Summerton Reserve"                            : (-36.3500, 146.3167),
+    "Traeger Park"                                     : (-23.6980, 133.8807),
+    "W.A.C.A. Ground"                                  : (-31.9597, 115.8700),
+
+    # ── PSL (additional Pakistani venues) ────────────────────────────────────
+    "Multan Cricket Stadium"                           : (30.1575, 71.5249),
+
+    # ── SMAT (Indian domestic venues) ────────────────────────────────────────
+    "Dr P.V.G. Raju ACA Sports Complex"                : (17.7218, 83.3027),
+    "ACA Stadium,Mangalagiri"                          : (16.4307, 80.5525),
+    "Gokaraju Liala Gangaaraju ACA Cricket Ground"     : (16.1737, 81.1381),
+    "Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -CP Ground,Mulapadu" : (16.1737, 81.1381),
+    "Dr. Gokaraju Laila Ganga Raju ACA Cricket Complex -DVR Ground,Mulapadu": (16.1737, 81.1381),
+    "ACA Stadium, Barsapara"                           : (26.1306, 91.7466),
+    "JU Second Campus, Salt Lake"                      : (22.5726, 88.3639),
+    "Jadavpur University Campus"                       : (22.4995, 88.3712),
+    "Cricket Stadium, Sector-16"                       : (30.7388, 76.7854),
+    "GSSS, Sector 26"                                  : (30.7195, 76.8130),
+    "Chaudhry Bansi Lal Cricket Stadium"               : (29.6857, 76.9905),
+    "Gurugram Cricket Ground (SRNCC)"                  : (28.4595, 77.0266),
+    "Abhimanyu Cricket Academy, Dehradun"              : (30.3165, 78.0322),
+    "Airforce Complex ground, Palam"                   : (28.5921, 77.0882),
+    "Airforce Complex ground, Palam II"                : (28.5921, 77.0882),
+    "Alembic 1 Cricket Ground"                         : (22.3217, 73.1851),
+    "Alembic 2  Cricket Ground"                        : (22.3217, 73.1851),
+    "Lalbhai Contractor Stadium"                       : (21.1702, 72.8311),
+    "Motibaug Cricket Ground"                          : (22.3070, 73.1812),
+    "Reliance Cricket Stadium"                         : (22.3072, 73.2046),
+    "C B Patel Ground"                                 : (23.0225, 72.5714),
+    "F B Colony Ground"                                : (23.0225, 72.5714),
+    "Alur Cricket Stadium"                             : (13.0827, 77.5159),
+    "Alur Cricket Stadium II"                          : (13.0827, 77.5159),
+    "Alur Cricket Stadium III"                         : (13.0827, 77.5159),
+    "KSCA Cricket Ground, Alur"                        : (13.0827, 77.5159),
+    "Greenfield Stadium"                               : (8.5241, 76.9366),
+    "St  Pauls college ground  Kalamassery"            : (10.0333, 76.3167),
+    "St'Xavier's KCA Cricket Ground"                   : (9.9312, 76.2673),
+    "Holkar Stadium"                                   : (22.7196, 75.8577),
+    "BKC Ground"                                       : (19.0596, 72.8656),
+    "Sharad Pawar Cricket Academy BKC"                 : (19.0596, 72.8656),
+    "DRIEMS Ground"                                    : (20.4625, 85.8830),
+    "IC-Gurunanak College Ground"                      : (30.9010, 75.8573),
+    "SSN College Ground"                               : (12.8406, 80.1534),
+    "Sri Ramachandra Medical College"                  : (13.0358, 80.1556),
+    "T I Murugappa Ground"                             : (13.1091, 80.2320),
+    "VCA Ground"                                       : (21.1080, 79.0750),
+    " Emerald Heights International School Ground"     : (22.7196, 75.8577),
 }
 
 
@@ -593,6 +649,40 @@ STADIUM_ALIASES = {
     "icc academy dubai"                              : "ICC Academy",
     "7he sevens stadium dubai"                       : "ICC Academy",
     "tolerance oval abu dhabi"                       : "Tolerance Oval",
+
+    # BBL variants
+    "aurora stadium launceston"                      : "Aurora Stadium",
+    "university of tasmania stadium"                 : "University of Tasmania Stadium, Launceston",
+    "utas stadium"                                   : "University of Tasmania Stadium, Launceston",
+    "docklands stadium melbourne"                    : "Docklands Stadium",
+    "marvel stadium melbourne"                       : "Docklands Stadium",
+    "geelong cricket ground geelong"                 : "Geelong Cricket Ground",
+    "international sports stadium coffs harbour"     : "International Sports Stadium, Coffs Harbour",
+    "lavington sports oval albury"                   : "Lavington Sports Oval, Albury",
+    "ted summerton reserve"                          : "Ted Summerton Reserve",
+    "traeger park alice springs"                     : "Traeger Park",
+    "waca ground"                                    : "W.A.C.A. Ground",
+    "waca ground perth"                              : "W.A.C.A. Ground",
+
+    # PSL variants
+    "multan cricket stadium multan"                  : "Multan Cricket Stadium",
+
+    # SMAT variants
+    "aca stadium barsapara"                          : "ACA Stadium, Barsapara",
+    "aca stadium barsapara guwahati"                 : "ACA Stadium, Barsapara",
+    "aca stadium mangalagiri"                        : "ACA Stadium,Mangalagiri",
+    "holkar cricket stadium indore"                  : "Holkar Stadium",
+    "holkar stadium indore"                          : "Holkar Stadium",
+    "vca ground nagpur"                              : "VCA Ground",
+    "bkc ground mumbai"                              : "BKC Ground",
+    "sharad pawar cricket academy"                   : "Sharad Pawar Cricket Academy BKC",
+    "alur cricket stadium bengaluru"                 : "Alur Cricket Stadium",
+    "ksca cricket ground alur"                       : "Alur Cricket Stadium",
+    "greenfield stadium thiruvananthapuram"          : "Greenfield Stadium",
+    "greenfield international stadium thiruvananthapuram" : "Greenfield Stadium",
+    "lalbhai contractor stadium surat"               : "Lalbhai Contractor Stadium",
+    "chaudhry bansi lal cricket stadium chandigarh"  : "Chaudhry Bansi Lal Cricket Stadium",
+    "airforce complex ground palam delhi"            : "Airforce Complex ground, Palam",
 }
 
 

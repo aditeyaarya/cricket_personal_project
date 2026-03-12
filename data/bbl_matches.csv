@@ -1,0 +1,663 @@
+match_id,team1,team2,winner,toss_winner,toss_decision,venue,city,date,gender
+1023581,Sydney Thunder,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Sydney Showground Stadium,,2016-12-20,male
+1023583,Adelaide Strikers,Brisbane Heat,Brisbane Heat,Adelaide Strikers,field,Adelaide Oval,,2016-12-21,male
+1023585,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,Sydney Thunder,field,Docklands Stadium,Melbourne,2016-12-22,male
+1023587,Sydney Sixers,Hobart Hurricanes,Hobart Hurricanes,Sydney Sixers,field,Sydney Cricket Ground,,2016-12-23,male
+1023589,Perth Scorchers,Adelaide Strikers,Perth Scorchers,Adelaide Strikers,field,Western Australia Cricket Association Ground,Perth,2016-12-23,male
+1023591,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,Hobart Hurricanes,bat,Bellerive Oval,Hobart,2016-12-26,male
+1023593,Sydney Sixers,Perth Scorchers,Sydney Sixers,Perth Scorchers,bat,Sydney Cricket Ground,,2016-12-27,male
+1023595,Sydney Thunder,Brisbane Heat,Brisbane Heat,Brisbane Heat,field,Sydney Showground Stadium,,2016-12-28,male
+1023597,Melbourne Renegades,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,Docklands Stadium,Melbourne,2016-12-29,male
+1023599,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,Brisbane Heat,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2016-12-30,male
+1023601,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,Sydney Sixers,field,Adelaide Oval,,2016-12-31,male
+1023603,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,Melbourne Stars,field,Melbourne Cricket Ground,,2017-01-01,male
+1023605,Perth Scorchers,Sydney Thunder,Perth Scorchers,Sydney Thunder,field,Western Australia Cricket Association Ground,Perth,2017-01-01,male
+1023607,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,field,Bellerive Oval,Hobart,2017-01-02,male
+1023609,Brisbane Heat,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2017-01-03,male
+1023611,Sydney Thunder,Melbourne Stars,Sydney Thunder,Sydney Thunder,field,Sydney Showground Stadium,,2017-01-04,male
+1023613,Perth Scorchers,Brisbane Heat,Brisbane Heat,Perth Scorchers,bat,Western Australia Cricket Association Ground,Perth,2017-01-05,male
+1023615,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,field,Adelaide Oval,,2017-01-06,male
+1023617,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Melbourne Renegades,field,Docklands Stadium,Melbourne,2017-01-07,male
+1023619,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,Sydney Thunder,field,Bellerive Oval,Hobart,2017-01-08,male
+1023621,Sydney Sixers,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,bat,Sydney Cricket Ground,,2017-01-09,male
+1023623,Melbourne Stars,Adelaide Strikers,Melbourne Stars,Melbourne Stars,field,Melbourne Cricket Ground,,2017-01-10,male
+1023625,Brisbane Heat,Perth Scorchers,Perth Scorchers,Brisbane Heat,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2017-01-11,male
+1023627,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,Docklands Stadium,Melbourne,2017-01-12,male
+1023629,Sydney Sixers,Sydney Thunder,Sydney Thunder,Sydney Sixers,bat,Sydney Cricket Ground,,2017-01-14,male
+1023631,Perth Scorchers,Melbourne Stars,Melbourne Stars,Perth Scorchers,bat,Western Australia Cricket Association Ground,Perth,2017-01-14,male
+1023633,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,Adelaide Strikers,field,Adelaide Oval,,2017-01-16,male
+1023635,Melbourne Stars,Brisbane Heat,Brisbane Heat,Melbourne Stars,bat,Melbourne Cricket Ground,,2017-01-17,male
+1023637,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,Sydney Thunder,field,Sydney Showground Stadium,,2017-01-18,male
+1023639,Brisbane Heat,Melbourne Renegades,Melbourne Renegades,Brisbane Heat,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2017-01-20,male
+1023641,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,Bellerive Oval,Hobart,2017-01-21,male
+1023643,Melbourne Stars,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Melbourne Cricket Ground,,2017-01-21,male
+1023645,Perth Scorchers,Melbourne Stars,Perth Scorchers,Perth Scorchers,field,Western Australia Cricket Association Ground,Perth,2017-01-24,male
+1023647,Brisbane Heat,Sydney Sixers,,Sydney Sixers,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2017-01-25,male
+1023649,Perth Scorchers,Sydney Sixers,Perth Scorchers,Perth Scorchers,field,Western Australia Cricket Association Ground,Perth,2017-01-28,male
+1114856,Sydney Thunder,Sydney Sixers,Sydney Thunder,Sydney Thunder,field,Sydney Showground Stadium,Sydney,2017-12-19,male
+1114857,Brisbane Heat,Melbourne Stars,Brisbane Heat,Melbourne Stars,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2017-12-20,male
+1114858,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,field,Bellerive Oval,Hobart,2017-12-21,male
+1114859,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Oval,Adelaide,2017-12-22,male
+1114860,Sydney Sixers,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,Sydney Cricket Ground,Sydney,2017-12-23,male
+1114861,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,Melbourne Renegades,field,Docklands Stadium,Melbourne,2017-12-23,male
+1114862,Perth Scorchers,Melbourne Stars,Perth Scorchers,Melbourne Stars,field,W.A.C.A. Ground,Perth,2017-12-26,male
+1114863,Brisbane Heat,Sydney Thunder,Brisbane Heat,Sydney Thunder,bat,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2017-12-27,male
+1114864,Sydney Sixers,Adelaide Strikers,Adelaide Strikers,Sydney Sixers,field,Sydney Cricket Ground,Sydney,2017-12-28,male
+1114865,Melbourne Renegades,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,Docklands Stadium,Melbourne,2017-12-29,male
+1114866,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,Hobart Hurricanes,field,Aurora Stadium,Launceston,2017-12-30,male
+1114867,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Oval,Adelaide,2017-12-31,male
+1114868,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,Sydney Thunder,field,Sydney Showground Stadium,Sydney,2018-01-01,male
+1114869,Perth Scorchers,Sydney Sixers,Perth Scorchers,Perth Scorchers,field,W.A.C.A. Ground,Perth,2018-01-01,male
+1114870,Melbourne Stars,Brisbane Heat,Brisbane Heat,Brisbane Heat,field,Melbourne Cricket Ground,Melbourne,2018-01-02,male
+1114871,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,field,"Simonds Stadium, South Geelong, Victoria",Geelong,2018-01-03,male
+1114872,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,bat,Bellerive Oval,Hobart,2018-01-04,male
+1114873,Brisbane Heat,Perth Scorchers,Brisbane Heat,Perth Scorchers,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2018-01-05,male
+1114874,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,field,Melbourne Cricket Ground,Melbourne,2018-01-06,male
+1114875,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,bat,Sydney Showground Stadium,Sydney,2018-01-07,male
+1114876,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,Hobart Hurricanes,bat,Bellerive Oval,Hobart,2018-01-08,male
+1114877,Perth Scorchers,Melbourne Renegades,Perth Scorchers,Perth Scorchers,field,W.A.C.A. Ground,Perth,2018-01-08,male
+1114878,Adelaide Strikers,Melbourne Stars,Adelaide Strikers,Melbourne Stars,bat,Adelaide Oval,Adelaide,2018-01-09,male
+1114879,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,bat,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2018-01-10,male
+1114880,Sydney Thunder,Perth Scorchers,Sydney Thunder,Sydney Thunder,bat,Sydney Showground Stadium,Sydney,2018-01-11,male
+1114881,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Melbourne Renegades,field,Docklands Stadium,Melbourne,2018-01-12,male
+1114882,Adelaide Strikers,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,Traeger Park,Alice Springs,2018-01-13,male
+1114883,Sydney Sixers,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Cricket Ground,Sydney,2018-01-13,male
+1114884,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,bat,Bellerive Oval,Hobart,2018-01-15,male
+1114885,Melbourne Stars,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Melbourne Cricket Ground,Melbourne,2018-01-16,male
+1114886,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Oval,Adelaide,2018-01-17,male
+1114887,Sydney Sixers,Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Sydney Cricket Ground,Sydney,2018-01-18,male
+1114888,Melbourne Stars,Sydney Thunder,Sydney Thunder,Sydney Thunder,field,Melbourne Cricket Ground,Melbourne,2018-01-20,male
+1114889,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,field,W.A.C.A. Ground,Perth,2018-01-20,male
+1114890,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,Melbourne Renegades,field,Docklands Stadium,Melbourne,2018-01-22,male
+1114891,Sydney Sixers,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Sydney Cricket Ground,Sydney,2018-01-23,male
+1114892,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,Sydney Thunder,field,Manuka Oval,Canberra,2018-01-24,male
+1114893,Perth Scorchers,Adelaide Strikers,Perth Scorchers,Perth Scorchers,field,W.A.C.A. Ground,Perth,2018-01-25,male
+1114894,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,field,Melbourne Cricket Ground,Melbourne,2018-01-27,male
+1114895,Brisbane Heat,Melbourne Renegades,Melbourne Renegades,Brisbane Heat,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2018-01-27,male
+1114896,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,Perth Scorchers,field,Perth Stadium,Perth,2018-02-01,male
+1114897,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Oval,Adelaide,2018-02-02,male
+1114898,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Oval,Adelaide,2018-02-04,male
+1152511,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2018-12-19,male
+1152512,Melbourne Renegades,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,field,Docklands Stadium,Melbourne,2018-12-20,male
+1152513,Sydney Thunder,Melbourne Stars,Sydney Thunder,Melbourne Stars,field,Manuka Oval,Canberra,2018-12-21,male
+1152514,Sydney Sixers,Perth Scorchers,Sydney Sixers,Sydney Sixers,bat,Sydney Cricket Ground,Sydney,2018-12-22,male
+1152515,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,Brisbane Heat,field,Carrara Oval,Carrara,2018-12-22,male
+1152516,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,field,Adelaide Oval,Adelaide,2018-12-23,male
+1152517,Hobart Hurricanes,Melbourne Stars,Hobart Hurricanes,Hobart Hurricanes,field,Bellerive Oval,Hobart,2018-12-24,male
+1152518,Sydney Thunder,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Sydney Showground Stadium,Sydney,2018-12-24,male
+1152519,Perth Scorchers,Adelaide Strikers,Perth Scorchers,Perth Scorchers,field,Perth Stadium,Perth,2018-12-26,male
+1152520,Sydney Sixers,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Sydney Cricket Ground,Sydney,2018-12-27,male
+1152521,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,field,Bellerive Oval,Hobart,2018-12-28,male
+1152522,Melbourne Renegades,Sydney Sixers,Sydney Sixers,Melbourne Renegades,field,Docklands Stadium,Melbourne,2018-12-29,male
+1152523,Hobart Hurricanes,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,field,Aurora Stadium,Launceston,2018-12-30,male
+1152524,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Oval,Adelaide,2018-12-31,male
+1152525,Brisbane Heat,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Carrara Oval,Carrara,2019-01-01,male
+1152526,Melbourne Stars,Melbourne Renegades,Melbourne Stars,Melbourne Stars,field,Melbourne Cricket Ground,Melbourne,2019-01-01,male
+1152527,Sydney Thunder,Perth Scorchers,Sydney Thunder,Sydney Thunder,bat,Sydney Showground Stadium,Sydney,2019-01-02,male
+1152528,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,Melbourne Renegades,field,"Simonds Stadium, South Geelong, Victoria",Geelong,2019-01-03,male
+1152529,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,Hobart Hurricanes,field,Bellerive Oval,Hobart,2019-01-04,male
+1152530,Melbourne Stars,Sydney Thunder,Melbourne Stars,Sydney Thunder,bat,Carrara Oval,Carrara,2019-01-05,male
+1152531,Perth Scorchers,Brisbane Heat,Brisbane Heat,Brisbane Heat,field,Perth Stadium,Perth,2019-01-05,male
+1152532,Adelaide Strikers,Sydney Sixers,Sydney Sixers,Adelaide Strikers,bat,Adelaide Oval,Adelaide,2019-01-06,male
+1152533,Melbourne Renegades,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,field,Docklands Stadium,Melbourne,2019-01-07,male
+1152534,Sydney Thunder,Brisbane Heat,Brisbane Heat,Sydney Thunder,field,Sydney Showground Stadium,Sydney,2019-01-08,male
+1152535,Melbourne Stars,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,Melbourne Cricket Ground,Melbourne,2019-01-09,male
+1152536,Brisbane Heat,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2019-01-10,male
+1152537,Adelaide Strikers,Melbourne Stars,Adelaide Strikers,Melbourne Stars,field,Adelaide Oval,Adelaide,2019-01-11,male
+1152538,Sydney Thunder,Adelaide Strikers,Sydney Thunder,Sydney Thunder,bat,Sydney Showground Stadium,Sydney,2019-01-13,male
+1152539,Melbourne Renegades,Brisbane Heat,Brisbane Heat,Melbourne Renegades,field,Geelong Cricket Ground,Geelong,2019-01-13,male
+1152540,Perth Scorchers,Sydney Sixers,Perth Scorchers,Perth Scorchers,field,Perth Stadium,Perth,2019-01-13,male
+1152541,Melbourne Stars,Hobart Hurricanes,Hobart Hurricanes,Melbourne Stars,field,Melbourne Cricket Ground,Melbourne,2019-01-14,male
+1152542,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,field,Sydney Cricket Ground,Sydney,2019-01-16,male
+1152543,Brisbane Heat,Sydney Thunder,,Sydney Thunder,bat,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2019-01-17,male
+1152544,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,Perth Stadium,Perth,2019-01-18,male
+1152545,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Docklands Stadium,Melbourne,2019-01-19,male
+1152546,Sydney Sixers,Brisbane Heat,Sydney Sixers,Brisbane Heat,field,Sydney Cricket Ground,Sydney,2019-01-20,male
+1152547,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,Adelaide Strikers,bat,Adelaide Oval,Adelaide,2019-01-21,male
+1152548,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,Sydney Thunder,field,Sydney Showground Stadium,Sydney,2019-01-22,male
+1152549,Melbourne Stars,Adelaide Strikers,Melbourne Stars,Adelaide Strikers,field,Ted Summerton Reserve,Moe,2019-01-23,male
+1152550,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,field,Sydney Cricket Ground,Sydney,2019-01-23,male
+1152551,Perth Scorchers,Sydney Thunder,Sydney Thunder,Sydney Thunder,field,Perth Stadium,Perth,2019-01-24,male
+1152552,Melbourne Stars,Brisbane Heat,Melbourne Stars,Brisbane Heat,field,Melbourne Cricket Ground,Melbourne,2019-01-27,male
+1152553,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,Perth Scorchers,field,Perth Stadium,Perth,2019-01-28,male
+1152554,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,field,Bellerive Oval,Hobart,2019-01-29,male
+1152555,Sydney Sixers,Adelaide Strikers,Sydney Sixers,Sydney Sixers,field,Sydney Cricket Ground,Sydney,2019-01-29,male
+1152556,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,bat,Docklands Stadium,Melbourne,2019-01-30,male
+1152557,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,field,Aurora Stadium,Launceston,2019-01-31,male
+1152558,Brisbane Heat,Perth Scorchers,Brisbane Heat,Brisbane Heat,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2019-02-01,male
+1152559,Sydney Sixers,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Cricket Ground,Sydney,2019-02-02,male
+1152560,Adelaide Strikers,Brisbane Heat,Brisbane Heat,Brisbane Heat,field,Adelaide Oval,Adelaide,2019-02-03,male
+1152561,Perth Scorchers,Melbourne Stars,Perth Scorchers,Melbourne Stars,field,Perth Stadium,Perth,2019-02-03,male
+1152562,Hobart Hurricanes,Melbourne Renegades,Hobart Hurricanes,Melbourne Renegades,field,Bellerive Oval,Hobart,2019-02-07,male
+1152563,Brisbane Heat,Melbourne Stars,Brisbane Heat,Brisbane Heat,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2019-02-08,male
+1152564,Adelaide Strikers,Perth Scorchers,Adelaide Strikers,Perth Scorchers,bat,Adelaide Oval,Adelaide,2019-02-09,male
+1152565,Sydney Thunder,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,field,Manuka Oval,Canberra,2019-02-09,male
+1152566,Melbourne Stars,Sydney Sixers,Melbourne Stars,Sydney Sixers,field,Melbourne Cricket Ground,Melbourne,2019-02-10,male
+1152567,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Bellerive Oval,Hobart,2019-02-14,male
+1152568,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,field,Docklands Stadium,Melbourne,2019-02-15,male
+1152569,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,Melbourne Stars,field,Docklands Stadium,Melbourne,2019-02-17,male
+1195573,Brisbane Heat,Sydney Thunder,Sydney Thunder,Sydney Thunder,bat,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2019-12-17,male
+1195574,Sydney Sixers,Perth Scorchers,Sydney Sixers,Sydney Sixers,field,Sydney Cricket Ground,Sydney,2019-12-18,male
+1195575,Melbourne Renegades,Sydney Thunder,Sydney Thunder,Melbourne Renegades,bat,"Simonds Stadium, South Geelong, Victoria",Geelong,2019-12-19,male
+1195576,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,Hobart Hurricanes,bat,Traeger Park,Alice Springs,2019-12-20,male
+1195577,Brisbane Heat,Melbourne Stars,Melbourne Stars,Brisbane Heat,field,Carrara Oval,Carrara,2019-12-20,male
+1195578,Sydney Thunder,Adelaide Strikers,,Sydney Thunder,field,Manuka Oval,Canberra,2019-12-21,male
+1195579,Perth Scorchers,Melbourne Renegades,Perth Scorchers,Melbourne Renegades,field,Perth Stadium,Perth,2019-12-21,male
+1195580,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,bat,Ted Summerton Reserve,Moe,2019-12-22,male
+1195581,Sydney Sixers,Brisbane Heat,Brisbane Heat,Sydney Sixers,field,Sydney Cricket Ground,Sydney,2019-12-22,male
+1195582,Adelaide Strikers,Perth Scorchers,Adelaide Strikers,Perth Scorchers,field,Adelaide Oval,Adelaide,2019-12-23,male
+1195583,Hobart Hurricanes,Melbourne Renegades,Hobart Hurricanes,Melbourne Renegades,bat,Bellerive Oval,Hobart,2019-12-24,male
+1195584,Perth Scorchers,Sydney Sixers,Sydney Sixers,Perth Scorchers,field,Perth Stadium,Perth,2019-12-26,male
+1195585,Melbourne Stars,Adelaide Strikers,Adelaide Strikers,Melbourne Stars,field,Carrara Oval,Carrara,2019-12-27,male
+1195586,Sydney Sixers,Sydney Thunder,,Sydney Thunder,bat,Sydney Cricket Ground,Sydney,2019-12-28,male
+1195587,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,bat,Docklands Stadium,Melbourne,2019-12-29,male
+1195588,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Aurora Stadium,Launceston,2019-12-30,male
+1195589,Adelaide Strikers,Sydney Thunder,Sydney Thunder,Sydney Thunder,bat,Adelaide Oval,Adelaide,2019-12-31,male
+1195590,Brisbane Heat,Perth Scorchers,Perth Scorchers,Perth Scorchers,bat,Carrara Oval,Carrara,2020-01-01,male
+1195591,Sydney Thunder,Melbourne Stars,Melbourne Stars,Sydney Thunder,bat,Sydney Showground Stadium,Sydney,2020-01-02,male
+1195592,Melbourne Renegades,Sydney Sixers,Sydney Sixers,Melbourne Renegades,bat,Docklands Stadium,Melbourne,2020-01-02,male
+1195593,Hobart Hurricanes,Brisbane Heat,Brisbane Heat,Hobart Hurricanes,field,Bellerive Oval,Hobart,2020-01-03,male
+1195594,Melbourne Stars,Melbourne Renegades,Melbourne Stars,Melbourne Stars,field,Melbourne Cricket Ground,Melbourne,2020-01-04,male
+1195595,Sydney Sixers,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,bat,International Sports Stadium,Coffs Harbour,2020-01-05,male
+1195596,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,bat,Perth Stadium,Perth,2020-01-05,male
+1195597,Sydney Thunder,Brisbane Heat,Brisbane Heat,Brisbane Heat,bat,Sydney Showground Stadium,Sydney,2020-01-06,male
+1195598,Melbourne Renegades,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,"Simonds Stadium, South Geelong, Victoria",Geelong,2020-01-07,male
+1195599,Adelaide Strikers,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Adelaide Oval,Adelaide,2020-01-08,male
+1195600,Melbourne Stars,Sydney Thunder,Melbourne Stars,Melbourne Stars,field,Melbourne Cricket Ground,Melbourne,2020-01-08,male
+1195601,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,bat,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2020-01-09,male
+1195602,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Docklands Stadium,Melbourne,2020-01-10,male
+1195603,Sydney Thunder,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,field,Sydney Showground Stadium,Sydney,2020-01-11,male
+1195604,Perth Scorchers,Brisbane Heat,Perth Scorchers,Perth Scorchers,bat,Perth Stadium,Perth,2020-01-11,male
+1195605,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Oval,Adelaide,2020-01-12,male
+1195606,Melbourne Stars,Sydney Sixers,Melbourne Stars,Sydney Sixers,field,Melbourne Cricket Ground,Melbourne,2020-01-12,male
+1195607,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,Hobart Hurricanes,field,Bellerive Oval,Hobart,2020-01-13,male
+1195608,Brisbane Heat,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,bat,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2020-01-14,male
+1195609,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,bat,Manuka Oval,Canberra,2020-01-15,male
+1195610,Perth Scorchers,Melbourne Stars,Melbourne Stars,Perth Scorchers,bat,Perth Stadium,Perth,2020-01-15,male
+1195611,Sydney Sixers,Hobart Hurricanes,,Hobart Hurricanes,field,Sydney Cricket Ground,Sydney,2020-01-16,male
+1195612,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,Brisbane Heat,bat,Adelaide Oval,Adelaide,2020-01-17,male
+1195613,Melbourne Stars,Perth Scorchers,Melbourne Stars,Melbourne Stars,bat,Melbourne Cricket Ground,Melbourne,2020-01-18,male
+1195614,Sydney Thunder,Sydney Sixers,Sydney Thunder,Sydney Thunder,field,Sydney Showground Stadium,Sydney,2020-01-18,male
+1195615,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,Hobart Hurricanes,field,Aurora Stadium,Launceston,2020-01-19,male
+1195616,Brisbane Heat,Melbourne Renegades,Melbourne Renegades,Brisbane Heat,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2020-01-19,male
+1195617,Sydney Sixers,Melbourne Stars,Sydney Sixers,Melbourne Stars,field,Sydney Cricket Ground,Sydney,2020-01-20,male
+1195618,Perth Scorchers,Sydney Thunder,Perth Scorchers,Sydney Thunder,bat,Perth Stadium,Perth,2020-01-20,male
+1195619,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,Melbourne Renegades,field,Docklands Stadium,Melbourne,2020-01-21,male
+1195620,Adelaide Strikers,Melbourne Stars,Adelaide Strikers,Melbourne Stars,field,Adelaide Oval,Adelaide,2020-01-22,male
+1195621,Brisbane Heat,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2020-01-23,male
+1195622,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,bat,Bellerive Oval,Hobart,2020-01-24,male
+1195623,Perth Scorchers,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,bat,Perth Stadium,Perth,2020-01-24,male
+1195624,Sydney Sixers,Melbourne Renegades,Sydney Sixers,Sydney Sixers,field,Sydney Cricket Ground,Sydney,2020-01-25,male
+1195625,Melbourne Stars,Brisbane Heat,Brisbane Heat,Brisbane Heat,bat,Melbourne Cricket Ground,Melbourne,2020-01-25,male
+1195626,Sydney Thunder,Perth Scorchers,Sydney Thunder,Perth Scorchers,bat,Sydney Showground Stadium,Sydney,2020-01-26,male
+1195627,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,bat,Adelaide Oval,Adelaide,2020-01-26,male
+1195628,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,Brisbane Heat,bat,Docklands Stadium,Melbourne,2020-01-27,male
+1195629,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,Sydney Thunder,bat,Bellerive Oval,Hobart,2020-01-30,male
+1195630,Melbourne Stars,Sydney Sixers,Sydney Sixers,Melbourne Stars,field,Melbourne Cricket Ground,Melbourne,2020-01-31,male
+1195631,Adelaide Strikers,Sydney Thunder,Sydney Thunder,Adelaide Strikers,field,Adelaide Oval,Adelaide,2020-02-01,male
+1195632,Melbourne Stars,Sydney Thunder,Melbourne Stars,Melbourne Stars,bat,Melbourne Cricket Ground,Melbourne,2020-02-06,male
+1195633,Sydney Sixers,Melbourne Stars,Sydney Sixers,Melbourne Stars,field,Sydney Cricket Ground,Sydney,2020-02-08,male
+1226826,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,Adelaide Strikers,bat,Adelaide Oval,Adelaide,2021-01-08,male
+1226827,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,field,Melbourne Cricket Ground,Melbourne,2021-01-24,male
+1226828,Melbourne Stars,Sydney Thunder,Melbourne Stars,Melbourne Stars,bat,Manuka Oval,Canberra,2020-12-12,male
+1226829,Perth Scorchers,Sydney Sixers,Perth Scorchers,Sydney Sixers,field,Perth Stadium,Perth,2021-01-06,male
+1226830,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,Bellerive Oval,Hobart,2020-12-19,male
+1226831,Perth Scorchers,Sydney Thunder,Sydney Thunder,Sydney Thunder,field,Manuka Oval,Canberra,2020-12-22,male
+1226832,Sydney Sixers,Brisbane Heat,Brisbane Heat,Sydney Sixers,bat,Brisbane Cricket Ground,Brisbane,2021-01-02,male
+1226833,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Oval,Adelaide,2021-01-05,male
+1226834,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,bat,Docklands Stadium,Melbourne,2021-01-22,male
+1226835,Brisbane Heat,Melbourne Stars,Brisbane Heat,Melbourne Stars,field,Carrara Oval,Carrara,2021-01-07,male
+1226836,Adelaide Strikers,Sydney Thunder,Sydney Thunder,Sydney Thunder,field,Adelaide Oval,Adelaide,2021-01-25,male
+1226837,Sydney Sixers,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,field,Bellerive Oval,Hobart,2020-12-13,male
+1226838,Perth Scorchers,Brisbane Heat,Perth Scorchers,Brisbane Heat,field,Docklands Stadium,Melbourne,2021-01-19,male
+1226839,Melbourne Stars,Adelaide Strikers,Melbourne Stars,Adelaide Strikers,field,Melbourne Cricket Ground,Melbourne,2021-01-15,male
+1226840,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,Manuka Oval,Canberra,2021-01-18,male
+1226841,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,Perth Scorchers,bat,Bellerive Oval,Hobart,2020-12-12,male
+1226842,Adelaide Strikers,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Carrara Oval,Carrara,2021-01-03,male
+1226843,Melbourne Renegades,Brisbane Heat,Brisbane Heat,Brisbane Heat,field,Manuka Oval,Canberra,2021-01-14,male
+1226844,Hobart Hurricanes,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Bellerive Oval,Hobart,2021-01-02,male
+1226845,Adelaide Strikers,Perth Scorchers,Adelaide Strikers,Perth Scorchers,field,Adelaide Oval,Adelaide,2020-12-28,male
+1226846,Melbourne Stars,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Carrara Oval,Carrara,2020-12-26,male
+1226847,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Oval,Adelaide,2021-01-24,male
+1226848,Brisbane Heat,Melbourne Renegades,Brisbane Heat,Brisbane Heat,bat,Docklands Stadium,Melbourne,2021-01-23,male
+1226849,Perth Scorchers,Melbourne Stars,Perth Scorchers,Melbourne Stars,field,Melbourne Cricket Ground,Melbourne,2021-01-23,male
+1226850,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,field,Bellerive Oval,Hobart,2020-12-13,male
+1226851,Sydney Thunder,Brisbane Heat,Brisbane Heat,Sydney Thunder,bat,Brisbane Cricket Ground,Brisbane,2021-01-04,male
+1226852,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,field,Bellerive Oval,Hobart,2020-12-10,male
+1226853,Perth Scorchers,Melbourne Renegades,Perth Scorchers,Melbourne Renegades,field,Perth Stadium,Perth,2021-01-03,male
+1226854,Sydney Thunder,Melbourne Stars,Sydney Thunder,Melbourne Stars,field,Manuka Oval,Canberra,2020-12-29,male
+1226855,Brisbane Heat,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Carrara Oval,Carrara,2021-01-10,male
+1226856,Melbourne Renegades,Sydney Thunder,Sydney Thunder,Sydney Thunder,field,Carrara Oval,Carrara,2021-01-01,male
+1226857,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,Hobart Hurricanes,bat,Perth Stadium,Perth,2021-01-12,male
+1226858,Melbourne Stars,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Melbourne Cricket Ground,Melbourne,2021-01-26,male
+1226859,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Oval,Adelaide,2021-01-21,male
+1226860,Melbourne Renegades,Hobart Hurricanes,Melbourne Renegades,Hobart Hurricanes,field,Melbourne Cricket Ground,Melbourne,2021-01-26,male
+1226861,Sydney Thunder,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Manuka Oval,Canberra,2021-01-13,male
+1226862,Brisbane Heat,Perth Scorchers,Brisbane Heat,Perth Scorchers,field,Adelaide Oval,Adelaide,2021-01-26,male
+1226863,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,field,Aurora Stadium,Launceston,2020-12-15,male
+1226864,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Melbourne Renegades,bat,Melbourne Cricket Ground,Melbourne,2021-01-17,male
+1226865,Perth Scorchers,Sydney Sixers,Sydney Sixers,Perth Scorchers,bat,Manuka Oval,Canberra,2021-01-16,male
+1226866,Brisbane Heat,Sydney Thunder,Sydney Thunder,Brisbane Heat,bat,Manuka Oval,Canberra,2020-12-14,male
+1226867,Perth Scorchers,Melbourne Stars,,Melbourne Stars,field,Aurora Stadium,Launceston,2020-12-16,male
+1226868,Hobart Hurricanes,Brisbane Heat,Brisbane Heat,Brisbane Heat,field,Brisbane Cricket Ground,Brisbane,2020-12-27,male
+1226869,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,Melbourne Stars,bat,Docklands Stadium,Melbourne,2021-01-20,male
+1226870,Adelaide Strikers,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,Adelaide Oval,Adelaide,2020-12-31,male
+1226871,Sydney Thunder,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,field,Perth Stadium,Perth,2021-01-07,male
+1226872,Brisbane Heat,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Manuka Oval,Canberra,2020-12-11,male
+1226873,Sydney Sixers,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,field,Bellerive Oval,Hobart,2020-12-20,male
+1226874,Sydney Thunder,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,field,Manuka Oval,Canberra,2020-12-26,male
+1226875,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,field,Brisbane Cricket Ground,Brisbane,2020-12-30,male
+1226876,Melbourne Stars,Adelaide Strikers,Adelaide Strikers,Melbourne Stars,bat,Adelaide Oval,Adelaide,2021-01-11,male
+1226877,Melbourne Renegades,Sydney Sixers,Sydney Sixers,Melbourne Renegades,bat,Carrara Oval,Carrara,2020-12-29,male
+1226878,Perth Scorchers,Sydney Thunder,Perth Scorchers,Sydney Thunder,field,Perth Stadium,Perth,2021-01-09,male
+1226879,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,Hobart Hurricanes,field,Bellerive Oval,Hobart,2021-01-04,male
+1226880,Sydney Thunder,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Adelaide Oval,Adelaide,2021-01-22,male
+1226881,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,Brisbane Heat,field,Brisbane Cricket Ground,Brisbane,2020-12-23,male
+1226882,Sydney Sixers,Perth Scorchers,Sydney Sixers,Perth Scorchers,field,Sydney Cricket Ground,Sydney,2021-02-06,male
+1226883,Adelaide Strikers,Brisbane Heat,Brisbane Heat,Adelaide Strikers,bat,Brisbane Cricket Ground,Brisbane,2021-01-29,male
+1226884,Perth Scorchers,Sydney Sixers,Sydney Sixers,Perth Scorchers,bat,Manuka Oval,Canberra,2021-01-30,male
+1226885,Sydney Thunder,Brisbane Heat,Brisbane Heat,Brisbane Heat,field,Manuka Oval,Canberra,2021-01-31,male
+1226886,Perth Scorchers,Brisbane Heat,Perth Scorchers,Brisbane Heat,field,Manuka Oval,Canberra,2021-02-04,male
+1269638,Sydney Sixers,Melbourne Stars,Sydney Sixers,Melbourne Stars,field,Sydney Cricket Ground,Sydney,2021-12-05,male
+1269639,Brisbane Heat,Sydney Thunder,Sydney Thunder,Sydney Thunder,field,"Manuka Oval, Canberra",Canberra,2021-12-06,male
+1269640,Melbourne Renegades,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,bat,"Docklands Stadium, Melbourne",Melbourne,2021-12-07,male
+1269641,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,field,"Aurora Stadium, Launceston",Launceston,2021-12-08,male
+1269642,Perth Scorchers,Brisbane Heat,Perth Scorchers,Perth Scorchers,bat,Perth Stadium,Perth,2021-12-08,male
+1269643,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Oval,Adelaide,2021-12-09,male
+1269644,Melbourne Stars,Sydney Thunder,Melbourne Stars,Sydney Thunder,field,Melbourne Cricket Ground,Melbourne,2021-12-10,male
+1269645,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,Hobart Hurricanes,bat,Sydney Cricket Ground,Sydney,2021-12-11,male
+1269646,Perth Scorchers,Adelaide Strikers,Perth Scorchers,Perth Scorchers,bat,Sydney Showground Stadium,Sydney,2021-12-11,male
+1269647,Sydney Thunder,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Sydney Showground Stadium,Sydney,2021-12-12,male
+1269648,Melbourne Renegades,Brisbane Heat,Brisbane Heat,Brisbane Heat,field,Carrara Oval,Carrara,2021-12-13,male
+1269649,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,bat,"Bellerive Oval, Hobart",Hobart,2021-12-14,male
+1269650,Melbourne Stars,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Melbourne Cricket Ground,Melbourne,2021-12-15,male
+1269651,Sydney Thunder,Brisbane Heat,Sydney Thunder,Brisbane Heat,field,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2021-12-19,male
+1269652,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,bat,"Bellerive Oval, Hobart",Hobart,2021-12-20,male
+1269653,Adelaide Strikers,Sydney Sixers,Sydney Sixers,Adelaide Strikers,bat,Sydney Cricket Ground,Sydney,2021-12-21,male
+1269654,Perth Scorchers,Melbourne Renegades,Perth Scorchers,Perth Scorchers,bat,"Docklands Stadium, Melbourne",Melbourne,2021-12-22,male
+1269655,Brisbane Heat,Adelaide Strikers,Brisbane Heat,Brisbane Heat,bat,Adelaide Oval,Adelaide,2021-12-23,male
+1269656,Hobart Hurricanes,Melbourne Stars,Hobart Hurricanes,Hobart Hurricanes,bat,"Bellerive Oval, Hobart",Hobart,2021-12-24,male
+1269657,Sydney Sixers,Sydney Thunder,Sydney Sixers,Sydney Thunder,field,Sydney Showground Stadium,Sydney,2021-12-26,male
+1269658,Melbourne Renegades,Perth Scorchers,Perth Scorchers,Melbourne Renegades,bat,"Docklands Stadium, Melbourne",Melbourne,2021-12-26,male
+1269659,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,Adelaide Strikers,bat,"Bellerive Oval, Hobart",Hobart,2021-12-27,male
+1269660,Melbourne Stars,Brisbane Heat,Melbourne Stars,Brisbane Heat,field,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2021-12-27,male
+1269661,Sydney Thunder,Perth Scorchers,Sydney Thunder,Perth Scorchers,field,"Manuka Oval, Canberra",Canberra,2021-12-28,male
+1269662,Brisbane Heat,Sydney Sixers,Sydney Sixers,Brisbane Heat,bat,Sydney Cricket Ground,Sydney,2021-12-29,male
+1269663,Hobart Hurricanes,Melbourne Renegades,Hobart Hurricanes,Melbourne Renegades,field,"Docklands Stadium, Melbourne",Melbourne,2021-12-29,male
+1269664,Perth Scorchers,Melbourne Stars,Perth Scorchers,Perth Scorchers,bat,"GMHBA Stadium, South Geelong, Victoria",Geelong,2022-01-11,male
+1269665,Sydney Thunder,Adelaide Strikers,Sydney Thunder,Sydney Thunder,bat,Adelaide Oval,Adelaide,2021-12-31,male
+1269666,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,field,"Bellerive Oval, Hobart",Hobart,2022-01-01,male
+1269668,Perth Scorchers,Melbourne Stars,Perth Scorchers,Perth Scorchers,bat,"Junction Oval, Melbourne",Melbourne,2022-01-02,male
+1269669,Sydney Thunder,Adelaide Strikers,Sydney Thunder,Sydney Thunder,bat,Sydney Showground Stadium,Sydney,2022-01-02,male
+1269670,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,Melbourne Stars,bat,Melbourne Cricket Ground,Melbourne,2022-01-03,male
+1269671,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,bat,Melbourne Cricket Ground,Melbourne,2022-01-21,male
+1269672,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,field,Adelaide Oval,Adelaide,2022-01-05,male
+1269673,Perth Scorchers,Sydney Thunder,Sydney Thunder,Perth Scorchers,bat,Carrara Oval,Carrara,2022-01-06,male
+1269674,Brisbane Heat,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,field,"GMHBA Stadium, South Geelong, Victoria",Geelong,2022-01-06,male
+1269675,Perth Scorchers,Sydney Sixers,Perth Scorchers,Perth Scorchers,bat,Carrara Oval,Carrara,2022-01-04,male
+1269676,Adelaide Strikers,Melbourne Stars,Adelaide Strikers,Melbourne Stars,field,Adelaide Oval,Adelaide,2022-01-15,male
+1269677,Sydney Thunder,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,field,"Docklands Stadium, Melbourne",Melbourne,2022-01-08,male
+1269678,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2022-01-08,male
+1269679,Sydney Sixers,Perth Scorchers,Perth Scorchers,Sydney Sixers,bat,"International Sports Stadium, Coffs Harbour",Coffs Harbour,2022-01-09,male
+1269680,Adelaide Strikers,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Melbourne Cricket Ground,Melbourne,2022-01-10,male
+1269681,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,Hobart Hurricanes,bat,Melbourne Cricket Ground,Melbourne,2022-01-10,male
+1269682,Sydney Sixers,Melbourne Renegades,Sydney Sixers,Sydney Sixers,bat,"GMHBA Stadium, South Geelong, Victoria",Geelong,2022-01-11,male
+1269683,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,bat,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2022-01-12,male
+1269684,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,bat,"Docklands Stadium, Melbourne",Melbourne,2022-01-13,male
+1269685,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Melbourne Renegades,bat,"Docklands Stadium, Melbourne",Melbourne,2022-01-13,male
+1269686,Perth Scorchers,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,field,Adelaide Oval,Adelaide,2022-01-14,male
+1269687,Sydney Sixers,Sydney Thunder,Sydney Sixers,Sydney Thunder,field,Sydney Cricket Ground,Sydney,2022-01-15,male
+1269688,Brisbane Heat,Melbourne Stars,Melbourne Stars,Brisbane Heat,bat,Melbourne Cricket Ground,Melbourne,2022-01-16,male
+1269689,Sydney Sixers,Adelaide Strikers,Adelaide Strikers,Sydney Sixers,bat,Adelaide Oval,Adelaide,2022-01-17,male
+1269690,Brisbane Heat,Perth Scorchers,Perth Scorchers,Brisbane Heat,bat,"Docklands Stadium, Melbourne",Melbourne,2022-01-17,male
+1269691,Hobart Hurricanes,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,bat,"Docklands Stadium, Melbourne",Melbourne,2022-01-18,male
+1269692,Sydney Sixers,Brisbane Heat,Sydney Sixers,Brisbane Heat,field,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2022-01-19,male
+1269693,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,Hobart Hurricanes,field,Melbourne Cricket Ground,Melbourne,2022-01-19,male
+1269694,Sydney Thunder,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,field,Melbourne Cricket Ground,Melbourne,2022-01-19,male
+1269695,Perth Scorchers,Sydney Sixers,Perth Scorchers,Perth Scorchers,bat,"Docklands Stadium, Melbourne",Melbourne,2022-01-22,male
+1269696,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,bat,Melbourne Cricket Ground,Melbourne,2022-01-23,male
+1269697,Adelaide Strikers,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Sydney Cricket Ground,Sydney,2022-01-26,male
+1269698,Perth Scorchers,Sydney Sixers,Perth Scorchers,Sydney Sixers,field,"Docklands Stadium, Melbourne",Melbourne,2022-01-28,male
+1324624,Melbourne Stars,Sydney Thunder,Sydney Thunder,Sydney Thunder,field,"Manuka Oval, Canberra",Canberra,2022-12-13,male
+1324625,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Oval,Adelaide,2022-12-14,male
+1324626,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,Brisbane Heat,field,"Cazaly's Stadium, Cairns",Cairns,2022-12-15,male
+1324627,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,Hobart Hurricanes,field,Melbourne Cricket Ground,Melbourne,2022-12-16,male
+1324628,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,bat,Sydney Showground Stadium,Sydney,2022-12-16,male
+1324629,Perth Scorchers,Sydney Sixers,Perth Scorchers,Perth Scorchers,bat,Perth Stadium,Perth,2022-12-17,male
+1324630,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,Sydney Thunder,bat,"Docklands Stadium, Melbourne",Melbourne,2022-12-18,male
+1324631,Hobart Hurricanes,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,bat,"University of Tasmania Stadium, Launceston",Launceston,2022-12-19,male
+1324632,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,Sydney Thunder,bat,Adelaide Oval,Adelaide,2022-12-20,male
+1324633,Brisbane Heat,Melbourne Renegades,Melbourne Renegades,Brisbane Heat,bat,"GMHBA Stadium, South Geelong, Victoria",Geelong,2022-12-21,male
+1324634,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,bat,Sydney Cricket Ground,Sydney,2022-12-22,male
+1324635,Perth Scorchers,Melbourne Stars,Perth Scorchers,Perth Scorchers,bat,"Junction Oval, Melbourne",Melbourne,2022-12-23,male
+1324636,Brisbane Heat,Adelaide Strikers,Brisbane Heat,Brisbane Heat,bat,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2022-12-23,male
+1324637,Hobart Hurricanes,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,bat,"Bellerive Oval, Hobart",Hobart,2022-12-24,male
+1324638,Melbourne Stars,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Sydney Cricket Ground,Sydney,2022-12-26,male
+1324639,Adelaide Strikers,Perth Scorchers,Perth Scorchers,Adelaide Strikers,bat,Perth Stadium,Perth,2022-12-26,male
+1324640,Brisbane Heat,Sydney Thunder,Sydney Thunder,Brisbane Heat,bat,Sydney Showground Stadium,Sydney,2022-12-27,male
+1324641,Sydney Sixers,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,field,Sydney Cricket Ground,Sydney,2022-12-28,male
+1324642,Sydney Thunder,Brisbane Heat,Sydney Thunder,Brisbane Heat,field,Carrara Oval,Carrara,2022-12-29,male
+1324643,Melbourne Stars,Perth Scorchers,Perth Scorchers,Melbourne Stars,bat,Perth Stadium,Perth,2022-12-29,male
+1324644,Melbourne Renegades,Sydney Sixers,Sydney Sixers,Melbourne Renegades,bat,"GMHBA Stadium, South Geelong, Victoria",Geelong,2022-12-30,male
+1324645,Sydney Thunder,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,field,"Lavington Sports Oval, Albury",Albury,2022-12-31,male
+1324646,Melbourne Stars,Adelaide Strikers,Melbourne Stars,Melbourne Stars,bat,Adelaide Oval,Adelaide,2022-12-31,male
+1324647,Melbourne Renegades,Perth Scorchers,Perth Scorchers,Melbourne Renegades,bat,"Docklands Stadium, Melbourne",Melbourne,2023-01-01,male
+1324648,Brisbane Heat,Sydney Sixers,Brisbane Heat,Brisbane Heat,bat,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2023-01-01,male
+1324649,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,Adelaide Strikers,bat,"Bellerive Oval, Hobart",Hobart,2023-01-02,male
+1324650,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,Melbourne Stars,field,Melbourne Cricket Ground,Melbourne,2023-01-03,male
+1324651,Brisbane Heat,Sydney Sixers,,Sydney Sixers,field,"North Sydney Oval, Sydney",Sydney,2023-01-04,male
+1324652,Perth Scorchers,Sydney Thunder,Sydney Thunder,Perth Scorchers,bat,Perth Stadium,Perth,2023-01-04,male
+1324653,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,field,Adelaide Oval,Adelaide,2023-01-05,male
+1324654,Melbourne Stars,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Melbourne Cricket Ground,Melbourne,2023-01-06,male
+1324655,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,field,"Docklands Stadium, Melbourne",Melbourne,2023-01-07,male
+1324656,Brisbane Heat,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,Perth Stadium,Perth,2023-01-07,male
+1324657,Sydney Thunder,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Sydney Showground Stadium,Sydney,2023-01-08,male
+1324658,Melbourne Stars,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,"Bellerive Oval, Hobart",Hobart,2023-01-09,male
+1324659,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,Melbourne Renegades,field,Adelaide Oval,Adelaide,2023-01-10,male
+1324660,Brisbane Heat,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2023-01-11,male
+1324661,Adelaide Strikers,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Melbourne Cricket Ground,Melbourne,2023-01-12,male
+1324662,Sydney Thunder,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,Sydney Showground Stadium,Sydney,2023-01-13,male
+1324663,Brisbane Heat,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,field,Adelaide Oval,Adelaide,2023-01-14,male
+1324664,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,Melbourne Stars,field,"Docklands Stadium, Melbourne",Melbourne,2023-01-14,male
+1324665,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,Sydney Thunder,bat,"Bellerive Oval, Hobart",Hobart,2023-01-15,male
+1324666,Sydney Sixers,Perth Scorchers,Sydney Sixers,Perth Scorchers,field,Sydney Cricket Ground,Sydney,2023-01-15,male
+1324667,Melbourne Stars,Brisbane Heat,Brisbane Heat,Brisbane Heat,field,Melbourne Cricket Ground,Melbourne,2023-01-16,male
+1324668,Sydney Sixers,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,field,"International Sports Stadium, Coffs Harbour",Coffs Harbour,2023-01-17,male
+1324669,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,Hobart Hurricanes,bat,Perth Stadium,Perth,2023-01-18,male
+1324670,Melbourne Renegades,Sydney Thunder,Sydney Thunder,Melbourne Renegades,bat,"Manuka Oval, Canberra",Canberra,2023-01-19,male
+1324671,Adelaide Strikers,Perth Scorchers,Perth Scorchers,Adelaide Strikers,bat,Adelaide Oval,Adelaide,2023-01-20,male
+1324672,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,field,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2023-01-20,male
+1324673,Sydney Sixers,Sydney Thunder,Sydney Sixers,Sydney Sixers,bat,Sydney Cricket Ground,Sydney,2023-01-21,male
+1324674,Brisbane Heat,Melbourne Stars,Brisbane Heat,Brisbane Heat,bat,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2023-01-22,male
+1324675,Perth Scorchers,Melbourne Renegades,Perth Scorchers,Melbourne Renegades,field,Perth Stadium,Perth,2023-01-22,male
+1324676,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,field,"Bellerive Oval, Hobart",Hobart,2023-01-23,male
+1324677,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,field,"Docklands Stadium, Melbourne",Melbourne,2023-01-24,male
+1324678,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,field,"University of Tasmania Stadium, Launceston",Launceston,2023-01-25,male
+1324679,Melbourne Stars,Sydney Thunder,Sydney Thunder,Sydney Thunder,field,Melbourne Cricket Ground,Melbourne,2023-01-25,male
+1324680,Brisbane Heat,Sydney Thunder,Brisbane Heat,Sydney Thunder,field,Sydney Showground Stadium,Sydney,2023-01-27,male
+1324681,Sydney Sixers,Perth Scorchers,Perth Scorchers,Sydney Sixers,bat,Perth Stadium,Perth,2023-01-28,male
+1324682,Melbourne Renegades,Brisbane Heat,Brisbane Heat,Brisbane Heat,field,"Docklands Stadium, Melbourne",Melbourne,2023-01-29,male
+1324683,Sydney Sixers,Brisbane Heat,Brisbane Heat,Sydney Sixers,bat,Sydney Cricket Ground,Sydney,2023-02-02,male
+1324684,Brisbane Heat,Perth Scorchers,Perth Scorchers,Brisbane Heat,bat,Perth Stadium,Perth,2023-02-04,male
+1386094,Brisbane Heat,Melbourne Stars,Brisbane Heat,Melbourne Stars,field,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2023-12-07,male
+1386095,Sydney Sixers,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,field,Sydney Cricket Ground,Sydney,2023-12-08,male
+1386097,Perth Scorchers,Melbourne Renegades,,Melbourne Renegades,field,"GMHBA Stadium, South Geelong, Victoria",Geelong,2023-12-10,male
+1386098,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,Hobart Hurricanes,bat,"University of Tasmania Stadium, Launceston",Launceston,2023-12-11,male
+1386099,Brisbane Heat,Sydney Thunder,Brisbane Heat,Sydney Thunder,field,"Manuka Oval, Canberra",Canberra,2023-12-12,male
+1386100,Melbourne Stars,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,Melbourne Cricket Ground,Melbourne,2023-12-13,male
+1386101,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,Sydney Thunder,bat,Adelaide Oval,Adelaide,2023-12-19,male
+1386102,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,Hobart Hurricanes,bat,Perth Stadium,Perth,2023-12-20,male
+1386103,Melbourne Renegades,Brisbane Heat,Brisbane Heat,Brisbane Heat,field,"Docklands Stadium, Melbourne",Melbourne,2023-12-21,male
+1386104,Sydney Sixers,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,field,Sydney Cricket Ground,Sydney,2023-12-22,male
+1386105,Melbourne Stars,Sydney Thunder,Sydney Thunder,Melbourne Stars,bat,"Lavington Sports Oval, Albury",Albury,2023-12-23,male
+1386106,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,"Bellerive Oval, Hobart",Hobart,2023-12-23,male
+1386107,Sydney Sixers,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Sydney Cricket Ground,Sydney,2023-12-26,male
+1386108,Perth Scorchers,Melbourne Renegades,Perth Scorchers,Melbourne Renegades,field,Perth Stadium,Perth,2023-12-26,male
+1386109,Brisbane Heat,Sydney Thunder,Brisbane Heat,Brisbane Heat,bat,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2023-12-27,male
+1386110,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,"Bellerive Oval, Hobart",Hobart,2023-12-28,male
+1386111,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,Adelaide Strikers,bat,"Docklands Stadium, Melbourne",Melbourne,2023-12-29,male
+1386112,Sydney Thunder,Sydney Sixers,,Sydney Thunder,bat,Sydney Showground Stadium,Sydney,2023-12-30,male
+1386113,Adelaide Strikers,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Adelaide Oval,Adelaide,2023-12-31,male
+1386114,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,"Bellerive Oval, Hobart",Hobart,2024-01-01,male
+1386116,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Melbourne Cricket Ground,Melbourne,2024-01-02,male
+1386117,Sydney Sixers,Brisbane Heat,Brisbane Heat,Brisbane Heat,field,"International Sports Stadium, Coffs Harbour",Coffs Harbour,2024-01-03,male
+1386118,Perth Scorchers,Adelaide Strikers,Perth Scorchers,Adelaide Strikers,field,Perth Stadium,Perth,2024-01-03,male
+1386119,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,"Docklands Stadium, Melbourne",Melbourne,2024-01-04,male
+1386120,Perth Scorchers,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,field,Adelaide Oval,Adelaide,2024-01-05,male
+1386121,Melbourne Stars,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Melbourne Cricket Ground,Melbourne,2024-01-06,male
+1386122,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,field,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2024-01-07,male
+1386123,Sydney Thunder,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,Sydney Showground Stadium,Sydney,2024-01-08,male
+1386124,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,field,Adelaide Oval,Adelaide,2024-01-09,male
+1386125,Brisbane Heat,Perth Scorchers,Brisbane Heat,Brisbane Heat,bat,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2024-01-10,male
+1386126,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,field,"Bellerive Oval, Hobart",Hobart,2024-01-11,male
+1386127,Sydney Sixers,Sydney Thunder,Sydney Sixers,Sydney Thunder,field,Sydney Cricket Ground,Sydney,2024-01-12,male
+1386128,Perth Scorchers,Brisbane Heat,Perth Scorchers,Perth Scorchers,bat,Perth Stadium,Perth,2024-01-13,male
+1386129,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,field,"Docklands Stadium, Melbourne",Melbourne,2024-01-13,male
+1386130,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,Sydney Thunder,bat,"Manuka Oval, Canberra",Canberra,2024-01-14,male
+1386131,Hobart Hurricanes,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Melbourne Cricket Ground,Melbourne,2024-01-15,male
+1386132,Perth Scorchers,Sydney Sixers,Sydney Sixers,Perth Scorchers,bat,Perth Stadium,Perth,2024-01-16,male
+1386134,Sydney Sixers,Brisbane Heat,Sydney Sixers,Brisbane Heat,field,Carrara Oval,Carrara,2024-01-19,male
+1386135,Adelaide Strikers,Perth Scorchers,Adelaide Strikers,Perth Scorchers,field,Perth Stadium,Perth,2024-01-20,male
+1386136,Brisbane Heat,Adelaide Strikers,Brisbane Heat,Brisbane Heat,bat,Carrara Oval,Carrara,2024-01-22,male
+1386137,Brisbane Heat,Sydney Sixers,Brisbane Heat,Sydney Sixers,field,Sydney Cricket Ground,Sydney,2024-01-24,male
+1443057,Melbourne Stars,Perth Scorchers,Perth Scorchers,Melbourne Stars,bat,Perth Stadium,Perth,2024-12-15,male
+1443058,Melbourne Renegades,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Sydney Cricket Ground,Sydney,2024-12-16,male
+1443059,Adelaide Strikers,Sydney Thunder,Sydney Thunder,Sydney Thunder,field,"Manuka Oval, Canberra",Canberra,2024-12-17,male
+1443060,Melbourne Stars,Brisbane Heat,Brisbane Heat,Brisbane Heat,field,Melbourne Cricket Ground,Melbourne,2024-12-18,male
+1443061,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,field,"GMHBA Stadium, South Geelong, Victoria",Geelong,2024-12-19,male
+1443062,Adelaide Strikers,Melbourne Stars,Adelaide Strikers,Melbourne Stars,field,Adelaide Oval,Adelaide,2024-12-20,male
+1443063,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,"Bellerive Oval, Hobart",Hobart,2024-12-21,male
+1443064,Sydney Thunder,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Sydney Showground Stadium,Sydney,2024-12-21,male
+1443065,Adelaide Strikers,Brisbane Heat,Brisbane Heat,Brisbane Heat,field,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2024-12-22,male
+1443066,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,field,"Docklands Stadium, Melbourne",Melbourne,2024-12-23,male
+1443067,Melbourne Stars,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Sydney Cricket Ground,Sydney,2024-12-26,male
+1443068,Perth Scorchers,Brisbane Heat,Perth Scorchers,Brisbane Heat,field,Perth Stadium,Perth,2024-12-26,male
+1443069,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,field,Adelaide Oval,Adelaide,2024-12-27,male
+1443070,Sydney Thunder,Melbourne Stars,Sydney Thunder,Melbourne Stars,field,"Manuka Oval, Canberra",Canberra,2024-12-28,male
+1443071,Brisbane Heat,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2024-12-29,male
+1443072,Sydney Thunder,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,field,Sydney Showground Stadium,Sydney,2024-12-30,male
+1443073,Adelaide Strikers,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,Adelaide Oval,Adelaide,2024-12-31,male
+1443074,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,field,"Bellerive Oval, Hobart",Hobart,2025-01-01,male
+1443075,Brisbane Heat,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2025-01-01,male
+1443076,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,field,"Docklands Stadium, Melbourne",Melbourne,2025-01-02,male
+1443078,Perth Scorchers,Sydney Thunder,Sydney Thunder,Sydney Thunder,field,Perth Stadium,Perth,2025-01-03,male
+1443079,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Melbourne Cricket Ground,Melbourne,2025-01-04,male
+1443080,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,Adelaide Strikers,bat,"Bellerive Oval, Hobart",Hobart,2025-01-05,male
+1443081,Sydney Thunder,Brisbane Heat,Brisbane Heat,Brisbane Heat,field,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2025-01-06,male
+1443082,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,field,Perth Stadium,Perth,2025-01-07,male
+1443084,Melbourne Stars,Sydney Sixers,Melbourne Stars,Sydney Sixers,field,Melbourne Cricket Ground,Melbourne,2025-01-09,male
+1443085,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,"Bellerive Oval, Hobart",Hobart,2025-01-10,male
+1443086,Sydney Sixers,Perth Scorchers,Sydney Sixers,Perth Scorchers,field,Sydney Cricket Ground,Sydney,2025-01-11,male
+1443087,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,Brisbane Heat,field,Adelaide Oval,Adelaide,2025-01-11,male
+1443088,Melbourne Stars,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,field,"Docklands Stadium, Melbourne",Melbourne,2025-01-12,male
+1443089,Sydney Thunder,Perth Scorchers,Sydney Thunder,Perth Scorchers,field,Sydney Showground Stadium,Sydney,2025-01-13,male
+1443090,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,"Bellerive Oval, Hobart",Hobart,2025-01-14,male
+1443091,Adelaide Strikers,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Adelaide Oval,Adelaide,2025-01-15,male
+1443092,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2025-01-16,male
+1443093,Sydney Thunder,Sydney Sixers,,Sydney Sixers,field,Sydney Cricket Ground,Sydney,2025-01-17,male
+1443094,Brisbane Heat,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,field,"Docklands Stadium, Melbourne",Melbourne,2025-01-18,male
+1443095,Adelaide Strikers,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,Perth Stadium,Perth,2025-01-18,male
+1443096,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,Hobart Hurricanes,field,Melbourne Cricket Ground,Melbourne,2025-01-19,male
+1443097,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,field,"Bellerive Oval, Hobart",Hobart,2025-01-21,male
+1443098,Sydney Thunder,Melbourne Stars,Sydney Thunder,Melbourne Stars,field,Sydney Showground Stadium,Sydney,2025-01-22,male
+1443099,Sydney Sixers,Sydney Thunder,Sydney Thunder,Sydney Thunder,field,Sydney Cricket Ground,Sydney,2025-01-24,male
+1443100,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,"Bellerive Oval, Hobart",Hobart,2025-01-27,male
+1493238,Sydney Sixers,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,Perth Stadium,Perth,2025-12-14,male
+1493239,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,Brisbane Heat,field,"GMHBA Stadium, South Geelong, Victoria",Geelong,2025-12-15,male
+1493240,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,"Bellerive Oval, Hobart",Hobart,2025-12-16,male
+1493241,Sydney Sixers,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,field,Sydney Cricket Ground,Sydney,2025-12-17,male
+1493242,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Melbourne Cricket Ground,Melbourne,2025-12-18,male
+1493243,Perth Scorchers,Brisbane Heat,Brisbane Heat,Brisbane Heat,field,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2025-12-19,male
+1493244,Sydney Sixers,Sydney Thunder,Sydney Sixers,Sydney Thunder,field,Sydney Showground Stadium,Sydney,2025-12-20,male
+1493245,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,"GMHBA Stadium, South Geelong, Victoria",Geelong,2025-12-21,male
+1493246,Sydney Thunder,Brisbane Heat,Sydney Thunder,Brisbane Heat,field,"Manuka Oval, Canberra",Canberra,2025-12-22,male
+1493247,Adelaide Strikers,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Adelaide Oval,Adelaide,2025-12-23,male
+1493248,Sydney Sixers,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Sydney Cricket Ground,Sydney,2025-12-26,male
+1493249,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,Perth Stadium,Perth,2025-12-26,male
+1493250,Brisbane Heat,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,field,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2025-12-27,male
+1493251,Sydney Thunder,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,"Manuka Oval, Canberra",Canberra,2025-12-28,male
+1493252,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,"Bellerive Oval, Hobart",Hobart,2025-12-29,male
+1493253,Perth Scorchers,Sydney Thunder,Perth Scorchers,Sydney Thunder,field,Sydney Showground Stadium,Sydney,2025-12-30,male
+1493254,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,field,Adelaide Oval,Adelaide,2025-12-31,male
+1493255,Melbourne Renegades,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,"Docklands Stadium, Melbourne",Melbourne,2026-01-01,male
+1493256,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,Hobart Hurricanes,field,"Bellerive Oval, Hobart",Hobart,2026-01-01,male
+1493257,Melbourne Stars,Brisbane Heat,Brisbane Heat,Brisbane Heat,field,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2026-01-02,male
+1493258,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,Sydney Showground Stadium,Sydney,2026-01-03,male
+1493259,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,field,Melbourne Cricket Ground,Melbourne,2026-01-04,male
+1493260,Perth Scorchers,Adelaide Strikers,Perth Scorchers,Adelaide Strikers,field,Perth Stadium,Perth,2026-01-04,male
+1493261,Brisbane Heat,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,"International Sports Stadium, Coffs Harbour",Coffs Harbour,2026-01-05,male
+1493262,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,Sydney Thunder,field,Adelaide Oval,Adelaide,2026-01-06,male
+1493263,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,field,Perth Stadium,Perth,2026-01-07,male
+1493264,Melbourne Stars,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Melbourne Cricket Ground,Melbourne,2026-01-08,male
+1493265,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,field,"Bellerive Oval, Hobart",Hobart,2026-01-09,male
+1493266,Sydney Thunder,Brisbane Heat,Brisbane Heat,Sydney Thunder,bat,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2026-01-10,male
+1493267,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,"Docklands Stadium, Melbourne",Melbourne,2026-01-10,male
+1493268,Sydney Sixers,Hobart Hurricanes,,Hobart Hurricanes,field,Sydney Cricket Ground,Sydney,2026-01-11,male
+1493269,Perth Scorchers,Adelaide Strikers,Perth Scorchers,Adelaide Strikers,field,Adelaide Oval,Adelaide,2026-01-11,male
+1493270,Melbourne Renegades,Sydney Thunder,Sydney Thunder,Sydney Thunder,field,Sydney Showground Stadium,Sydney,2026-01-12,male
+1493271,Adelaide Strikers,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Melbourne Cricket Ground,Melbourne,2026-01-13,male
+1493272,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,field,"Bellerive Oval, Hobart",Hobart,2026-01-14,male
+1493273,Perth Scorchers,Melbourne Renegades,Perth Scorchers,Melbourne Renegades,field,"Docklands Stadium, Melbourne",Melbourne,2026-01-15,male
+1493274,Sydney Thunder,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Sydney Cricket Ground,Sydney,2026-01-16,male
+1493275,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,field,Adelaide Oval,Adelaide,2026-01-17,male
+1493276,Melbourne Stars,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,Perth Stadium,Perth,2026-01-17,male
+1493277,Brisbane Heat,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2026-01-18,male
+1493278,Perth Scorchers,Sydney Sixers,Perth Scorchers,Sydney Sixers,field,Perth Stadium,Perth,2026-01-20,male
+1493279,Hobart Hurricanes,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,"Bellerive Oval, Hobart",Hobart,2026-01-21,male
+1493280,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,field,Sydney Cricket Ground,Sydney,2026-01-23,male
+1493281,Sydney Sixers,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,Perth Stadium,Perth,2026-01-25,male
+524915,Sydney Sixers,Brisbane Heat,Sydney Sixers,Brisbane Heat,bat,Sydney Cricket Ground,,2011-12-16,male
+524916,Melbourne Stars,Sydney Thunder,Sydney Thunder,Sydney Thunder,field,Melbourne Cricket Ground,,2011-12-17,male
+524917,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,Melbourne Renegades,field,Adelaide Oval,,2011-12-18,male
+524918,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,bat,Western Australia Cricket Association Ground,Perth,2011-12-18,male
+524919,Brisbane Heat,Melbourne Stars,Melbourne Stars,Melbourne Stars,bat,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2011-12-20,male
+524920,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,Hobart Hurricanes,bat,Bellerive Oval,Hobart,2011-12-21,male
+524921,Melbourne Renegades,Perth Scorchers,Perth Scorchers,Melbourne Renegades,bat,Docklands Stadium,Melbourne,2011-12-22,male
+524922,Sydney Thunder,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,bat,Stadium Australia,Sydney,2011-12-23,male
+524923,Sydney Sixers,Melbourne Stars,Sydney Sixers,Sydney Sixers,bat,Sydney Cricket Ground,,2011-12-27,male
+524924,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,bat,Adelaide Oval,,2011-12-28,male
+524925,Perth Scorchers,Brisbane Heat,Perth Scorchers,Perth Scorchers,bat,Western Australia Cricket Association Ground,Perth,2011-12-29,male
+524926,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,bat,Stadium Australia,Sydney,2011-12-30,male
+524927,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,Sydney Thunder,bat,Bellerive Oval,Hobart,2012-01-01,male
+524928,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,Sydney Sixers,bat,Docklands Stadium,Melbourne,2012-01-02,male
+524930,Melbourne Stars,Perth Scorchers,Perth Scorchers,Perth Scorchers,bat,Melbourne Cricket Ground,,2012-01-04,male
+524933,Sydney Thunder,Sydney Sixers,Sydney Sixers,Sydney Sixers,bat,Stadium Australia,Sydney,2012-01-08,male
+524934,Perth Scorchers,Adelaide Strikers,Perth Scorchers,Perth Scorchers,bat,Western Australia Cricket Association Ground,Perth,2012-01-08,male
+524935,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,Melbourne Stars,bat,Bellerive Oval,Hobart,2012-01-09,male
+524936,Adelaide Strikers,Sydney Sixers,Sydney Sixers,Sydney Sixers,bat,Adelaide Oval,,2012-01-10,male
+524938,Melbourne Renegades,Brisbane Heat,Brisbane Heat,Brisbane Heat,bat,Docklands Stadium,Melbourne,2012-01-12,male
+524939,Brisbane Heat,Sydney Thunder,Brisbane Heat,Sydney Thunder,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2012-01-17,male
+524940,Hobart Hurricanes,Melbourne Renegades,Hobart Hurricanes,Melbourne Renegades,bat,Bellerive Oval,Hobart,2012-01-18,male
+524941,Sydney Sixers,Perth Scorchers,Sydney Sixers,Sydney Sixers,bat,Sydney Cricket Ground,,2012-01-18,male
+524942,Melbourne Stars,Adelaide Strikers,Melbourne Stars,Adelaide Strikers,bat,Melbourne Cricket Ground,,2012-01-19,male
+524943,Perth Scorchers,Melbourne Stars,Perth Scorchers,Perth Scorchers,bat,Western Australia Cricket Association Ground,Perth,2012-01-21,male
+524944,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,Sydney Sixers,bat,Bellerive Oval,Hobart,2012-01-22,male
+524945,Perth Scorchers,Sydney Sixers,Sydney Sixers,Perth Scorchers,bat,Western Australia Cricket Association Ground,Perth,2012-01-28,male
+571232,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,Melbourne Stars,bat,Docklands Stadium,Melbourne,2012-12-07,male
+571233,Sydney Sixers,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Cricket Ground,,2012-12-08,male
+571234,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,Brisbane Heat,bat,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2012-12-09,male
+571235,Perth Scorchers,Adelaide Strikers,Adelaide Strikers,Perth Scorchers,bat,Western Australia Cricket Association Ground,Perth,2012-12-09,male
+571236,Perth Scorchers,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Western Australia Cricket Association Ground,Perth,2012-12-12,male
+571237,Adelaide Strikers,Brisbane Heat,Brisbane Heat,Brisbane Heat,field,Adelaide Oval,,2012-12-13,male
+571238,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,field,Stadium Australia,Sydney,2012-12-14,male
+571239,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,field,Melbourne Cricket Ground,,2012-12-15,male
+571240,Sydney Sixers,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,Sydney Cricket Ground,,2012-12-16,male
+571241,Brisbane Heat,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2012-12-18,male
+571242,Melbourne Renegades,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,field,Docklands Stadium,Melbourne,2012-12-19,male
+571243,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,Sydney Thunder,field,Stadium Australia,Sydney,2012-12-20,male
+571245,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,Brisbane Heat,bat,Docklands Stadium,Melbourne,2012-12-22,male
+571247,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,Sydney Sixers,bat,Adelaide Oval,,2012-12-23,male
+571248,Sydney Sixers,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,field,Sydney Cricket Ground,,2012-12-26,male
+571249,Adelaide Strikers,Melbourne Stars,Melbourne Stars,Melbourne Stars,bat,Adelaide Oval,,2012-12-27,male
+571250,Sydney Thunder,Brisbane Heat,Brisbane Heat,Sydney Thunder,bat,Stadium Australia,Sydney,2012-12-28,male
+571251,Perth Scorchers,Melbourne Renegades,Perth Scorchers,Melbourne Renegades,field,Western Australia Cricket Association Ground,Perth,2012-12-29,male
+571252,Sydney Thunder,Sydney Sixers,Sydney Sixers,Sydney Thunder,bat,Stadium Australia,Sydney,2012-12-30,male
+571254,Melbourne Renegades,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,field,Docklands Stadium,Melbourne,2013-01-02,male
+571256,Perth Scorchers,Sydney Thunder,Perth Scorchers,Sydney Thunder,bat,Western Australia Cricket Association Ground,Perth,2013-01-04,male
+571258,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,Melbourne Stars,bat,Melbourne Cricket Ground,,2013-01-06,male
+571259,Brisbane Heat,Sydney Sixers,Sydney Sixers,Brisbane Heat,bat,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2013-01-07,male
+571260,Melbourne Stars,Sydney Thunder,Melbourne Stars,Melbourne Stars,bat,Melbourne Cricket Ground,,2013-01-08,male
+571262,Adelaide Strikers,Perth Scorchers,Perth Scorchers,Perth Scorchers,bat,Adelaide Oval,,2013-01-10,male
+571264,Melbourne Renegades,Brisbane Heat,Brisbane Heat,Brisbane Heat,bat,Docklands Stadium,Melbourne,2013-01-15,male
+571265,Perth Scorchers,Melbourne Stars,Perth Scorchers,Perth Scorchers,field,Western Australia Cricket Association Ground,Perth,2013-01-16,male
+571266,Perth Scorchers,Brisbane Heat,Brisbane Heat,Brisbane Heat,bat,Western Australia Cricket Association Ground,Perth,2013-01-19,male
+654031,Melbourne Stars,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,field,Melbourne Cricket Ground,,2013-12-20,male
+654033,Sydney Sixers,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Cricket Ground,,2013-12-21,male
+654035,Hobart Hurricanes,Adelaide Strikers,,Hobart Hurricanes,field,Bellerive Oval,Hobart,2013-12-22,male
+654037,Brisbane Heat,Perth Scorchers,Brisbane Heat,Perth Scorchers,bat,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2013-12-22,male
+654039,Perth Scorchers,Melbourne Renegades,Perth Scorchers,Perth Scorchers,bat,Western Australia Cricket Association Ground,Perth,2013-12-26,male
+654041,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,Sydney Thunder,field,Stadium Australia,Sydney,2013-12-27,male
+654043,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,Brisbane Heat,bat,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2013-12-28,male
+654045,Sydney Sixers,Melbourne Stars,Melbourne Stars,Sydney Sixers,field,Sydney Cricket Ground,,2013-12-29,male
+654047,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,Melbourne Renegades,bat,Docklands Stadium,Melbourne,2013-12-30,male
+654051,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,bat,Bellerive Oval,Hobart,2014-01-01,male
+654053,Sydney Thunder,Melbourne Stars,Melbourne Stars,Sydney Thunder,bat,Stadium Australia,Sydney,2014-01-01,male
+654055,Brisbane Heat,Sydney Sixers,Sydney Sixers,Brisbane Heat,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2014-01-02,male
+654057,Perth Scorchers,Sydney Thunder,Perth Scorchers,Sydney Thunder,bat,Western Australia Cricket Association Ground,Perth,2014-01-03,male
+654059,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Melbourne Renegades,bat,Docklands Stadium,Melbourne,2014-01-04,male
+654061,Adelaide Strikers,Sydney Sixers,Sydney Sixers,Adelaide Strikers,bat,Adelaide Oval,,2014-01-05,male
+654063,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,bat,Western Australia Cricket Association Ground,Perth,2014-01-07,male
+654065,Sydney Thunder,Brisbane Heat,Brisbane Heat,Brisbane Heat,bat,Stadium Australia,Sydney,2014-01-08,male
+654067,Melbourne Stars,Adelaide Strikers,Melbourne Stars,Adelaide Strikers,bat,Melbourne Cricket Ground,,2014-01-09,male
+654069,Sydney Sixers,Perth Scorchers,,Perth Scorchers,bat,Sydney Cricket Ground,,2014-01-10,male
+654071,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,bat,Bellerive Oval,Hobart,2014-01-11,male
+654073,Brisbane Heat,Melbourne Stars,Melbourne Stars,Brisbane Heat,bat,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2014-01-11,male
+654075,Melbourne Renegades,Sydney Thunder,Sydney Thunder,Melbourne Renegades,bat,Docklands Stadium,Melbourne,2014-01-14,male
+654077,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,bat,Sydney Cricket Ground,,2014-01-15,male
+654079,Perth Scorchers,Adelaide Strikers,Perth Scorchers,Perth Scorchers,bat,Western Australia Cricket Association Ground,Perth,2014-01-16,male
+654081,Adelaide Strikers,Brisbane Heat,Brisbane Heat,Brisbane Heat,bat,Adelaide Oval,,2014-01-18,male
+654083,Melbourne Renegades,Sydney Sixers,Sydney Sixers,Melbourne Renegades,field,Docklands Stadium,Melbourne,2014-01-18,male
+654085,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,field,Melbourne Cricket Ground,,2014-01-21,male
+654087,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,bat,Adelaide Oval,,2014-01-22,male
+654089,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,bat,Bellerive Oval,Hobart,2014-01-23,male
+654091,Sydney Thunder,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Stadium Australia,Sydney,2014-01-25,male
+654093,Melbourne Stars,Perth Scorchers,Melbourne Stars,Melbourne Stars,bat,Melbourne Cricket Ground,,2014-01-27,male
+654095,Melbourne Stars,Hobart Hurricanes,Hobart Hurricanes,Melbourne Stars,bat,Melbourne Cricket Ground,,2014-02-04,male
+654097,Sydney Sixers,Perth Scorchers,Perth Scorchers,Sydney Sixers,field,Sydney Cricket Ground,,2014-02-05,male
+654099,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,bat,Western Australia Cricket Association Ground,Perth,2014-02-07,male
+756735,Adelaide Strikers,Melbourne Stars,Adelaide Strikers,Melbourne Stars,bat,Adelaide Oval,,2014-12-18,male
+756737,Sydney Sixers,Melbourne Renegades,Sydney Sixers,Sydney Sixers,field,Sydney Cricket Ground,,2014-12-19,male
+756739,Melbourne Stars,Hobart Hurricanes,Hobart Hurricanes,Melbourne Stars,field,Melbourne Cricket Ground,,2014-12-20,male
+756741,Sydney Thunder,Brisbane Heat,Sydney Thunder,Brisbane Heat,field,Stadium Australia,Sydney,2014-12-21,male
+756743,Perth Scorchers,Adelaide Strikers,Adelaide Strikers,Perth Scorchers,bat,Western Australia Cricket Association Ground,Perth,2014-12-22,male
+756745,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,Hobart Hurricanes,bat,Bellerive Oval,Hobart,2014-12-23,male
+756747,Perth Scorchers,Melbourne Renegades,Perth Scorchers,Perth Scorchers,bat,Western Australia Cricket Association Ground,Perth,2014-12-26,male
+756749,Sydney Thunder,Sydney Sixers,Sydney Sixers,Sydney Thunder,field,Stadium Australia,Sydney,2014-12-27,male
+756751,Brisbane Heat,Melbourne Stars,Brisbane Heat,Melbourne Stars,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2014-12-28,male
+756753,Sydney Sixers,Perth Scorchers,Perth Scorchers,Perth Scorchers,bat,Sydney Cricket Ground,,2014-12-29,male
+756755,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,field,Docklands Stadium,Melbourne,2014-12-30,male
+756757,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,bat,Adelaide Oval,,2014-12-31,male
+756759,Perth Scorchers,Sydney Thunder,Sydney Thunder,Sydney Thunder,bat,Western Australia Cricket Association Ground,Perth,2015-01-01,male
+756761,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,field,Bellerive Oval,Hobart,2015-01-02,male
+756763,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Melbourne Renegades,field,Docklands Stadium,Melbourne,2015-01-03,male
+756765,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2015-01-04,male
+756767,Melbourne Stars,Sydney Sixers,,Melbourne Stars,field,Melbourne Cricket Ground,,2015-01-05,male
+756769,Adelaide Strikers,Perth Scorchers,Perth Scorchers,Adelaide Strikers,field,Adelaide Oval,,2015-01-06,male
+756773,Perth Scorchers,Brisbane Heat,Perth Scorchers,Brisbane Heat,bat,Western Australia Cricket Association Ground,Perth,2015-01-08,male
+756775,Sydney Sixers,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Cricket Ground,,2015-01-22,male
+756777,Melbourne Stars,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,bat,Melbourne Cricket Ground,,2015-01-10,male
+756779,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,Perth Scorchers,bat,Bellerive Oval,Hobart,2015-01-11,male
+756781,Brisbane Heat,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2015-01-11,male
+756783,Adelaide Strikers,Sydney Thunder,,Sydney Thunder,field,Adelaide Oval,,2015-01-12,male
+756785,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,Melbourne Renegades,field,Docklands Stadium,Melbourne,2015-01-13,male
+756787,Sydney Sixers,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,bat,Sydney Cricket Ground,,2015-01-14,male
+756789,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,Hobart Hurricanes,field,Bellerive Oval,Hobart,2015-01-07,male
+756791,Sydney Thunder,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Sydney Showground Stadium,,2015-01-17,male
+756793,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,bat,Docklands Stadium,Melbourne,2015-01-19,male
+756795,Melbourne Stars,Perth Scorchers,Melbourne Stars,Perth Scorchers,bat,Melbourne Cricket Ground,,2015-01-21,male
+756797,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2015-01-15,male
+756799,Adelaide Strikers,Sydney Sixers,Sydney Sixers,Sydney Sixers,bat,Adelaide Oval,,2015-01-24,male
+756801,Perth Scorchers,Melbourne Stars,Perth Scorchers,Perth Scorchers,bat,Western Australia Cricket Association Ground,Perth,2015-01-25,male
+756803,Perth Scorchers,Sydney Sixers,Perth Scorchers,Sydney Sixers,bat,Manuka Oval,Canberra,2015-01-28,male
+897697,Adelaide Strikers,Melbourne Stars,Adelaide Strikers,Melbourne Stars,field,Adelaide Oval,,2015-12-18,male
+897699,Brisbane Heat,Melbourne Renegades,Melbourne Renegades,Brisbane Heat,bat,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2015-12-19,male
+897701,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,bat,Sydney Cricket Ground,,2015-12-20,male
+897705,Perth Scorchers,Adelaide Strikers,Adelaide Strikers,Perth Scorchers,bat,Western Australia Cricket Association Ground,Perth,2015-12-21,male
+897707,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,bat,Bellerive Oval,Hobart,2015-12-22,male
+897709,Melbourne Renegades,Sydney Sixers,Sydney Sixers,Sydney Sixers,field,Docklands Stadium,Melbourne,2015-12-23,male
+897711,Perth Scorchers,Brisbane Heat,Perth Scorchers,Brisbane Heat,bat,Western Australia Cricket Association Ground,Perth,2015-12-26,male
+897713,Sydney Sixers,Melbourne Stars,Melbourne Stars,Sydney Sixers,bat,Sydney Cricket Ground,,2015-12-27,male
+897715,Sydney Thunder,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,bat,Sydney Showground Stadium,,2015-12-28,male
+897717,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,Hobart Hurricanes,bat,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2015-12-29,male
+897719,Melbourne Renegades,Perth Scorchers,Perth Scorchers,Perth Scorchers,field,Docklands Stadium,Melbourne,2015-12-30,male
+897721,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,Adelaide Strikers,field,Adelaide Oval,,2015-12-31,male
+897723,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,Sydney Thunder,field,Bellerive Oval,Hobart,2016-01-01,male
+897725,Melbourne Stars,Melbourne Renegades,Melbourne Stars,Melbourne Stars,field,Melbourne Cricket Ground,,2016-01-02,male
+897727,Perth Scorchers,Sydney Sixers,Perth Scorchers,Sydney Sixers,bat,Western Australia Cricket Association Ground,Perth,2016-01-02,male
+897729,Brisbane Heat,Sydney Thunder,Brisbane Heat,Brisbane Heat,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2016-01-03,male
+897731,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,field,Bellerive Oval,Hobart,2016-01-04,male
+897733,Adelaide Strikers,Perth Scorchers,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Oval,,2016-01-05,male
+897735,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,field,Melbourne Cricket Ground,,2016-01-06,male
+897737,Sydney Thunder,Perth Scorchers,Perth Scorchers,Sydney Thunder,field,Sydney Showground Stadium,,2016-01-07,male
+897739,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,field,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2016-01-08,male
+897741,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Melbourne Stars,field,Docklands Stadium,Melbourne,2016-01-09,male
+897743,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,Perth Scorchers,bat,Bellerive Oval,Hobart,2016-01-10,male
+897745,Sydney Sixers,Brisbane Heat,Brisbane Heat,Brisbane Heat,bat,Sydney Cricket Ground,,2016-01-10,male
+897747,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,Sydney Thunder,bat,Sydney Showground Stadium,,2016-01-11,male
+897749,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,bat,Adelaide Oval,,2016-01-13,male
+897751,Melbourne Stars,Brisbane Heat,Brisbane Heat,Melbourne Stars,field,Melbourne Cricket Ground,,2016-01-14,male
+897753,Sydney Sixers,Sydney Thunder,Sydney Thunder,Sydney Sixers,field,Sydney Cricket Ground,,2016-01-16,male
+897757,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,Melbourne Renegades,field,Docklands Stadium,Melbourne,2016-01-18,male
+897759,Adelaide Strikers,Sydney Thunder,Sydney Thunder,Adelaide Strikers,bat,Adelaide Oval,,2016-01-21,male
+897761,Melbourne Stars,Perth Scorchers,Melbourne Stars,Melbourne Stars,field,Melbourne Cricket Ground,,2016-01-22,male
+897763,Melbourne Stars,Sydney Thunder,Sydney Thunder,Sydney Thunder,field,Melbourne Cricket Ground,,2016-01-24,male

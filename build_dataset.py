@@ -102,7 +102,7 @@ LEAGUES = [
         "balls"    : "data/smat_balls_wave4b.csv",
         "balls_raw": "data/smat_balls.csv",
         "gender"   : "male",
-        "min_date" : "2018-01-01",   # belt-and-braces; parser already filters
+        "min_date" : None,
     },
 ]
 
@@ -231,8 +231,8 @@ def main():
         print(f"  Pipeline will auto-run wave4_leagues.py for these.")
 
     # ── Save ──────────────────────────────────────────────────────────────
-    matches_out = output_dir / "all_matches.csv"
-    balls_out   = output_dir / "all_balls.csv"
+    matches_out = output_dir / "all1_matches.csv"
+    balls_out   = output_dir / "all1_balls.csv"
 
     matches_df.to_csv(matches_out, index=False)
     balls_df.to_csv(balls_out,     index=False)

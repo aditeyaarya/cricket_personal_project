@@ -22,7 +22,7 @@ Usage
   # Parse SA20
   python data_parser_leagues.py --league sa20 --input data/raw/sa20 --output-dir data/
 
-  # Parse SMAT (with 2018 cutoff applied automatically)
+  # Parse SMAT
   python data_parser_leagues.py --league smat --input data/raw/smat --output-dir data/
 
 Output
@@ -43,9 +43,6 @@ from tqdm import tqdm
 from pathlib import Path
 from datetime import date
 
-
-# ── SMAT cutoff: only use matches from 2018 onwards ───────────────────────────
-SMAT_CUTOFF_YEAR = 2018
 
 
 def parse_league(data_path: str, league: str) -> tuple[pd.DataFrame, pd.DataFrame]:
@@ -70,15 +67,6 @@ def parse_league(data_path: str, league: str) -> tuple[pd.DataFrame, pd.DataFram
         match_id = file.replace(".yaml", "")
         teams    = info["teams"]
         date_val = info["dates"][0]
-
-        # ── SMAT cutoff ───────────────────────────────────────────────────────
-        if league == "smat":
-            cutoff = date(SMAT_CUTOFF_YEAR, 1, 1)
-            match_date = date_val if isinstance(date_val, date) else \
-                         date.fromisoformat(str(date_val))
-            if match_date < cutoff:
-                skipped += 1
-                continue
 
         # ── Match-level fields ────────────────────────────────────────────────
         winner = None
@@ -178,8 +166,8 @@ def parse_league(data_path: str, league: str) -> tuple[pd.DataFrame, pd.DataFram
     matches_df = pd.DataFrame(matches)
     balls_df   = pd.DataFrame(balls)
 
-    if skipped:
-        print(f"  Skipped {skipped:,} matches (SMAT pre-{SMAT_CUTOFF_YEAR} cutoff)")
+    if not balls_df.empty and skipped:
+        print(f"  Skipped {skipped:,} matches (incomplete data — missing toss or teams)")
 
     return matches_df, balls_df
 
